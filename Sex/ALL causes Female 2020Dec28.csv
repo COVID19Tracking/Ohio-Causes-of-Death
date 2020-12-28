@@ -1,0 +1,1696 @@
+DeathYearYear,DeathCOD113ICDCode113Desc,Deaths,SORT
+2007,Salmonella infections (A01-A02),2,0
+2008,Salmonella infections (A01-A02),1,2
+2009,Salmonella infections (A01-A02),3,4
+2010,Salmonella infections (A01-A02),0,6
+2011,Salmonella infections (A01-A02),1,8
+2012,Salmonella infections (A01-A02),0,10
+2013,Salmonella infections (A01-A02),0,12
+2014,Salmonella infections (A01-A02),0,14
+2015,Salmonella infections (A01-A02),0,16
+2016,Salmonella infections (A01-A02),0,18
+2017,Salmonella infections (A01-A02),1,20
+2018,Salmonella infections (A01-A02),1,22
+2019,Salmonella infections (A01-A02),1,24
+2020 **,Salmonella infections (A01-A02),1,26
+2007,Shigellosis and amebiasis (A03A06),0,30
+2008,Shigellosis and amebiasis (A03A06),0,32
+2009,Shigellosis and amebiasis (A03A06),0,34
+2010,Shigellosis and amebiasis (A03A06),0,36
+2011,Shigellosis and amebiasis (A03A06),0,38
+2012,Shigellosis and amebiasis (A03A06),0,40
+2013,Shigellosis and amebiasis (A03A06),0,42
+2014,Shigellosis and amebiasis (A03A06),1,44
+2015,Shigellosis and amebiasis (A03A06),0,46
+2016,Shigellosis and amebiasis (A03A06),0,48
+2017,Shigellosis and amebiasis (A03A06),0,50
+2018,Shigellosis and amebiasis (A03A06),0,52
+2019,Shigellosis and amebiasis (A03A06),0,54
+2020 **,Shigellosis and amebiasis (A03A06),1,56
+2007,Certain other intestinal infections (A04A07-A09),347,60
+2008,Certain other intestinal infections (A04A07-A09),328,62
+2009,Certain other intestinal infections (A04A07-A09),370,64
+2010,Certain other intestinal infections (A04A07-A09),358,66
+2011,Certain other intestinal infections (A04A07-A09),346,68
+2012,Certain other intestinal infections (A04A07-A09),354,70
+2013,Certain other intestinal infections (A04A07-A09),293,72
+2014,Certain other intestinal infections (A04A07-A09),254,74
+2015,Certain other intestinal infections (A04A07-A09),255,76
+2016,Certain other intestinal infections (A04A07-A09),221,78
+2017,Certain other intestinal infections (A04A07-A09),219,80
+2018,Certain other intestinal infections (A04A07-A09),187,82
+2019,Certain other intestinal infections (A04A07-A09),178,84
+2020 **,Certain other intestinal infections (A04A07-A09),150,86
+2007,Respiratory tuberculosis (A16),4,90
+2008,Respiratory tuberculosis (A16),5,92
+2009,Respiratory tuberculosis (A16),5,94
+2010,Respiratory tuberculosis (A16),1,96
+2011,Respiratory tuberculosis (A16),5,98
+2012,Respiratory tuberculosis (A16),3,100
+2013,Respiratory tuberculosis (A16),3,102
+2014,Respiratory tuberculosis (A16),4,104
+2015,Respiratory tuberculosis (A16),3,106
+2016,Respiratory tuberculosis (A16),2,108
+2017,Respiratory tuberculosis (A16),3,110
+2018,Respiratory tuberculosis (A16),3,112
+2019,Respiratory tuberculosis (A16),3,114
+2020 **,Respiratory tuberculosis (A16),4,116
+2007,Other tuberculosis (A17-A19),4,120
+2008,Other tuberculosis (A17-A19),4,122
+2009,Other tuberculosis (A17-A19),4,124
+2010,Other tuberculosis (A17-A19),6,126
+2011,Other tuberculosis (A17-A19),2,128
+2012,Other tuberculosis (A17-A19),3,130
+2013,Other tuberculosis (A17-A19),7,132
+2014,Other tuberculosis (A17-A19),0,134
+2015,Other tuberculosis (A17-A19),3,136
+2016,Other tuberculosis (A17-A19),2,138
+2017,Other tuberculosis (A17-A19),1,140
+2018,Other tuberculosis (A17-A19),5,142
+2019,Other tuberculosis (A17-A19),3,144
+2020 **,Other tuberculosis (A17-A19),1,146
+2007,Whooping cough (A37),0,150
+2008,Whooping cough (A37),1,152
+2009,Whooping cough (A37),0,154
+2010,Whooping cough (A37),0,156
+2011,Whooping cough (A37),0,158
+2012,Whooping cough (A37),1,160
+2013,Whooping cough (A37),0,162
+2014,Whooping cough (A37),0,164
+2015,Whooping cough (A37),0,166
+2016,Whooping cough (A37),0,168
+2017,Whooping cough (A37),0,170
+2018,Whooping cough (A37),1,172
+2019,Whooping cough (A37),0,174
+2020 **,Whooping cough (A37),0,176
+2007,Scarlet fever and erysipelas (A38A46),0,180
+2008,Scarlet fever and erysipelas (A38A46),0,182
+2009,Scarlet fever and erysipelas (A38A46),0,184
+2010,Scarlet fever and erysipelas (A38A46),1,186
+2011,Scarlet fever and erysipelas (A38A46),0,188
+2012,Scarlet fever and erysipelas (A38A46),0,190
+2013,Scarlet fever and erysipelas (A38A46),0,192
+2014,Scarlet fever and erysipelas (A38A46),0,194
+2015,Scarlet fever and erysipelas (A38A46),0,196
+2016,Scarlet fever and erysipelas (A38A46),0,198
+2017,Scarlet fever and erysipelas (A38A46),0,200
+2018,Scarlet fever and erysipelas (A38A46),0,202
+2019,Scarlet fever and erysipelas (A38A46),0,204
+2020 **,Scarlet fever and erysipelas (A38A46),0,206
+2007,Meningococcal infection (A39),1,210
+2008,Meningococcal infection (A39),2,212
+2009,Meningococcal infection (A39),0,214
+2010,Meningococcal infection (A39),1,216
+2011,Meningococcal infection (A39),1,218
+2012,Meningococcal infection (A39),1,220
+2013,Meningococcal infection (A39),0,222
+2014,Meningococcal infection (A39),0,224
+2015,Meningococcal infection (A39),1,226
+2016,Meningococcal infection (A39),0,228
+2017,Meningococcal infection (A39),0,230
+2018,Meningococcal infection (A39),0,232
+2019,Meningococcal infection (A39),0,234
+2020 **,Meningococcal infection (A39),0,236
+2007,Septicemia (A40-A41),658,240
+2008,Septicemia (A40-A41),801,242
+2009,Septicemia (A40-A41),813,244
+2010,Septicemia (A40-A41),827,246
+2011,Septicemia (A40-A41),871,248
+2012,Septicemia (A40-A41),867,250
+2013,Septicemia (A40-A41),963,252
+2014,Septicemia (A40-A41),954,254
+2015,Septicemia (A40-A41),1085,256
+2016,Septicemia (A40-A41),1053,258
+2017,Septicemia (A40-A41),1106,260
+2018,Septicemia (A40-A41),1084,262
+2019,Septicemia (A40-A41),964,264
+2020 **,Septicemia (A40-A41),976,266
+2007,Syphilis ((A50-A53),1,270
+2008,Syphilis ((A50-A53),0,272
+2009,Syphilis ((A50-A53),0,274
+2010,Syphilis ((A50-A53),0,276
+2011,Syphilis ((A50-A53),0,278
+2012,Syphilis ((A50-A53),0,280
+2013,Syphilis ((A50-A53),0,282
+2014,Syphilis ((A50-A53),0,284
+2015,Syphilis ((A50-A53),0,286
+2016,Syphilis ((A50-A53),1,288
+2017,Syphilis ((A50-A53),0,290
+2018,Syphilis ((A50-A53),2,292
+2019,Syphilis ((A50-A53),0,294
+2020 **,Syphilis ((A50-A53),0,296
+2007,Acute poliomyelitis (A80),0,300
+2008,Acute poliomyelitis (A80),0,302
+2009,Acute poliomyelitis (A80),1,304
+2010,Acute poliomyelitis (A80),0,306
+2011,Acute poliomyelitis (A80),0,308
+2012,Acute poliomyelitis (A80),0,310
+2013,Acute poliomyelitis (A80),0,312
+2014,Acute poliomyelitis (A80),0,314
+2015,Acute poliomyelitis (A80),0,316
+2016,Acute poliomyelitis (A80),0,318
+2017,Acute poliomyelitis (A80),0,320
+2018,Acute poliomyelitis (A80),0,322
+2019,Acute poliomyelitis (A80),0,324
+2020 **,Acute poliomyelitis (A80),0,326
+2007,Arthropod-borne viral encephalitis (A83-A84A85.2),0,330
+2008,Arthropod-borne viral encephalitis (A83-A84A85.2),0,332
+2009,Arthropod-borne viral encephalitis (A83-A84A85.2),0,334
+2010,Arthropod-borne viral encephalitis (A83-A84A85.2),1,336
+2011,Arthropod-borne viral encephalitis (A83-A84A85.2),0,338
+2012,Arthropod-borne viral encephalitis (A83-A84A85.2),0,340
+2013,Arthropod-borne viral encephalitis (A83-A84A85.2),0,342
+2014,Arthropod-borne viral encephalitis (A83-A84A85.2),0,344
+2015,Arthropod-borne viral encephalitis (A83-A84A85.2),0,346
+2016,Arthropod-borne viral encephalitis (A83-A84A85.2),0,348
+2017,Arthropod-borne viral encephalitis (A83-A84A85.2),0,350
+2018,Arthropod-borne viral encephalitis (A83-A84A85.2),0,352
+2019,Arthropod-borne viral encephalitis (A83-A84A85.2),0,354
+2020 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,356
+2007,Viral hepatitis (B15-B19),78,360
+2008,Viral hepatitis (B15-B19),83,362
+2009,Viral hepatitis (B15-B19),80,364
+2010,Viral hepatitis (B15-B19),67,366
+2011,Viral hepatitis (B15-B19),85,368
+2012,Viral hepatitis (B15-B19),64,370
+2013,Viral hepatitis (B15-B19),69,372
+2014,Viral hepatitis (B15-B19),83,374
+2015,Viral hepatitis (B15-B19),64,376
+2016,Viral hepatitis (B15-B19),55,378
+2017,Viral hepatitis (B15-B19),54,380
+2018,Viral hepatitis (B15-B19),53,382
+2019,Viral hepatitis (B15-B19),35,384
+2020 **,Viral hepatitis (B15-B19),28,386
+2007,Human immunodeficiency virus (HIV) disease (B20-B24),27,390
+2008,Human immunodeficiency virus (HIV) disease (B20-B24),39,392
+2009,Human immunodeficiency virus (HIV) disease (B20-B24),35,394
+2010,Human immunodeficiency virus (HIV) disease (B20-B24),27,396
+2011,Human immunodeficiency virus (HIV) disease (B20-B24),38,398
+2012,Human immunodeficiency virus (HIV) disease (B20-B24),27,400
+2013,Human immunodeficiency virus (HIV) disease (B20-B24),29,402
+2014,Human immunodeficiency virus (HIV) disease (B20-B24),37,404
+2015,Human immunodeficiency virus (HIV) disease (B20-B24),28,406
+2016,Human immunodeficiency virus (HIV) disease (B20-B24),26,408
+2017,Human immunodeficiency virus (HIV) disease (B20-B24),25,410
+2018,Human immunodeficiency virus (HIV) disease (B20-B24),17,412
+2019,Human immunodeficiency virus (HIV) disease (B20-B24),23,414
+2020 **,Human immunodeficiency virus (HIV) disease (B20-B24),17,416
+2007,Malaria (B50-B54),0,420
+2008,Malaria (B50-B54),0,422
+2009,Malaria (B50-B54),0,424
+2010,Malaria (B50-B54),0,426
+2011,Malaria (B50-B54),0,428
+2012,Malaria (B50-B54),1,430
+2013,Malaria (B50-B54),0,432
+2014,Malaria (B50-B54),0,434
+2015,Malaria (B50-B54),0,436
+2016,Malaria (B50-B54),0,438
+2017,Malaria (B50-B54),0,440
+2018,Malaria (B50-B54),0,442
+2019,Malaria (B50-B54),0,444
+2020 **,Malaria (B50-B54),0,446
+2007,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),139,450
+2008,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),139,452
+2009,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),115,454
+2010,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),124,456
+2011,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),123,458
+2012,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),130,460
+2013,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),131,462
+2014,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),107,464
+2015,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),111,466
+2016,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),123,468
+2017,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),132,470
+2018,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),134,472
+2019,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),179,474
+2020 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),158,476
+2007,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),123,480
+2008,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),108,482
+2009,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),117,484
+2010,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),102,486
+2011,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),86,488
+2012,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),109,490
+2013,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),103,492
+2014,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),115,494
+2015,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),110,496
+2016,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),120,498
+2017,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),131,500
+2018,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),117,502
+2019,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),139,504
+2020 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),128,506
+2007,Malignant neoplasm of esophagus (C15),143,510
+2008,Malignant neoplasm of esophagus (C15),135,512
+2009,Malignant neoplasm of esophagus (C15),149,514
+2010,Malignant neoplasm of esophagus (C15),141,516
+2011,Malignant neoplasm of esophagus (C15),129,518
+2012,Malignant neoplasm of esophagus (C15),141,520
+2013,Malignant neoplasm of esophagus (C15),128,522
+2014,Malignant neoplasm of esophagus (C15),137,524
+2015,Malignant neoplasm of esophagus (C15),146,526
+2016,Malignant neoplasm of esophagus (C15),152,528
+2017,Malignant neoplasm of esophagus (C15),141,530
+2018,Malignant neoplasm of esophagus (C15),147,532
+2019,Malignant neoplasm of esophagus (C15),155,534
+2020 **,Malignant neoplasm of esophagus (C15),103,536
+2007,Malignant neoplasm of stomach (C16),169,540
+2008,Malignant neoplasm of stomach (C16),161,542
+2009,Malignant neoplasm of stomach (C16),170,544
+2010,Malignant neoplasm of stomach (C16),167,546
+2011,Malignant neoplasm of stomach (C16),146,548
+2012,Malignant neoplasm of stomach (C16),143,550
+2013,Malignant neoplasm of stomach (C16),161,552
+2014,Malignant neoplasm of stomach (C16),174,554
+2015,Malignant neoplasm of stomach (C16),160,556
+2016,Malignant neoplasm of stomach (C16),143,558
+2017,Malignant neoplasm of stomach (C16),151,560
+2018,Malignant neoplasm of stomach (C16),137,562
+2019,Malignant neoplasm of stomach (C16),111,564
+2020 **,Malignant neoplasm of stomach (C16),143,566
+2007,Malignant neoplasms of colon rectum and anus (C18-C21),1216,570
+2008,Malignant neoplasms of colon rectum and anus (C18-C21),1184,572
+2009,Malignant neoplasms of colon rectum and anus (C18-C21),1125,574
+2010,Malignant neoplasms of colon rectum and anus (C18-C21),1133,576
+2011,Malignant neoplasms of colon rectum and anus (C18-C21),1093,578
+2012,Malignant neoplasms of colon rectum and anus (C18-C21),1060,580
+2013,Malignant neoplasms of colon rectum and anus (C18-C21),1092,582
+2014,Malignant neoplasms of colon rectum and anus (C18-C21),1146,584
+2015,Malignant neoplasms of colon rectum and anus (C18-C21),1077,586
+2016,Malignant neoplasms of colon rectum and anus (C18-C21),1103,588
+2017,Malignant neoplasms of colon rectum and anus (C18-C21),1082,590
+2018,Malignant neoplasms of colon rectum and anus (C18-C21),1065,592
+2019,Malignant neoplasms of colon rectum and anus (C18-C21),1015,594
+2020 **,Malignant neoplasms of colon rectum and anus (C18-C21),915,596
+2007,Malignant neoplasms of liver and intrahepatic bile ducts (C22),210,600
+2008,Malignant neoplasms of liver and intrahepatic bile ducts (C22),194,602
+2009,Malignant neoplasms of liver and intrahepatic bile ducts (C22),220,604
+2010,Malignant neoplasms of liver and intrahepatic bile ducts (C22),246,606
+2011,Malignant neoplasms of liver and intrahepatic bile ducts (C22),241,608
+2012,Malignant neoplasms of liver and intrahepatic bile ducts (C22),264,610
+2013,Malignant neoplasms of liver and intrahepatic bile ducts (C22),270,612
+2014,Malignant neoplasms of liver and intrahepatic bile ducts (C22),296,614
+2015,Malignant neoplasms of liver and intrahepatic bile ducts (C22),292,616
+2016,Malignant neoplasms of liver and intrahepatic bile ducts (C22),333,618
+2017,Malignant neoplasms of liver and intrahepatic bile ducts (C22),356,620
+2018,Malignant neoplasms of liver and intrahepatic bile ducts (C22),334,622
+2019,Malignant neoplasms of liver and intrahepatic bile ducts (C22),305,624
+2020 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),308,626
+2007,Malignant neoplasm of pancreas (C25),742,630
+2008,Malignant neoplasm of pancreas (C25),768,632
+2009,Malignant neoplasm of pancreas (C25),769,634
+2010,Malignant neoplasm of pancreas (C25),773,636
+2011,Malignant neoplasm of pancreas (C25),758,638
+2012,Malignant neoplasm of pancreas (C25),791,640
+2013,Malignant neoplasm of pancreas (C25),816,642
+2014,Malignant neoplasm of pancreas (C25),809,644
+2015,Malignant neoplasm of pancreas (C25),914,646
+2016,Malignant neoplasm of pancreas (C25),884,648
+2017,Malignant neoplasm of pancreas (C25),890,650
+2018,Malignant neoplasm of pancreas (C25),935,652
+2019,Malignant neoplasm of pancreas (C25),961,654
+2020 **,Malignant neoplasm of pancreas (C25),799,656
+2007,Malignant neoplasm of larynx (C32),43,660
+2008,Malignant neoplasm of larynx (C32),35,662
+2009,Malignant neoplasm of larynx (C32),33,664
+2010,Malignant neoplasm of larynx (C32),36,666
+2011,Malignant neoplasm of larynx (C32),45,668
+2012,Malignant neoplasm of larynx (C32),41,670
+2013,Malignant neoplasm of larynx (C32),46,672
+2014,Malignant neoplasm of larynx (C32),41,674
+2015,Malignant neoplasm of larynx (C32),46,676
+2016,Malignant neoplasm of larynx (C32),49,678
+2017,Malignant neoplasm of larynx (C32),52,680
+2018,Malignant neoplasm of larynx (C32),33,682
+2019,Malignant neoplasm of larynx (C32),38,684
+2020 **,Malignant neoplasm of larynx (C32),33,686
+2007,Malignant neoplasms of trachea bronchus and lung (C33-C34),3247,690
+2008,Malignant neoplasms of trachea bronchus and lung (C33-C34),3213,692
+2009,Malignant neoplasms of trachea bronchus and lung (C33-C34),3257,694
+2010,Malignant neoplasms of trachea bronchus and lung (C33-C34),3225,696
+2011,Malignant neoplasms of trachea bronchus and lung (C33-C34),3279,698
+2012,Malignant neoplasms of trachea bronchus and lung (C33-C34),3434,700
+2013,Malignant neoplasms of trachea bronchus and lung (C33-C34),3328,702
+2014,Malignant neoplasms of trachea bronchus and lung (C33-C34),3177,704
+2015,Malignant neoplasms of trachea bronchus and lung (C33-C34),3218,706
+2016,Malignant neoplasms of trachea bronchus and lung (C33-C34),3185,708
+2017,Malignant neoplasms of trachea bronchus and lung (C33-C34),3031,710
+2018,Malignant neoplasms of trachea bronchus and lung (C33-C34),3005,712
+2019,Malignant neoplasms of trachea bronchus and lung (C33-C34),2979,714
+2020 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),2533,716
+2007,Malignant melanoma of skin (C43),115,720
+2008,Malignant melanoma of skin (C43),119,722
+2009,Malignant melanoma of skin (C43),132,724
+2010,Malignant melanoma of skin (C43),156,726
+2011,Malignant melanoma of skin (C43),134,728
+2012,Malignant melanoma of skin (C43),157,730
+2013,Malignant melanoma of skin (C43),126,732
+2014,Malignant melanoma of skin (C43),136,734
+2015,Malignant melanoma of skin (C43),134,736
+2016,Malignant melanoma of skin (C43),139,738
+2017,Malignant melanoma of skin (C43),131,740
+2018,Malignant melanoma of skin (C43),117,742
+2019,Malignant melanoma of skin (C43),133,744
+2020 **,Malignant melanoma of skin (C43),107,746
+2007,Malignant neoplasm of breast (C50),1810,750
+2008,Malignant neoplasm of breast (C50),1845,752
+2009,Malignant neoplasm of breast (C50),1731,754
+2010,Malignant neoplasm of breast (C50),1783,756
+2011,Malignant neoplasm of breast (C50),1795,758
+2012,Malignant neoplasm of breast (C50),1738,760
+2013,Malignant neoplasm of breast (C50),1776,762
+2014,Malignant neoplasm of breast (C50),1750,764
+2015,Malignant neoplasm of breast (C50),1802,766
+2016,Malignant neoplasm of breast (C50),1710,768
+2017,Malignant neoplasm of breast (C50),1758,770
+2018,Malignant neoplasm of breast (C50),1699,772
+2019,Malignant neoplasm of breast (C50),1744,774
+2020 **,Malignant neoplasm of breast (C50),1475,776
+2007,Malignant neoplasm of cervix uteri (C53),182,780
+2008,Malignant neoplasm of cervix uteri (C53),181,782
+2009,Malignant neoplasm of cervix uteri (C53),185,784
+2010,Malignant neoplasm of cervix uteri (C53),158,786
+2011,Malignant neoplasm of cervix uteri (C53),163,788
+2012,Malignant neoplasm of cervix uteri (C53),161,790
+2013,Malignant neoplasm of cervix uteri (C53),170,792
+2014,Malignant neoplasm of cervix uteri (C53),169,794
+2015,Malignant neoplasm of cervix uteri (C53),149,796
+2016,Malignant neoplasm of cervix uteri (C53),141,798
+2017,Malignant neoplasm of cervix uteri (C53),174,800
+2018,Malignant neoplasm of cervix uteri (C53),152,802
+2019,Malignant neoplasm of cervix uteri (C53),170,804
+2020 **,Malignant neoplasm of cervix uteri (C53),130,806
+2007,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),346,810
+2008,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),382,812
+2009,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),338,814
+2010,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),389,816
+2011,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),381,818
+2012,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),384,820
+2013,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),373,822
+2014,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),411,824
+2015,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),436,826
+2016,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),433,828
+2017,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),471,830
+2018,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),440,832
+2019,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),448,834
+2020 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),429,836
+2007,Malignant neoplasm of ovary (C56),579,840
+2008,Malignant neoplasm of ovary (C56),578,842
+2009,Malignant neoplasm of ovary (C56),652,844
+2010,Malignant neoplasm of ovary (C56),613,846
+2011,Malignant neoplasm of ovary (C56),547,848
+2012,Malignant neoplasm of ovary (C56),598,850
+2013,Malignant neoplasm of ovary (C56),582,852
+2014,Malignant neoplasm of ovary (C56),584,854
+2015,Malignant neoplasm of ovary (C56),531,856
+2016,Malignant neoplasm of ovary (C56),628,858
+2017,Malignant neoplasm of ovary (C56),548,860
+2018,Malignant neoplasm of ovary (C56),469,862
+2019,Malignant neoplasm of ovary (C56),504,864
+2020 **,Malignant neoplasm of ovary (C56),432,866
+2007,Malignant neoplasm of prostate (C61),0,870
+2008,Malignant neoplasm of prostate (C61),0,872
+2009,Malignant neoplasm of prostate (C61),2,874
+2010,Malignant neoplasm of prostate (C61),0,876
+2011,Malignant neoplasm of prostate (C61),0,878
+2012,Malignant neoplasm of prostate (C61),0,880
+2013,Malignant neoplasm of prostate (C61),0,882
+2014,Malignant neoplasm of prostate (C61),0,884
+2015,Malignant neoplasm of prostate (C61),0,886
+2016,Malignant neoplasm of prostate (C61),0,888
+2017,Malignant neoplasm of prostate (C61),0,890
+2018,Malignant neoplasm of prostate (C61),0,892
+2019,Malignant neoplasm of prostate (C61),0,894
+2020 **,Malignant neoplasm of prostate (C61),0,896
+2007,Malignant neoplasms of kidney and renal pelvis (C64-C65),227,900
+2008,Malignant neoplasms of kidney and renal pelvis (C64-C65),239,902
+2009,Malignant neoplasms of kidney and renal pelvis (C64-C65),205,904
+2010,Malignant neoplasms of kidney and renal pelvis (C64-C65),239,906
+2011,Malignant neoplasms of kidney and renal pelvis (C64-C65),239,908
+2012,Malignant neoplasms of kidney and renal pelvis (C64-C65),221,910
+2013,Malignant neoplasms of kidney and renal pelvis (C64-C65),210,912
+2014,Malignant neoplasms of kidney and renal pelvis (C64-C65),187,914
+2015,Malignant neoplasms of kidney and renal pelvis (C64-C65),193,916
+2016,Malignant neoplasms of kidney and renal pelvis (C64-C65),210,918
+2017,Malignant neoplasms of kidney and renal pelvis (C64-C65),236,920
+2018,Malignant neoplasms of kidney and renal pelvis (C64-C65),215,922
+2019,Malignant neoplasms of kidney and renal pelvis (C64-C65),220,924
+2020 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),189,926
+2007,Malignant neoplasm of bladder (C67),191,930
+2008,Malignant neoplasm of bladder (C67),196,932
+2009,Malignant neoplasm of bladder (C67),220,934
+2010,Malignant neoplasm of bladder (C67),197,936
+2011,Malignant neoplasm of bladder (C67),215,938
+2012,Malignant neoplasm of bladder (C67),201,940
+2013,Malignant neoplasm of bladder (C67),200,942
+2014,Malignant neoplasm of bladder (C67),203,944
+2015,Malignant neoplasm of bladder (C67),187,946
+2016,Malignant neoplasm of bladder (C67),207,948
+2017,Malignant neoplasm of bladder (C67),236,950
+2018,Malignant neoplasm of bladder (C67),235,952
+2019,Malignant neoplasm of bladder (C67),213,954
+2020 **,Malignant neoplasm of bladder (C67),178,956
+2007,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),240,960
+2008,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),272,962
+2009,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),269,964
+2010,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),261,966
+2011,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),261,968
+2012,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),243,970
+2013,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),264,972
+2014,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),265,974
+2015,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),270,976
+2016,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),303,978
+2017,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),324,980
+2018,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),278,982
+2019,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),295,984
+2020 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),251,986
+2007,Hodgkin's disease (C81),29,990
+2008,Hodgkin's disease (C81),21,992
+2009,Hodgkin's disease (C81),26,994
+2010,Hodgkin's disease (C81),18,996
+2011,Hodgkin's disease (C81),21,998
+2012,Hodgkin's disease (C81),20,1000
+2013,Hodgkin's disease (C81),12,1002
+2014,Hodgkin's disease (C81),22,1004
+2015,Hodgkin's disease (C81),21,1006
+2016,Hodgkin's disease (C81),13,1008
+2017,Hodgkin's disease (C81),12,1010
+2018,Hodgkin's disease (C81),14,1012
+2019,Hodgkin's disease (C81),17,1014
+2020 **,Hodgkin's disease (C81),13,1016
+2007,Non-Hodgkin's lymphoma (C82-C85),464,1020
+2008,Non-Hodgkin's lymphoma (C82-C85),410,1022
+2009,Non-Hodgkin's lymphoma (C82-C85),411,1024
+2010,Non-Hodgkin's lymphoma (C82-C85),442,1026
+2011,Non-Hodgkin's lymphoma (C82-C85),408,1028
+2012,Non-Hodgkin's lymphoma (C82-C85),390,1030
+2013,Non-Hodgkin's lymphoma (C82-C85),368,1032
+2014,Non-Hodgkin's lymphoma (C82-C85),428,1034
+2015,Non-Hodgkin's lymphoma (C82-C85),391,1036
+2016,Non-Hodgkin's lymphoma (C82-C85),372,1038
+2017,Non-Hodgkin's lymphoma (C82-C85),380,1040
+2018,Non-Hodgkin's lymphoma (C82-C85),371,1042
+2019,Non-Hodgkin's lymphoma (C82-C85),368,1044
+2020 **,Non-Hodgkin's lymphoma (C82-C85),309,1046
+2007,Leukemia (C91-C95),445,1050
+2008,Leukemia (C91-C95),417,1052
+2009,Leukemia (C91-C95),412,1054
+2010,Leukemia (C91-C95),385,1056
+2011,Leukemia (C91-C95),444,1058
+2012,Leukemia (C91-C95),390,1060
+2013,Leukemia (C91-C95),422,1062
+2014,Leukemia (C91-C95),418,1064
+2015,Leukemia (C91-C95),410,1066
+2016,Leukemia (C91-C95),416,1068
+2017,Leukemia (C91-C95),415,1070
+2018,Leukemia (C91-C95),354,1072
+2019,Leukemia (C91-C95),450,1074
+2020 **,Leukemia (C91-C95),405,1076
+2007,Multiple myeloma and immunoproliferative neoplasms (C88C90),227,1080
+2008,Multiple myeloma and immunoproliferative neoplasms (C88C90),229,1082
+2009,Multiple myeloma and immunoproliferative neoplasms (C88C90),242,1084
+2010,Multiple myeloma and immunoproliferative neoplasms (C88C90),234,1086
+2011,Multiple myeloma and immunoproliferative neoplasms (C88C90),224,1088
+2012,Multiple myeloma and immunoproliferative neoplasms (C88C90),256,1090
+2013,Multiple myeloma and immunoproliferative neoplasms (C88C90),252,1092
+2014,Multiple myeloma and immunoproliferative neoplasms (C88C90),258,1094
+2015,Multiple myeloma and immunoproliferative neoplasms (C88C90),244,1096
+2016,Multiple myeloma and immunoproliferative neoplasms (C88C90),232,1098
+2017,Multiple myeloma and immunoproliferative neoplasms (C88C90),218,1100
+2018,Multiple myeloma and immunoproliferative neoplasms (C88C90),248,1102
+2019,Multiple myeloma and immunoproliferative neoplasms (C88C90),240,1104
+2020 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),220,1106
+2007,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,1110
+2008,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,1112
+2009,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,1114
+2010,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,1116
+2011,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),2,1118
+2012,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,1120
+2013,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,1122
+2014,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,1124
+2015,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),2,1126
+2016,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,1128
+2017,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,1130
+2018,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,1132
+2019,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),2,1134
+2020 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,1136
+2007,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1335,1140
+2008,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1346,1142
+2009,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1309,1144
+2010,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1257,1146
+2011,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1376,1148
+2012,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1378,1150
+2013,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1337,1152
+2014,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1324,1154
+2015,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1391,1156
+2016,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1358,1158
+2017,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1474,1160
+2018,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1397,1162
+2019,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1443,1164
+2020 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1296,1166
+2007,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),327,1170
+2008,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),324,1172
+2009,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),313,1174
+2010,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),311,1176
+2011,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),329,1178
+2012,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),372,1180
+2013,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),359,1182
+2014,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),328,1184
+2015,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),341,1186
+2016,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),352,1188
+2017,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),321,1190
+2018,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),304,1192
+2019,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),343,1194
+2020 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),308,1196
+2007,Anemias (D50-D64),136,1200
+2008,Anemias (D50-D64),137,1202
+2009,Anemias (D50-D64),116,1204
+2010,Anemias (D50-D64),121,1206
+2011,Anemias (D50-D64),142,1208
+2012,Anemias (D50-D64),149,1210
+2013,Anemias (D50-D64),145,1212
+2014,Anemias (D50-D64),127,1214
+2015,Anemias (D50-D64),140,1216
+2016,Anemias (D50-D64),140,1218
+2017,Anemias (D50-D64),119,1220
+2018,Anemias (D50-D64),118,1222
+2019,Anemias (D50-D64),135,1224
+2020 **,Anemias (D50-D64),103,1226
+2007,Diabetes mellitus (E10-E14),1859,1230
+2008,Diabetes mellitus (E10-E14),1812,1232
+2009,Diabetes mellitus (E10-E14),1712,1234
+2010,Diabetes mellitus (E10-E14),1721,1236
+2011,Diabetes mellitus (E10-E14),1739,1238
+2012,Diabetes mellitus (E10-E14),1754,1240
+2013,Diabetes mellitus (E10-E14),1744,1242
+2014,Diabetes mellitus (E10-E14),1714,1244
+2015,Diabetes mellitus (E10-E14),1734,1246
+2016,Diabetes mellitus (E10-E14),1596,1248
+2017,Diabetes mellitus (E10-E14),1736,1250
+2018,Diabetes mellitus (E10-E14),1698,1252
+2019,Diabetes mellitus (E10-E14),1774,1254
+2020 **,Diabetes mellitus (E10-E14),1696,1256
+2007,Malnutrition (E40-E46),100,1260
+2008,Malnutrition (E40-E46),103,1262
+2009,Malnutrition (E40-E46),83,1264
+2010,Malnutrition (E40-E46),88,1266
+2011,Malnutrition (E40-E46),86,1268
+2012,Malnutrition (E40-E46),85,1270
+2013,Malnutrition (E40-E46),92,1272
+2014,Malnutrition (E40-E46),116,1274
+2015,Malnutrition (E40-E46),185,1276
+2016,Malnutrition (E40-E46),185,1278
+2017,Malnutrition (E40-E46),247,1280
+2018,Malnutrition (E40-E46),300,1282
+2019,Malnutrition (E40-E46),338,1284
+2020 **,Malnutrition (E40-E46),353,1286
+2007,Other nutritional deficiencies (E50-E64),7,1290
+2008,Other nutritional deficiencies (E50-E64),5,1292
+2009,Other nutritional deficiencies (E50-E64),6,1294
+2010,Other nutritional deficiencies (E50-E64),4,1296
+2011,Other nutritional deficiencies (E50-E64),1,1298
+2012,Other nutritional deficiencies (E50-E64),8,1300
+2013,Other nutritional deficiencies (E50-E64),3,1302
+2014,Other nutritional deficiencies (E50-E64),4,1304
+2015,Other nutritional deficiencies (E50-E64),5,1306
+2016,Other nutritional deficiencies (E50-E64),5,1308
+2017,Other nutritional deficiencies (E50-E64),7,1310
+2018,Other nutritional deficiencies (E50-E64),2,1312
+2019,Other nutritional deficiencies (E50-E64),4,1314
+2020 **,Other nutritional deficiencies (E50-E64),5,1316
+2007,Meningitis (G00G03),13,1320
+2008,Meningitis (G00G03),13,1322
+2009,Meningitis (G00G03),11,1324
+2010,Meningitis (G00G03),10,1326
+2011,Meningitis (G00G03),17,1328
+2012,Meningitis (G00G03),5,1330
+2013,Meningitis (G00G03),6,1332
+2014,Meningitis (G00G03),6,1334
+2015,Meningitis (G00G03),6,1336
+2016,Meningitis (G00G03),11,1338
+2017,Meningitis (G00G03),12,1340
+2018,Meningitis (G00G03),9,1342
+2019,Meningitis (G00G03),11,1344
+2020 **,Meningitis (G00G03),6,1346
+2007,Parkinson's disease (G20-G21),360,1350
+2008,Parkinson's disease (G20-G21),359,1352
+2009,Parkinson's disease (G20-G21),361,1354
+2010,Parkinson's disease (G20-G21),373,1356
+2011,Parkinson's disease (G20-G21),416,1358
+2012,Parkinson's disease (G20-G21),419,1360
+2013,Parkinson's disease (G20-G21),434,1362
+2014,Parkinson's disease (G20-G21),462,1364
+2015,Parkinson's disease (G20-G21),465,1366
+2016,Parkinson's disease (G20-G21),532,1368
+2017,Parkinson's disease (G20-G21),541,1370
+2018,Parkinson's disease (G20-G21),587,1372
+2019,Parkinson's disease (G20-G21),596,1374
+2020 **,Parkinson's disease (G20-G21),604,1376
+2007,Alzheimer's disease (G30),2630,1380
+2008,Alzheimer's disease (G30),3058,1382
+2009,Alzheimer's disease (G30),2713,1384
+2010,Alzheimer's disease (G30),2852,1386
+2011,Alzheimer's disease (G30),2874,1388
+2012,Alzheimer's disease (G30),2771,1390
+2013,Alzheimer's disease (G30),2653,1392
+2014,Alzheimer's disease (G30),2846,1394
+2015,Alzheimer's disease (G30),3309,1396
+2016,Alzheimer's disease (G30),3542,1398
+2017,Alzheimer's disease (G30),3584,1400
+2018,Alzheimer's disease (G30),3775,1402
+2019,Alzheimer's disease (G30),3670,1404
+2020 **,Alzheimer's disease (G30),3635,1406
+2007,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),116,1410
+2008,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),113,1412
+2009,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),92,1414
+2010,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),84,1416
+2011,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),96,1418
+2012,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),87,1420
+2013,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),72,1422
+2014,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),75,1424
+2015,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),92,1426
+2016,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),92,1428
+2017,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),95,1430
+2018,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),87,1432
+2019,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),115,1434
+2020 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),118,1436
+2007,Hypertensive heart disease (I11),963,1440
+2008,Hypertensive heart disease (I11),971,1442
+2009,Hypertensive heart disease (I11),996,1444
+2010,Hypertensive heart disease (I11),942,1446
+2011,Hypertensive heart disease (I11),899,1448
+2012,Hypertensive heart disease (I11),845,1450
+2013,Hypertensive heart disease (I11),872,1452
+2014,Hypertensive heart disease (I11),820,1454
+2015,Hypertensive heart disease (I11),861,1456
+2016,Hypertensive heart disease (I11),868,1458
+2017,Hypertensive heart disease (I11),928,1460
+2018,Hypertensive heart disease (I11),963,1462
+2019,Hypertensive heart disease (I11),995,1464
+2020 **,Hypertensive heart disease (I11),987,1466
+2007,Hypertensive heart and renal disease (I13),105,1470
+2008,Hypertensive heart and renal disease (I13),112,1472
+2009,Hypertensive heart and renal disease (I13),105,1474
+2010,Hypertensive heart and renal disease (I13),81,1476
+2011,Hypertensive heart and renal disease (I13),94,1478
+2012,Hypertensive heart and renal disease (I13),108,1480
+2013,Hypertensive heart and renal disease (I13),104,1482
+2014,Hypertensive heart and renal disease (I13),97,1484
+2015,Hypertensive heart and renal disease (I13),140,1486
+2016,Hypertensive heart and renal disease (I13),120,1488
+2017,Hypertensive heart and renal disease (I13),153,1490
+2018,Hypertensive heart and renal disease (I13),192,1492
+2019,Hypertensive heart and renal disease (I13),210,1494
+2020 **,Hypertensive heart and renal disease (I13),211,1496
+2007,Acute myocardial infarction (I21-I22),2641,1500
+2008,Acute myocardial infarction (I21-I22),2657,1502
+2009,Acute myocardial infarction (I21-I22),2498,1504
+2010,Acute myocardial infarction (I21-I22),2390,1506
+2011,Acute myocardial infarction (I21-I22),2413,1508
+2012,Acute myocardial infarction (I21-I22),2236,1510
+2013,Acute myocardial infarction (I21-I22),2326,1512
+2014,Acute myocardial infarction (I21-I22),2222,1514
+2015,Acute myocardial infarction (I21-I22),2189,1516
+2016,Acute myocardial infarction (I21-I22),2049,1518
+2017,Acute myocardial infarction (I21-I22),1908,1520
+2018,Acute myocardial infarction (I21-I22),1888,1522
+2019,Acute myocardial infarction (I21-I22),1826,1524
+2020 **,Acute myocardial infarction (I21-I22),1600,1526
+2007,Other acute ischemic heart diseases (I24),59,1530
+2008,Other acute ischemic heart diseases (I24),77,1532
+2009,Other acute ischemic heart diseases (I24),86,1534
+2010,Other acute ischemic heart diseases (I24),108,1536
+2011,Other acute ischemic heart diseases (I24),114,1538
+2012,Other acute ischemic heart diseases (I24),89,1540
+2013,Other acute ischemic heart diseases (I24),115,1542
+2014,Other acute ischemic heart diseases (I24),122,1544
+2015,Other acute ischemic heart diseases (I24),115,1546
+2016,Other acute ischemic heart diseases (I24),98,1548
+2017,Other acute ischemic heart diseases (I24),115,1550
+2018,Other acute ischemic heart diseases (I24),92,1552
+2019,Other acute ischemic heart diseases (I24),99,1554
+2020 **,Other acute ischemic heart diseases (I24),84,1556
+2007,Atherosclerotic cardiovascular disease so described (I25.0),929,1560
+2008,Atherosclerotic cardiovascular disease so described (I25.0),918,1562
+2009,Atherosclerotic cardiovascular disease so described (I25.0),813,1564
+2010,Atherosclerotic cardiovascular disease so described (I25.0),703,1566
+2011,Atherosclerotic cardiovascular disease so described (I25.0),781,1568
+2012,Atherosclerotic cardiovascular disease so described (I25.0),775,1570
+2013,Atherosclerotic cardiovascular disease so described (I25.0),732,1572
+2014,Atherosclerotic cardiovascular disease so described (I25.0),847,1574
+2015,Atherosclerotic cardiovascular disease so described (I25.0),859,1576
+2016,Atherosclerotic cardiovascular disease so described (I25.0),825,1578
+2017,Atherosclerotic cardiovascular disease so described (I25.0),867,1580
+2018,Atherosclerotic cardiovascular disease so described (I25.0),942,1582
+2019,Atherosclerotic cardiovascular disease so described (I25.0),971,1584
+2020 **,Atherosclerotic cardiovascular disease so described (I25.0),849,1586
+2007,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),5148,1590
+2008,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),4969,1592
+2009,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),4509,1594
+2010,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),4494,1596
+2011,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),4342,1598
+2012,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),4284,1600
+2013,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),4023,1602
+2014,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),3889,1604
+2015,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),3866,1606
+2016,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),3515,1608
+2017,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),3622,1610
+2018,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),3662,1612
+2019,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),3525,1614
+2020 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),3192,1616
+2007,Acute and subacute endocarditis (I33),31,1620
+2008,Acute and subacute endocarditis (I33),28,1622
+2009,Acute and subacute endocarditis (I33),28,1624
+2010,Acute and subacute endocarditis (I33),21,1626
+2011,Acute and subacute endocarditis (I33),33,1628
+2012,Acute and subacute endocarditis (I33),26,1630
+2013,Acute and subacute endocarditis (I33),23,1632
+2014,Acute and subacute endocarditis (I33),19,1634
+2015,Acute and subacute endocarditis (I33),30,1636
+2016,Acute and subacute endocarditis (I33),32,1638
+2017,Acute and subacute endocarditis (I33),39,1640
+2018,Acute and subacute endocarditis (I33),30,1642
+2019,Acute and subacute endocarditis (I33),35,1644
+2020 **,Acute and subacute endocarditis (I33),29,1646
+2007,Diseases of pericardium and acute myocarditis (I30-I31I40),25,1650
+2008,Diseases of pericardium and acute myocarditis (I30-I31I40),16,1652
+2009,Diseases of pericardium and acute myocarditis (I30-I31I40),15,1654
+2010,Diseases of pericardium and acute myocarditis (I30-I31I40),17,1656
+2011,Diseases of pericardium and acute myocarditis (I30-I31I40),17,1658
+2012,Diseases of pericardium and acute myocarditis (I30-I31I40),21,1660
+2013,Diseases of pericardium and acute myocarditis (I30-I31I40),10,1662
+2014,Diseases of pericardium and acute myocarditis (I30-I31I40),18,1664
+2015,Diseases of pericardium and acute myocarditis (I30-I31I40),19,1666
+2016,Diseases of pericardium and acute myocarditis (I30-I31I40),11,1668
+2017,Diseases of pericardium and acute myocarditis (I30-I31I40),23,1670
+2018,Diseases of pericardium and acute myocarditis (I30-I31I40),20,1672
+2019,Diseases of pericardium and acute myocarditis (I30-I31I40),19,1674
+2020 **,Diseases of pericardium and acute myocarditis (I30-I31I40),18,1676
+2007,Heart failure (I50),873,1680
+2008,Heart failure (I50),1085,1682
+2009,Heart failure (I50),1070,1684
+2010,Heart failure (I50),1223,1686
+2011,Heart failure (I50),1275,1688
+2012,Heart failure (I50),1358,1690
+2013,Heart failure (I50),1562,1692
+2014,Heart failure (I50),1664,1694
+2015,Heart failure (I50),1847,1696
+2016,Heart failure (I50),2001,1698
+2017,Heart failure (I50),2042,1700
+2018,Heart failure (I50),2152,1702
+2019,Heart failure (I50),2178,1704
+2020 **,Heart failure (I50),1964,1706
+2007,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2744,1710
+2008,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2695,1712
+2009,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2683,1714
+2010,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2799,1716
+2011,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2868,1718
+2012,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3037,1720
+2013,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3142,1722
+2014,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3107,1724
+2015,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3427,1726
+2016,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3368,1728
+2017,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3591,1730
+2018,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3730,1732
+2019,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3657,1734
+2020 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3320,1736
+2007,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),769,1740
+2008,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),768,1742
+2009,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),776,1744
+2010,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),740,1746
+2011,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),787,1748
+2012,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),778,1750
+2013,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),811,1752
+2014,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),814,1754
+2015,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),842,1756
+2016,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),812,1758
+2017,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),784,1760
+2018,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),802,1762
+2019,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),796,1764
+2020 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),771,1766
+2007,Cerebrovascular diseases (I60-I69),3393,1770
+2008,Cerebrovascular diseases (I60-I69),3572,1772
+2009,Cerebrovascular diseases (I60-I69),3341,1774
+2010,Cerebrovascular diseases (I60-I69),3472,1776
+2011,Cerebrovascular diseases (I60-I69),3417,1778
+2012,Cerebrovascular diseases (I60-I69),3385,1780
+2013,Cerebrovascular diseases (I60-I69),3407,1782
+2014,Cerebrovascular diseases (I60-I69),3418,1784
+2015,Cerebrovascular diseases (I60-I69),3616,1786
+2016,Cerebrovascular diseases (I60-I69),3541,1788
+2017,Cerebrovascular diseases (I60-I69),3778,1790
+2018,Cerebrovascular diseases (I60-I69),3850,1792
+2019,Cerebrovascular diseases (I60-I69),3804,1794
+2020 **,Cerebrovascular diseases (I60-I69),3599,1796
+2007,Atherosclerosis (I70),193,1800
+2008,Atherosclerosis (I70),200,1802
+2009,Atherosclerosis (I70),199,1804
+2010,Atherosclerosis (I70),199,1806
+2011,Atherosclerosis (I70),196,1808
+2012,Atherosclerosis (I70),218,1810
+2013,Atherosclerosis (I70),196,1812
+2014,Atherosclerosis (I70),173,1814
+2015,Atherosclerosis (I70),145,1816
+2016,Atherosclerosis (I70),134,1818
+2017,Atherosclerosis (I70),170,1820
+2018,Atherosclerosis (I70),127,1822
+2019,Atherosclerosis (I70),109,1824
+2020 **,Atherosclerosis (I70),99,1826
+2007,Aortic aneurysm and dissection (I71),258,1830
+2008,Aortic aneurysm and dissection (I71),227,1832
+2009,Aortic aneurysm and dissection (I71),217,1834
+2010,Aortic aneurysm and dissection (I71),226,1836
+2011,Aortic aneurysm and dissection (I71),193,1838
+2012,Aortic aneurysm and dissection (I71),192,1840
+2013,Aortic aneurysm and dissection (I71),179,1842
+2014,Aortic aneurysm and dissection (I71),186,1844
+2015,Aortic aneurysm and dissection (I71),180,1846
+2016,Aortic aneurysm and dissection (I71),210,1848
+2017,Aortic aneurysm and dissection (I71),179,1850
+2018,Aortic aneurysm and dissection (I71),232,1852
+2019,Aortic aneurysm and dissection (I71),185,1854
+2020 **,Aortic aneurysm and dissection (I71),162,1856
+2007,Other diseases of arteries arterioles and capillaries (I72-I78),278,1860
+2008,Other diseases of arteries arterioles and capillaries (I72-I78),252,1862
+2009,Other diseases of arteries arterioles and capillaries (I72-I78),223,1864
+2010,Other diseases of arteries arterioles and capillaries (I72-I78),227,1866
+2011,Other diseases of arteries arterioles and capillaries (I72-I78),220,1868
+2012,Other diseases of arteries arterioles and capillaries (I72-I78),208,1870
+2013,Other diseases of arteries arterioles and capillaries (I72-I78),243,1872
+2014,Other diseases of arteries arterioles and capillaries (I72-I78),198,1874
+2015,Other diseases of arteries arterioles and capillaries (I72-I78),228,1876
+2016,Other diseases of arteries arterioles and capillaries (I72-I78),238,1878
+2017,Other diseases of arteries arterioles and capillaries (I72-I78),233,1880
+2018,Other diseases of arteries arterioles and capillaries (I72-I78),230,1882
+2019,Other diseases of arteries arterioles and capillaries (I72-I78),227,1884
+2020 **,Other diseases of arteries arterioles and capillaries (I72-I78),199,1886
+2007,Other disorders of circulatory system (I80-I99),111,1890
+2008,Other disorders of circulatory system (I80-I99),105,1892
+2009,Other disorders of circulatory system (I80-I99),92,1894
+2010,Other disorders of circulatory system (I80-I99),86,1896
+2011,Other disorders of circulatory system (I80-I99),92,1898
+2012,Other disorders of circulatory system (I80-I99),83,1900
+2013,Other disorders of circulatory system (I80-I99),98,1902
+2014,Other disorders of circulatory system (I80-I99),104,1904
+2015,Other disorders of circulatory system (I80-I99),100,1906
+2016,Other disorders of circulatory system (I80-I99),90,1908
+2017,Other disorders of circulatory system (I80-I99),92,1910
+2018,Other disorders of circulatory system (I80-I99),87,1912
+2019,Other disorders of circulatory system (I80-I99),71,1914
+2020 **,Other disorders of circulatory system (I80-I99),63,1916
+2007,Influenza (J09-J11),13,1920
+2008,Influenza (J09-J11),30,1922
+2009,Influenza (J09-J11),40,1924
+2010,Influenza (J09-J11),4,1926
+2011,Influenza (J09-J11),33,1928
+2012,Influenza (J09-J11),19,1930
+2013,Influenza (J09-J11),85,1932
+2014,Influenza (J09-J11),119,1934
+2015,Influenza (J09-J11),133,1936
+2016,Influenza (J09-J11),55,1938
+2017,Influenza (J09-J11),153,1940
+2018,Influenza (J09-J11),254,1942
+2019,Influenza (J09-J11),129,1944
+2020 **,Influenza (J09-J11),118,1946
+2007,Pneumonia (J12-J18),976,1950
+2008,Pneumonia (J12-J18),1102,1952
+2009,Pneumonia (J12-J18),1089,1954
+2010,Pneumonia (J12-J18),1067,1956
+2011,Pneumonia (J12-J18),1194,1958
+2012,Pneumonia (J12-J18),1169,1960
+2013,Pneumonia (J12-J18),1165,1962
+2014,Pneumonia (J12-J18),1185,1964
+2015,Pneumonia (J12-J18),1192,1966
+2016,Pneumonia (J12-J18),1083,1968
+2017,Pneumonia (J12-J18),1016,1970
+2018,Pneumonia (J12-J18),1018,1972
+2019,Pneumonia (J12-J18),938,1974
+2020 **,Pneumonia (J12-J18),772,1976
+2007,Acute bronchitis and bronchiolitis (J20-J21),6,1980
+2008,Acute bronchitis and bronchiolitis (J20-J21),11,1982
+2009,Acute bronchitis and bronchiolitis (J20-J21),5,1984
+2010,Acute bronchitis and bronchiolitis (J20-J21),7,1986
+2011,Acute bronchitis and bronchiolitis (J20-J21),8,1988
+2012,Acute bronchitis and bronchiolitis (J20-J21),10,1990
+2013,Acute bronchitis and bronchiolitis (J20-J21),8,1992
+2014,Acute bronchitis and bronchiolitis (J20-J21),6,1994
+2015,Acute bronchitis and bronchiolitis (J20-J21),7,1996
+2016,Acute bronchitis and bronchiolitis (J20-J21),6,1998
+2017,Acute bronchitis and bronchiolitis (J20-J21),9,2000
+2018,Acute bronchitis and bronchiolitis (J20-J21),7,2002
+2019,Acute bronchitis and bronchiolitis (J20-J21),6,2004
+2020 **,Acute bronchitis and bronchiolitis (J20-J21),3,2006
+2007,Unspecified acute lower respiratory infection (J22U049U071),1,2010
+2008,Unspecified acute lower respiratory infection (J22U049U071),1,2012
+2009,Unspecified acute lower respiratory infection (J22U049U071),0,2014
+2010,Unspecified acute lower respiratory infection (J22U049U071),1,2016
+2011,Unspecified acute lower respiratory infection (J22U049U071),1,2018
+2012,Unspecified acute lower respiratory infection (J22U049U071),0,2020
+2013,Unspecified acute lower respiratory infection (J22U049U071),3,2022
+2014,Unspecified acute lower respiratory infection (J22U049U071),1,2024
+2015,Unspecified acute lower respiratory infection (J22U049U071),0,2026
+2016,Unspecified acute lower respiratory infection (J22U049U071),1,2028
+2017,Unspecified acute lower respiratory infection (J22U049U071),1,2030
+2018,Unspecified acute lower respiratory infection (J22U049U071),4,2032
+2019,Unspecified acute lower respiratory infection (J22U049U071),0,2034
+2020 **,Unspecified acute lower respiratory infection (J22U049U071),3637,2036
+2007,Bronchitis chronic and unspecified (J40-J42),32,2040
+2008,Bronchitis chronic and unspecified (J40-J42),39,2042
+2009,Bronchitis chronic and unspecified (J40-J42),23,2044
+2010,Bronchitis chronic and unspecified (J40-J42),19,2046
+2011,Bronchitis chronic and unspecified (J40-J42),17,2048
+2012,Bronchitis chronic and unspecified (J40-J42),20,2050
+2013,Bronchitis chronic and unspecified (J40-J42),17,2052
+2014,Bronchitis chronic and unspecified (J40-J42),11,2054
+2015,Bronchitis chronic and unspecified (J40-J42),14,2056
+2016,Bronchitis chronic and unspecified (J40-J42),16,2058
+2017,Bronchitis chronic and unspecified (J40-J42),11,2060
+2018,Bronchitis chronic and unspecified (J40-J42),11,2062
+2019,Bronchitis chronic and unspecified (J40-J42),9,2064
+2020 **,Bronchitis chronic and unspecified (J40-J42),10,2066
+2007,Emphysema (J43),351,2070
+2008,Emphysema (J43),357,2072
+2009,Emphysema (J43),346,2074
+2010,Emphysema (J43),307,2076
+2011,Emphysema (J43),263,2078
+2012,Emphysema (J43),197,2080
+2013,Emphysema (J43),220,2082
+2014,Emphysema (J43),206,2084
+2015,Emphysema (J43),191,2086
+2016,Emphysema (J43),171,2088
+2017,Emphysema (J43),174,2090
+2018,Emphysema (J43),185,2092
+2019,Emphysema (J43),169,2094
+2020 **,Emphysema (J43),163,2096
+2007,Asthma (J45-J46),98,2100
+2008,Asthma (J45-J46),86,2102
+2009,Asthma (J45-J46),92,2104
+2010,Asthma (J45-J46),106,2106
+2011,Asthma (J45-J46),84,2108
+2012,Asthma (J45-J46),98,2110
+2013,Asthma (J45-J46),80,2112
+2014,Asthma (J45-J46),74,2114
+2015,Asthma (J45-J46),97,2116
+2016,Asthma (J45-J46),85,2118
+2017,Asthma (J45-J46),83,2120
+2018,Asthma (J45-J46),79,2122
+2019,Asthma (J45-J46),77,2124
+2020 **,Asthma (J45-J46),64,2126
+2007,Other chronic lower respiratory diseases (J44J47),2925,2130
+2008,Other chronic lower respiratory diseases (J44J47),3206,2132
+2009,Other chronic lower respiratory diseases (J44J47),3101,2134
+2010,Other chronic lower respiratory diseases (J44J47),3213,2136
+2011,Other chronic lower respiratory diseases (J44J47),3402,2138
+2012,Other chronic lower respiratory diseases (J44J47),3460,2140
+2013,Other chronic lower respiratory diseases (J44J47),3424,2142
+2014,Other chronic lower respiratory diseases (J44J47),3338,2144
+2015,Other chronic lower respiratory diseases (J44J47),3554,2146
+2016,Other chronic lower respiratory diseases (J44J47),3458,2148
+2017,Other chronic lower respiratory diseases (J44J47),3622,2150
+2018,Other chronic lower respiratory diseases (J44J47),3666,2152
+2019,Other chronic lower respiratory diseases (J44J47),3588,2154
+2020 **,Other chronic lower respiratory diseases (J44J47),3037,2156
+2007,Pneumoconioses and chemical effects (J60-J66J68),1,2160
+2008,Pneumoconioses and chemical effects (J60-J66J68),2,2162
+2009,Pneumoconioses and chemical effects (J60-J66J68),2,2164
+2010,Pneumoconioses and chemical effects (J60-J66J68),0,2166
+2011,Pneumoconioses and chemical effects (J60-J66J68),1,2168
+2012,Pneumoconioses and chemical effects (J60-J66J68),4,2170
+2013,Pneumoconioses and chemical effects (J60-J66J68),0,2172
+2014,Pneumoconioses and chemical effects (J60-J66J68),0,2174
+2015,Pneumoconioses and chemical effects (J60-J66J68),0,2176
+2016,Pneumoconioses and chemical effects (J60-J66J68),1,2178
+2017,Pneumoconioses and chemical effects (J60-J66J68),2,2180
+2018,Pneumoconioses and chemical effects (J60-J66J68),1,2182
+2019,Pneumoconioses and chemical effects (J60-J66J68),0,2184
+2020 **,Pneumoconioses and chemical effects (J60-J66J68),0,2186
+2007,Pneumonitis due to solids and liquids (J69),403,2190
+2008,Pneumonitis due to solids and liquids (J69),413,2192
+2009,Pneumonitis due to solids and liquids (J69),383,2194
+2010,Pneumonitis due to solids and liquids (J69),392,2196
+2011,Pneumonitis due to solids and liquids (J69),442,2198
+2012,Pneumonitis due to solids and liquids (J69),424,2200
+2013,Pneumonitis due to solids and liquids (J69),392,2202
+2014,Pneumonitis due to solids and liquids (J69),381,2204
+2015,Pneumonitis due to solids and liquids (J69),400,2206
+2016,Pneumonitis due to solids and liquids (J69),427,2208
+2017,Pneumonitis due to solids and liquids (J69),406,2210
+2018,Pneumonitis due to solids and liquids (J69),396,2212
+2019,Pneumonitis due to solids and liquids (J69),369,2214
+2020 **,Pneumonitis due to solids and liquids (J69),322,2216
+2007,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),612,2220
+2008,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),619,2222
+2009,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),657,2224
+2010,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),642,2226
+2011,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),737,2228
+2012,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),779,2230
+2013,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),743,2232
+2014,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),819,2234
+2015,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),879,2236
+2016,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),885,2238
+2017,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),1029,2240
+2018,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),1088,2242
+2019,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),1025,2244
+2020 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),938,2246
+2007,Peptic ulcer (K25-K28),82,2250
+2008,Peptic ulcer (K25-K28),77,2252
+2009,Peptic ulcer (K25-K28),72,2254
+2010,Peptic ulcer (K25-K28),75,2256
+2011,Peptic ulcer (K25-K28),49,2258
+2012,Peptic ulcer (K25-K28),66,2260
+2013,Peptic ulcer (K25-K28),54,2262
+2014,Peptic ulcer (K25-K28),67,2264
+2015,Peptic ulcer (K25-K28),72,2266
+2016,Peptic ulcer (K25-K28),75,2268
+2017,Peptic ulcer (K25-K28),63,2270
+2018,Peptic ulcer (K25-K28),64,2272
+2019,Peptic ulcer (K25-K28),68,2274
+2020 **,Peptic ulcer (K25-K28),65,2276
+2007,Diseases of appendix (K35-K38),4,2280
+2008,Diseases of appendix (K35-K38),3,2282
+2009,Diseases of appendix (K35-K38),4,2284
+2010,Diseases of appendix (K35-K38),5,2286
+2011,Diseases of appendix (K35-K38),4,2288
+2012,Diseases of appendix (K35-K38),5,2290
+2013,Diseases of appendix (K35-K38),5,2292
+2014,Diseases of appendix (K35-K38),5,2294
+2015,Diseases of appendix (K35-K38),5,2296
+2016,Diseases of appendix (K35-K38),7,2298
+2017,Diseases of appendix (K35-K38),7,2300
+2018,Diseases of appendix (K35-K38),1,2302
+2019,Diseases of appendix (K35-K38),8,2304
+2020 **,Diseases of appendix (K35-K38),2,2306
+2007,Hernia (K40-K46),61,2310
+2008,Hernia (K40-K46),53,2312
+2009,Hernia (K40-K46),63,2314
+2010,Hernia (K40-K46),50,2316
+2011,Hernia (K40-K46),45,2318
+2012,Hernia (K40-K46),43,2320
+2013,Hernia (K40-K46),64,2322
+2014,Hernia (K40-K46),41,2324
+2015,Hernia (K40-K46),42,2326
+2016,Hernia (K40-K46),48,2328
+2017,Hernia (K40-K46),52,2330
+2018,Hernia (K40-K46),46,2332
+2019,Hernia (K40-K46),41,2334
+2020 **,Hernia (K40-K46),33,2336
+2007,Alcoholic liver disease (K70),123,2340
+2008,Alcoholic liver disease (K70),150,2342
+2009,Alcoholic liver disease (K70),134,2344
+2010,Alcoholic liver disease (K70),150,2346
+2011,Alcoholic liver disease (K70),139,2348
+2012,Alcoholic liver disease (K70),142,2350
+2013,Alcoholic liver disease (K70),167,2352
+2014,Alcoholic liver disease (K70),150,2354
+2015,Alcoholic liver disease (K70),179,2356
+2016,Alcoholic liver disease (K70),213,2358
+2017,Alcoholic liver disease (K70),229,2360
+2018,Alcoholic liver disease (K70),231,2362
+2019,Alcoholic liver disease (K70),238,2364
+2020 **,Alcoholic liver disease (K70),254,2366
+2007,Other chronic liver disease and cirrhosis (K73-K74),292,2370
+2008,Other chronic liver disease and cirrhosis (K73-K74),277,2372
+2009,Other chronic liver disease and cirrhosis (K73-K74),293,2374
+2010,Other chronic liver disease and cirrhosis (K73-K74),294,2376
+2011,Other chronic liver disease and cirrhosis (K73-K74),324,2378
+2012,Other chronic liver disease and cirrhosis (K73-K74),340,2380
+2013,Other chronic liver disease and cirrhosis (K73-K74),378,2382
+2014,Other chronic liver disease and cirrhosis (K73-K74),341,2384
+2015,Other chronic liver disease and cirrhosis (K73-K74),396,2386
+2016,Other chronic liver disease and cirrhosis (K73-K74),359,2388
+2017,Other chronic liver disease and cirrhosis (K73-K74),379,2390
+2018,Other chronic liver disease and cirrhosis (K73-K74),352,2392
+2019,Other chronic liver disease and cirrhosis (K73-K74),372,2394
+2020 **,Other chronic liver disease and cirrhosis (K73-K74),342,2396
+2007,Cholelithiasis and other disorders of gallbladder (K80-K82),86,2400
+2008,Cholelithiasis and other disorders of gallbladder (K80-K82),94,2402
+2009,Cholelithiasis and other disorders of gallbladder (K80-K82),66,2404
+2010,Cholelithiasis and other disorders of gallbladder (K80-K82),77,2406
+2011,Cholelithiasis and other disorders of gallbladder (K80-K82),66,2408
+2012,Cholelithiasis and other disorders of gallbladder (K80-K82),73,2410
+2013,Cholelithiasis and other disorders of gallbladder (K80-K82),65,2412
+2014,Cholelithiasis and other disorders of gallbladder (K80-K82),72,2414
+2015,Cholelithiasis and other disorders of gallbladder (K80-K82),74,2416
+2016,Cholelithiasis and other disorders of gallbladder (K80-K82),70,2418
+2017,Cholelithiasis and other disorders of gallbladder (K80-K82),64,2420
+2018,Cholelithiasis and other disorders of gallbladder (K80-K82),61,2422
+2019,Cholelithiasis and other disorders of gallbladder (K80-K82),64,2424
+2020 **,Cholelithiasis and other disorders of gallbladder (K80-K82),74,2426
+2007,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),2,2430
+2008,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),1,2432
+2009,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),7,2434
+2010,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),4,2436
+2011,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),8,2438
+2012,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),3,2440
+2013,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),9,2442
+2014,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),7,2444
+2015,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),12,2446
+2016,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),13,2448
+2017,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),18,2450
+2018,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),8,2452
+2019,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),12,2454
+2020 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),9,2456
+2007,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),75,2460
+2008,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),109,2462
+2009,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),117,2464
+2010,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),165,2466
+2011,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),13,2468
+2012,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),6,2470
+2013,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),5,2472
+2014,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),4,2474
+2015,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),3,2476
+2016,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),5,2478
+2017,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),4,2480
+2018,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),10,2482
+2019,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),6,2484
+2020 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),7,2486
+2007,Renal failure (N17-N19),812,2490
+2008,Renal failure (N17-N19),875,2492
+2009,Renal failure (N17-N19),895,2494
+2010,Renal failure (N17-N19),914,2496
+2011,Renal failure (N17-N19),1003,2498
+2012,Renal failure (N17-N19),1041,2500
+2013,Renal failure (N17-N19),1010,2502
+2014,Renal failure (N17-N19),973,2504
+2015,Renal failure (N17-N19),1068,2506
+2016,Renal failure (N17-N19),1131,2508
+2017,Renal failure (N17-N19),1092,2510
+2018,Renal failure (N17-N19),1080,2512
+2019,Renal failure (N17-N19),1090,2514
+2020 **,Renal failure (N17-N19),974,2516
+2007,Other disorders of kidney (N25N27),0,2520
+2008,Other disorders of kidney (N25N27),2,2522
+2009,Other disorders of kidney (N25N27),0,2524
+2010,Other disorders of kidney (N25N27),1,2526
+2011,Other disorders of kidney (N25N27),1,2528
+2012,Other disorders of kidney (N25N27),1,2530
+2013,Other disorders of kidney (N25N27),0,2532
+2014,Other disorders of kidney (N25N27),0,2534
+2015,Other disorders of kidney (N25N27),0,2536
+2016,Other disorders of kidney (N25N27),1,2538
+2017,Other disorders of kidney (N25N27),1,2540
+2018,Other disorders of kidney (N25N27),1,2542
+2019,Other disorders of kidney (N25N27),0,2544
+2020 **,Other disorders of kidney (N25N27),0,2546
+2007,Infections of kidney (N10-N12N13.6N15.1),22,2550
+2008,Infections of kidney (N10-N12N13.6N15.1),24,2552
+2009,Infections of kidney (N10-N12N13.6N15.1),12,2554
+2010,Infections of kidney (N10-N12N13.6N15.1),20,2556
+2011,Infections of kidney (N10-N12N13.6N15.1),11,2558
+2012,Infections of kidney (N10-N12N13.6N15.1),20,2560
+2013,Infections of kidney (N10-N12N13.6N15.1),13,2562
+2014,Infections of kidney (N10-N12N13.6N15.1),17,2564
+2015,Infections of kidney (N10-N12N13.6N15.1),14,2566
+2016,Infections of kidney (N10-N12N13.6N15.1),24,2568
+2017,Infections of kidney (N10-N12N13.6N15.1),16,2570
+2018,Infections of kidney (N10-N12N13.6N15.1),18,2572
+2019,Infections of kidney (N10-N12N13.6N15.1),15,2574
+2020 **,Infections of kidney (N10-N12N13.6N15.1),19,2576
+2007,Hyperplasia of prostate (N40),0,2580
+2008,Hyperplasia of prostate (N40),0,2582
+2009,Hyperplasia of prostate (N40),0,2584
+2010,Hyperplasia of prostate (N40),0,2586
+2011,Hyperplasia of prostate (N40),0,2588
+2012,Hyperplasia of prostate (N40),0,2590
+2013,Hyperplasia of prostate (N40),0,2592
+2014,Hyperplasia of prostate (N40),0,2594
+2015,Hyperplasia of prostate (N40),0,2596
+2016,Hyperplasia of prostate (N40),0,2598
+2017,Hyperplasia of prostate (N40),0,2600
+2018,Hyperplasia of prostate (N40),0,2602
+2019,Hyperplasia of prostate (N40),0,2604
+2020 **,Hyperplasia of prostate (N40),0,2606
+2007,Inflammatory diseases of female pelvic organs (N70-N76),4,2610
+2008,Inflammatory diseases of female pelvic organs (N70-N76),4,2612
+2009,Inflammatory diseases of female pelvic organs (N70-N76),7,2614
+2010,Inflammatory diseases of female pelvic organs (N70-N76),2,2616
+2011,Inflammatory diseases of female pelvic organs (N70-N76),10,2618
+2012,Inflammatory diseases of female pelvic organs (N70-N76),4,2620
+2013,Inflammatory diseases of female pelvic organs (N70-N76),4,2622
+2014,Inflammatory diseases of female pelvic organs (N70-N76),4,2624
+2015,Inflammatory diseases of female pelvic organs (N70-N76),4,2626
+2016,Inflammatory diseases of female pelvic organs (N70-N76),5,2628
+2017,Inflammatory diseases of female pelvic organs (N70-N76),3,2630
+2018,Inflammatory diseases of female pelvic organs (N70-N76),5,2632
+2019,Inflammatory diseases of female pelvic organs (N70-N76),7,2634
+2020 **,Inflammatory diseases of female pelvic organs (N70-N76),8,2636
+2007,Pregnancy with abortive outcome (O00-O07),0,2640
+2008,Pregnancy with abortive outcome (O00-O07),0,2642
+2009,Pregnancy with abortive outcome (O00-O07),1,2644
+2010,Pregnancy with abortive outcome (O00-O07),2,2646
+2011,Pregnancy with abortive outcome (O00-O07),0,2648
+2012,Pregnancy with abortive outcome (O00-O07),1,2650
+2013,Pregnancy with abortive outcome (O00-O07),1,2652
+2014,Pregnancy with abortive outcome (O00-O07),0,2654
+2015,Pregnancy with abortive outcome (O00-O07),0,2656
+2016,Pregnancy with abortive outcome (O00-O07),0,2658
+2017,Pregnancy with abortive outcome (O00-O07),1,2660
+2018,Pregnancy with abortive outcome (O00-O07),0,2662
+2019,Pregnancy with abortive outcome (O00-O07),1,2664
+2020 **,Pregnancy with abortive outcome (O00-O07),0,2666
+2007,Other complications of pregnancy childbirth and the puerperium (O10-O99),33,2670
+2008,Other complications of pregnancy childbirth and the puerperium (O10-O99),23,2672
+2009,Other complications of pregnancy childbirth and the puerperium (O10-O99),49,2674
+2010,Other complications of pregnancy childbirth and the puerperium (O10-O99),37,2676
+2011,Other complications of pregnancy childbirth and the puerperium (O10-O99),35,2678
+2012,Other complications of pregnancy childbirth and the puerperium (O10-O99),38,2680
+2013,Other complications of pregnancy childbirth and the puerperium (O10-O99),25,2682
+2014,Other complications of pregnancy childbirth and the puerperium (O10-O99),22,2684
+2015,Other complications of pregnancy childbirth and the puerperium (O10-O99),43,2686
+2016,Other complications of pregnancy childbirth and the puerperium (O10-O99),35,2688
+2017,Other complications of pregnancy childbirth and the puerperium (O10-O99),41,2690
+2018,Other complications of pregnancy childbirth and the puerperium (O10-O99),28,2692
+2019,Other complications of pregnancy childbirth and the puerperium (O10-O99),42,2694
+2020 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),22,2696
+2007,Certain conditions originating in the perinatal period (P00-P96),249,2700
+2008,Certain conditions originating in the perinatal period (P00-P96),240,2702
+2009,Certain conditions originating in the perinatal period (P00-P96),230,2704
+2010,Certain conditions originating in the perinatal period (P00-P96),238,2706
+2011,Certain conditions originating in the perinatal period (P00-P96),256,2708
+2012,Certain conditions originating in the perinatal period (P00-P96),236,2710
+2013,Certain conditions originating in the perinatal period (P00-P96),202,2712
+2014,Certain conditions originating in the perinatal period (P00-P96),214,2714
+2015,Certain conditions originating in the perinatal period (P00-P96),204,2716
+2016,Certain conditions originating in the perinatal period (P00-P96),251,2718
+2017,Certain conditions originating in the perinatal period (P00-P96),230,2720
+2018,Certain conditions originating in the perinatal period (P00-P96),194,2722
+2019,Certain conditions originating in the perinatal period (P00-P96),210,2724
+2020 **,Certain conditions originating in the perinatal period (P00-P96),149,2726
+2007,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),210,2730
+2008,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),204,2732
+2009,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),181,2734
+2010,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),226,2736
+2011,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),175,2738
+2012,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),187,2740
+2013,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),207,2742
+2014,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),200,2744
+2015,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),183,2746
+2016,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),210,2748
+2017,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),188,2750
+2018,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),197,2752
+2019,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),178,2754
+2020 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),183,2756
+2007,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),549,2760
+2008,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),516,2762
+2009,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),866,2764
+2010,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),881,2766
+2011,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),824,2768
+2012,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),996,2770
+2013,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),896,2772
+2014,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),742,2774
+2015,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),805,2776
+2016,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),860,2778
+2017,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),959,2780
+2018,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),1075,2782
+2019,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),958,2784
+2020 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),5612,2786
+2007,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),6898,2790
+2008,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),7405,2792
+2009,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),7119,2794
+2010,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),7561,2796
+2011,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8321,2798
+2012,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8521,2800
+2013,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8810,2802
+2014,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8754,2804
+2015,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8552,2806
+2016,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8512,2808
+2017,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8719,2810
+2018,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8710,2812
+2019,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8833,2814
+2020 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8440,2816
+2007,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),411,2820
+2008,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),376,2822
+2009,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),357,2824
+2010,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),363,2826
+2011,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),345,2828
+2012,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),380,2830
+2013,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),351,2832
+2014,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),372,2834
+2015,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),370,2836
+2016,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),403,2838
+2017,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),403,2840
+2018,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),370,2842
+2019,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),399,2844
+2020 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),330,2846
+2007,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),7,2850
+2008,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),6,2852
+2009,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),5,2854
+2010,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),6,2856
+2011,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),2,2858
+2012,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),7,2860
+2013,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),5,2862
+2014,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),5,2864
+2015,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),6,2866
+2016,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),9,2868
+2017,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),6,2870
+2018,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),7,2872
+2019,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),4,2874
+2020 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),4,2876
+2007,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),9,2880
+2008,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),13,2882
+2009,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),6,2884
+2010,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),8,2886
+2011,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),18,2888
+2012,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),8,2890
+2013,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),13,2892
+2014,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),14,2894
+2015,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),9,2896
+2016,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),8,2898
+2017,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),18,2900
+2018,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),7,2902
+2019,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),10,2904
+2020 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),6,2906
+2007,Falls (W00-W19),488,2910
+2008,Falls (W00-W19),550,2912
+2009,Falls (W00-W19),477,2914
+2010,Falls (W00-W19),595,2916
+2011,Falls (W00-W19),582,2918
+2012,Falls (W00-W19),597,2920
+2013,Falls (W00-W19),609,2922
+2014,Falls (W00-W19),682,2924
+2015,Falls (W00-W19),648,2926
+2016,Falls (W00-W19),762,2928
+2017,Falls (W00-W19),834,2930
+2018,Falls (W00-W19),759,2932
+2019,Falls (W00-W19),889,2934
+2020 **,Falls (W00-W19),774,2936
+2007,Accidental discharge of firearms (W32-W34),0,2940
+2008,Accidental discharge of firearms (W32-W34),0,2942
+2009,Accidental discharge of firearms (W32-W34),0,2944
+2010,Accidental discharge of firearms (W32-W34),0,2946
+2011,Accidental discharge of firearms (W32-W34),2,2948
+2012,Accidental discharge of firearms (W32-W34),0,2950
+2013,Accidental discharge of firearms (W32-W34),2,2952
+2014,Accidental discharge of firearms (W32-W34),1,2954
+2015,Accidental discharge of firearms (W32-W34),5,2956
+2016,Accidental discharge of firearms (W32-W34),1,2958
+2017,Accidental discharge of firearms (W32-W34),3,2960
+2018,Accidental discharge of firearms (W32-W34),2,2962
+2019,Accidental discharge of firearms (W32-W34),0,2964
+2020 **,Accidental discharge of firearms (W32-W34),4,2966
+2007,Accidental drowning and submersion (W65-W74),23,2970
+2008,Accidental drowning and submersion (W65-W74),27,2972
+2009,Accidental drowning and submersion (W65-W74),15,2974
+2010,Accidental drowning and submersion (W65-W74),24,2976
+2011,Accidental drowning and submersion (W65-W74),26,2978
+2012,Accidental drowning and submersion (W65-W74),17,2980
+2013,Accidental drowning and submersion (W65-W74),34,2982
+2014,Accidental drowning and submersion (W65-W74),20,2984
+2015,Accidental drowning and submersion (W65-W74),25,2986
+2016,Accidental drowning and submersion (W65-W74),29,2988
+2017,Accidental drowning and submersion (W65-W74),32,2990
+2018,Accidental drowning and submersion (W65-W74),23,2992
+2019,Accidental drowning and submersion (W65-W74),24,2994
+2020 **,Accidental drowning and submersion (W65-W74),38,2996
+2007,Accidental exposure to smoke fire and flames (X00-X09),52,3000
+2008,Accidental exposure to smoke fire and flames (X00-X09),57,3002
+2009,Accidental exposure to smoke fire and flames (X00-X09),46,3004
+2010,Accidental exposure to smoke fire and flames (X00-X09),59,3006
+2011,Accidental exposure to smoke fire and flames (X00-X09),38,3008
+2012,Accidental exposure to smoke fire and flames (X00-X09),37,3010
+2013,Accidental exposure to smoke fire and flames (X00-X09),44,3012
+2014,Accidental exposure to smoke fire and flames (X00-X09),51,3014
+2015,Accidental exposure to smoke fire and flames (X00-X09),41,3016
+2016,Accidental exposure to smoke fire and flames (X00-X09),67,3018
+2017,Accidental exposure to smoke fire and flames (X00-X09),57,3020
+2018,Accidental exposure to smoke fire and flames (X00-X09),51,3022
+2019,Accidental exposure to smoke fire and flames (X00-X09),49,3024
+2020 **,Accidental exposure to smoke fire and flames (X00-X09),34,3026
+2007,Accidental poisoning and exposure to noxious substances (X40-X49),500,3030
+2008,Accidental poisoning and exposure to noxious substances (X40-X49),560,3032
+2009,Accidental poisoning and exposure to noxious substances (X40-X49),544,3034
+2010,Accidental poisoning and exposure to noxious substances (X40-X49),583,3036
+2011,Accidental poisoning and exposure to noxious substances (X40-X49),708,3038
+2012,Accidental poisoning and exposure to noxious substances (X40-X49),715,3040
+2013,Accidental poisoning and exposure to noxious substances (X40-X49),721,3042
+2014,Accidental poisoning and exposure to noxious substances (X40-X49),885,3044
+2015,Accidental poisoning and exposure to noxious substances (X40-X49),1046,3046
+2016,Accidental poisoning and exposure to noxious substances (X40-X49),1312,3048
+2017,Accidental poisoning and exposure to noxious substances (X40-X49),1594,3050
+2018,Accidental poisoning and exposure to noxious substances (X40-X49),1276,3052
+2019,Accidental poisoning and exposure to noxious substances (X40-X49),1295,3054
+2020 **,Accidental poisoning and exposure to noxious substances (X40-X49),1256,3056
+2007,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),332,3060
+2008,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),378,3062
+2009,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),370,3064
+2010,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),305,3066
+2011,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),364,3068
+2012,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),313,3070
+2013,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),315,3072
+2014,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),316,3074
+2015,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),334,3076
+2016,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),310,3078
+2017,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),272,3080
+2018,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),344,3082
+2019,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),332,3084
+2020 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),305,3086
+2007,Intentional self-harm (suicide) by discharge of firearms (X72-X74),62,3090
+2008,Intentional self-harm (suicide) by discharge of firearms (X72-X74),69,3092
+2009,Intentional self-harm (suicide) by discharge of firearms (X72-X74),77,3094
+2010,Intentional self-harm (suicide) by discharge of firearms (X72-X74),86,3096
+2011,Intentional self-harm (suicide) by discharge of firearms (X72-X74),91,3098
+2012,Intentional self-harm (suicide) by discharge of firearms (X72-X74),103,3100
+2013,Intentional self-harm (suicide) by discharge of firearms (X72-X74),105,3102
+2014,Intentional self-harm (suicide) by discharge of firearms (X72-X74),93,3104
+2015,Intentional self-harm (suicide) by discharge of firearms (X72-X74),111,3106
+2016,Intentional self-harm (suicide) by discharge of firearms (X72-X74),117,3108
+2017,Intentional self-harm (suicide) by discharge of firearms (X72-X74),108,3110
+2018,Intentional self-harm (suicide) by discharge of firearms (X72-X74),128,3112
+2019,Intentional self-harm (suicide) by discharge of firearms (X72-X74),114,3114
+2020 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),89,3116
+2007,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),166,3120
+2008,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),216,3122
+2009,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),211,3124
+2010,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),205,3126
+2011,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),200,3128
+2012,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),215,3130
+2013,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),231,3132
+2014,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),232,3134
+2015,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),228,3136
+2016,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),248,3138
+2017,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),220,3140
+2018,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),259,3142
+2019,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),238,3144
+2020 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),168,3146
+2007,Assault (homicide) by discharge of firearms (*U01.4X93-X95),61,3150
+2008,Assault (homicide) by discharge of firearms (*U01.4X93-X95),53,3152
+2009,Assault (homicide) by discharge of firearms (*U01.4X93-X95),80,3154
+2010,Assault (homicide) by discharge of firearms (*U01.4X93-X95),59,3156
+2011,Assault (homicide) by discharge of firearms (*U01.4X93-X95),75,3158
+2012,Assault (homicide) by discharge of firearms (*U01.4X93-X95),84,3160
+2013,Assault (homicide) by discharge of firearms (*U01.4X93-X95),65,3162
+2014,Assault (homicide) by discharge of firearms (*U01.4X93-X95),58,3164
+2015,Assault (homicide) by discharge of firearms (*U01.4X93-X95),81,3166
+2016,Assault (homicide) by discharge of firearms (*U01.4X93-X95),100,3168
+2017,Assault (homicide) by discharge of firearms (*U01.4X93-X95),103,3170
+2018,Assault (homicide) by discharge of firearms (*U01.4X93-X95),92,3172
+2019,Assault (homicide) by discharge of firearms (*U01.4X93-X95),96,3174
+2020 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),115,3176
+2007,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),83,3180
+2008,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),79,3182
+2009,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),63,3184
+2010,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),58,3186
+2011,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),47,3188
+2012,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),65,3190
+2013,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),78,3192
+2014,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),48,3194
+2015,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),65,3196
+2016,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),69,3198
+2017,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),78,3200
+2018,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),76,3202
+2019,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),53,3204
+2020 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),44,3206
+2007,Legal intervention (Y35Y89.0),0,3210
+2008,Legal intervention (Y35Y89.0),1,3212
+2009,Legal intervention (Y35Y89.0),1,3214
+2010,Legal intervention (Y35Y89.0),0,3216
+2011,Legal intervention (Y35Y89.0),0,3218
+2012,Legal intervention (Y35Y89.0),1,3220
+2013,Legal intervention (Y35Y89.0),1,3222
+2014,Legal intervention (Y35Y89.0),1,3224
+2015,Legal intervention (Y35Y89.0),0,3226
+2016,Legal intervention (Y35Y89.0),0,3228
+2017,Legal intervention (Y35Y89.0),1,3230
+2018,Legal intervention (Y35Y89.0),3,3232
+2019,Legal intervention (Y35Y89.0),1,3234
+2020 **,Legal intervention (Y35Y89.0),0,3236
+2007,Discharge of firearms undetermined intent (Y22-Y24),3,3240
+2008,Discharge of firearms undetermined intent (Y22-Y24),2,3242
+2009,Discharge of firearms undetermined intent (Y22-Y24),0,3244
+2010,Discharge of firearms undetermined intent (Y22-Y24),2,3246
+2011,Discharge of firearms undetermined intent (Y22-Y24),3,3248
+2012,Discharge of firearms undetermined intent (Y22-Y24),2,3250
+2013,Discharge of firearms undetermined intent (Y22-Y24),0,3252
+2014,Discharge of firearms undetermined intent (Y22-Y24),3,3254
+2015,Discharge of firearms undetermined intent (Y22-Y24),3,3256
+2016,Discharge of firearms undetermined intent (Y22-Y24),2,3258
+2017,Discharge of firearms undetermined intent (Y22-Y24),1,3260
+2018,Discharge of firearms undetermined intent (Y22-Y24),4,3262
+2019,Discharge of firearms undetermined intent (Y22-Y24),4,3264
+2020 **,Discharge of firearms undetermined intent (Y22-Y24),1,3266
+2007,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),26,3270
+2008,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),47,3272
+2009,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),70,3274
+2010,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),51,3276
+2011,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),50,3278
+2012,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),49,3280
+2013,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),41,3282
+2014,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),37,3284
+2015,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),52,3286
+2016,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),61,3288
+2017,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),47,3290
+2018,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),42,3292
+2019,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),51,3294
+2020 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),22,3296
+2007,Operations of war and their sequelae (Y36Y89.1),0,3300
+2008,Operations of war and their sequelae (Y36Y89.1),0,3302
+2009,Operations of war and their sequelae (Y36Y89.1),0,3304
+2010,Operations of war and their sequelae (Y36Y89.1),0,3306
+2011,Operations of war and their sequelae (Y36Y89.1),0,3308
+2012,Operations of war and their sequelae (Y36Y89.1),0,3310
+2013,Operations of war and their sequelae (Y36Y89.1),0,3312
+2014,Operations of war and their sequelae (Y36Y89.1),0,3314
+2015,Operations of war and their sequelae (Y36Y89.1),0,3316
+2016,Operations of war and their sequelae (Y36Y89.1),0,3318
+2017,Operations of war and their sequelae (Y36Y89.1),0,3320
+2018,Operations of war and their sequelae (Y36Y89.1),0,3322
+2019,Operations of war and their sequelae (Y36Y89.1),0,3324
+2020 **,Operations of war and their sequelae (Y36Y89.1),0,3326
+2007,Complications of medical and surgical care (Y40-Y84Y88),58,3330
+2008,Complications of medical and surgical care (Y40-Y84Y88),74,3332
+2009,Complications of medical and surgical care (Y40-Y84Y88),72,3334
+2010,Complications of medical and surgical care (Y40-Y84Y88),60,3336
+2011,Complications of medical and surgical care (Y40-Y84Y88),65,3338
+2012,Complications of medical and surgical care (Y40-Y84Y88),71,3340
+2013,Complications of medical and surgical care (Y40-Y84Y88),65,3342
+2014,Complications of medical and surgical care (Y40-Y84Y88),68,3344
+2015,Complications of medical and surgical care (Y40-Y84Y88),60,3346
+2016,Complications of medical and surgical care (Y40-Y84Y88),57,3348
+2017,Complications of medical and surgical care (Y40-Y84Y88),85,3350
+2018,Complications of medical and surgical care (Y40-Y84Y88),89,3352
+2019,Complications of medical and surgical care (Y40-Y84Y88),110,3354
+2020 **,Complications of medical and surgical care (Y40-Y84Y88),109,3356
+Total,Salmonella infections (A01-A02),11,28
+Total,Shigellosis and amebiasis (A03A06),2,58
+Total,Certain other intestinal infections (A04A07-A09),3860,88
+Total,Respiratory tuberculosis (A16),48,118
+Total,Other tuberculosis (A17-A19),45,148
+Total,Whooping cough (A37),3,178
+Total,Scarlet fever and erysipelas (A38A46),1,208
+Total,Meningococcal infection (A39),7,238
+Total,Septicemia (A40-A41),13022,268
+Total,Syphilis ((A50-A53),4,298
+Total,Acute poliomyelitis (A80),1,328
+Total,Arthropod-borne viral encephalitis (A83-A84A85.2),1,358
+Total,Viral hepatitis (B15-B19),898,388
+Total,Human immunodeficiency virus (HIV) disease (B20-B24),395,418
+Total,Malaria (B50-B54),1,448
+Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),1845,478
+Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),1608,508
+Total,Malignant neoplasm of esophagus (C15),1947,538
+Total,Malignant neoplasm of stomach (C16),2136,568
+Total,Malignant neoplasms of colon rectum and anus (C18-C21),15306,598
+Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),3869,628
+Total,Malignant neoplasm of pancreas (C25),11609,658
+Total,Malignant neoplasm of larynx (C32),571,688
+Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),44111,718
+Total,Malignant melanoma of skin (C43),1836,748
+Total,Malignant neoplasm of breast (C50),24416,778
+Total,Malignant neoplasm of cervix uteri (C53),2285,808
+Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),5661,838
+Total,Malignant neoplasm of ovary (C56),7845,868
+Total,Malignant neoplasm of prostate (C61),2,898
+Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),3030,928
+Total,Malignant neoplasm of bladder (C67),2879,958
+Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),3796,988
+Total,Hodgkin's disease (C81),259,1018
+Total,Non-Hodgkin's lymphoma (C82-C85),5512,1048
+Total,Leukemia (C91-C95),5783,1078
+Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),3324,1108
+Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),14,1138
+Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),19021,1168
+Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),4632,1198
+Total,Anemias (D50-D64),1828,1228
+Total,Diabetes mellitus (E10-E14),24289,1258
+Total,Malnutrition (E40-E46),2361,1288
+Total,Other nutritional deficiencies (E50-E64),66,1318
+Total,Meningitis (G00G03),136,1348
+Total,Parkinson's disease (G20-G21),6509,1378
+Total,Alzheimer's disease (G30),43912,1408
+Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),1334,1438
+Total,Hypertensive heart disease (I11),12910,1468
+Total,Hypertensive heart and renal disease (I13),1832,1498
+Total,Acute myocardial infarction (I21-I22),30843,1528
+Total,Other acute ischemic heart diseases (I24),1373,1558
+Total,Atherosclerotic cardiovascular disease so described (I25.0),11811,1588
+Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),57040,1618
+Total,Acute and subacute endocarditis (I33),404,1648
+Total,Diseases of pericardium and acute myocarditis (I30-I31I40),249,1678
+Total,Heart failure (I50),22294,1708
+Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),44168,1738
+Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),11050,1768
+Total,Cerebrovascular diseases (I60-I69),49593,1798
+Total,Atherosclerosis (I70),2358,1828
+Total,Aortic aneurysm and dissection (I71),2826,1858
+Total,Other diseases of arteries arterioles and capillaries (I72-I78),3204,1888
+Total,Other disorders of circulatory system (I80-I99),1274,1918
+Total,Influenza (J09-J11),1185,1948
+Total,Pneumonia (J12-J18),14966,1978
+Total,Acute bronchitis and bronchiolitis (J20-J21),99,2008
+Total,Unspecified acute lower respiratory infection (J22U049U071),3651,2038
+Total,Bronchitis chronic and unspecified (J40-J42),249,2068
+Total,Emphysema (J43),3300,2098
+Total,Asthma (J45-J46),1203,2128
+Total,Other chronic lower respiratory diseases (J44J47),46994,2158
+Total,Pneumoconioses and chemical effects (J60-J66J68),14,2188
+Total,Pneumonitis due to solids and liquids (J69),5550,2218
+Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),11452,2248
+Total,Peptic ulcer (K25-K28),949,2278
+Total,Diseases of appendix (K35-K38),65,2308
+Total,Hernia (K40-K46),682,2338
+Total,Alcoholic liver disease (K70),2499,2368
+Total,Other chronic liver disease and cirrhosis (K73-K74),4739,2398
+Total,Cholelithiasis and other disorders of gallbladder (K80-K82),1006,2428
+Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),113,2458
+Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),529,2488
+Total,Renal failure (N17-N19),13958,2518
+Total,Other disorders of kidney (N25N27),8,2548
+Total,Infections of kidney (N10-N12N13.6N15.1),245,2578
+Total,Hyperplasia of prostate (N40),0,2608
+Total,Inflammatory diseases of female pelvic organs (N70-N76),71,2638
+Total,Pregnancy with abortive outcome (O00-O07),7,2668
+Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),473,2698
+Total,Certain conditions originating in the perinatal period (P00-P96),3103,2728
+Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),2729,2758
+Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),16539,2788
+Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),115155,2818
+Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),5230,2848
+Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),79,2878
+Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),147,2908
+Total,Falls (W00-W19),9246,2938
+Total,Accidental discharge of firearms (W32-W34),20,2968
+Total,Accidental drowning and submersion (W65-W74),357,2998
+Total,Accidental exposure to smoke fire and flames (X00-X09),683,3028
+Total,Accidental poisoning and exposure to noxious substances (X40-X49),12995,3058
+Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),4590,3088
+Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),1353,3118
+Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),3037,3148
+Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),1122,3178
+Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),906,3208
+Total,Legal intervention (Y35Y89.0),10,3238
+Total,Discharge of firearms undetermined intent (Y22-Y24),30,3268
+Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),646,3298
+Total,Operations of war and their sequelae (Y36Y89.1),0,3328
+Total,Complications of medical and surgical care (Y40-Y84Y88),1043,3358
+2007,Total,54614,3360
+2008,Total,56444,3362
+2009,Total,54706,3364
+2010,Total,55585,3366
+2011,Total,56982,3368
+2012,Total,57431,3370
+2013,Total,57614,3372
+2014,Total,57506,3374
+2015,Total,59622,3376
+2016,Total,59544,3378
+2017,Total,61373,3380
+2018,Total,61451,3382
+2019,Total,61151,3384
+2020 **,Total,64264,3386
+Total,Total,818287,3388
