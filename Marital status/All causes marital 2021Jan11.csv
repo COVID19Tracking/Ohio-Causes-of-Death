@@ -1,0 +1,2374 @@
+DeathMaritalStatusMaritalStatusDesc,DeathYearYear,DeathCOD113ICDCode113Desc,Deaths,DeathAgeAdjustedRate11,SORT
+Married,2020 **,Salmonella infections (A01-A02),2,N/A,0
+Married,2021 **,Salmonella infections (A01-A02),0,N/A,3
+Married,Total,Salmonella infections (A01-A02),2,N/A,6
+Married but Separated,2020 **,Salmonella infections (A01-A02),0,N/A,9
+Married but Separated,2021 **,Salmonella infections (A01-A02),0,N/A,12
+Married but Separated,Total,Salmonella infections (A01-A02),0,N/A,15
+Widowed,2020 **,Salmonella infections (A01-A02),0,N/A,18
+Widowed,2021 **,Salmonella infections (A01-A02),0,N/A,21
+Widowed,Total,Salmonella infections (A01-A02),0,N/A,24
+Divorced,2020 **,Salmonella infections (A01-A02),1,N/A,27
+Divorced,2021 **,Salmonella infections (A01-A02),0,N/A,30
+Divorced,Total,Salmonella infections (A01-A02),1,N/A,33
+Never Married,2020 **,Salmonella infections (A01-A02),0,N/A,36
+Never Married,2021 **,Salmonella infections (A01-A02),0,N/A,39
+Never Married,Total,Salmonella infections (A01-A02),0,N/A,42
+Unknown,2020 **,Salmonella infections (A01-A02),0,N/A,45
+Unknown,2021 **,Salmonella infections (A01-A02),0,N/A,48
+Unknown,Total,Salmonella infections (A01-A02),0,N/A,51
+Total,2020 **,Salmonella infections (A01-A02),3,N/A,54
+Total,2021 **,Salmonella infections (A01-A02),0,N/A,57
+Total,Total,Salmonella infections (A01-A02),3,N/A,60
+Married,2020 **,Shigellosis and amebiasis (A03A06),0,N/A,63
+Married,2021 **,Shigellosis and amebiasis (A03A06),0,N/A,66
+Married,Total,Shigellosis and amebiasis (A03A06),0,N/A,69
+Married but Separated,2020 **,Shigellosis and amebiasis (A03A06),0,N/A,72
+Married but Separated,2021 **,Shigellosis and amebiasis (A03A06),0,N/A,75
+Married but Separated,Total,Shigellosis and amebiasis (A03A06),0,N/A,78
+Widowed,2020 **,Shigellosis and amebiasis (A03A06),1,N/A,81
+Widowed,2021 **,Shigellosis and amebiasis (A03A06),0,N/A,84
+Widowed,Total,Shigellosis and amebiasis (A03A06),1,N/A,87
+Divorced,2020 **,Shigellosis and amebiasis (A03A06),0,N/A,90
+Divorced,2021 **,Shigellosis and amebiasis (A03A06),0,N/A,93
+Divorced,Total,Shigellosis and amebiasis (A03A06),0,N/A,96
+Never Married,2020 **,Shigellosis and amebiasis (A03A06),0,N/A,99
+Never Married,2021 **,Shigellosis and amebiasis (A03A06),0,N/A,102
+Never Married,Total,Shigellosis and amebiasis (A03A06),0,N/A,105
+Unknown,2020 **,Shigellosis and amebiasis (A03A06),0,N/A,108
+Unknown,2021 **,Shigellosis and amebiasis (A03A06),0,N/A,111
+Unknown,Total,Shigellosis and amebiasis (A03A06),0,N/A,114
+Total,2020 **,Shigellosis and amebiasis (A03A06),1,N/A,117
+Total,2021 **,Shigellosis and amebiasis (A03A06),0,N/A,120
+Total,Total,Shigellosis and amebiasis (A03A06),1,N/A,123
+Married,2020 **,Certain other intestinal infections (A04A07-A09),82,0.5,126
+Married,2021 **,Certain other intestinal infections (A04A07-A09),0,N/A,129
+Married,Total,Certain other intestinal infections (A04A07-A09),82,0.3,132
+Married but Separated,2020 **,Certain other intestinal infections (A04A07-A09),0,N/A,135
+Married but Separated,2021 **,Certain other intestinal infections (A04A07-A09),0,N/A,138
+Married but Separated,Total,Certain other intestinal infections (A04A07-A09),0,N/A,141
+Widowed,2020 **,Certain other intestinal infections (A04A07-A09),90,0.6,144
+Widowed,2021 **,Certain other intestinal infections (A04A07-A09),0,N/A,147
+Widowed,Total,Certain other intestinal infections (A04A07-A09),90,0.3,150
+Divorced,2020 **,Certain other intestinal infections (A04A07-A09),48,0.3,153
+Divorced,2021 **,Certain other intestinal infections (A04A07-A09),0,N/A,156
+Divorced,Total,Certain other intestinal infections (A04A07-A09),48,0.2,159
+Never Married,2020 **,Certain other intestinal infections (A04A07-A09),25,0.2,162
+Never Married,2021 **,Certain other intestinal infections (A04A07-A09),0,N/A,165
+Never Married,Total,Certain other intestinal infections (A04A07-A09),25,0.1,168
+Unknown,2020 **,Certain other intestinal infections (A04A07-A09),1,N/A,171
+Unknown,2021 **,Certain other intestinal infections (A04A07-A09),0,N/A,174
+Unknown,Total,Certain other intestinal infections (A04A07-A09),1,N/A,177
+Total,2020 **,Certain other intestinal infections (A04A07-A09),246,1.6,180
+Total,2021 **,Certain other intestinal infections (A04A07-A09),0,N/A,183
+Total,Total,Certain other intestinal infections (A04A07-A09),246,0.8,186
+Married,2020 **,Respiratory tuberculosis (A16),5,N/A,189
+Married,2021 **,Respiratory tuberculosis (A16),0,N/A,192
+Married,Total,Respiratory tuberculosis (A16),5,N/A,195
+Married but Separated,2020 **,Respiratory tuberculosis (A16),0,N/A,198
+Married but Separated,2021 **,Respiratory tuberculosis (A16),0,N/A,201
+Married but Separated,Total,Respiratory tuberculosis (A16),0,N/A,204
+Widowed,2020 **,Respiratory tuberculosis (A16),1,N/A,207
+Widowed,2021 **,Respiratory tuberculosis (A16),0,N/A,210
+Widowed,Total,Respiratory tuberculosis (A16),1,N/A,213
+Divorced,2020 **,Respiratory tuberculosis (A16),1,N/A,216
+Divorced,2021 **,Respiratory tuberculosis (A16),0,N/A,219
+Divorced,Total,Respiratory tuberculosis (A16),1,N/A,222
+Never Married,2020 **,Respiratory tuberculosis (A16),1,N/A,225
+Never Married,2021 **,Respiratory tuberculosis (A16),0,N/A,228
+Never Married,Total,Respiratory tuberculosis (A16),1,N/A,231
+Unknown,2020 **,Respiratory tuberculosis (A16),0,N/A,234
+Unknown,2021 **,Respiratory tuberculosis (A16),0,N/A,237
+Unknown,Total,Respiratory tuberculosis (A16),0,N/A,240
+Total,2020 **,Respiratory tuberculosis (A16),8,N/A,243
+Total,2021 **,Respiratory tuberculosis (A16),0,N/A,246
+Total,Total,Respiratory tuberculosis (A16),8,N/A,249
+Married,2020 **,Other tuberculosis (A17-A19),4,N/A,252
+Married,2021 **,Other tuberculosis (A17-A19),0,N/A,255
+Married,Total,Other tuberculosis (A17-A19),4,N/A,258
+Married but Separated,2020 **,Other tuberculosis (A17-A19),0,N/A,261
+Married but Separated,2021 **,Other tuberculosis (A17-A19),0,N/A,264
+Married but Separated,Total,Other tuberculosis (A17-A19),0,N/A,267
+Widowed,2020 **,Other tuberculosis (A17-A19),1,N/A,270
+Widowed,2021 **,Other tuberculosis (A17-A19),0,N/A,273
+Widowed,Total,Other tuberculosis (A17-A19),1,N/A,276
+Divorced,2020 **,Other tuberculosis (A17-A19),0,N/A,279
+Divorced,2021 **,Other tuberculosis (A17-A19),0,N/A,282
+Divorced,Total,Other tuberculosis (A17-A19),0,N/A,285
+Never Married,2020 **,Other tuberculosis (A17-A19),1,N/A,288
+Never Married,2021 **,Other tuberculosis (A17-A19),0,N/A,291
+Never Married,Total,Other tuberculosis (A17-A19),1,N/A,294
+Unknown,2020 **,Other tuberculosis (A17-A19),0,N/A,297
+Unknown,2021 **,Other tuberculosis (A17-A19),0,N/A,300
+Unknown,Total,Other tuberculosis (A17-A19),0,N/A,303
+Total,2020 **,Other tuberculosis (A17-A19),6,N/A,306
+Total,2021 **,Other tuberculosis (A17-A19),0,N/A,309
+Total,Total,Other tuberculosis (A17-A19),6,N/A,312
+Married,2020 **,Whooping cough (A37),0,N/A,315
+Married,2021 **,Whooping cough (A37),0,N/A,318
+Married,Total,Whooping cough (A37),0,N/A,321
+Married but Separated,2020 **,Whooping cough (A37),0,N/A,324
+Married but Separated,2021 **,Whooping cough (A37),0,N/A,327
+Married but Separated,Total,Whooping cough (A37),0,N/A,330
+Widowed,2020 **,Whooping cough (A37),0,N/A,333
+Widowed,2021 **,Whooping cough (A37),0,N/A,336
+Widowed,Total,Whooping cough (A37),0,N/A,339
+Divorced,2020 **,Whooping cough (A37),0,N/A,342
+Divorced,2021 **,Whooping cough (A37),0,N/A,345
+Divorced,Total,Whooping cough (A37),0,N/A,348
+Never Married,2020 **,Whooping cough (A37),1,N/A,351
+Never Married,2021 **,Whooping cough (A37),0,N/A,354
+Never Married,Total,Whooping cough (A37),1,N/A,357
+Unknown,2020 **,Whooping cough (A37),0,N/A,360
+Unknown,2021 **,Whooping cough (A37),0,N/A,363
+Unknown,Total,Whooping cough (A37),0,N/A,366
+Total,2020 **,Whooping cough (A37),1,N/A,369
+Total,2021 **,Whooping cough (A37),0,N/A,372
+Total,Total,Whooping cough (A37),1,N/A,375
+Married,2020 **,Scarlet fever and erysipelas (A38A46),0,N/A,378
+Married,2021 **,Scarlet fever and erysipelas (A38A46),0,N/A,381
+Married,Total,Scarlet fever and erysipelas (A38A46),0,N/A,384
+Married but Separated,2020 **,Scarlet fever and erysipelas (A38A46),0,N/A,387
+Married but Separated,2021 **,Scarlet fever and erysipelas (A38A46),0,N/A,390
+Married but Separated,Total,Scarlet fever and erysipelas (A38A46),0,N/A,393
+Widowed,2020 **,Scarlet fever and erysipelas (A38A46),0,N/A,396
+Widowed,2021 **,Scarlet fever and erysipelas (A38A46),0,N/A,399
+Widowed,Total,Scarlet fever and erysipelas (A38A46),0,N/A,402
+Divorced,2020 **,Scarlet fever and erysipelas (A38A46),0,N/A,405
+Divorced,2021 **,Scarlet fever and erysipelas (A38A46),0,N/A,408
+Divorced,Total,Scarlet fever and erysipelas (A38A46),0,N/A,411
+Never Married,2020 **,Scarlet fever and erysipelas (A38A46),0,N/A,414
+Never Married,2021 **,Scarlet fever and erysipelas (A38A46),0,N/A,417
+Never Married,Total,Scarlet fever and erysipelas (A38A46),0,N/A,420
+Unknown,2020 **,Scarlet fever and erysipelas (A38A46),0,N/A,423
+Unknown,2021 **,Scarlet fever and erysipelas (A38A46),0,N/A,426
+Unknown,Total,Scarlet fever and erysipelas (A38A46),0,N/A,429
+Total,2020 **,Scarlet fever and erysipelas (A38A46),0,N/A,432
+Total,2021 **,Scarlet fever and erysipelas (A38A46),0,N/A,435
+Total,Total,Scarlet fever and erysipelas (A38A46),0,N/A,438
+Married,2020 **,Meningococcal infection (A39),0,N/A,441
+Married,2021 **,Meningococcal infection (A39),0,N/A,444
+Married,Total,Meningococcal infection (A39),0,N/A,447
+Married but Separated,2020 **,Meningococcal infection (A39),0,N/A,450
+Married but Separated,2021 **,Meningococcal infection (A39),0,N/A,453
+Married but Separated,Total,Meningococcal infection (A39),0,N/A,456
+Widowed,2020 **,Meningococcal infection (A39),0,N/A,459
+Widowed,2021 **,Meningococcal infection (A39),0,N/A,462
+Widowed,Total,Meningococcal infection (A39),0,N/A,465
+Divorced,2020 **,Meningococcal infection (A39),0,N/A,468
+Divorced,2021 **,Meningococcal infection (A39),0,N/A,471
+Divorced,Total,Meningococcal infection (A39),0,N/A,474
+Never Married,2020 **,Meningococcal infection (A39),1,N/A,477
+Never Married,2021 **,Meningococcal infection (A39),0,N/A,480
+Never Married,Total,Meningococcal infection (A39),1,N/A,483
+Unknown,2020 **,Meningococcal infection (A39),0,N/A,486
+Unknown,2021 **,Meningococcal infection (A39),0,N/A,489
+Unknown,Total,Meningococcal infection (A39),0,N/A,492
+Total,2020 **,Meningococcal infection (A39),1,N/A,495
+Total,2021 **,Meningococcal infection (A39),0,N/A,498
+Total,Total,Meningococcal infection (A39),1,N/A,501
+Married,2020 **,Septicemia (A40-A41),679,4.4,504
+Married,2021 **,Septicemia (A40-A41),1,N/A,507
+Married,Total,Septicemia (A40-A41),680,2.2,510
+Married but Separated,2020 **,Septicemia (A40-A41),5,N/A,513
+Married but Separated,2021 **,Septicemia (A40-A41),0,N/A,516
+Married but Separated,Total,Septicemia (A40-A41),5,N/A,519
+Widowed,2020 **,Septicemia (A40-A41),575,3.7,522
+Widowed,2021 **,Septicemia (A40-A41),0,N/A,525
+Widowed,Total,Septicemia (A40-A41),575,1.8,528
+Divorced,2020 **,Septicemia (A40-A41),337,2.2,531
+Divorced,2021 **,Septicemia (A40-A41),1,N/A,534
+Divorced,Total,Septicemia (A40-A41),338,1.1,537
+Never Married,2020 **,Septicemia (A40-A41),271,1.9,540
+Never Married,2021 **,Septicemia (A40-A41),1,N/A,543
+Never Married,Total,Septicemia (A40-A41),272,1.0,546
+Unknown,2020 **,Septicemia (A40-A41),10,0.1,549
+Unknown,2021 **,Septicemia (A40-A41),0,N/A,552
+Unknown,Total,Septicemia (A40-A41),10,0.0,555
+Total,2020 **,Septicemia (A40-A41),1877,12.3,558
+Total,2021 **,Septicemia (A40-A41),3,N/A,561
+Total,Total,Septicemia (A40-A41),1880,6.2,564
+Married,2020 **,Syphilis ((A50-A53),1,N/A,567
+Married,2021 **,Syphilis ((A50-A53),0,N/A,570
+Married,Total,Syphilis ((A50-A53),1,N/A,573
+Married but Separated,2020 **,Syphilis ((A50-A53),0,N/A,576
+Married but Separated,2021 **,Syphilis ((A50-A53),0,N/A,579
+Married but Separated,Total,Syphilis ((A50-A53),0,N/A,582
+Widowed,2020 **,Syphilis ((A50-A53),0,N/A,585
+Widowed,2021 **,Syphilis ((A50-A53),0,N/A,588
+Widowed,Total,Syphilis ((A50-A53),0,N/A,591
+Divorced,2020 **,Syphilis ((A50-A53),0,N/A,594
+Divorced,2021 **,Syphilis ((A50-A53),0,N/A,597
+Divorced,Total,Syphilis ((A50-A53),0,N/A,600
+Never Married,2020 **,Syphilis ((A50-A53),0,N/A,603
+Never Married,2021 **,Syphilis ((A50-A53),0,N/A,606
+Never Married,Total,Syphilis ((A50-A53),0,N/A,609
+Unknown,2020 **,Syphilis ((A50-A53),0,N/A,612
+Unknown,2021 **,Syphilis ((A50-A53),0,N/A,615
+Unknown,Total,Syphilis ((A50-A53),0,N/A,618
+Total,2020 **,Syphilis ((A50-A53),1,N/A,621
+Total,2021 **,Syphilis ((A50-A53),0,N/A,624
+Total,Total,Syphilis ((A50-A53),1,N/A,627
+Married,2020 **,Acute poliomyelitis (A80),0,N/A,630
+Married,2021 **,Acute poliomyelitis (A80),0,N/A,633
+Married,Total,Acute poliomyelitis (A80),0,N/A,636
+Married but Separated,2020 **,Acute poliomyelitis (A80),0,N/A,639
+Married but Separated,2021 **,Acute poliomyelitis (A80),0,N/A,642
+Married but Separated,Total,Acute poliomyelitis (A80),0,N/A,645
+Widowed,2020 **,Acute poliomyelitis (A80),0,N/A,648
+Widowed,2021 **,Acute poliomyelitis (A80),0,N/A,651
+Widowed,Total,Acute poliomyelitis (A80),0,N/A,654
+Divorced,2020 **,Acute poliomyelitis (A80),0,N/A,657
+Divorced,2021 **,Acute poliomyelitis (A80),0,N/A,660
+Divorced,Total,Acute poliomyelitis (A80),0,N/A,663
+Never Married,2020 **,Acute poliomyelitis (A80),0,N/A,666
+Never Married,2021 **,Acute poliomyelitis (A80),0,N/A,669
+Never Married,Total,Acute poliomyelitis (A80),0,N/A,672
+Unknown,2020 **,Acute poliomyelitis (A80),0,N/A,675
+Unknown,2021 **,Acute poliomyelitis (A80),0,N/A,678
+Unknown,Total,Acute poliomyelitis (A80),0,N/A,681
+Total,2020 **,Acute poliomyelitis (A80),0,N/A,684
+Total,2021 **,Acute poliomyelitis (A80),0,N/A,687
+Total,Total,Acute poliomyelitis (A80),0,N/A,690
+Married,2020 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,693
+Married,2021 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,696
+Married,Total,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,699
+Married but Separated,2020 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,702
+Married but Separated,2021 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,705
+Married but Separated,Total,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,708
+Widowed,2020 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,711
+Widowed,2021 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,714
+Widowed,Total,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,717
+Divorced,2020 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,720
+Divorced,2021 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,723
+Divorced,Total,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,726
+Never Married,2020 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,729
+Never Married,2021 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,732
+Never Married,Total,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,735
+Unknown,2020 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,738
+Unknown,2021 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,741
+Unknown,Total,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,744
+Total,2020 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,747
+Total,2021 **,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,750
+Total,Total,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,753
+Married,2020 **,Viral hepatitis (B15-B19),25,0.2,756
+Married,2021 **,Viral hepatitis (B15-B19),0,N/A,759
+Married,Total,Viral hepatitis (B15-B19),25,0.1,762
+Married but Separated,2020 **,Viral hepatitis (B15-B19),1,N/A,765
+Married but Separated,2021 **,Viral hepatitis (B15-B19),0,N/A,768
+Married but Separated,Total,Viral hepatitis (B15-B19),1,N/A,771
+Widowed,2020 **,Viral hepatitis (B15-B19),14,0.1,774
+Widowed,2021 **,Viral hepatitis (B15-B19),0,N/A,777
+Widowed,Total,Viral hepatitis (B15-B19),14,0.0,780
+Divorced,2020 **,Viral hepatitis (B15-B19),28,0.2,783
+Divorced,2021 **,Viral hepatitis (B15-B19),0,N/A,786
+Divorced,Total,Viral hepatitis (B15-B19),28,0.1,789
+Never Married,2020 **,Viral hepatitis (B15-B19),26,0.2,792
+Never Married,2021 **,Viral hepatitis (B15-B19),0,N/A,795
+Never Married,Total,Viral hepatitis (B15-B19),26,0.1,798
+Unknown,2020 **,Viral hepatitis (B15-B19),3,N/A,801
+Unknown,2021 **,Viral hepatitis (B15-B19),0,N/A,804
+Unknown,Total,Viral hepatitis (B15-B19),3,N/A,807
+Total,2020 **,Viral hepatitis (B15-B19),97,0.7,810
+Total,2021 **,Viral hepatitis (B15-B19),0,N/A,813
+Total,Total,Viral hepatitis (B15-B19),97,0.3,816
+Married,2020 **,Human immunodeficiency virus (HIV) disease (B20-B24),7,N/A,819
+Married,2021 **,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,822
+Married,Total,Human immunodeficiency virus (HIV) disease (B20-B24),7,N/A,825
+Married but Separated,2020 **,Human immunodeficiency virus (HIV) disease (B20-B24),1,N/A,828
+Married but Separated,2021 **,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,831
+Married but Separated,Total,Human immunodeficiency virus (HIV) disease (B20-B24),1,N/A,834
+Widowed,2020 **,Human immunodeficiency virus (HIV) disease (B20-B24),1,N/A,837
+Widowed,2021 **,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,840
+Widowed,Total,Human immunodeficiency virus (HIV) disease (B20-B24),1,N/A,843
+Divorced,2020 **,Human immunodeficiency virus (HIV) disease (B20-B24),15,0.1,846
+Divorced,2021 **,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,849
+Divorced,Total,Human immunodeficiency virus (HIV) disease (B20-B24),15,0.1,852
+Never Married,2020 **,Human immunodeficiency virus (HIV) disease (B20-B24),60,0.5,855
+Never Married,2021 **,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,858
+Never Married,Total,Human immunodeficiency virus (HIV) disease (B20-B24),60,0.2,861
+Unknown,2020 **,Human immunodeficiency virus (HIV) disease (B20-B24),2,N/A,864
+Unknown,2021 **,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,867
+Unknown,Total,Human immunodeficiency virus (HIV) disease (B20-B24),2,N/A,870
+Total,2020 **,Human immunodeficiency virus (HIV) disease (B20-B24),86,0.7,873
+Total,2021 **,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,876
+Total,Total,Human immunodeficiency virus (HIV) disease (B20-B24),86,0.3,879
+Married,2020 **,Malaria (B50-B54),0,N/A,882
+Married,2021 **,Malaria (B50-B54),0,N/A,885
+Married,Total,Malaria (B50-B54),0,N/A,888
+Married but Separated,2020 **,Malaria (B50-B54),0,N/A,891
+Married but Separated,2021 **,Malaria (B50-B54),0,N/A,894
+Married but Separated,Total,Malaria (B50-B54),0,N/A,897
+Widowed,2020 **,Malaria (B50-B54),0,N/A,900
+Widowed,2021 **,Malaria (B50-B54),0,N/A,903
+Widowed,Total,Malaria (B50-B54),0,N/A,906
+Divorced,2020 **,Malaria (B50-B54),0,N/A,909
+Divorced,2021 **,Malaria (B50-B54),0,N/A,912
+Divorced,Total,Malaria (B50-B54),0,N/A,915
+Never Married,2020 **,Malaria (B50-B54),0,N/A,918
+Never Married,2021 **,Malaria (B50-B54),0,N/A,921
+Never Married,Total,Malaria (B50-B54),0,N/A,924
+Unknown,2020 **,Malaria (B50-B54),0,N/A,927
+Unknown,2021 **,Malaria (B50-B54),0,N/A,930
+Unknown,Total,Malaria (B50-B54),0,N/A,933
+Total,2020 **,Malaria (B50-B54),0,N/A,936
+Total,2021 **,Malaria (B50-B54),0,N/A,939
+Total,Total,Malaria (B50-B54),0,N/A,942
+Married,2020 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),146,1.0,945
+Married,2021 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,948
+Married,Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),146,0.5,951
+Married but Separated,2020 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,954
+Married but Separated,2021 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,957
+Married but Separated,Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,960
+Widowed,2020 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),90,0.6,963
+Widowed,2021 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,966
+Widowed,Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),90,0.3,969
+Divorced,2020 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),69,0.5,972
+Divorced,2021 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,975
+Divorced,Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),69,0.2,978
+Never Married,2020 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),62,0.5,981
+Never Married,2021 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,984
+Never Married,Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),62,0.2,987
+Unknown,2020 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),3,N/A,990
+Unknown,2021 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,993
+Unknown,Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),3,N/A,996
+Total,2020 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),370,2.5,999
+Total,2021 **,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,1002
+Total,Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),370,1.3,1005
+Married,2020 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),190,1.2,1008
+Married,2021 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1011
+Married,Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),190,0.6,1014
+Married but Separated,2020 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),5,N/A,1017
+Married but Separated,2021 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1020
+Married but Separated,Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),5,N/A,1023
+Widowed,2020 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),71,0.5,1026
+Widowed,2021 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1029
+Widowed,Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),71,0.2,1032
+Divorced,2020 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),130,0.8,1035
+Divorced,2021 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1038
+Divorced,Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),130,0.4,1041
+Never Married,2020 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),52,0.3,1044
+Never Married,2021 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),1,N/A,1047
+Never Married,Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),53,0.2,1050
+Unknown,2020 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),3,N/A,1053
+Unknown,2021 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1056
+Unknown,Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),3,N/A,1059
+Total,2020 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),451,2.9,1062
+Total,2021 **,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),1,N/A,1065
+Total,Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),452,1.4,1068
+Married,2020 **,Malignant neoplasm of esophagus (C15),340,2.1,1071
+Married,2021 **,Malignant neoplasm of esophagus (C15),1,N/A,1074
+Married,Total,Malignant neoplasm of esophagus (C15),341,1.1,1077
+Married but Separated,2020 **,Malignant neoplasm of esophagus (C15),5,N/A,1080
+Married but Separated,2021 **,Malignant neoplasm of esophagus (C15),0,N/A,1083
+Married but Separated,Total,Malignant neoplasm of esophagus (C15),5,N/A,1086
+Widowed,2020 **,Malignant neoplasm of esophagus (C15),97,0.6,1089
+Widowed,2021 **,Malignant neoplasm of esophagus (C15),1,N/A,1092
+Widowed,Total,Malignant neoplasm of esophagus (C15),98,0.3,1095
+Divorced,2020 **,Malignant neoplasm of esophagus (C15),121,0.7,1098
+Divorced,2021 **,Malignant neoplasm of esophagus (C15),0,N/A,1101
+Divorced,Total,Malignant neoplasm of esophagus (C15),121,0.4,1104
+Never Married,2020 **,Malignant neoplasm of esophagus (C15),57,0.4,1107
+Never Married,2021 **,Malignant neoplasm of esophagus (C15),0,N/A,1110
+Never Married,Total,Malignant neoplasm of esophagus (C15),57,0.2,1113
+Unknown,2020 **,Malignant neoplasm of esophagus (C15),5,N/A,1116
+Unknown,2021 **,Malignant neoplasm of esophagus (C15),0,N/A,1119
+Unknown,Total,Malignant neoplasm of esophagus (C15),5,N/A,1122
+Total,2020 **,Malignant neoplasm of esophagus (C15),625,4.0,1125
+Total,2021 **,Malignant neoplasm of esophagus (C15),2,N/A,1128
+Total,Total,Malignant neoplasm of esophagus (C15),627,2.0,1131
+Married,2020 **,Malignant neoplasm of stomach (C16),157,1.0,1134
+Married,2021 **,Malignant neoplasm of stomach (C16),0,N/A,1137
+Married,Total,Malignant neoplasm of stomach (C16),157,0.5,1140
+Married but Separated,2020 **,Malignant neoplasm of stomach (C16),0,N/A,1143
+Married but Separated,2021 **,Malignant neoplasm of stomach (C16),0,N/A,1146
+Married but Separated,Total,Malignant neoplasm of stomach (C16),0,N/A,1149
+Widowed,2020 **,Malignant neoplasm of stomach (C16),70,0.5,1152
+Widowed,2021 **,Malignant neoplasm of stomach (C16),0,N/A,1155
+Widowed,Total,Malignant neoplasm of stomach (C16),70,0.2,1158
+Divorced,2020 **,Malignant neoplasm of stomach (C16),57,0.4,1161
+Divorced,2021 **,Malignant neoplasm of stomach (C16),0,N/A,1164
+Divorced,Total,Malignant neoplasm of stomach (C16),57,0.2,1167
+Never Married,2020 **,Malignant neoplasm of stomach (C16),40,0.3,1170
+Never Married,2021 **,Malignant neoplasm of stomach (C16),0,N/A,1173
+Never Married,Total,Malignant neoplasm of stomach (C16),40,0.1,1176
+Unknown,2020 **,Malignant neoplasm of stomach (C16),0,N/A,1179
+Unknown,2021 **,Malignant neoplasm of stomach (C16),0,N/A,1182
+Unknown,Total,Malignant neoplasm of stomach (C16),0,N/A,1185
+Total,2020 **,Malignant neoplasm of stomach (C16),324,2.1,1188
+Total,2021 **,Malignant neoplasm of stomach (C16),0,N/A,1191
+Total,Total,Malignant neoplasm of stomach (C16),324,1.1,1194
+Married,2020 **,Malignant neoplasms of colon rectum and anus (C18-C21),851,5.6,1197
+Married,2021 **,Malignant neoplasms of colon rectum and anus (C18-C21),6,N/A,1200
+Married,Total,Malignant neoplasms of colon rectum and anus (C18-C21),857,2.8,1203
+Married but Separated,2020 **,Malignant neoplasms of colon rectum and anus (C18-C21),12,0.1,1206
+Married but Separated,2021 **,Malignant neoplasms of colon rectum and anus (C18-C21),1,N/A,1209
+Married but Separated,Total,Malignant neoplasms of colon rectum and anus (C18-C21),13,0.0,1212
+Widowed,2020 **,Malignant neoplasms of colon rectum and anus (C18-C21),495,3.2,1215
+Widowed,2021 **,Malignant neoplasms of colon rectum and anus (C18-C21),1,N/A,1218
+Widowed,Total,Malignant neoplasms of colon rectum and anus (C18-C21),496,1.6,1221
+Divorced,2020 **,Malignant neoplasms of colon rectum and anus (C18-C21),390,2.5,1224
+Divorced,2021 **,Malignant neoplasms of colon rectum and anus (C18-C21),0,N/A,1227
+Divorced,Total,Malignant neoplasms of colon rectum and anus (C18-C21),390,1.3,1230
+Never Married,2020 **,Malignant neoplasms of colon rectum and anus (C18-C21),227,1.6,1233
+Never Married,2021 **,Malignant neoplasms of colon rectum and anus (C18-C21),2,N/A,1236
+Never Married,Total,Malignant neoplasms of colon rectum and anus (C18-C21),229,0.8,1239
+Unknown,2020 **,Malignant neoplasms of colon rectum and anus (C18-C21),4,N/A,1242
+Unknown,2021 **,Malignant neoplasms of colon rectum and anus (C18-C21),0,N/A,1245
+Unknown,Total,Malignant neoplasms of colon rectum and anus (C18-C21),4,N/A,1248
+Total,2020 **,Malignant neoplasms of colon rectum and anus (C18-C21),1979,13.0,1251
+Total,2021 **,Malignant neoplasms of colon rectum and anus (C18-C21),10,0.1,1254
+Total,Total,Malignant neoplasms of colon rectum and anus (C18-C21),1989,6.6,1257
+Married,2020 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),427,2.7,1260
+Married,2021 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),0,N/A,1263
+Married,Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),427,1.3,1266
+Married but Separated,2020 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),6,N/A,1269
+Married but Separated,2021 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),0,N/A,1272
+Married but Separated,Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),6,N/A,1275
+Widowed,2020 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),161,1.0,1278
+Widowed,2021 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),0,N/A,1281
+Widowed,Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),161,0.5,1284
+Divorced,2020 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),192,1.2,1287
+Divorced,2021 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),0,N/A,1290
+Divorced,Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),192,0.6,1293
+Never Married,2020 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),105,0.7,1296
+Never Married,2021 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),0,N/A,1299
+Never Married,Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),105,0.3,1302
+Unknown,2020 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),6,N/A,1305
+Unknown,2021 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),0,N/A,1308
+Unknown,Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),6,N/A,1311
+Total,2020 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),897,5.6,1314
+Total,2021 **,Malignant neoplasms of liver and intrahepatic bile ducts (C22),0,N/A,1317
+Total,Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),897,2.8,1320
+Married,2020 **,Malignant neoplasm of pancreas (C25),878,5.6,1323
+Married,2021 **,Malignant neoplasm of pancreas (C25),1,N/A,1326
+Married,Total,Malignant neoplasm of pancreas (C25),879,2.8,1329
+Married but Separated,2020 **,Malignant neoplasm of pancreas (C25),6,N/A,1332
+Married but Separated,2021 **,Malignant neoplasm of pancreas (C25),0,N/A,1335
+Married but Separated,Total,Malignant neoplasm of pancreas (C25),6,N/A,1338
+Widowed,2020 **,Malignant neoplasm of pancreas (C25),382,2.5,1341
+Widowed,2021 **,Malignant neoplasm of pancreas (C25),2,N/A,1344
+Widowed,Total,Malignant neoplasm of pancreas (C25),384,1.2,1347
+Divorced,2020 **,Malignant neoplasm of pancreas (C25),302,1.9,1350
+Divorced,2021 **,Malignant neoplasm of pancreas (C25),1,N/A,1353
+Divorced,Total,Malignant neoplasm of pancreas (C25),303,1.0,1356
+Never Married,2020 **,Malignant neoplasm of pancreas (C25),153,1.0,1359
+Never Married,2021 **,Malignant neoplasm of pancreas (C25),0,N/A,1362
+Never Married,Total,Malignant neoplasm of pancreas (C25),153,0.5,1365
+Unknown,2020 **,Malignant neoplasm of pancreas (C25),3,N/A,1368
+Unknown,2021 **,Malignant neoplasm of pancreas (C25),0,N/A,1371
+Unknown,Total,Malignant neoplasm of pancreas (C25),3,N/A,1374
+Total,2020 **,Malignant neoplasm of pancreas (C25),1724,11.0,1377
+Total,2021 **,Malignant neoplasm of pancreas (C25),4,N/A,1380
+Total,Total,Malignant neoplasm of pancreas (C25),1728,5.5,1383
+Married,2020 **,Malignant neoplasm of larynx (C32),70,0.4,1386
+Married,2021 **,Malignant neoplasm of larynx (C32),0,N/A,1389
+Married,Total,Malignant neoplasm of larynx (C32),70,0.2,1392
+Married but Separated,2020 **,Malignant neoplasm of larynx (C32),1,N/A,1395
+Married but Separated,2021 **,Malignant neoplasm of larynx (C32),0,N/A,1398
+Married but Separated,Total,Malignant neoplasm of larynx (C32),1,N/A,1401
+Widowed,2020 **,Malignant neoplasm of larynx (C32),30,0.2,1404
+Widowed,2021 **,Malignant neoplasm of larynx (C32),0,N/A,1407
+Widowed,Total,Malignant neoplasm of larynx (C32),30,0.1,1410
+Divorced,2020 **,Malignant neoplasm of larynx (C32),43,0.3,1413
+Divorced,2021 **,Malignant neoplasm of larynx (C32),0,N/A,1416
+Divorced,Total,Malignant neoplasm of larynx (C32),43,0.1,1419
+Never Married,2020 **,Malignant neoplasm of larynx (C32),21,0.1,1422
+Never Married,2021 **,Malignant neoplasm of larynx (C32),0,N/A,1425
+Never Married,Total,Malignant neoplasm of larynx (C32),21,0.1,1428
+Unknown,2020 **,Malignant neoplasm of larynx (C32),2,N/A,1431
+Unknown,2021 **,Malignant neoplasm of larynx (C32),0,N/A,1434
+Unknown,Total,Malignant neoplasm of larynx (C32),2,N/A,1437
+Total,2020 **,Malignant neoplasm of larynx (C32),167,1.0,1440
+Total,2021 **,Malignant neoplasm of larynx (C32),0,N/A,1443
+Total,Total,Malignant neoplasm of larynx (C32),167,0.5,1446
+Married,2020 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),2532,16.0,1449
+Married,2021 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),4,N/A,1452
+Married,Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),2536,8.0,1455
+Married but Separated,2020 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),31,0.2,1458
+Married but Separated,2021 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),0,N/A,1461
+Married but Separated,Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),31,0.1,1464
+Widowed,2020 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),1353,8.8,1467
+Widowed,2021 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),2,N/A,1470
+Widowed,Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),1355,4.4,1473
+Divorced,2020 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),1353,8.3,1476
+Divorced,2021 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),4,N/A,1479
+Divorced,Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),1357,4.2,1482
+Never Married,2020 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),430,2.8,1485
+Never Married,2021 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),0,N/A,1488
+Never Married,Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),430,1.4,1491
+Unknown,2020 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),26,0.2,1494
+Unknown,2021 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),0,N/A,1497
+Unknown,Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),26,0.1,1500
+Total,2020 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),5725,36.1,1503
+Total,2021 **,Malignant neoplasms of trachea bronchus and lung (C33-C34),10,0.1,1506
+Total,Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),5735,18.1,1509
+Married,2020 **,Malignant melanoma of skin (C43),196,1.3,1512
+Married,2021 **,Malignant melanoma of skin (C43),2,N/A,1515
+Married,Total,Malignant melanoma of skin (C43),198,0.6,1518
+Married but Separated,2020 **,Malignant melanoma of skin (C43),2,N/A,1521
+Married but Separated,2021 **,Malignant melanoma of skin (C43),0,N/A,1524
+Married but Separated,Total,Malignant melanoma of skin (C43),2,N/A,1527
+Widowed,2020 **,Malignant melanoma of skin (C43),57,0.4,1530
+Widowed,2021 **,Malignant melanoma of skin (C43),0,N/A,1533
+Widowed,Total,Malignant melanoma of skin (C43),57,0.2,1536
+Divorced,2020 **,Malignant melanoma of skin (C43),56,0.4,1539
+Divorced,2021 **,Malignant melanoma of skin (C43),0,N/A,1542
+Divorced,Total,Malignant melanoma of skin (C43),56,0.2,1545
+Never Married,2020 **,Malignant melanoma of skin (C43),45,0.3,1548
+Never Married,2021 **,Malignant melanoma of skin (C43),0,N/A,1551
+Never Married,Total,Malignant melanoma of skin (C43),45,0.2,1554
+Unknown,2020 **,Malignant melanoma of skin (C43),1,N/A,1557
+Unknown,2021 **,Malignant melanoma of skin (C43),0,N/A,1560
+Unknown,Total,Malignant melanoma of skin (C43),1,N/A,1563
+Total,2020 **,Malignant melanoma of skin (C43),357,2.4,1566
+Total,2021 **,Malignant melanoma of skin (C43),2,N/A,1569
+Total,Total,Malignant melanoma of skin (C43),359,1.2,1572
+Married,2020 **,Malignant neoplasm of breast (C50),598,4.0,1575
+Married,2021 **,Malignant neoplasm of breast (C50),3,N/A,1578
+Married,Total,Malignant neoplasm of breast (C50),601,2.0,1581
+Married but Separated,2020 **,Malignant neoplasm of breast (C50),3,N/A,1584
+Married but Separated,2021 **,Malignant neoplasm of breast (C50),0,N/A,1587
+Married but Separated,Total,Malignant neoplasm of breast (C50),3,N/A,1590
+Widowed,2020 **,Malignant neoplasm of breast (C50),478,3.0,1593
+Widowed,2021 **,Malignant neoplasm of breast (C50),0,N/A,1596
+Widowed,Total,Malignant neoplasm of breast (C50),478,1.5,1599
+Divorced,2020 **,Malignant neoplasm of breast (C50),292,2.0,1602
+Divorced,2021 **,Malignant neoplasm of breast (C50),0,N/A,1605
+Divorced,Total,Malignant neoplasm of breast (C50),292,1.0,1608
+Never Married,2020 **,Malignant neoplasm of breast (C50),170,1.2,1611
+Never Married,2021 **,Malignant neoplasm of breast (C50),0,N/A,1614
+Never Married,Total,Malignant neoplasm of breast (C50),170,0.6,1617
+Unknown,2020 **,Malignant neoplasm of breast (C50),1,N/A,1620
+Unknown,2021 **,Malignant neoplasm of breast (C50),0,N/A,1623
+Unknown,Total,Malignant neoplasm of breast (C50),1,N/A,1626
+Total,2020 **,Malignant neoplasm of breast (C50),1542,10.3,1629
+Total,2021 **,Malignant neoplasm of breast (C50),3,N/A,1632
+Total,Total,Malignant neoplasm of breast (C50),1545,5.2,1635
+Married,2020 **,Malignant neoplasm of cervix uteri (C53),54,0.4,1638
+Married,2021 **,Malignant neoplasm of cervix uteri (C53),0,N/A,1641
+Married,Total,Malignant neoplasm of cervix uteri (C53),54,0.2,1644
+Married but Separated,2020 **,Malignant neoplasm of cervix uteri (C53),2,N/A,1647
+Married but Separated,2021 **,Malignant neoplasm of cervix uteri (C53),0,N/A,1650
+Married but Separated,Total,Malignant neoplasm of cervix uteri (C53),2,N/A,1653
+Widowed,2020 **,Malignant neoplasm of cervix uteri (C53),20,0.1,1656
+Widowed,2021 **,Malignant neoplasm of cervix uteri (C53),0,N/A,1659
+Widowed,Total,Malignant neoplasm of cervix uteri (C53),20,0.1,1662
+Divorced,2020 **,Malignant neoplasm of cervix uteri (C53),35,0.3,1665
+Divorced,2021 **,Malignant neoplasm of cervix uteri (C53),0,N/A,1668
+Divorced,Total,Malignant neoplasm of cervix uteri (C53),35,0.1,1671
+Never Married,2020 **,Malignant neoplasm of cervix uteri (C53),23,0.2,1674
+Never Married,2021 **,Malignant neoplasm of cervix uteri (C53),0,N/A,1677
+Never Married,Total,Malignant neoplasm of cervix uteri (C53),23,0.1,1680
+Unknown,2020 **,Malignant neoplasm of cervix uteri (C53),0,N/A,1683
+Unknown,2021 **,Malignant neoplasm of cervix uteri (C53),0,N/A,1686
+Unknown,Total,Malignant neoplasm of cervix uteri (C53),0,N/A,1689
+Total,2020 **,Malignant neoplasm of cervix uteri (C53),134,1.0,1692
+Total,2021 **,Malignant neoplasm of cervix uteri (C53),0,N/A,1695
+Total,Total,Malignant neoplasm of cervix uteri (C53),134,0.5,1698
+Married,2020 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),170,1.0,1701
+Married,2021 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1704
+Married,Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),170,0.5,1707
+Married but Separated,2020 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),2,N/A,1710
+Married but Separated,2021 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1713
+Married but Separated,Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),2,N/A,1716
+Widowed,2020 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),113,0.7,1719
+Widowed,2021 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),2,N/A,1722
+Widowed,Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),115,0.4,1725
+Divorced,2020 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),83,0.5,1728
+Divorced,2021 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1731
+Divorced,Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),83,0.3,1734
+Never Married,2020 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),68,0.4,1737
+Never Married,2021 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1740
+Never Married,Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),68,0.2,1743
+Unknown,2020 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),1,N/A,1746
+Unknown,2021 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1749
+Unknown,Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),1,N/A,1752
+Total,2020 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),437,2.7,1755
+Total,2021 **,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),2,N/A,1758
+Total,Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),439,1.4,1761
+Married,2020 **,Malignant neoplasm of ovary (C56),185,1.2,1764
+Married,2021 **,Malignant neoplasm of ovary (C56),0,N/A,1767
+Married,Total,Malignant neoplasm of ovary (C56),185,0.6,1770
+Married but Separated,2020 **,Malignant neoplasm of ovary (C56),1,N/A,1773
+Married but Separated,2021 **,Malignant neoplasm of ovary (C56),0,N/A,1776
+Married but Separated,Total,Malignant neoplasm of ovary (C56),1,N/A,1779
+Widowed,2020 **,Malignant neoplasm of ovary (C56),110,0.7,1782
+Widowed,2021 **,Malignant neoplasm of ovary (C56),0,N/A,1785
+Widowed,Total,Malignant neoplasm of ovary (C56),110,0.4,1788
+Divorced,2020 **,Malignant neoplasm of ovary (C56),87,0.6,1791
+Divorced,2021 **,Malignant neoplasm of ovary (C56),1,N/A,1794
+Divorced,Total,Malignant neoplasm of ovary (C56),88,0.3,1797
+Never Married,2020 **,Malignant neoplasm of ovary (C56),58,0.4,1800
+Never Married,2021 **,Malignant neoplasm of ovary (C56),0,N/A,1803
+Never Married,Total,Malignant neoplasm of ovary (C56),58,0.2,1806
+Unknown,2020 **,Malignant neoplasm of ovary (C56),0,N/A,1809
+Unknown,2021 **,Malignant neoplasm of ovary (C56),0,N/A,1812
+Unknown,Total,Malignant neoplasm of ovary (C56),0,N/A,1815
+Total,2020 **,Malignant neoplasm of ovary (C56),441,2.8,1818
+Total,2021 **,Malignant neoplasm of ovary (C56),1,N/A,1821
+Total,Total,Malignant neoplasm of ovary (C56),442,1.4,1824
+Married,2020 **,Malignant neoplasm of prostate (C61),604,3.9,1827
+Married,2021 **,Malignant neoplasm of prostate (C61),1,N/A,1830
+Married,Total,Malignant neoplasm of prostate (C61),605,1.9,1833
+Married but Separated,2020 **,Malignant neoplasm of prostate (C61),4,N/A,1836
+Married but Separated,2021 **,Malignant neoplasm of prostate (C61),0,N/A,1839
+Married but Separated,Total,Malignant neoplasm of prostate (C61),4,N/A,1842
+Widowed,2020 **,Malignant neoplasm of prostate (C61),266,1.7,1845
+Widowed,2021 **,Malignant neoplasm of prostate (C61),1,N/A,1848
+Widowed,Total,Malignant neoplasm of prostate (C61),267,0.9,1851
+Divorced,2020 **,Malignant neoplasm of prostate (C61),175,1.1,1854
+Divorced,2021 **,Malignant neoplasm of prostate (C61),0,N/A,1857
+Divorced,Total,Malignant neoplasm of prostate (C61),175,0.5,1860
+Never Married,2020 **,Malignant neoplasm of prostate (C61),61,0.4,1863
+Never Married,2021 **,Malignant neoplasm of prostate (C61),0,N/A,1866
+Never Married,Total,Malignant neoplasm of prostate (C61),61,0.2,1869
+Unknown,2020 **,Malignant neoplasm of prostate (C61),3,N/A,1872
+Unknown,2021 **,Malignant neoplasm of prostate (C61),0,N/A,1875
+Unknown,Total,Malignant neoplasm of prostate (C61),3,N/A,1878
+Total,2020 **,Malignant neoplasm of prostate (C61),1113,7.1,1881
+Total,2021 **,Malignant neoplasm of prostate (C61),2,N/A,1884
+Total,Total,Malignant neoplasm of prostate (C61),1115,3.5,1887
+Married,2020 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),296,1.9,1890
+Married,2021 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),0,N/A,1893
+Married,Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),296,1.0,1896
+Married but Separated,2020 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),4,N/A,1899
+Married but Separated,2021 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),0,N/A,1902
+Married but Separated,Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),4,N/A,1905
+Widowed,2020 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),114,0.7,1908
+Widowed,2021 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),1,N/A,1911
+Widowed,Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),115,0.4,1914
+Divorced,2020 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),79,0.5,1917
+Divorced,2021 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),0,N/A,1920
+Divorced,Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),79,0.3,1923
+Never Married,2020 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),57,0.4,1926
+Never Married,2021 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),0,N/A,1929
+Never Married,Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),57,0.2,1932
+Unknown,2020 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),2,N/A,1935
+Unknown,2021 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),0,N/A,1938
+Unknown,Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),2,N/A,1941
+Total,2020 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),552,3.6,1944
+Total,2021 **,Malignant neoplasms of kidney and renal pelvis (C64-C65),1,N/A,1947
+Total,Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),553,1.8,1950
+Married,2020 **,Malignant neoplasm of bladder (C67),320,2.1,1953
+Married,2021 **,Malignant neoplasm of bladder (C67),0,N/A,1956
+Married,Total,Malignant neoplasm of bladder (C67),320,1.0,1959
+Married but Separated,2020 **,Malignant neoplasm of bladder (C67),1,N/A,1962
+Married but Separated,2021 **,Malignant neoplasm of bladder (C67),0,N/A,1965
+Married but Separated,Total,Malignant neoplasm of bladder (C67),1,N/A,1968
+Widowed,2020 **,Malignant neoplasm of bladder (C67),225,1.4,1971
+Widowed,2021 **,Malignant neoplasm of bladder (C67),0,N/A,1974
+Widowed,Total,Malignant neoplasm of bladder (C67),225,0.7,1977
+Divorced,2020 **,Malignant neoplasm of bladder (C67),96,0.6,1980
+Divorced,2021 **,Malignant neoplasm of bladder (C67),0,N/A,1983
+Divorced,Total,Malignant neoplasm of bladder (C67),96,0.3,1986
+Never Married,2020 **,Malignant neoplasm of bladder (C67),56,0.4,1989
+Never Married,2021 **,Malignant neoplasm of bladder (C67),0,N/A,1992
+Never Married,Total,Malignant neoplasm of bladder (C67),56,0.2,1995
+Unknown,2020 **,Malignant neoplasm of bladder (C67),4,N/A,1998
+Unknown,2021 **,Malignant neoplasm of bladder (C67),0,N/A,2001
+Unknown,Total,Malignant neoplasm of bladder (C67),4,N/A,2004
+Total,2020 **,Malignant neoplasm of bladder (C67),702,4.5,2007
+Total,2021 **,Malignant neoplasm of bladder (C67),0,N/A,2010
+Total,Total,Malignant neoplasm of bladder (C67),702,2.3,2013
+Married,2020 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),356,2.4,2016
+Married,2021 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),4,N/A,2019
+Married,Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),360,1.2,2022
+Married but Separated,2020 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),2,N/A,2025
+Married but Separated,2021 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),0,N/A,2028
+Married but Separated,Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),2,N/A,2031
+Widowed,2020 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),83,0.5,2034
+Widowed,2021 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),0,N/A,2037
+Widowed,Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),83,0.3,2040
+Divorced,2020 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),106,0.7,2043
+Divorced,2021 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),0,N/A,2046
+Divorced,Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),106,0.3,2049
+Never Married,2020 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),73,0.6,2052
+Never Married,2021 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),0,N/A,2055
+Never Married,Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),73,0.3,2058
+Unknown,2020 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),1,N/A,2061
+Unknown,2021 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),0,N/A,2064
+Unknown,Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),1,N/A,2067
+Total,2020 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),621,4.3,2070
+Total,2021 **,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),4,N/A,2073
+Total,Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),625,2.2,2076
+Married,2020 **,Hodgkin's disease (C81),17,0.1,2079
+Married,2021 **,Hodgkin's disease (C81),0,N/A,2082
+Married,Total,Hodgkin's disease (C81),17,0.1,2085
+Married but Separated,2020 **,Hodgkin's disease (C81),0,N/A,2088
+Married but Separated,2021 **,Hodgkin's disease (C81),0,N/A,2091
+Married but Separated,Total,Hodgkin's disease (C81),0,N/A,2094
+Widowed,2020 **,Hodgkin's disease (C81),11,0.1,2097
+Widowed,2021 **,Hodgkin's disease (C81),0,N/A,2100
+Widowed,Total,Hodgkin's disease (C81),11,0.0,2103
+Divorced,2020 **,Hodgkin's disease (C81),4,N/A,2106
+Divorced,2021 **,Hodgkin's disease (C81),0,N/A,2109
+Divorced,Total,Hodgkin's disease (C81),4,N/A,2112
+Never Married,2020 **,Hodgkin's disease (C81),6,N/A,2115
+Never Married,2021 **,Hodgkin's disease (C81),0,N/A,2118
+Never Married,Total,Hodgkin's disease (C81),6,N/A,2121
+Unknown,2020 **,Hodgkin's disease (C81),0,N/A,2124
+Unknown,2021 **,Hodgkin's disease (C81),0,N/A,2127
+Unknown,Total,Hodgkin's disease (C81),0,N/A,2130
+Total,2020 **,Hodgkin's disease (C81),38,0.3,2133
+Total,2021 **,Hodgkin's disease (C81),0,N/A,2136
+Total,Total,Hodgkin's disease (C81),38,0.1,2139
+Married,2020 **,Non-Hodgkin's lymphoma (C82-C85),386,2.5,2142
+Married,2021 **,Non-Hodgkin's lymphoma (C82-C85),4,N/A,2145
+Married,Total,Non-Hodgkin's lymphoma (C82-C85),390,1.2,2148
+Married but Separated,2020 **,Non-Hodgkin's lymphoma (C82-C85),2,N/A,2151
+Married but Separated,2021 **,Non-Hodgkin's lymphoma (C82-C85),0,N/A,2154
+Married but Separated,Total,Non-Hodgkin's lymphoma (C82-C85),2,N/A,2157
+Widowed,2020 **,Non-Hodgkin's lymphoma (C82-C85),209,1.4,2160
+Widowed,2021 **,Non-Hodgkin's lymphoma (C82-C85),0,N/A,2163
+Widowed,Total,Non-Hodgkin's lymphoma (C82-C85),209,0.7,2166
+Divorced,2020 **,Non-Hodgkin's lymphoma (C82-C85),110,0.7,2169
+Divorced,2021 **,Non-Hodgkin's lymphoma (C82-C85),0,N/A,2172
+Divorced,Total,Non-Hodgkin's lymphoma (C82-C85),110,0.4,2175
+Never Married,2020 **,Non-Hodgkin's lymphoma (C82-C85),62,0.4,2178
+Never Married,2021 **,Non-Hodgkin's lymphoma (C82-C85),0,N/A,2181
+Never Married,Total,Non-Hodgkin's lymphoma (C82-C85),62,0.2,2184
+Unknown,2020 **,Non-Hodgkin's lymphoma (C82-C85),0,N/A,2187
+Unknown,2021 **,Non-Hodgkin's lymphoma (C82-C85),0,N/A,2190
+Unknown,Total,Non-Hodgkin's lymphoma (C82-C85),0,N/A,2193
+Total,2020 **,Non-Hodgkin's lymphoma (C82-C85),769,5.0,2196
+Total,2021 **,Non-Hodgkin's lymphoma (C82-C85),4,N/A,2199
+Total,Total,Non-Hodgkin's lymphoma (C82-C85),773,2.5,2202
+Married,2020 **,Leukemia (C91-C95),421,2.7,2205
+Married,2021 **,Leukemia (C91-C95),1,N/A,2208
+Married,Total,Leukemia (C91-C95),422,1.4,2211
+Married but Separated,2020 **,Leukemia (C91-C95),3,N/A,2214
+Married but Separated,2021 **,Leukemia (C91-C95),0,N/A,2217
+Married but Separated,Total,Leukemia (C91-C95),3,N/A,2220
+Widowed,2020 **,Leukemia (C91-C95),250,1.6,2223
+Widowed,2021 **,Leukemia (C91-C95),2,N/A,2226
+Widowed,Total,Leukemia (C91-C95),252,0.8,2229
+Divorced,2020 **,Leukemia (C91-C95),125,0.8,2232
+Divorced,2021 **,Leukemia (C91-C95),0,N/A,2235
+Divorced,Total,Leukemia (C91-C95),125,0.4,2238
+Never Married,2020 **,Leukemia (C91-C95),98,0.8,2241
+Never Married,2021 **,Leukemia (C91-C95),0,N/A,2244
+Never Married,Total,Leukemia (C91-C95),98,0.4,2247
+Unknown,2020 **,Leukemia (C91-C95),2,N/A,2250
+Unknown,2021 **,Leukemia (C91-C95),0,N/A,2253
+Unknown,Total,Leukemia (C91-C95),2,N/A,2256
+Total,2020 **,Leukemia (C91-C95),899,6.0,2259
+Total,2021 **,Leukemia (C91-C95),3,N/A,2262
+Total,Total,Leukemia (C91-C95),902,3.0,2265
+Married,2020 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),256,1.6,2268
+Married,2021 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),1,N/A,2271
+Married,Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),257,0.8,2274
+Married but Separated,2020 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2277
+Married but Separated,2021 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2280
+Married but Separated,Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2283
+Widowed,2020 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),127,0.8,2286
+Widowed,2021 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),2,N/A,2289
+Widowed,Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),129,0.4,2292
+Divorced,2020 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),73,0.5,2295
+Divorced,2021 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2298
+Divorced,Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),73,0.2,2301
+Never Married,2020 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),46,0.3,2304
+Never Married,2021 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2307
+Never Married,Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),46,0.1,2310
+Unknown,2020 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),2,N/A,2313
+Unknown,2021 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2316
+Unknown,Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),2,N/A,2319
+Total,2020 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),504,3.2,2322
+Total,2021 **,Multiple myeloma and immunoproliferative neoplasms (C88C90),3,N/A,2325
+Total,Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),507,1.6,2328
+Married,2020 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2331
+Married,2021 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2334
+Married,Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2337
+Married but Separated,2020 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2340
+Married but Separated,2021 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2343
+Married but Separated,Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2346
+Widowed,2020 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2349
+Widowed,2021 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2352
+Widowed,Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2355
+Divorced,2020 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,N/A,2358
+Divorced,2021 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2361
+Divorced,Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,N/A,2364
+Never Married,2020 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2367
+Never Married,2021 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2370
+Never Married,Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2373
+Unknown,2020 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2376
+Unknown,2021 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2379
+Unknown,Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2382
+Total,2020 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,N/A,2385
+Total,2021 **,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2388
+Total,Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,N/A,2391
+Married,2020 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1254,8.2,2394
+Married,2021 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),4,N/A,2397
+Married,Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1258,4.1,2400
+Married but Separated,2020 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),11,0.1,2403
+Married but Separated,2021 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),0,N/A,2406
+Married but Separated,Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),11,0.0,2409
+Widowed,2020 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),718,4.6,2412
+Widowed,2021 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),2,N/A,2415
+Widowed,Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),720,2.3,2418
+Divorced,2020 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),482,3.0,2421
+Divorced,2021 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1,N/A,2424
+Divorced,Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),483,1.5,2427
+Never Married,2020 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),323,2.3,2430
+Never Married,2021 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1,N/A,2433
+Never Married,Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),324,1.2,2436
+Unknown,2020 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),9,N/A,2439
+Unknown,2021 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),0,N/A,2442
+Unknown,Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),9,N/A,2445
+Total,2020 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),2797,18.3,2448
+Total,2021 **,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),8,N/A,2451
+Total,Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),2805,9.2,2454
+Married,2020 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),272,1.8,2457
+Married,2021 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),1,N/A,2460
+Married,Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),273,0.9,2463
+Married but Separated,2020 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),3,N/A,2466
+Married but Separated,2021 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),0,N/A,2469
+Married but Separated,Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),3,N/A,2472
+Widowed,2020 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),204,1.3,2475
+Widowed,2021 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),0,N/A,2478
+Widowed,Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),204,0.6,2481
+Divorced,2020 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),88,0.6,2484
+Divorced,2021 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),0,N/A,2487
+Divorced,Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),88,0.3,2490
+Never Married,2020 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),51,0.4,2493
+Never Married,2021 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),0,N/A,2496
+Never Married,Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),51,0.2,2499
+Unknown,2020 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),0,N/A,2502
+Unknown,2021 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),0,N/A,2505
+Unknown,Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),0,N/A,2508
+Total,2020 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),618,4.0,2511
+Total,2021 **,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),1,N/A,2514
+Total,Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),619,2.0,2517
+Married,2020 **,Anemias (D50-D64),51,0.3,2520
+Married,2021 **,Anemias (D50-D64),1,N/A,2523
+Married,Total,Anemias (D50-D64),52,0.2,2526
+Married but Separated,2020 **,Anemias (D50-D64),1,N/A,2529
+Married but Separated,2021 **,Anemias (D50-D64),0,N/A,2532
+Married but Separated,Total,Anemias (D50-D64),1,N/A,2535
+Widowed,2020 **,Anemias (D50-D64),77,0.5,2538
+Widowed,2021 **,Anemias (D50-D64),0,N/A,2541
+Widowed,Total,Anemias (D50-D64),77,0.2,2544
+Divorced,2020 **,Anemias (D50-D64),29,0.2,2547
+Divorced,2021 **,Anemias (D50-D64),0,N/A,2550
+Divorced,Total,Anemias (D50-D64),29,0.1,2553
+Never Married,2020 **,Anemias (D50-D64),36,0.3,2556
+Never Married,2021 **,Anemias (D50-D64),0,N/A,2559
+Never Married,Total,Anemias (D50-D64),36,0.1,2562
+Unknown,2020 **,Anemias (D50-D64),1,N/A,2565
+Unknown,2021 **,Anemias (D50-D64),0,N/A,2568
+Unknown,Total,Anemias (D50-D64),1,N/A,2571
+Total,2020 **,Anemias (D50-D64),195,1.3,2574
+Total,2021 **,Anemias (D50-D64),1,N/A,2577
+Total,Total,Anemias (D50-D64),196,0.7,2580
+Married,2020 **,Diabetes mellitus (E10-E14),1387,9.0,2583
+Married,2021 **,Diabetes mellitus (E10-E14),1,N/A,2586
+Married,Total,Diabetes mellitus (E10-E14),1388,4.5,2589
+Married but Separated,2020 **,Diabetes mellitus (E10-E14),20,0.1,2592
+Married but Separated,2021 **,Diabetes mellitus (E10-E14),0,N/A,2595
+Married but Separated,Total,Diabetes mellitus (E10-E14),20,0.1,2598
+Widowed,2020 **,Diabetes mellitus (E10-E14),1080,6.9,2601
+Widowed,2021 **,Diabetes mellitus (E10-E14),2,N/A,2604
+Widowed,Total,Diabetes mellitus (E10-E14),1082,3.4,2607
+Divorced,2020 **,Diabetes mellitus (E10-E14),796,5.1,2610
+Divorced,2021 **,Diabetes mellitus (E10-E14),0,N/A,2613
+Divorced,Total,Diabetes mellitus (E10-E14),796,2.6,2616
+Never Married,2020 **,Diabetes mellitus (E10-E14),603,4.2,2619
+Never Married,2021 **,Diabetes mellitus (E10-E14),0,N/A,2622
+Never Married,Total,Diabetes mellitus (E10-E14),603,2.1,2625
+Unknown,2020 **,Diabetes mellitus (E10-E14),15,0.1,2628
+Unknown,2021 **,Diabetes mellitus (E10-E14),0,N/A,2631
+Unknown,Total,Diabetes mellitus (E10-E14),15,0.0,2634
+Total,2020 **,Diabetes mellitus (E10-E14),3901,25.4,2637
+Total,2021 **,Diabetes mellitus (E10-E14),3,N/A,2640
+Total,Total,Diabetes mellitus (E10-E14),3904,12.7,2643
+Married,2020 **,Malnutrition (E40-E46),132,0.8,2646
+Married,2021 **,Malnutrition (E40-E46),0,N/A,2649
+Married,Total,Malnutrition (E40-E46),132,0.4,2652
+Married but Separated,2020 **,Malnutrition (E40-E46),0,N/A,2655
+Married but Separated,2021 **,Malnutrition (E40-E46),0,N/A,2658
+Married but Separated,Total,Malnutrition (E40-E46),0,N/A,2661
+Widowed,2020 **,Malnutrition (E40-E46),310,1.9,2664
+Widowed,2021 **,Malnutrition (E40-E46),0,N/A,2667
+Widowed,Total,Malnutrition (E40-E46),310,1.0,2670
+Divorced,2020 **,Malnutrition (E40-E46),73,0.5,2673
+Divorced,2021 **,Malnutrition (E40-E46),1,N/A,2676
+Divorced,Total,Malnutrition (E40-E46),74,0.2,2679
+Never Married,2020 **,Malnutrition (E40-E46),46,0.3,2682
+Never Married,2021 **,Malnutrition (E40-E46),0,N/A,2685
+Never Married,Total,Malnutrition (E40-E46),46,0.1,2688
+Unknown,2020 **,Malnutrition (E40-E46),0,N/A,2691
+Unknown,2021 **,Malnutrition (E40-E46),0,N/A,2694
+Unknown,Total,Malnutrition (E40-E46),0,N/A,2697
+Total,2020 **,Malnutrition (E40-E46),561,3.5,2700
+Total,2021 **,Malnutrition (E40-E46),1,N/A,2703
+Total,Total,Malnutrition (E40-E46),562,1.8,2706
+Married,2020 **,Other nutritional deficiencies (E50-E64),4,N/A,2709
+Married,2021 **,Other nutritional deficiencies (E50-E64),0,N/A,2712
+Married,Total,Other nutritional deficiencies (E50-E64),4,N/A,2715
+Married but Separated,2020 **,Other nutritional deficiencies (E50-E64),1,N/A,2718
+Married but Separated,2021 **,Other nutritional deficiencies (E50-E64),0,N/A,2721
+Married but Separated,Total,Other nutritional deficiencies (E50-E64),1,N/A,2724
+Widowed,2020 **,Other nutritional deficiencies (E50-E64),2,N/A,2727
+Widowed,2021 **,Other nutritional deficiencies (E50-E64),0,N/A,2730
+Widowed,Total,Other nutritional deficiencies (E50-E64),2,N/A,2733
+Divorced,2020 **,Other nutritional deficiencies (E50-E64),1,N/A,2736
+Divorced,2021 **,Other nutritional deficiencies (E50-E64),0,N/A,2739
+Divorced,Total,Other nutritional deficiencies (E50-E64),1,N/A,2742
+Never Married,2020 **,Other nutritional deficiencies (E50-E64),0,N/A,2745
+Never Married,2021 **,Other nutritional deficiencies (E50-E64),0,N/A,2748
+Never Married,Total,Other nutritional deficiencies (E50-E64),0,N/A,2751
+Unknown,2020 **,Other nutritional deficiencies (E50-E64),0,N/A,2754
+Unknown,2021 **,Other nutritional deficiencies (E50-E64),0,N/A,2757
+Unknown,Total,Other nutritional deficiencies (E50-E64),0,N/A,2760
+Total,2020 **,Other nutritional deficiencies (E50-E64),8,N/A,2763
+Total,2021 **,Other nutritional deficiencies (E50-E64),0,N/A,2766
+Total,Total,Other nutritional deficiencies (E50-E64),8,N/A,2769
+Married,2020 **,Meningitis (G00G03),3,N/A,2772
+Married,2021 **,Meningitis (G00G03),0,N/A,2775
+Married,Total,Meningitis (G00G03),3,N/A,2778
+Married but Separated,2020 **,Meningitis (G00G03),0,N/A,2781
+Married but Separated,2021 **,Meningitis (G00G03),0,N/A,2784
+Married but Separated,Total,Meningitis (G00G03),0,N/A,2787
+Widowed,2020 **,Meningitis (G00G03),2,N/A,2790
+Widowed,2021 **,Meningitis (G00G03),0,N/A,2793
+Widowed,Total,Meningitis (G00G03),2,N/A,2796
+Divorced,2020 **,Meningitis (G00G03),2,N/A,2799
+Divorced,2021 **,Meningitis (G00G03),0,N/A,2802
+Divorced,Total,Meningitis (G00G03),2,N/A,2805
+Never Married,2020 **,Meningitis (G00G03),6,N/A,2808
+Never Married,2021 **,Meningitis (G00G03),0,N/A,2811
+Never Married,Total,Meningitis (G00G03),6,N/A,2814
+Unknown,2020 **,Meningitis (G00G03),0,N/A,2817
+Unknown,2021 **,Meningitis (G00G03),0,N/A,2820
+Unknown,Total,Meningitis (G00G03),0,N/A,2823
+Total,2020 **,Meningitis (G00G03),13,0.1,2826
+Total,2021 **,Meningitis (G00G03),0,N/A,2829
+Total,Total,Meningitis (G00G03),13,0.0,2832
+Married,2020 **,Parkinson's disease (G20-G21),748,5.0,2835
+Married,2021 **,Parkinson's disease (G20-G21),3,N/A,2838
+Married,Total,Parkinson's disease (G20-G21),751,2.5,2841
+Married but Separated,2020 **,Parkinson's disease (G20-G21),0,N/A,2844
+Married but Separated,2021 **,Parkinson's disease (G20-G21),0,N/A,2847
+Married but Separated,Total,Parkinson's disease (G20-G21),0,N/A,2850
+Widowed,2020 **,Parkinson's disease (G20-G21),548,3.5,2853
+Widowed,2021 **,Parkinson's disease (G20-G21),2,N/A,2856
+Widowed,Total,Parkinson's disease (G20-G21),550,1.8,2859
+Divorced,2020 **,Parkinson's disease (G20-G21),149,1.0,2862
+Divorced,2021 **,Parkinson's disease (G20-G21),0,N/A,2865
+Divorced,Total,Parkinson's disease (G20-G21),149,0.5,2868
+Never Married,2020 **,Parkinson's disease (G20-G21),80,0.5,2871
+Never Married,2021 **,Parkinson's disease (G20-G21),1,N/A,2874
+Never Married,Total,Parkinson's disease (G20-G21),81,0.3,2877
+Unknown,2020 **,Parkinson's disease (G20-G21),1,N/A,2880
+Unknown,2021 **,Parkinson's disease (G20-G21),0,N/A,2883
+Unknown,Total,Parkinson's disease (G20-G21),1,N/A,2886
+Total,2020 **,Parkinson's disease (G20-G21),1526,10.0,2889
+Total,2021 **,Parkinson's disease (G20-G21),6,N/A,2892
+Total,Total,Parkinson's disease (G20-G21),1532,5.0,2895
+Married,2020 **,Alzheimer's disease (G30),1569,10.3,2898
+Married,2021 **,Alzheimer's disease (G30),3,N/A,2901
+Married,Total,Alzheimer's disease (G30),1572,5.2,2904
+Married but Separated,2020 **,Alzheimer's disease (G30),4,N/A,2907
+Married but Separated,2021 **,Alzheimer's disease (G30),0,N/A,2910
+Married but Separated,Total,Alzheimer's disease (G30),4,N/A,2913
+Widowed,2020 **,Alzheimer's disease (G30),3069,19.4,2916
+Widowed,2021 **,Alzheimer's disease (G30),6,N/A,2919
+Widowed,Total,Alzheimer's disease (G30),3075,9.7,2922
+Divorced,2020 **,Alzheimer's disease (G30),545,3.6,2925
+Divorced,2021 **,Alzheimer's disease (G30),0,N/A,2928
+Divorced,Total,Alzheimer's disease (G30),545,1.8,2931
+Never Married,2020 **,Alzheimer's disease (G30),228,1.5,2934
+Never Married,2021 **,Alzheimer's disease (G30),1,N/A,2937
+Never Married,Total,Alzheimer's disease (G30),229,0.7,2940
+Unknown,2020 **,Alzheimer's disease (G30),7,N/A,2943
+Unknown,2021 **,Alzheimer's disease (G30),0,N/A,2946
+Unknown,Total,Alzheimer's disease (G30),7,N/A,2949
+Total,2020 **,Alzheimer's disease (G30),5422,34.7,2952
+Total,2021 **,Alzheimer's disease (G30),10,0.1,2955
+Total,Total,Alzheimer's disease (G30),5432,17.4,2958
+Married,2020 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),68,0.4,2961
+Married,2021 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,2964
+Married,Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),68,0.2,2967
+Married but Separated,2020 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,2970
+Married but Separated,2021 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,2973
+Married but Separated,Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,2976
+Widowed,2020 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),54,0.3,2979
+Widowed,2021 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,2982
+Widowed,Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),54,0.2,2985
+Divorced,2020 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),26,0.2,2988
+Divorced,2021 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,2991
+Divorced,Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),26,0.1,2994
+Never Married,2020 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),19,0.1,2997
+Never Married,2021 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,3000
+Never Married,Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),19,0.1,3003
+Unknown,2020 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,3006
+Unknown,2021 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,3009
+Unknown,Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,3012
+Total,2020 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),167,1.1,3015
+Total,2021 **,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,3018
+Total,Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),167,0.5,3021
+Married,2020 **,Hypertensive heart disease (I11),479,3.2,3024
+Married,2021 **,Hypertensive heart disease (I11),1,N/A,3027
+Married,Total,Hypertensive heart disease (I11),480,1.6,3030
+Married but Separated,2020 **,Hypertensive heart disease (I11),4,N/A,3033
+Married but Separated,2021 **,Hypertensive heart disease (I11),0,N/A,3036
+Married but Separated,Total,Hypertensive heart disease (I11),4,N/A,3039
+Widowed,2020 **,Hypertensive heart disease (I11),778,4.9,3042
+Widowed,2021 **,Hypertensive heart disease (I11),2,N/A,3045
+Widowed,Total,Hypertensive heart disease (I11),780,2.5,3048
+Divorced,2020 **,Hypertensive heart disease (I11),405,2.6,3051
+Divorced,2021 **,Hypertensive heart disease (I11),0,N/A,3054
+Divorced,Total,Hypertensive heart disease (I11),405,1.3,3057
+Never Married,2020 **,Hypertensive heart disease (I11),334,2.4,3060
+Never Married,2021 **,Hypertensive heart disease (I11),1,N/A,3063
+Never Married,Total,Hypertensive heart disease (I11),335,1.2,3066
+Unknown,2020 **,Hypertensive heart disease (I11),14,0.1,3069
+Unknown,2021 **,Hypertensive heart disease (I11),0,N/A,3072
+Unknown,Total,Hypertensive heart disease (I11),14,0.0,3075
+Total,2020 **,Hypertensive heart disease (I11),2014,13.3,3078
+Total,2021 **,Hypertensive heart disease (I11),4,N/A,3081
+Total,Total,Hypertensive heart disease (I11),2018,6.6,3084
+Married,2020 **,Hypertensive heart and renal disease (I13),109,0.7,3087
+Married,2021 **,Hypertensive heart and renal disease (I13),1,N/A,3090
+Married,Total,Hypertensive heart and renal disease (I13),110,0.4,3093
+Married but Separated,2020 **,Hypertensive heart and renal disease (I13),3,N/A,3096
+Married but Separated,2021 **,Hypertensive heart and renal disease (I13),0,N/A,3099
+Married but Separated,Total,Hypertensive heart and renal disease (I13),3,N/A,3102
+Widowed,2020 **,Hypertensive heart and renal disease (I13),191,1.2,3105
+Widowed,2021 **,Hypertensive heart and renal disease (I13),0,N/A,3108
+Widowed,Total,Hypertensive heart and renal disease (I13),191,0.6,3111
+Divorced,2020 **,Hypertensive heart and renal disease (I13),67,0.4,3114
+Divorced,2021 **,Hypertensive heart and renal disease (I13),1,N/A,3117
+Divorced,Total,Hypertensive heart and renal disease (I13),68,0.2,3120
+Never Married,2020 **,Hypertensive heart and renal disease (I13),35,0.2,3123
+Never Married,2021 **,Hypertensive heart and renal disease (I13),0,N/A,3126
+Never Married,Total,Hypertensive heart and renal disease (I13),35,0.1,3129
+Unknown,2020 **,Hypertensive heart and renal disease (I13),3,N/A,3132
+Unknown,2021 **,Hypertensive heart and renal disease (I13),0,N/A,3135
+Unknown,Total,Hypertensive heart and renal disease (I13),3,N/A,3138
+Total,2020 **,Hypertensive heart and renal disease (I13),408,2.6,3141
+Total,2021 **,Hypertensive heart and renal disease (I13),2,N/A,3144
+Total,Total,Hypertensive heart and renal disease (I13),410,1.3,3147
+Married,2020 **,Acute myocardial infarction (I21-I22),1601,10.5,3150
+Married,2021 **,Acute myocardial infarction (I21-I22),1,N/A,3153
+Married,Total,Acute myocardial infarction (I21-I22),1602,5.2,3156
+Married but Separated,2020 **,Acute myocardial infarction (I21-I22),14,0.1,3159
+Married but Separated,2021 **,Acute myocardial infarction (I21-I22),0,N/A,3162
+Married but Separated,Total,Acute myocardial infarction (I21-I22),14,0.1,3165
+Widowed,2020 **,Acute myocardial infarction (I21-I22),1205,7.7,3168
+Widowed,2021 **,Acute myocardial infarction (I21-I22),1,N/A,3171
+Widowed,Total,Acute myocardial infarction (I21-I22),1206,3.8,3174
+Divorced,2020 **,Acute myocardial infarction (I21-I22),808,5.2,3177
+Divorced,2021 **,Acute myocardial infarction (I21-I22),0,N/A,3180
+Divorced,Total,Acute myocardial infarction (I21-I22),808,2.6,3183
+Never Married,2020 **,Acute myocardial infarction (I21-I22),403,2.7,3186
+Never Married,2021 **,Acute myocardial infarction (I21-I22),4,N/A,3189
+Never Married,Total,Acute myocardial infarction (I21-I22),407,1.4,3192
+Unknown,2020 **,Acute myocardial infarction (I21-I22),16,0.1,3195
+Unknown,2021 **,Acute myocardial infarction (I21-I22),0,N/A,3198
+Unknown,Total,Acute myocardial infarction (I21-I22),16,0.1,3201
+Total,2020 **,Acute myocardial infarction (I21-I22),4047,26.2,3204
+Total,2021 **,Acute myocardial infarction (I21-I22),6,N/A,3207
+Total,Total,Acute myocardial infarction (I21-I22),4053,13.1,3210
+Married,2020 **,Other acute ischemic heart diseases (I24),68,0.4,3213
+Married,2021 **,Other acute ischemic heart diseases (I24),0,N/A,3216
+Married,Total,Other acute ischemic heart diseases (I24),68,0.2,3219
+Married but Separated,2020 **,Other acute ischemic heart diseases (I24),0,N/A,3222
+Married but Separated,2021 **,Other acute ischemic heart diseases (I24),0,N/A,3225
+Married but Separated,Total,Other acute ischemic heart diseases (I24),0,N/A,3228
+Widowed,2020 **,Other acute ischemic heart diseases (I24),54,0.3,3231
+Widowed,2021 **,Other acute ischemic heart diseases (I24),0,N/A,3234
+Widowed,Total,Other acute ischemic heart diseases (I24),54,0.2,3237
+Divorced,2020 **,Other acute ischemic heart diseases (I24),51,0.3,3240
+Divorced,2021 **,Other acute ischemic heart diseases (I24),1,N/A,3243
+Divorced,Total,Other acute ischemic heart diseases (I24),52,0.2,3246
+Never Married,2020 **,Other acute ischemic heart diseases (I24),21,0.1,3249
+Never Married,2021 **,Other acute ischemic heart diseases (I24),0,N/A,3252
+Never Married,Total,Other acute ischemic heart diseases (I24),21,0.1,3255
+Unknown,2020 **,Other acute ischemic heart diseases (I24),1,N/A,3258
+Unknown,2021 **,Other acute ischemic heart diseases (I24),0,N/A,3261
+Unknown,Total,Other acute ischemic heart diseases (I24),1,N/A,3264
+Total,2020 **,Other acute ischemic heart diseases (I24),195,1.3,3267
+Total,2021 **,Other acute ischemic heart diseases (I24),1,N/A,3270
+Total,Total,Other acute ischemic heart diseases (I24),196,0.6,3273
+Married,2020 **,Atherosclerotic cardiovascular disease so described (I25.0),657,4.3,3276
+Married,2021 **,Atherosclerotic cardiovascular disease so described (I25.0),2,N/A,3279
+Married,Total,Atherosclerotic cardiovascular disease so described (I25.0),659,2.2,3282
+Married but Separated,2020 **,Atherosclerotic cardiovascular disease so described (I25.0),15,0.1,3285
+Married but Separated,2021 **,Atherosclerotic cardiovascular disease so described (I25.0),0,N/A,3288
+Married but Separated,Total,Atherosclerotic cardiovascular disease so described (I25.0),15,0.1,3291
+Widowed,2020 **,Atherosclerotic cardiovascular disease so described (I25.0),649,4.1,3294
+Widowed,2021 **,Atherosclerotic cardiovascular disease so described (I25.0),1,N/A,3297
+Widowed,Total,Atherosclerotic cardiovascular disease so described (I25.0),650,2.0,3300
+Divorced,2020 **,Atherosclerotic cardiovascular disease so described (I25.0),652,4.2,3303
+Divorced,2021 **,Atherosclerotic cardiovascular disease so described (I25.0),0,N/A,3306
+Divorced,Total,Atherosclerotic cardiovascular disease so described (I25.0),652,2.1,3309
+Never Married,2020 **,Atherosclerotic cardiovascular disease so described (I25.0),515,3.5,3312
+Never Married,2021 **,Atherosclerotic cardiovascular disease so described (I25.0),3,N/A,3315
+Never Married,Total,Atherosclerotic cardiovascular disease so described (I25.0),518,1.8,3318
+Unknown,2020 **,Atherosclerotic cardiovascular disease so described (I25.0),31,0.2,3321
+Unknown,2021 **,Atherosclerotic cardiovascular disease so described (I25.0),0,N/A,3324
+Unknown,Total,Atherosclerotic cardiovascular disease so described (I25.0),31,0.1,3327
+Total,2020 **,Atherosclerotic cardiovascular disease so described (I25.0),2519,16.3,3330
+Total,2021 **,Atherosclerotic cardiovascular disease so described (I25.0),6,N/A,3333
+Total,Total,Atherosclerotic cardiovascular disease so described (I25.0),2525,8.2,3336
+Married,2020 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),2666,17.3,3339
+Married,2021 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),4,N/A,3342
+Married,Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),2670,8.7,3345
+Married but Separated,2020 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),31,0.2,3348
+Married but Separated,2021 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),0,N/A,3351
+Married but Separated,Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),31,0.1,3354
+Widowed,2020 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),3092,19.6,3357
+Widowed,2021 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),6,N/A,3360
+Widowed,Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),3098,9.8,3363
+Divorced,2020 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),1306,8.3,3366
+Divorced,2021 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),0,N/A,3369
+Divorced,Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),1306,4.1,3372
+Never Married,2020 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),640,4.2,3375
+Never Married,2021 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),0,N/A,3378
+Never Married,Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),640,2.1,3381
+Unknown,2020 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),30,0.2,3384
+Unknown,2021 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),0,N/A,3387
+Unknown,Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),30,0.1,3390
+Total,2020 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),7765,49.7,3393
+Total,2021 **,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),10,0.1,3396
+Total,Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),7775,24.9,3399
+Married,2020 **,Acute and subacute endocarditis (I33),28,0.2,3402
+Married,2021 **,Acute and subacute endocarditis (I33),0,N/A,3405
+Married,Total,Acute and subacute endocarditis (I33),28,0.1,3408
+Married but Separated,2020 **,Acute and subacute endocarditis (I33),3,N/A,3411
+Married but Separated,2021 **,Acute and subacute endocarditis (I33),0,N/A,3414
+Married but Separated,Total,Acute and subacute endocarditis (I33),3,N/A,3417
+Widowed,2020 **,Acute and subacute endocarditis (I33),12,0.1,3420
+Widowed,2021 **,Acute and subacute endocarditis (I33),0,N/A,3423
+Widowed,Total,Acute and subacute endocarditis (I33),12,0.0,3426
+Divorced,2020 **,Acute and subacute endocarditis (I33),16,0.1,3429
+Divorced,2021 **,Acute and subacute endocarditis (I33),0,N/A,3432
+Divorced,Total,Acute and subacute endocarditis (I33),16,0.1,3435
+Never Married,2020 **,Acute and subacute endocarditis (I33),23,0.2,3438
+Never Married,2021 **,Acute and subacute endocarditis (I33),0,N/A,3441
+Never Married,Total,Acute and subacute endocarditis (I33),23,0.1,3444
+Unknown,2020 **,Acute and subacute endocarditis (I33),0,N/A,3447
+Unknown,2021 **,Acute and subacute endocarditis (I33),0,N/A,3450
+Unknown,Total,Acute and subacute endocarditis (I33),0,N/A,3453
+Total,2020 **,Acute and subacute endocarditis (I33),82,0.6,3456
+Total,2021 **,Acute and subacute endocarditis (I33),0,N/A,3459
+Total,Total,Acute and subacute endocarditis (I33),82,0.3,3462
+Married,2020 **,Diseases of pericardium and acute myocarditis (I30-I31I40),18,0.1,3465
+Married,2021 **,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3468
+Married,Total,Diseases of pericardium and acute myocarditis (I30-I31I40),18,0.1,3471
+Married but Separated,2020 **,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3474
+Married but Separated,2021 **,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3477
+Married but Separated,Total,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3480
+Widowed,2020 **,Diseases of pericardium and acute myocarditis (I30-I31I40),6,N/A,3483
+Widowed,2021 **,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3486
+Widowed,Total,Diseases of pericardium and acute myocarditis (I30-I31I40),6,N/A,3489
+Divorced,2020 **,Diseases of pericardium and acute myocarditis (I30-I31I40),5,N/A,3492
+Divorced,2021 **,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3495
+Divorced,Total,Diseases of pericardium and acute myocarditis (I30-I31I40),5,N/A,3498
+Never Married,2020 **,Diseases of pericardium and acute myocarditis (I30-I31I40),11,0.1,3501
+Never Married,2021 **,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3504
+Never Married,Total,Diseases of pericardium and acute myocarditis (I30-I31I40),11,0.0,3507
+Unknown,2020 **,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3510
+Unknown,2021 **,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3513
+Unknown,Total,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3516
+Total,2020 **,Diseases of pericardium and acute myocarditis (I30-I31I40),40,0.3,3519
+Total,2021 **,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3522
+Total,Total,Diseases of pericardium and acute myocarditis (I30-I31I40),40,0.1,3525
+Married,2020 **,Heart failure (I50),1091,7.1,3528
+Married,2021 **,Heart failure (I50),3,N/A,3531
+Married,Total,Heart failure (I50),1094,3.6,3534
+Married but Separated,2020 **,Heart failure (I50),13,0.1,3537
+Married but Separated,2021 **,Heart failure (I50),0,N/A,3540
+Married but Separated,Total,Heart failure (I50),13,0.0,3543
+Widowed,2020 **,Heart failure (I50),1824,11.5,3546
+Widowed,2021 **,Heart failure (I50),4,N/A,3549
+Widowed,Total,Heart failure (I50),1828,5.8,3552
+Divorced,2020 **,Heart failure (I50),503,3.2,3555
+Divorced,2021 **,Heart failure (I50),0,N/A,3558
+Divorced,Total,Heart failure (I50),503,1.6,3561
+Never Married,2020 **,Heart failure (I50),277,1.8,3564
+Never Married,2021 **,Heart failure (I50),0,N/A,3567
+Never Married,Total,Heart failure (I50),277,0.9,3570
+Unknown,2020 **,Heart failure (I50),11,0.1,3573
+Unknown,2021 **,Heart failure (I50),0,N/A,3576
+Unknown,Total,Heart failure (I50),11,0.0,3579
+Total,2020 **,Heart failure (I50),3719,23.8,3582
+Total,2021 **,Heart failure (I50),7,N/A,3585
+Total,Total,Heart failure (I50),3726,11.9,3588
+Married,2020 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2225,14.7,3591
+Married,2021 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3,N/A,3594
+Married,Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2228,7.3,3597
+Married but Separated,2020 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),27,0.2,3600
+Married but Separated,2021 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),0,N/A,3603
+Married but Separated,Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),27,0.1,3606
+Widowed,2020 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2426,15.4,3609
+Widowed,2021 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),1,N/A,3612
+Widowed,Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2427,7.7,3615
+Divorced,2020 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),1169,7.6,3618
+Divorced,2021 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),0,N/A,3621
+Divorced,Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),1169,3.8,3624
+Never Married,2020 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),810,5.9,3627
+Never Married,2021 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),0,N/A,3630
+Never Married,Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),810,2.9,3633
+Unknown,2020 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),18,0.1,3636
+Unknown,2021 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),0,N/A,3639
+Unknown,Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),18,0.1,3642
+Total,2020 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),6675,43.8,3645
+Total,2021 **,All other forms of heart disease (I26-I28I34-I38I42-I49I51),4,N/A,3648
+Total,Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),6679,21.9,3651
+Married,2020 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),365,2.4,3654
+Married,2021 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),3,N/A,3657
+Married,Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),368,1.2,3660
+Married but Separated,2020 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),5,N/A,3663
+Married but Separated,2021 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),0,N/A,3666
+Married but Separated,Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),5,N/A,3669
+Widowed,2020 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),620,3.9,3672
+Widowed,2021 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),1,N/A,3675
+Widowed,Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),621,2.0,3678
+Divorced,2020 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),250,1.6,3681
+Divorced,2021 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),0,N/A,3684
+Divorced,Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),250,0.8,3687
+Never Married,2020 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),181,1.2,3690
+Never Married,2021 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),0,N/A,3693
+Never Married,Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),181,0.6,3696
+Unknown,2020 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),9,N/A,3699
+Unknown,2021 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),0,N/A,3702
+Unknown,Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),9,N/A,3705
+Total,2020 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),1430,9.3,3708
+Total,2021 **,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),4,N/A,3711
+Total,Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),1434,4.6,3714
+Married,2020 **,Cerebrovascular diseases (I60-I69),2059,13.6,3717
+Married,2021 **,Cerebrovascular diseases (I60-I69),3,N/A,3720
+Married,Total,Cerebrovascular diseases (I60-I69),2062,6.8,3723
+Married but Separated,2020 **,Cerebrovascular diseases (I60-I69),15,0.1,3726
+Married but Separated,2021 **,Cerebrovascular diseases (I60-I69),0,N/A,3729
+Married but Separated,Total,Cerebrovascular diseases (I60-I69),15,0.1,3732
+Widowed,2020 **,Cerebrovascular diseases (I60-I69),2790,17.7,3735
+Widowed,2021 **,Cerebrovascular diseases (I60-I69),11,0.1,3738
+Widowed,Total,Cerebrovascular diseases (I60-I69),2801,8.9,3741
+Divorced,2020 **,Cerebrovascular diseases (I60-I69),991,6.4,3744
+Divorced,2021 **,Cerebrovascular diseases (I60-I69),1,N/A,3747
+Divorced,Total,Cerebrovascular diseases (I60-I69),992,3.2,3750
+Never Married,2020 **,Cerebrovascular diseases (I60-I69),541,3.7,3753
+Never Married,2021 **,Cerebrovascular diseases (I60-I69),1,N/A,3756
+Never Married,Total,Cerebrovascular diseases (I60-I69),542,1.8,3759
+Unknown,2020 **,Cerebrovascular diseases (I60-I69),24,0.2,3762
+Unknown,2021 **,Cerebrovascular diseases (I60-I69),0,N/A,3765
+Unknown,Total,Cerebrovascular diseases (I60-I69),24,0.1,3768
+Total,2020 **,Cerebrovascular diseases (I60-I69),6420,41.5,3771
+Total,2021 **,Cerebrovascular diseases (I60-I69),16,0.1,3774
+Total,Total,Cerebrovascular diseases (I60-I69),6436,20.8,3777
+Married,2020 **,Atherosclerosis (I70),43,0.3,3780
+Married,2021 **,Atherosclerosis (I70),0,N/A,3783
+Married,Total,Atherosclerosis (I70),43,0.1,3786
+Married but Separated,2020 **,Atherosclerosis (I70),1,N/A,3789
+Married but Separated,2021 **,Atherosclerosis (I70),0,N/A,3792
+Married but Separated,Total,Atherosclerosis (I70),1,N/A,3795
+Widowed,2020 **,Atherosclerosis (I70),92,0.6,3798
+Widowed,2021 **,Atherosclerosis (I70),0,N/A,3801
+Widowed,Total,Atherosclerosis (I70),92,0.3,3804
+Divorced,2020 **,Atherosclerosis (I70),33,0.2,3807
+Divorced,2021 **,Atherosclerosis (I70),0,N/A,3810
+Divorced,Total,Atherosclerosis (I70),33,0.1,3813
+Never Married,2020 **,Atherosclerosis (I70),15,0.1,3816
+Never Married,2021 **,Atherosclerosis (I70),0,N/A,3819
+Never Married,Total,Atherosclerosis (I70),15,0.0,3822
+Unknown,2020 **,Atherosclerosis (I70),0,N/A,3825
+Unknown,2021 **,Atherosclerosis (I70),0,N/A,3828
+Unknown,Total,Atherosclerosis (I70),0,N/A,3831
+Total,2020 **,Atherosclerosis (I70),184,1.2,3834
+Total,2021 **,Atherosclerosis (I70),0,N/A,3837
+Total,Total,Atherosclerosis (I70),184,0.6,3840
+Married,2020 **,Aortic aneurysm and dissection (I71),180,1.2,3843
+Married,2021 **,Aortic aneurysm and dissection (I71),1,N/A,3846
+Married,Total,Aortic aneurysm and dissection (I71),181,0.6,3849
+Married but Separated,2020 **,Aortic aneurysm and dissection (I71),0,N/A,3852
+Married but Separated,2021 **,Aortic aneurysm and dissection (I71),0,N/A,3855
+Married but Separated,Total,Aortic aneurysm and dissection (I71),0,N/A,3858
+Widowed,2020 **,Aortic aneurysm and dissection (I71),119,0.7,3861
+Widowed,2021 **,Aortic aneurysm and dissection (I71),0,N/A,3864
+Widowed,Total,Aortic aneurysm and dissection (I71),119,0.4,3867
+Divorced,2020 **,Aortic aneurysm and dissection (I71),57,0.4,3870
+Divorced,2021 **,Aortic aneurysm and dissection (I71),0,N/A,3873
+Divorced,Total,Aortic aneurysm and dissection (I71),57,0.2,3876
+Never Married,2020 **,Aortic aneurysm and dissection (I71),39,0.3,3879
+Never Married,2021 **,Aortic aneurysm and dissection (I71),0,N/A,3882
+Never Married,Total,Aortic aneurysm and dissection (I71),39,0.2,3885
+Unknown,2020 **,Aortic aneurysm and dissection (I71),0,N/A,3888
+Unknown,2021 **,Aortic aneurysm and dissection (I71),0,N/A,3891
+Unknown,Total,Aortic aneurysm and dissection (I71),0,N/A,3894
+Total,2020 **,Aortic aneurysm and dissection (I71),395,2.6,3897
+Total,2021 **,Aortic aneurysm and dissection (I71),1,N/A,3900
+Total,Total,Aortic aneurysm and dissection (I71),396,1.3,3903
+Married,2020 **,Other diseases of arteries arterioles and capillaries (I72-I78),132,0.9,3906
+Married,2021 **,Other diseases of arteries arterioles and capillaries (I72-I78),1,N/A,3909
+Married,Total,Other diseases of arteries arterioles and capillaries (I72-I78),133,0.4,3912
+Married but Separated,2020 **,Other diseases of arteries arterioles and capillaries (I72-I78),0,N/A,3915
+Married but Separated,2021 **,Other diseases of arteries arterioles and capillaries (I72-I78),0,N/A,3918
+Married but Separated,Total,Other diseases of arteries arterioles and capillaries (I72-I78),0,N/A,3921
+Widowed,2020 **,Other diseases of arteries arterioles and capillaries (I72-I78),182,1.2,3924
+Widowed,2021 **,Other diseases of arteries arterioles and capillaries (I72-I78),1,N/A,3927
+Widowed,Total,Other diseases of arteries arterioles and capillaries (I72-I78),183,0.6,3930
+Divorced,2020 **,Other diseases of arteries arterioles and capillaries (I72-I78),78,0.5,3933
+Divorced,2021 **,Other diseases of arteries arterioles and capillaries (I72-I78),0,N/A,3936
+Divorced,Total,Other diseases of arteries arterioles and capillaries (I72-I78),78,0.2,3939
+Never Married,2020 **,Other diseases of arteries arterioles and capillaries (I72-I78),45,0.3,3942
+Never Married,2021 **,Other diseases of arteries arterioles and capillaries (I72-I78),0,N/A,3945
+Never Married,Total,Other diseases of arteries arterioles and capillaries (I72-I78),45,0.2,3948
+Unknown,2020 **,Other diseases of arteries arterioles and capillaries (I72-I78),4,N/A,3951
+Unknown,2021 **,Other diseases of arteries arterioles and capillaries (I72-I78),0,N/A,3954
+Unknown,Total,Other diseases of arteries arterioles and capillaries (I72-I78),4,N/A,3957
+Total,2020 **,Other diseases of arteries arterioles and capillaries (I72-I78),441,2.8,3960
+Total,2021 **,Other diseases of arteries arterioles and capillaries (I72-I78),2,N/A,3963
+Total,Total,Other diseases of arteries arterioles and capillaries (I72-I78),443,1.4,3966
+Married,2020 **,Other disorders of circulatory system (I80-I99),57,0.4,3969
+Married,2021 **,Other disorders of circulatory system (I80-I99),0,N/A,3972
+Married,Total,Other disorders of circulatory system (I80-I99),57,0.2,3975
+Married but Separated,2020 **,Other disorders of circulatory system (I80-I99),2,N/A,3978
+Married but Separated,2021 **,Other disorders of circulatory system (I80-I99),0,N/A,3981
+Married but Separated,Total,Other disorders of circulatory system (I80-I99),2,N/A,3984
+Widowed,2020 **,Other disorders of circulatory system (I80-I99),36,0.2,3987
+Widowed,2021 **,Other disorders of circulatory system (I80-I99),0,N/A,3990
+Widowed,Total,Other disorders of circulatory system (I80-I99),36,0.1,3993
+Divorced,2020 **,Other disorders of circulatory system (I80-I99),25,0.2,3996
+Divorced,2021 **,Other disorders of circulatory system (I80-I99),0,N/A,3999
+Divorced,Total,Other disorders of circulatory system (I80-I99),25,0.1,4002
+Never Married,2020 **,Other disorders of circulatory system (I80-I99),34,0.3,4005
+Never Married,2021 **,Other disorders of circulatory system (I80-I99),0,N/A,4008
+Never Married,Total,Other disorders of circulatory system (I80-I99),34,0.1,4011
+Unknown,2020 **,Other disorders of circulatory system (I80-I99),0,N/A,4014
+Unknown,2021 **,Other disorders of circulatory system (I80-I99),0,N/A,4017
+Unknown,Total,Other disorders of circulatory system (I80-I99),0,N/A,4020
+Total,2020 **,Other disorders of circulatory system (I80-I99),154,1.1,4023
+Total,2021 **,Other disorders of circulatory system (I80-I99),0,N/A,4026
+Total,Total,Other disorders of circulatory system (I80-I99),154,0.6,4029
+Married,2020 **,Influenza (J09-J11),73,0.5,4032
+Married,2021 **,Influenza (J09-J11),0,N/A,4035
+Married,Total,Influenza (J09-J11),73,0.2,4038
+Married but Separated,2020 **,Influenza (J09-J11),0,N/A,4041
+Married but Separated,2021 **,Influenza (J09-J11),0,N/A,4044
+Married but Separated,Total,Influenza (J09-J11),0,N/A,4047
+Widowed,2020 **,Influenza (J09-J11),57,0.4,4050
+Widowed,2021 **,Influenza (J09-J11),0,N/A,4053
+Widowed,Total,Influenza (J09-J11),57,0.2,4056
+Divorced,2020 **,Influenza (J09-J11),46,0.3,4059
+Divorced,2021 **,Influenza (J09-J11),0,N/A,4062
+Divorced,Total,Influenza (J09-J11),46,0.2,4065
+Never Married,2020 **,Influenza (J09-J11),53,0.4,4068
+Never Married,2021 **,Influenza (J09-J11),0,N/A,4071
+Never Married,Total,Influenza (J09-J11),53,0.2,4074
+Unknown,2020 **,Influenza (J09-J11),0,N/A,4077
+Unknown,2021 **,Influenza (J09-J11),0,N/A,4080
+Unknown,Total,Influenza (J09-J11),0,N/A,4083
+Total,2020 **,Influenza (J09-J11),229,1.6,4086
+Total,2021 **,Influenza (J09-J11),0,N/A,4089
+Total,Total,Influenza (J09-J11),229,0.8,4092
+Married,2020 **,Pneumonia (J12-J18),527,3.4,4095
+Married,2021 **,Pneumonia (J12-J18),0,N/A,4098
+Married,Total,Pneumonia (J12-J18),527,1.7,4101
+Married but Separated,2020 **,Pneumonia (J12-J18),3,N/A,4104
+Married but Separated,2021 **,Pneumonia (J12-J18),0,N/A,4107
+Married but Separated,Total,Pneumonia (J12-J18),3,N/A,4110
+Widowed,2020 **,Pneumonia (J12-J18),607,3.9,4113
+Widowed,2021 **,Pneumonia (J12-J18),3,N/A,4116
+Widowed,Total,Pneumonia (J12-J18),610,1.9,4119
+Divorced,2020 **,Pneumonia (J12-J18),263,1.7,4122
+Divorced,2021 **,Pneumonia (J12-J18),0,N/A,4125
+Divorced,Total,Pneumonia (J12-J18),263,0.9,4128
+Never Married,2020 **,Pneumonia (J12-J18),228,1.6,4131
+Never Married,2021 **,Pneumonia (J12-J18),0,N/A,4134
+Never Married,Total,Pneumonia (J12-J18),228,0.8,4137
+Unknown,2020 **,Pneumonia (J12-J18),8,N/A,4140
+Unknown,2021 **,Pneumonia (J12-J18),0,N/A,4143
+Unknown,Total,Pneumonia (J12-J18),8,N/A,4146
+Total,2020 **,Pneumonia (J12-J18),1636,10.7,4149
+Total,2021 **,Pneumonia (J12-J18),3,N/A,4152
+Total,Total,Pneumonia (J12-J18),1639,5.3,4155
+Married,2020 **,Acute bronchitis and bronchiolitis (J20-J21),2,N/A,4158
+Married,2021 **,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4161
+Married,Total,Acute bronchitis and bronchiolitis (J20-J21),2,N/A,4164
+Married but Separated,2020 **,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4167
+Married but Separated,2021 **,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4170
+Married but Separated,Total,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4173
+Widowed,2020 **,Acute bronchitis and bronchiolitis (J20-J21),2,N/A,4176
+Widowed,2021 **,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4179
+Widowed,Total,Acute bronchitis and bronchiolitis (J20-J21),2,N/A,4182
+Divorced,2020 **,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4185
+Divorced,2021 **,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4188
+Divorced,Total,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4191
+Never Married,2020 **,Acute bronchitis and bronchiolitis (J20-J21),4,N/A,4194
+Never Married,2021 **,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4197
+Never Married,Total,Acute bronchitis and bronchiolitis (J20-J21),4,N/A,4200
+Unknown,2020 **,Acute bronchitis and bronchiolitis (J20-J21),1,N/A,4203
+Unknown,2021 **,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4206
+Unknown,Total,Acute bronchitis and bronchiolitis (J20-J21),1,N/A,4209
+Total,2020 **,Acute bronchitis and bronchiolitis (J20-J21),9,N/A,4212
+Total,2021 **,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4215
+Total,Total,Acute bronchitis and bronchiolitis (J20-J21),9,N/A,4218
+Married,2020 **,Unspecified acute lower respiratory infection (J22U049U071),2929,19.2,4221
+Married,2021 **,Unspecified acute lower respiratory infection (J22U049U071),5,N/A,4224
+Married,Total,Unspecified acute lower respiratory infection (J22U049U071),2934,9.6,4227
+Married but Separated,2020 **,Unspecified acute lower respiratory infection (J22U049U071),23,0.1,4230
+Married but Separated,2021 **,Unspecified acute lower respiratory infection (J22U049U071),0,N/A,4233
+Married but Separated,Total,Unspecified acute lower respiratory infection (J22U049U071),23,0.1,4236
+Widowed,2020 **,Unspecified acute lower respiratory infection (J22U049U071),3483,22.2,4239
+Widowed,2021 **,Unspecified acute lower respiratory infection (J22U049U071),9,N/A,4242
+Widowed,Total,Unspecified acute lower respiratory infection (J22U049U071),3492,11.1,4245
+Divorced,2020 **,Unspecified acute lower respiratory infection (J22U049U071),1519,9.8,4248
+Divorced,2021 **,Unspecified acute lower respiratory infection (J22U049U071),2,N/A,4251
+Divorced,Total,Unspecified acute lower respiratory infection (J22U049U071),1521,4.9,4254
+Never Married,2020 **,Unspecified acute lower respiratory infection (J22U049U071),941,6.4,4257
+Never Married,2021 **,Unspecified acute lower respiratory infection (J22U049U071),2,N/A,4260
+Never Married,Total,Unspecified acute lower respiratory infection (J22U049U071),943,3.2,4263
+Unknown,2020 **,Unspecified acute lower respiratory infection (J22U049U071),61,0.4,4266
+Unknown,2021 **,Unspecified acute lower respiratory infection (J22U049U071),0,N/A,4269
+Unknown,Total,Unspecified acute lower respiratory infection (J22U049U071),61,0.2,4272
+Total,2020 **,Unspecified acute lower respiratory infection (J22U049U071),8956,58.0,4275
+Total,2021 **,Unspecified acute lower respiratory infection (J22U049U071),18,0.1,4278
+Total,Total,Unspecified acute lower respiratory infection (J22U049U071),8974,29.1,4281
+Married,2020 **,Bronchitis chronic and unspecified (J40-J42),4,N/A,4284
+Married,2021 **,Bronchitis chronic and unspecified (J40-J42),0,N/A,4287
+Married,Total,Bronchitis chronic and unspecified (J40-J42),4,N/A,4290
+Married but Separated,2020 **,Bronchitis chronic and unspecified (J40-J42),0,N/A,4293
+Married but Separated,2021 **,Bronchitis chronic and unspecified (J40-J42),0,N/A,4296
+Married but Separated,Total,Bronchitis chronic and unspecified (J40-J42),0,N/A,4299
+Widowed,2020 **,Bronchitis chronic and unspecified (J40-J42),8,N/A,4302
+Widowed,2021 **,Bronchitis chronic and unspecified (J40-J42),0,N/A,4305
+Widowed,Total,Bronchitis chronic and unspecified (J40-J42),8,N/A,4308
+Divorced,2020 **,Bronchitis chronic and unspecified (J40-J42),2,N/A,4311
+Divorced,2021 **,Bronchitis chronic and unspecified (J40-J42),0,N/A,4314
+Divorced,Total,Bronchitis chronic and unspecified (J40-J42),2,N/A,4317
+Never Married,2020 **,Bronchitis chronic and unspecified (J40-J42),3,N/A,4320
+Never Married,2021 **,Bronchitis chronic and unspecified (J40-J42),0,N/A,4323
+Never Married,Total,Bronchitis chronic and unspecified (J40-J42),3,N/A,4326
+Unknown,2020 **,Bronchitis chronic and unspecified (J40-J42),0,N/A,4329
+Unknown,2021 **,Bronchitis chronic and unspecified (J40-J42),0,N/A,4332
+Unknown,Total,Bronchitis chronic and unspecified (J40-J42),0,N/A,4335
+Total,2020 **,Bronchitis chronic and unspecified (J40-J42),17,0.1,4338
+Total,2021 **,Bronchitis chronic and unspecified (J40-J42),0,N/A,4341
+Total,Total,Bronchitis chronic and unspecified (J40-J42),17,0.1,4344
+Married,2020 **,Emphysema (J43),137,0.9,4347
+Married,2021 **,Emphysema (J43),0,N/A,4350
+Married,Total,Emphysema (J43),137,0.4,4353
+Married but Separated,2020 **,Emphysema (J43),2,N/A,4356
+Married but Separated,2021 **,Emphysema (J43),0,N/A,4359
+Married but Separated,Total,Emphysema (J43),2,N/A,4362
+Widowed,2020 **,Emphysema (J43),115,0.7,4365
+Widowed,2021 **,Emphysema (J43),0,N/A,4368
+Widowed,Total,Emphysema (J43),115,0.4,4371
+Divorced,2020 **,Emphysema (J43),81,0.5,4374
+Divorced,2021 **,Emphysema (J43),0,N/A,4377
+Divorced,Total,Emphysema (J43),81,0.3,4380
+Never Married,2020 **,Emphysema (J43),30,0.2,4383
+Never Married,2021 **,Emphysema (J43),0,N/A,4386
+Never Married,Total,Emphysema (J43),30,0.1,4389
+Unknown,2020 **,Emphysema (J43),3,N/A,4392
+Unknown,2021 **,Emphysema (J43),0,N/A,4395
+Unknown,Total,Emphysema (J43),3,N/A,4398
+Total,2020 **,Emphysema (J43),368,2.3,4401
+Total,2021 **,Emphysema (J43),0,N/A,4404
+Total,Total,Emphysema (J43),368,1.2,4407
+Married,2020 **,Asthma (J45-J46),30,0.2,4410
+Married,2021 **,Asthma (J45-J46),0,N/A,4413
+Married,Total,Asthma (J45-J46),30,0.1,4416
+Married but Separated,2020 **,Asthma (J45-J46),1,N/A,4419
+Married but Separated,2021 **,Asthma (J45-J46),0,N/A,4422
+Married but Separated,Total,Asthma (J45-J46),1,N/A,4425
+Widowed,2020 **,Asthma (J45-J46),19,0.1,4428
+Widowed,2021 **,Asthma (J45-J46),0,N/A,4431
+Widowed,Total,Asthma (J45-J46),19,0.1,4434
+Divorced,2020 **,Asthma (J45-J46),25,0.2,4437
+Divorced,2021 **,Asthma (J45-J46),0,N/A,4440
+Divorced,Total,Asthma (J45-J46),25,0.1,4443
+Never Married,2020 **,Asthma (J45-J46),47,0.4,4446
+Never Married,2021 **,Asthma (J45-J46),0,N/A,4449
+Never Married,Total,Asthma (J45-J46),47,0.2,4452
+Unknown,2020 **,Asthma (J45-J46),0,N/A,4455
+Unknown,2021 **,Asthma (J45-J46),0,N/A,4458
+Unknown,Total,Asthma (J45-J46),0,N/A,4461
+Total,2020 **,Asthma (J45-J46),122,0.9,4464
+Total,2021 **,Asthma (J45-J46),0,N/A,4467
+Total,Total,Asthma (J45-J46),122,0.5,4470
+Married,2020 **,Other chronic lower respiratory diseases (J44J47),1951,12.5,4473
+Married,2021 **,Other chronic lower respiratory diseases (J44J47),3,N/A,4476
+Married,Total,Other chronic lower respiratory diseases (J44J47),1954,6.3,4479
+Married but Separated,2020 **,Other chronic lower respiratory diseases (J44J47),27,0.2,4482
+Married but Separated,2021 **,Other chronic lower respiratory diseases (J44J47),0,N/A,4485
+Married but Separated,Total,Other chronic lower respiratory diseases (J44J47),27,0.1,4488
+Widowed,2020 **,Other chronic lower respiratory diseases (J44J47),2090,13.5,4491
+Widowed,2021 **,Other chronic lower respiratory diseases (J44J47),3,N/A,4494
+Widowed,Total,Other chronic lower respiratory diseases (J44J47),2093,6.8,4497
+Divorced,2020 **,Other chronic lower respiratory diseases (J44J47),1381,8.7,4500
+Divorced,2021 **,Other chronic lower respiratory diseases (J44J47),2,N/A,4503
+Divorced,Total,Other chronic lower respiratory diseases (J44J47),1383,4.3,4506
+Never Married,2020 **,Other chronic lower respiratory diseases (J44J47),462,2.9,4509
+Never Married,2021 **,Other chronic lower respiratory diseases (J44J47),0,N/A,4512
+Never Married,Total,Other chronic lower respiratory diseases (J44J47),462,1.4,4515
+Unknown,2020 **,Other chronic lower respiratory diseases (J44J47),33,0.2,4518
+Unknown,2021 **,Other chronic lower respiratory diseases (J44J47),0,N/A,4521
+Unknown,Total,Other chronic lower respiratory diseases (J44J47),33,0.1,4524
+Total,2020 **,Other chronic lower respiratory diseases (J44J47),5944,37.9,4527
+Total,2021 **,Other chronic lower respiratory diseases (J44J47),8,N/A,4530
+Total,Total,Other chronic lower respiratory diseases (J44J47),5952,19.0,4533
+Married,2020 **,Pneumoconioses and chemical effects (J60-J66J68),15,0.1,4536
+Married,2021 **,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4539
+Married,Total,Pneumoconioses and chemical effects (J60-J66J68),15,0.0,4542
+Married but Separated,2020 **,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4545
+Married but Separated,2021 **,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4548
+Married but Separated,Total,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4551
+Widowed,2020 **,Pneumoconioses and chemical effects (J60-J66J68),4,N/A,4554
+Widowed,2021 **,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4557
+Widowed,Total,Pneumoconioses and chemical effects (J60-J66J68),4,N/A,4560
+Divorced,2020 **,Pneumoconioses and chemical effects (J60-J66J68),1,N/A,4563
+Divorced,2021 **,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4566
+Divorced,Total,Pneumoconioses and chemical effects (J60-J66J68),1,N/A,4569
+Never Married,2020 **,Pneumoconioses and chemical effects (J60-J66J68),1,N/A,4572
+Never Married,2021 **,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4575
+Never Married,Total,Pneumoconioses and chemical effects (J60-J66J68),1,N/A,4578
+Unknown,2020 **,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4581
+Unknown,2021 **,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4584
+Unknown,Total,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4587
+Total,2020 **,Pneumoconioses and chemical effects (J60-J66J68),21,0.1,4590
+Total,2021 **,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4593
+Total,Total,Pneumoconioses and chemical effects (J60-J66J68),21,0.1,4596
+Married,2020 **,Pneumonitis due to solids and liquids (J69),256,1.7,4599
+Married,2021 **,Pneumonitis due to solids and liquids (J69),0,N/A,4602
+Married,Total,Pneumonitis due to solids and liquids (J69),256,0.8,4605
+Married but Separated,2020 **,Pneumonitis due to solids and liquids (J69),3,N/A,4608
+Married but Separated,2021 **,Pneumonitis due to solids and liquids (J69),0,N/A,4611
+Married but Separated,Total,Pneumonitis due to solids and liquids (J69),3,N/A,4614
+Widowed,2020 **,Pneumonitis due to solids and liquids (J69),280,1.7,4617
+Widowed,2021 **,Pneumonitis due to solids and liquids (J69),1,N/A,4620
+Widowed,Total,Pneumonitis due to solids and liquids (J69),281,0.9,4623
+Divorced,2020 **,Pneumonitis due to solids and liquids (J69),122,0.8,4626
+Divorced,2021 **,Pneumonitis due to solids and liquids (J69),0,N/A,4629
+Divorced,Total,Pneumonitis due to solids and liquids (J69),122,0.4,4632
+Never Married,2020 **,Pneumonitis due to solids and liquids (J69),113,0.8,4635
+Never Married,2021 **,Pneumonitis due to solids and liquids (J69),1,N/A,4638
+Never Married,Total,Pneumonitis due to solids and liquids (J69),114,0.4,4641
+Unknown,2020 **,Pneumonitis due to solids and liquids (J69),3,N/A,4644
+Unknown,2021 **,Pneumonitis due to solids and liquids (J69),0,N/A,4647
+Unknown,Total,Pneumonitis due to solids and liquids (J69),3,N/A,4650
+Total,2020 **,Pneumonitis due to solids and liquids (J69),777,5.0,4653
+Total,2021 **,Pneumonitis due to solids and liquids (J69),2,N/A,4656
+Total,Total,Pneumonitis due to solids and liquids (J69),779,2.5,4659
+Married,2020 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),763,4.9,4662
+Married,2021 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),0,N/A,4665
+Married,Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),763,2.5,4668
+Married but Separated,2020 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),6,N/A,4671
+Married but Separated,2021 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),0,N/A,4674
+Married but Separated,Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),6,N/A,4677
+Widowed,2020 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),643,4.2,4680
+Widowed,2021 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),0,N/A,4683
+Widowed,Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),643,2.1,4686
+Divorced,2020 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),346,2.3,4689
+Divorced,2021 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),1,N/A,4692
+Divorced,Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),347,1.1,4695
+Never Married,2020 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),204,1.5,4698
+Never Married,2021 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),0,N/A,4701
+Never Married,Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),204,0.8,4704
+Unknown,2020 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),5,N/A,4707
+Unknown,2021 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),0,N/A,4710
+Unknown,Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),5,N/A,4713
+Total,2020 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),1967,12.9,4716
+Total,2021 **,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),1,N/A,4719
+Total,Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),1968,6.5,4722
+Married,2020 **,Peptic ulcer (K25-K28),38,0.3,4725
+Married,2021 **,Peptic ulcer (K25-K28),0,N/A,4728
+Married,Total,Peptic ulcer (K25-K28),38,0.1,4731
+Married but Separated,2020 **,Peptic ulcer (K25-K28),0,N/A,4734
+Married but Separated,2021 **,Peptic ulcer (K25-K28),0,N/A,4737
+Married but Separated,Total,Peptic ulcer (K25-K28),0,N/A,4740
+Widowed,2020 **,Peptic ulcer (K25-K28),53,0.3,4743
+Widowed,2021 **,Peptic ulcer (K25-K28),0,N/A,4746
+Widowed,Total,Peptic ulcer (K25-K28),53,0.2,4749
+Divorced,2020 **,Peptic ulcer (K25-K28),34,0.2,4752
+Divorced,2021 **,Peptic ulcer (K25-K28),0,N/A,4755
+Divorced,Total,Peptic ulcer (K25-K28),34,0.1,4758
+Never Married,2020 **,Peptic ulcer (K25-K28),10,0.1,4761
+Never Married,2021 **,Peptic ulcer (K25-K28),0,N/A,4764
+Never Married,Total,Peptic ulcer (K25-K28),10,0.0,4767
+Unknown,2020 **,Peptic ulcer (K25-K28),0,N/A,4770
+Unknown,2021 **,Peptic ulcer (K25-K28),0,N/A,4773
+Unknown,Total,Peptic ulcer (K25-K28),0,N/A,4776
+Total,2020 **,Peptic ulcer (K25-K28),135,0.9,4779
+Total,2021 **,Peptic ulcer (K25-K28),0,N/A,4782
+Total,Total,Peptic ulcer (K25-K28),135,0.4,4785
+Married,2020 **,Diseases of appendix (K35-K38),4,N/A,4788
+Married,2021 **,Diseases of appendix (K35-K38),0,N/A,4791
+Married,Total,Diseases of appendix (K35-K38),4,N/A,4794
+Married but Separated,2020 **,Diseases of appendix (K35-K38),0,N/A,4797
+Married but Separated,2021 **,Diseases of appendix (K35-K38),0,N/A,4800
+Married but Separated,Total,Diseases of appendix (K35-K38),0,N/A,4803
+Widowed,2020 **,Diseases of appendix (K35-K38),1,N/A,4806
+Widowed,2021 **,Diseases of appendix (K35-K38),0,N/A,4809
+Widowed,Total,Diseases of appendix (K35-K38),1,N/A,4812
+Divorced,2020 **,Diseases of appendix (K35-K38),2,N/A,4815
+Divorced,2021 **,Diseases of appendix (K35-K38),0,N/A,4818
+Divorced,Total,Diseases of appendix (K35-K38),2,N/A,4821
+Never Married,2020 **,Diseases of appendix (K35-K38),3,N/A,4824
+Never Married,2021 **,Diseases of appendix (K35-K38),0,N/A,4827
+Never Married,Total,Diseases of appendix (K35-K38),3,N/A,4830
+Unknown,2020 **,Diseases of appendix (K35-K38),0,N/A,4833
+Unknown,2021 **,Diseases of appendix (K35-K38),0,N/A,4836
+Unknown,Total,Diseases of appendix (K35-K38),0,N/A,4839
+Total,2020 **,Diseases of appendix (K35-K38),10,0.1,4842
+Total,2021 **,Diseases of appendix (K35-K38),0,N/A,4845
+Total,Total,Diseases of appendix (K35-K38),10,0.0,4848
+Married,2020 **,Hernia (K40-K46),22,0.2,4851
+Married,2021 **,Hernia (K40-K46),1,N/A,4854
+Married,Total,Hernia (K40-K46),23,0.1,4857
+Married but Separated,2020 **,Hernia (K40-K46),0,N/A,4860
+Married but Separated,2021 **,Hernia (K40-K46),0,N/A,4863
+Married but Separated,Total,Hernia (K40-K46),0,N/A,4866
+Widowed,2020 **,Hernia (K40-K46),23,0.1,4869
+Widowed,2021 **,Hernia (K40-K46),0,N/A,4872
+Widowed,Total,Hernia (K40-K46),23,0.1,4875
+Divorced,2020 **,Hernia (K40-K46),7,N/A,4878
+Divorced,2021 **,Hernia (K40-K46),0,N/A,4881
+Divorced,Total,Hernia (K40-K46),7,N/A,4884
+Never Married,2020 **,Hernia (K40-K46),7,N/A,4887
+Never Married,2021 **,Hernia (K40-K46),0,N/A,4890
+Never Married,Total,Hernia (K40-K46),7,N/A,4893
+Unknown,2020 **,Hernia (K40-K46),1,N/A,4896
+Unknown,2021 **,Hernia (K40-K46),0,N/A,4899
+Unknown,Total,Hernia (K40-K46),1,N/A,4902
+Total,2020 **,Hernia (K40-K46),60,0.4,4905
+Total,2021 **,Hernia (K40-K46),1,N/A,4908
+Total,Total,Hernia (K40-K46),61,0.2,4911
+Married,2020 **,Alcoholic liver disease (K70),265,1.9,4914
+Married,2021 **,Alcoholic liver disease (K70),0,N/A,4917
+Married,Total,Alcoholic liver disease (K70),265,0.9,4920
+Married but Separated,2020 **,Alcoholic liver disease (K70),9,N/A,4923
+Married but Separated,2021 **,Alcoholic liver disease (K70),0,N/A,4926
+Married but Separated,Total,Alcoholic liver disease (K70),9,N/A,4929
+Widowed,2020 **,Alcoholic liver disease (K70),57,0.4,4932
+Widowed,2021 **,Alcoholic liver disease (K70),0,N/A,4935
+Widowed,Total,Alcoholic liver disease (K70),57,0.2,4938
+Divorced,2020 **,Alcoholic liver disease (K70),314,2.2,4941
+Divorced,2021 **,Alcoholic liver disease (K70),0,N/A,4944
+Divorced,Total,Alcoholic liver disease (K70),314,1.1,4947
+Never Married,2020 **,Alcoholic liver disease (K70),179,1.4,4950
+Never Married,2021 **,Alcoholic liver disease (K70),0,N/A,4953
+Never Married,Total,Alcoholic liver disease (K70),179,0.7,4956
+Unknown,2020 **,Alcoholic liver disease (K70),5,N/A,4959
+Unknown,2021 **,Alcoholic liver disease (K70),0,N/A,4962
+Unknown,Total,Alcoholic liver disease (K70),5,N/A,4965
+Total,2020 **,Alcoholic liver disease (K70),829,5.9,4968
+Total,2021 **,Alcoholic liver disease (K70),0,N/A,4971
+Total,Total,Alcoholic liver disease (K70),829,3.0,4974
+Married,2020 **,Other chronic liver disease and cirrhosis (K73-K74),296,1.9,4977
+Married,2021 **,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,4980
+Married,Total,Other chronic liver disease and cirrhosis (K73-K74),296,1.0,4983
+Married but Separated,2020 **,Other chronic liver disease and cirrhosis (K73-K74),2,N/A,4986
+Married but Separated,2021 **,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,4989
+Married but Separated,Total,Other chronic liver disease and cirrhosis (K73-K74),2,N/A,4992
+Widowed,2020 **,Other chronic liver disease and cirrhosis (K73-K74),140,0.9,4995
+Widowed,2021 **,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,4998
+Widowed,Total,Other chronic liver disease and cirrhosis (K73-K74),140,0.4,5001
+Divorced,2020 **,Other chronic liver disease and cirrhosis (K73-K74),209,1.4,5004
+Divorced,2021 **,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,5007
+Divorced,Total,Other chronic liver disease and cirrhosis (K73-K74),209,0.7,5010
+Never Married,2020 **,Other chronic liver disease and cirrhosis (K73-K74),119,0.9,5013
+Never Married,2021 **,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,5016
+Never Married,Total,Other chronic liver disease and cirrhosis (K73-K74),119,0.5,5019
+Unknown,2020 **,Other chronic liver disease and cirrhosis (K73-K74),7,N/A,5022
+Unknown,2021 **,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,5025
+Unknown,Total,Other chronic liver disease and cirrhosis (K73-K74),7,N/A,5028
+Total,2020 **,Other chronic liver disease and cirrhosis (K73-K74),773,5.2,5031
+Total,2021 **,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,5034
+Total,Total,Other chronic liver disease and cirrhosis (K73-K74),773,2.6,5037
+Married,2020 **,Cholelithiasis and other disorders of gallbladder (K80-K82),43,0.3,5040
+Married,2021 **,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5043
+Married,Total,Cholelithiasis and other disorders of gallbladder (K80-K82),43,0.1,5046
+Married but Separated,2020 **,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5049
+Married but Separated,2021 **,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5052
+Married but Separated,Total,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5055
+Widowed,2020 **,Cholelithiasis and other disorders of gallbladder (K80-K82),60,0.4,5058
+Widowed,2021 **,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5061
+Widowed,Total,Cholelithiasis and other disorders of gallbladder (K80-K82),60,0.2,5064
+Divorced,2020 **,Cholelithiasis and other disorders of gallbladder (K80-K82),21,0.1,5067
+Divorced,2021 **,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5070
+Divorced,Total,Cholelithiasis and other disorders of gallbladder (K80-K82),21,0.1,5073
+Never Married,2020 **,Cholelithiasis and other disorders of gallbladder (K80-K82),8,N/A,5076
+Never Married,2021 **,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5079
+Never Married,Total,Cholelithiasis and other disorders of gallbladder (K80-K82),8,N/A,5082
+Unknown,2020 **,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5085
+Unknown,2021 **,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5088
+Unknown,Total,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5091
+Total,2020 **,Cholelithiasis and other disorders of gallbladder (K80-K82),132,0.9,5094
+Total,2021 **,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5097
+Total,Total,Cholelithiasis and other disorders of gallbladder (K80-K82),132,0.4,5100
+Married,2020 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),9,N/A,5103
+Married,2021 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5106
+Married,Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),9,N/A,5109
+Married but Separated,2020 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5112
+Married but Separated,2021 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5115
+Married but Separated,Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5118
+Widowed,2020 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),6,N/A,5121
+Widowed,2021 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5124
+Widowed,Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),6,N/A,5127
+Divorced,2020 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),8,N/A,5130
+Divorced,2021 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5133
+Divorced,Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),8,N/A,5136
+Never Married,2020 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),3,N/A,5139
+Never Married,2021 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5142
+Never Married,Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),3,N/A,5145
+Unknown,2020 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5148
+Unknown,2021 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5151
+Unknown,Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5154
+Total,2020 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),26,0.2,5157
+Total,2021 **,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5160
+Total,Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),26,0.1,5163
+Married,2020 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),5,N/A,5166
+Married,2021 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5169
+Married,Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),5,N/A,5172
+Married but Separated,2020 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5175
+Married but Separated,2021 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5178
+Married but Separated,Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5181
+Widowed,2020 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),2,N/A,5184
+Widowed,2021 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5187
+Widowed,Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),2,N/A,5190
+Divorced,2020 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),2,N/A,5193
+Divorced,2021 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5196
+Divorced,Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),2,N/A,5199
+Never Married,2020 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),1,N/A,5202
+Never Married,2021 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5205
+Never Married,Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),1,N/A,5208
+Unknown,2020 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5211
+Unknown,2021 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5214
+Unknown,Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5217
+Total,2020 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),10,0.1,5220
+Total,2021 **,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5223
+Total,Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),10,0.0,5226
+Married,2020 **,Renal failure (N17-N19),658,4.2,5229
+Married,2021 **,Renal failure (N17-N19),3,N/A,5232
+Married,Total,Renal failure (N17-N19),661,2.1,5235
+Married but Separated,2020 **,Renal failure (N17-N19),8,N/A,5238
+Married but Separated,2021 **,Renal failure (N17-N19),0,N/A,5241
+Married but Separated,Total,Renal failure (N17-N19),8,N/A,5244
+Widowed,2020 **,Renal failure (N17-N19),708,4.5,5247
+Widowed,2021 **,Renal failure (N17-N19),0,N/A,5250
+Widowed,Total,Renal failure (N17-N19),708,2.3,5253
+Divorced,2020 **,Renal failure (N17-N19),338,2.1,5256
+Divorced,2021 **,Renal failure (N17-N19),0,N/A,5259
+Divorced,Total,Renal failure (N17-N19),338,1.1,5262
+Never Married,2020 **,Renal failure (N17-N19),244,1.7,5265
+Never Married,2021 **,Renal failure (N17-N19),1,N/A,5268
+Never Married,Total,Renal failure (N17-N19),245,0.9,5271
+Unknown,2020 **,Renal failure (N17-N19),2,N/A,5274
+Unknown,2021 **,Renal failure (N17-N19),0,N/A,5277
+Unknown,Total,Renal failure (N17-N19),2,N/A,5280
+Total,2020 **,Renal failure (N17-N19),1958,12.7,5283
+Total,2021 **,Renal failure (N17-N19),4,N/A,5286
+Total,Total,Renal failure (N17-N19),1962,6.3,5289
+Married,2020 **,Other disorders of kidney (N25N27),0,N/A,5292
+Married,2021 **,Other disorders of kidney (N25N27),0,N/A,5295
+Married,Total,Other disorders of kidney (N25N27),0,N/A,5298
+Married but Separated,2020 **,Other disorders of kidney (N25N27),0,N/A,5301
+Married but Separated,2021 **,Other disorders of kidney (N25N27),0,N/A,5304
+Married but Separated,Total,Other disorders of kidney (N25N27),0,N/A,5307
+Widowed,2020 **,Other disorders of kidney (N25N27),0,N/A,5310
+Widowed,2021 **,Other disorders of kidney (N25N27),0,N/A,5313
+Widowed,Total,Other disorders of kidney (N25N27),0,N/A,5316
+Divorced,2020 **,Other disorders of kidney (N25N27),0,N/A,5319
+Divorced,2021 **,Other disorders of kidney (N25N27),0,N/A,5322
+Divorced,Total,Other disorders of kidney (N25N27),0,N/A,5325
+Never Married,2020 **,Other disorders of kidney (N25N27),0,N/A,5328
+Never Married,2021 **,Other disorders of kidney (N25N27),0,N/A,5331
+Never Married,Total,Other disorders of kidney (N25N27),0,N/A,5334
+Unknown,2020 **,Other disorders of kidney (N25N27),0,N/A,5337
+Unknown,2021 **,Other disorders of kidney (N25N27),0,N/A,5340
+Unknown,Total,Other disorders of kidney (N25N27),0,N/A,5343
+Total,2020 **,Other disorders of kidney (N25N27),0,N/A,5346
+Total,2021 **,Other disorders of kidney (N25N27),0,N/A,5349
+Total,Total,Other disorders of kidney (N25N27),0,N/A,5352
+Married,2020 **,Infections of kidney (N10-N12N13.6N15.1),9,N/A,5355
+Married,2021 **,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5358
+Married,Total,Infections of kidney (N10-N12N13.6N15.1),9,N/A,5361
+Married but Separated,2020 **,Infections of kidney (N10-N12N13.6N15.1),1,N/A,5364
+Married but Separated,2021 **,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5367
+Married but Separated,Total,Infections of kidney (N10-N12N13.6N15.1),1,N/A,5370
+Widowed,2020 **,Infections of kidney (N10-N12N13.6N15.1),13,0.1,5373
+Widowed,2021 **,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5376
+Widowed,Total,Infections of kidney (N10-N12N13.6N15.1),13,0.0,5379
+Divorced,2020 **,Infections of kidney (N10-N12N13.6N15.1),7,N/A,5382
+Divorced,2021 **,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5385
+Divorced,Total,Infections of kidney (N10-N12N13.6N15.1),7,N/A,5388
+Never Married,2020 **,Infections of kidney (N10-N12N13.6N15.1),7,N/A,5391
+Never Married,2021 **,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5394
+Never Married,Total,Infections of kidney (N10-N12N13.6N15.1),7,N/A,5397
+Unknown,2020 **,Infections of kidney (N10-N12N13.6N15.1),1,N/A,5400
+Unknown,2021 **,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5403
+Unknown,Total,Infections of kidney (N10-N12N13.6N15.1),1,N/A,5406
+Total,2020 **,Infections of kidney (N10-N12N13.6N15.1),38,0.3,5409
+Total,2021 **,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5412
+Total,Total,Infections of kidney (N10-N12N13.6N15.1),38,0.1,5415
+Married,2020 **,Hyperplasia of prostate (N40),5,N/A,5418
+Married,2021 **,Hyperplasia of prostate (N40),0,N/A,5421
+Married,Total,Hyperplasia of prostate (N40),5,N/A,5424
+Married but Separated,2020 **,Hyperplasia of prostate (N40),0,N/A,5427
+Married but Separated,2021 **,Hyperplasia of prostate (N40),0,N/A,5430
+Married but Separated,Total,Hyperplasia of prostate (N40),0,N/A,5433
+Widowed,2020 **,Hyperplasia of prostate (N40),8,N/A,5436
+Widowed,2021 **,Hyperplasia of prostate (N40),0,N/A,5439
+Widowed,Total,Hyperplasia of prostate (N40),8,N/A,5442
+Divorced,2020 **,Hyperplasia of prostate (N40),4,N/A,5445
+Divorced,2021 **,Hyperplasia of prostate (N40),0,N/A,5448
+Divorced,Total,Hyperplasia of prostate (N40),4,N/A,5451
+Never Married,2020 **,Hyperplasia of prostate (N40),2,N/A,5454
+Never Married,2021 **,Hyperplasia of prostate (N40),0,N/A,5457
+Never Married,Total,Hyperplasia of prostate (N40),2,N/A,5460
+Unknown,2020 **,Hyperplasia of prostate (N40),0,N/A,5463
+Unknown,2021 **,Hyperplasia of prostate (N40),0,N/A,5466
+Unknown,Total,Hyperplasia of prostate (N40),0,N/A,5469
+Total,2020 **,Hyperplasia of prostate (N40),19,0.1,5472
+Total,2021 **,Hyperplasia of prostate (N40),0,N/A,5475
+Total,Total,Hyperplasia of prostate (N40),19,0.1,5478
+Married,2020 **,Inflammatory diseases of female pelvic organs (N70-N76),2,N/A,5481
+Married,2021 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5484
+Married,Total,Inflammatory diseases of female pelvic organs (N70-N76),2,N/A,5487
+Married but Separated,2020 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5490
+Married but Separated,2021 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5493
+Married but Separated,Total,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5496
+Widowed,2020 **,Inflammatory diseases of female pelvic organs (N70-N76),4,N/A,5499
+Widowed,2021 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5502
+Widowed,Total,Inflammatory diseases of female pelvic organs (N70-N76),4,N/A,5505
+Divorced,2020 **,Inflammatory diseases of female pelvic organs (N70-N76),2,N/A,5508
+Divorced,2021 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5511
+Divorced,Total,Inflammatory diseases of female pelvic organs (N70-N76),2,N/A,5514
+Never Married,2020 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5517
+Never Married,2021 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5520
+Never Married,Total,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5523
+Unknown,2020 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5526
+Unknown,2021 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5529
+Unknown,Total,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5532
+Total,2020 **,Inflammatory diseases of female pelvic organs (N70-N76),8,N/A,5535
+Total,2021 **,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5538
+Total,Total,Inflammatory diseases of female pelvic organs (N70-N76),8,N/A,5541
+Married,2020 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5544
+Married,2021 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5547
+Married,Total,Pregnancy with abortive outcome (O00-O07),0,N/A,5550
+Married but Separated,2020 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5553
+Married but Separated,2021 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5556
+Married but Separated,Total,Pregnancy with abortive outcome (O00-O07),0,N/A,5559
+Widowed,2020 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5562
+Widowed,2021 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5565
+Widowed,Total,Pregnancy with abortive outcome (O00-O07),0,N/A,5568
+Divorced,2020 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5571
+Divorced,2021 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5574
+Divorced,Total,Pregnancy with abortive outcome (O00-O07),0,N/A,5577
+Never Married,2020 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5580
+Never Married,2021 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5583
+Never Married,Total,Pregnancy with abortive outcome (O00-O07),0,N/A,5586
+Unknown,2020 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5589
+Unknown,2021 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5592
+Unknown,Total,Pregnancy with abortive outcome (O00-O07),0,N/A,5595
+Total,2020 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5598
+Total,2021 **,Pregnancy with abortive outcome (O00-O07),0,N/A,5601
+Total,Total,Pregnancy with abortive outcome (O00-O07),0,N/A,5604
+Married,2020 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),6,N/A,5607
+Married,2021 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5610
+Married,Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),6,N/A,5613
+Married but Separated,2020 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),1,N/A,5616
+Married but Separated,2021 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5619
+Married but Separated,Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),1,N/A,5622
+Widowed,2020 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5625
+Widowed,2021 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5628
+Widowed,Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5631
+Divorced,2020 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),1,N/A,5634
+Divorced,2021 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5637
+Divorced,Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),1,N/A,5640
+Never Married,2020 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),15,0.1,5643
+Never Married,2021 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5646
+Never Married,Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),15,0.1,5649
+Unknown,2020 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5652
+Unknown,2021 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5655
+Unknown,Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5658
+Total,2020 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),23,0.2,5661
+Total,2021 **,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5664
+Total,Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),23,0.1,5667
+Married,2020 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5670
+Married,2021 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5673
+Married,Total,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5676
+Married but Separated,2020 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5679
+Married but Separated,2021 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5682
+Married but Separated,Total,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5685
+Widowed,2020 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5688
+Widowed,2021 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5691
+Widowed,Total,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5694
+Divorced,2020 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5697
+Divorced,2021 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5700
+Divorced,Total,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5703
+Never Married,2020 **,Certain conditions originating in the perinatal period (P00-P96),376,3.9,5706
+Never Married,2021 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5709
+Never Married,Total,Certain conditions originating in the perinatal period (P00-P96),376,1.9,5712
+Unknown,2020 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5715
+Unknown,2021 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5718
+Unknown,Total,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5721
+Total,2020 **,Certain conditions originating in the perinatal period (P00-P96),376,3.9,5724
+Total,2021 **,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5727
+Total,Total,Certain conditions originating in the perinatal period (P00-P96),376,1.9,5730
+Married,2020 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),32,0.2,5733
+Married,2021 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,5736
+Married,Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),32,0.1,5739
+Married but Separated,2020 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),1,N/A,5742
+Married but Separated,2021 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,5745
+Married but Separated,Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),1,N/A,5748
+Widowed,2020 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),18,0.1,5751
+Widowed,2021 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,5754
+Widowed,Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),18,0.1,5757
+Divorced,2020 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),27,0.2,5760
+Divorced,2021 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,5763
+Divorced,Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),27,0.1,5766
+Never Married,2020 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),276,2.6,5769
+Never Married,2021 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,5772
+Never Married,Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),276,1.3,5775
+Unknown,2020 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,5778
+Unknown,2021 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,5781
+Unknown,Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,5784
+Total,2020 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),354,3.1,5787
+Total,2021 **,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,5790
+Total,Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),354,1.6,5793
+Married,2020 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),4224,28.3,5796
+Married,2021 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),472,3.1,5799
+Married,Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),4696,15.7,5802
+Married but Separated,2020 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),63,0.5,5805
+Married but Separated,2021 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),0,N/A,5808
+Married but Separated,Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),63,0.2,5811
+Widowed,2020 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),4330,27.6,5814
+Widowed,2021 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),477,3.0,5817
+Widowed,Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),4807,15.3,5820
+Divorced,2020 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),2434,16.4,5823
+Divorced,2021 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),214,1.4,5826
+Divorced,Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),2648,8.9,5829
+Never Married,2020 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),2473,20.3,5832
+Never Married,2021 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),157,1.2,5835
+Never Married,Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),2630,10.7,5838
+Unknown,2020 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),59,0.4,5841
+Unknown,2021 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),3,N/A,5844
+Unknown,Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),62,0.2,5847
+Total,2020 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),13583,93.5,5850
+Total,2021 **,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),1323,8.7,5853
+Total,Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),14906,51.1,5856
+Married,2020 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),4696,30.8,5859
+Married,2021 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),4,N/A,5862
+Married,Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),4700,15.4,5865
+Married but Separated,2020 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),49,0.4,5868
+Married but Separated,2021 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),0,N/A,5871
+Married but Separated,Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),49,0.2,5874
+Widowed,2020 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),5985,37.9,5877
+Widowed,2021 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),7,N/A,5880
+Widowed,Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),5992,19.0,5883
+Divorced,2020 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),2467,16.1,5886
+Divorced,2021 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),2,N/A,5889
+Divorced,Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),2469,8.0,5892
+Never Married,2020 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),1852,13.8,5895
+Never Married,2021 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),5,N/A,5898
+Never Married,Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),1857,6.9,5901
+Unknown,2020 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),70,0.5,5904
+Unknown,2021 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),0,N/A,5907
+Unknown,Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),70,0.2,5910
+Total,2020 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),15119,99.4,5913
+Total,2021 **,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),18,0.1,5916
+Total,Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),15137,49.8,5919
+Married,2020 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),279,2.2,5922
+Married,2021 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),0,N/A,5925
+Married,Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),279,1.1,5928
+Married but Separated,2020 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),13,0.1,5931
+Married but Separated,2021 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),0,N/A,5934
+Married but Separated,Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),13,0.1,5937
+Widowed,2020 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),86,0.6,5940
+Widowed,2021 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),0,N/A,5943
+Widowed,Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),86,0.3,5946
+Divorced,2020 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),204,1.6,5949
+Divorced,2021 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),0,N/A,5952
+Divorced,Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),204,0.8,5955
+Never Married,2020 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),506,4.7,5958
+Never Married,2021 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),0,N/A,5961
+Never Married,Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),506,2.3,5964
+Unknown,2020 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),4,N/A,5967
+Unknown,2021 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),0,N/A,5970
+Unknown,Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),4,N/A,5973
+Total,2020 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1092,9.2,5976
+Total,2021 **,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),0,N/A,5979
+Total,Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1092,4.6,5982
+Married,2020 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),6,N/A,5985
+Married,2021 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,5988
+Married,Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),6,N/A,5991
+Married but Separated,2020 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,5994
+Married but Separated,2021 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,5997
+Married but Separated,Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,6000
+Widowed,2020 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),2,N/A,6003
+Widowed,2021 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,6006
+Widowed,Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),2,N/A,6009
+Divorced,2020 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),2,N/A,6012
+Divorced,2021 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,6015
+Divorced,Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),2,N/A,6018
+Never Married,2020 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),12,0.1,6021
+Never Married,2021 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,6024
+Never Married,Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),12,0.1,6027
+Unknown,2020 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,6030
+Unknown,2021 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,6033
+Unknown,Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,6036
+Total,2020 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),22,0.2,6039
+Total,2021 **,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,6042
+Total,Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),22,0.1,6045
+Married,2020 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),9,N/A,6048
+Married,2021 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6051
+Married,Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),9,N/A,6054
+Married but Separated,2020 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6057
+Married but Separated,2021 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6060
+Married but Separated,Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6063
+Widowed,2020 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),1,N/A,6066
+Widowed,2021 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6069
+Widowed,Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),1,N/A,6072
+Divorced,2020 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),8,N/A,6075
+Divorced,2021 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6078
+Divorced,Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),8,N/A,6081
+Never Married,2020 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),18,0.2,6084
+Never Married,2021 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6087
+Never Married,Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),18,0.1,6090
+Unknown,2020 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6093
+Unknown,2021 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6096
+Unknown,Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6099
+Total,2020 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),36,0.3,6102
+Total,2021 **,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6105
+Total,Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),36,0.2,6108
+Married,2020 **,Falls (W00-W19),527,3.5,6111
+Married,2021 **,Falls (W00-W19),0,N/A,6114
+Married,Total,Falls (W00-W19),527,1.7,6117
+Married but Separated,2020 **,Falls (W00-W19),1,N/A,6120
+Married but Separated,2021 **,Falls (W00-W19),0,N/A,6123
+Married but Separated,Total,Falls (W00-W19),1,N/A,6126
+Widowed,2020 **,Falls (W00-W19),661,4.2,6129
+Widowed,2021 **,Falls (W00-W19),0,N/A,6132
+Widowed,Total,Falls (W00-W19),661,2.1,6135
+Divorced,2020 **,Falls (W00-W19),194,1.3,6138
+Divorced,2021 **,Falls (W00-W19),0,N/A,6141
+Divorced,Total,Falls (W00-W19),194,0.6,6144
+Never Married,2020 **,Falls (W00-W19),123,0.9,6147
+Never Married,2021 **,Falls (W00-W19),0,N/A,6150
+Never Married,Total,Falls (W00-W19),123,0.4,6153
+Unknown,2020 **,Falls (W00-W19),1,N/A,6156
+Unknown,2021 **,Falls (W00-W19),0,N/A,6159
+Unknown,Total,Falls (W00-W19),1,N/A,6162
+Total,2020 **,Falls (W00-W19),1507,9.8,6165
+Total,2021 **,Falls (W00-W19),0,N/A,6168
+Total,Total,Falls (W00-W19),1507,4.9,6171
+Married,2020 **,Accidental discharge of firearms (W32-W34),3,N/A,6174
+Married,2021 **,Accidental discharge of firearms (W32-W34),1,N/A,6177
+Married,Total,Accidental discharge of firearms (W32-W34),4,N/A,6180
+Married but Separated,2020 **,Accidental discharge of firearms (W32-W34),0,N/A,6183
+Married but Separated,2021 **,Accidental discharge of firearms (W32-W34),0,N/A,6186
+Married but Separated,Total,Accidental discharge of firearms (W32-W34),0,N/A,6189
+Widowed,2020 **,Accidental discharge of firearms (W32-W34),0,N/A,6192
+Widowed,2021 **,Accidental discharge of firearms (W32-W34),0,N/A,6195
+Widowed,Total,Accidental discharge of firearms (W32-W34),0,N/A,6198
+Divorced,2020 **,Accidental discharge of firearms (W32-W34),0,N/A,6201
+Divorced,2021 **,Accidental discharge of firearms (W32-W34),0,N/A,6204
+Divorced,Total,Accidental discharge of firearms (W32-W34),0,N/A,6207
+Never Married,2020 **,Accidental discharge of firearms (W32-W34),9,N/A,6210
+Never Married,2021 **,Accidental discharge of firearms (W32-W34),0,N/A,6213
+Never Married,Total,Accidental discharge of firearms (W32-W34),9,N/A,6216
+Unknown,2020 **,Accidental discharge of firearms (W32-W34),1,N/A,6219
+Unknown,2021 **,Accidental discharge of firearms (W32-W34),0,N/A,6222
+Unknown,Total,Accidental discharge of firearms (W32-W34),1,N/A,6225
+Total,2020 **,Accidental discharge of firearms (W32-W34),13,0.1,6228
+Total,2021 **,Accidental discharge of firearms (W32-W34),1,N/A,6231
+Total,Total,Accidental discharge of firearms (W32-W34),14,0.1,6234
+Married,2020 **,Accidental drowning and submersion (W65-W74),24,0.2,6237
+Married,2021 **,Accidental drowning and submersion (W65-W74),0,N/A,6240
+Married,Total,Accidental drowning and submersion (W65-W74),24,0.1,6243
+Married but Separated,2020 **,Accidental drowning and submersion (W65-W74),0,N/A,6246
+Married but Separated,2021 **,Accidental drowning and submersion (W65-W74),0,N/A,6249
+Married but Separated,Total,Accidental drowning and submersion (W65-W74),0,N/A,6252
+Widowed,2020 **,Accidental drowning and submersion (W65-W74),5,N/A,6255
+Widowed,2021 **,Accidental drowning and submersion (W65-W74),0,N/A,6258
+Widowed,Total,Accidental drowning and submersion (W65-W74),5,N/A,6261
+Divorced,2020 **,Accidental drowning and submersion (W65-W74),19,0.2,6264
+Divorced,2021 **,Accidental drowning and submersion (W65-W74),0,N/A,6267
+Divorced,Total,Accidental drowning and submersion (W65-W74),19,0.1,6270
+Never Married,2020 **,Accidental drowning and submersion (W65-W74),72,0.7,6273
+Never Married,2021 **,Accidental drowning and submersion (W65-W74),0,N/A,6276
+Never Married,Total,Accidental drowning and submersion (W65-W74),72,0.3,6279
+Unknown,2020 **,Accidental drowning and submersion (W65-W74),1,N/A,6282
+Unknown,2021 **,Accidental drowning and submersion (W65-W74),0,N/A,6285
+Unknown,Total,Accidental drowning and submersion (W65-W74),1,N/A,6288
+Total,2020 **,Accidental drowning and submersion (W65-W74),121,1.0,6291
+Total,2021 **,Accidental drowning and submersion (W65-W74),0,N/A,6294
+Total,Total,Accidental drowning and submersion (W65-W74),121,0.5,6297
+Married,2020 **,Accidental exposure to smoke fire and flames (X00-X09),22,0.2,6300
+Married,2021 **,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,6303
+Married,Total,Accidental exposure to smoke fire and flames (X00-X09),22,0.1,6306
+Married but Separated,2020 **,Accidental exposure to smoke fire and flames (X00-X09),1,N/A,6309
+Married but Separated,2021 **,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,6312
+Married but Separated,Total,Accidental exposure to smoke fire and flames (X00-X09),1,N/A,6315
+Widowed,2020 **,Accidental exposure to smoke fire and flames (X00-X09),17,0.1,6318
+Widowed,2021 **,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,6321
+Widowed,Total,Accidental exposure to smoke fire and flames (X00-X09),17,0.1,6324
+Divorced,2020 **,Accidental exposure to smoke fire and flames (X00-X09),18,0.1,6327
+Divorced,2021 **,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,6330
+Divorced,Total,Accidental exposure to smoke fire and flames (X00-X09),18,0.1,6333
+Never Married,2020 **,Accidental exposure to smoke fire and flames (X00-X09),27,0.2,6336
+Never Married,2021 **,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,6339
+Never Married,Total,Accidental exposure to smoke fire and flames (X00-X09),27,0.1,6342
+Unknown,2020 **,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,6345
+Unknown,2021 **,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,6348
+Unknown,Total,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,6351
+Total,2020 **,Accidental exposure to smoke fire and flames (X00-X09),85,0.6,6354
+Total,2021 **,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,6357
+Total,Total,Accidental exposure to smoke fire and flames (X00-X09),85,0.3,6360
+Married,2020 **,Accidental poisoning and exposure to noxious substances (X40-X49),651,5.8,6363
+Married,2021 **,Accidental poisoning and exposure to noxious substances (X40-X49),0,N/A,6366
+Married,Total,Accidental poisoning and exposure to noxious substances (X40-X49),651,2.9,6369
+Married but Separated,2020 **,Accidental poisoning and exposure to noxious substances (X40-X49),56,0.5,6372
+Married but Separated,2021 **,Accidental poisoning and exposure to noxious substances (X40-X49),0,N/A,6375
+Married but Separated,Total,Accidental poisoning and exposure to noxious substances (X40-X49),56,0.3,6378
+Widowed,2020 **,Accidental poisoning and exposure to noxious substances (X40-X49),139,1.1,6381
+Widowed,2021 **,Accidental poisoning and exposure to noxious substances (X40-X49),0,N/A,6384
+Widowed,Total,Accidental poisoning and exposure to noxious substances (X40-X49),139,0.5,6387
+Divorced,2020 **,Accidental poisoning and exposure to noxious substances (X40-X49),990,8.5,6390
+Divorced,2021 **,Accidental poisoning and exposure to noxious substances (X40-X49),0,N/A,6393
+Divorced,Total,Accidental poisoning and exposure to noxious substances (X40-X49),990,4.2,6396
+Never Married,2020 **,Accidental poisoning and exposure to noxious substances (X40-X49),2225,20.9,6399
+Never Married,2021 **,Accidental poisoning and exposure to noxious substances (X40-X49),0,N/A,6402
+Never Married,Total,Accidental poisoning and exposure to noxious substances (X40-X49),2225,10.4,6405
+Unknown,2020 **,Accidental poisoning and exposure to noxious substances (X40-X49),46,0.4,6408
+Unknown,2021 **,Accidental poisoning and exposure to noxious substances (X40-X49),0,N/A,6411
+Unknown,Total,Accidental poisoning and exposure to noxious substances (X40-X49),46,0.2,6414
+Total,2020 **,Accidental poisoning and exposure to noxious substances (X40-X49),4107,37.2,6417
+Total,2021 **,Accidental poisoning and exposure to noxious substances (X40-X49),0,N/A,6420
+Total,Total,Accidental poisoning and exposure to noxious substances (X40-X49),4107,18.6,6423
+Married,2020 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),215,1.5,6426
+Married,2021 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),1,N/A,6429
+Married,Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),216,0.7,6432
+Married but Separated,2020 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),2,N/A,6435
+Married but Separated,2021 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),0,N/A,6438
+Married but Separated,Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),2,N/A,6441
+Widowed,2020 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),206,1.3,6444
+Widowed,2021 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),0,N/A,6447
+Widowed,Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),206,0.7,6450
+Divorced,2020 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),101,0.7,6453
+Divorced,2021 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),0,N/A,6456
+Divorced,Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),101,0.3,6459
+Never Married,2020 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),190,1.6,6462
+Never Married,2021 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),0,N/A,6465
+Never Married,Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),190,0.8,6468
+Unknown,2020 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),3,N/A,6471
+Unknown,2021 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),0,N/A,6474
+Unknown,Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),3,N/A,6477
+Total,2020 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),717,5.1,6480
+Total,2021 **,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),1,N/A,6483
+Total,Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),718,2.6,6486
+Married,2020 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),285,2.2,6489
+Married,2021 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),1,N/A,6492
+Married,Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),286,1.1,6495
+Married but Separated,2020 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),7,N/A,6498
+Married but Separated,2021 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),0,N/A,6501
+Married but Separated,Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),7,N/A,6504
+Widowed,2020 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),55,0.4,6507
+Widowed,2021 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),1,N/A,6510
+Widowed,Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),56,0.2,6513
+Divorced,2020 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),177,1.3,6516
+Divorced,2021 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),0,N/A,6519
+Divorced,Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),177,0.7,6522
+Never Married,2020 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),296,2.7,6525
+Never Married,2021 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),2,N/A,6528
+Never Married,Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),298,1.4,6531
+Unknown,2020 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),1,N/A,6534
+Unknown,2021 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),0,N/A,6537
+Unknown,Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),1,N/A,6540
+Total,2020 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),821,6.6,6543
+Total,2021 **,Intentional self-harm (suicide) by discharge of firearms (X72-X74),4,N/A,6546
+Total,Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),825,3.3,6549
+Married,2020 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),188,1.6,6552
+Married,2021 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,6555
+Married,Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),188,0.8,6558
+Married but Separated,2020 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),6,N/A,6561
+Married but Separated,2021 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,6564
+Married but Separated,Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),6,N/A,6567
+Widowed,2020 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),22,0.2,6570
+Widowed,2021 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,6573
+Widowed,Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),22,0.1,6576
+Divorced,2020 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),114,1.0,6579
+Divorced,2021 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,6582
+Divorced,Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),114,0.5,6585
+Never Married,2020 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),300,2.8,6588
+Never Married,2021 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,6591
+Never Married,Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),300,1.4,6594
+Unknown,2020 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),7,N/A,6597
+Unknown,2021 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,6600
+Unknown,Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),7,N/A,6603
+Total,2020 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),637,5.6,6606
+Total,2021 **,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,6609
+Total,Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),637,2.8,6612
+Married,2020 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),51,0.5,6615
+Married,2021 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),0,N/A,6618
+Married,Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),51,0.2,6621
+Married but Separated,2020 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),1,N/A,6624
+Married but Separated,2021 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),0,N/A,6627
+Married but Separated,Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),1,N/A,6630
+Widowed,2020 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),8,N/A,6633
+Widowed,2021 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),0,N/A,6636
+Widowed,Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),8,N/A,6639
+Divorced,2020 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),43,0.4,6642
+Divorced,2021 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),0,N/A,6645
+Divorced,Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),43,0.2,6648
+Never Married,2020 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),583,5.4,6651
+Never Married,2021 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),0,N/A,6654
+Never Married,Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),583,2.7,6657
+Unknown,2020 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),2,N/A,6660
+Unknown,2021 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),0,N/A,6663
+Unknown,Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),2,N/A,6666
+Total,2020 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),688,6.4,6669
+Total,2021 **,Assault (homicide) by discharge of firearms (*U01.4X93-X95),0,N/A,6672
+Total,Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),688,3.2,6675
+Married,2020 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),22,0.2,6678
+Married,2021 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,6681
+Married,Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),22,0.1,6684
+Married but Separated,2020 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),1,N/A,6687
+Married but Separated,2021 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,6690
+Married but Separated,Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),1,N/A,6693
+Widowed,2020 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),8,N/A,6696
+Widowed,2021 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,6699
+Widowed,Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),8,N/A,6702
+Divorced,2020 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),24,0.2,6705
+Divorced,2021 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,6708
+Divorced,Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),24,0.1,6711
+Never Married,2020 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),73,0.7,6714
+Never Married,2021 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,6717
+Never Married,Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),73,0.3,6720
+Unknown,2020 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),2,N/A,6723
+Unknown,2021 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,6726
+Unknown,Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),2,N/A,6729
+Total,2020 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),130,1.1,6732
+Total,2021 **,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,6735
+Total,Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),130,0.5,6738
+Married,2020 **,Legal intervention (Y35Y89.0),2,N/A,6741
+Married,2021 **,Legal intervention (Y35Y89.0),0,N/A,6744
+Married,Total,Legal intervention (Y35Y89.0),2,N/A,6747
+Married but Separated,2020 **,Legal intervention (Y35Y89.0),0,N/A,6750
+Married but Separated,2021 **,Legal intervention (Y35Y89.0),0,N/A,6753
+Married but Separated,Total,Legal intervention (Y35Y89.0),0,N/A,6756
+Widowed,2020 **,Legal intervention (Y35Y89.0),0,N/A,6759
+Widowed,2021 **,Legal intervention (Y35Y89.0),0,N/A,6762
+Widowed,Total,Legal intervention (Y35Y89.0),0,N/A,6765
+Divorced,2020 **,Legal intervention (Y35Y89.0),0,N/A,6768
+Divorced,2021 **,Legal intervention (Y35Y89.0),0,N/A,6771
+Divorced,Total,Legal intervention (Y35Y89.0),0,N/A,6774
+Never Married,2020 **,Legal intervention (Y35Y89.0),7,N/A,6777
+Never Married,2021 **,Legal intervention (Y35Y89.0),0,N/A,6780
+Never Married,Total,Legal intervention (Y35Y89.0),7,N/A,6783
+Unknown,2020 **,Legal intervention (Y35Y89.0),0,N/A,6786
+Unknown,2021 **,Legal intervention (Y35Y89.0),0,N/A,6789
+Unknown,Total,Legal intervention (Y35Y89.0),0,N/A,6792
+Total,2020 **,Legal intervention (Y35Y89.0),9,N/A,6795
+Total,2021 **,Legal intervention (Y35Y89.0),0,N/A,6798
+Total,Total,Legal intervention (Y35Y89.0),9,N/A,6801
+Married,2020 **,Discharge of firearms undetermined intent (Y22-Y24),2,N/A,6804
+Married,2021 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6807
+Married,Total,Discharge of firearms undetermined intent (Y22-Y24),2,N/A,6810
+Married but Separated,2020 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6813
+Married but Separated,2021 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6816
+Married but Separated,Total,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6819
+Widowed,2020 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6822
+Widowed,2021 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6825
+Widowed,Total,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6828
+Divorced,2020 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6831
+Divorced,2021 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6834
+Divorced,Total,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6837
+Never Married,2020 **,Discharge of firearms undetermined intent (Y22-Y24),9,N/A,6840
+Never Married,2021 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6843
+Never Married,Total,Discharge of firearms undetermined intent (Y22-Y24),9,N/A,6846
+Unknown,2020 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6849
+Unknown,2021 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6852
+Unknown,Total,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6855
+Total,2020 **,Discharge of firearms undetermined intent (Y22-Y24),11,0.1,6858
+Total,2021 **,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6861
+Total,Total,Discharge of firearms undetermined intent (Y22-Y24),11,0.0,6864
+Married,2020 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),10,0.1,6867
+Married,2021 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,6870
+Married,Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),10,0.1,6873
+Married but Separated,2020 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),1,N/A,6876
+Married but Separated,2021 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,6879
+Married but Separated,Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),1,N/A,6882
+Widowed,2020 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),2,N/A,6885
+Widowed,2021 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,6888
+Widowed,Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),2,N/A,6891
+Divorced,2020 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),17,0.1,6894
+Divorced,2021 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,6897
+Divorced,Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),17,0.1,6900
+Never Married,2020 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),32,0.3,6903
+Never Married,2021 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,6906
+Never Married,Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),32,0.1,6909
+Unknown,2020 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),1,N/A,6912
+Unknown,2021 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,6915
+Unknown,Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),1,N/A,6918
+Total,2020 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),63,0.5,6921
+Total,2021 **,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,6924
+Total,Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),63,0.3,6927
+Married,2020 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6930
+Married,2021 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6933
+Married,Total,Operations of war and their sequelae (Y36Y89.1),0,N/A,6936
+Married but Separated,2020 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6939
+Married but Separated,2021 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6942
+Married but Separated,Total,Operations of war and their sequelae (Y36Y89.1),0,N/A,6945
+Widowed,2020 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6948
+Widowed,2021 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6951
+Widowed,Total,Operations of war and their sequelae (Y36Y89.1),0,N/A,6954
+Divorced,2020 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6957
+Divorced,2021 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6960
+Divorced,Total,Operations of war and their sequelae (Y36Y89.1),0,N/A,6963
+Never Married,2020 **,Operations of war and their sequelae (Y36Y89.1),1,N/A,6966
+Never Married,2021 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6969
+Never Married,Total,Operations of war and their sequelae (Y36Y89.1),1,N/A,6972
+Unknown,2020 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6975
+Unknown,2021 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6978
+Unknown,Total,Operations of war and their sequelae (Y36Y89.1),0,N/A,6981
+Total,2020 **,Operations of war and their sequelae (Y36Y89.1),1,N/A,6984
+Total,2021 **,Operations of war and their sequelae (Y36Y89.1),0,N/A,6987
+Total,Total,Operations of war and their sequelae (Y36Y89.1),1,N/A,6990
+Married,2020 **,Complications of medical and surgical care (Y40-Y84Y88),95,0.6,6993
+Married,2021 **,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,6996
+Married,Total,Complications of medical and surgical care (Y40-Y84Y88),95,0.3,6999
+Married but Separated,2020 **,Complications of medical and surgical care (Y40-Y84Y88),1,N/A,7002
+Married but Separated,2021 **,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,7005
+Married but Separated,Total,Complications of medical and surgical care (Y40-Y84Y88),1,N/A,7008
+Widowed,2020 **,Complications of medical and surgical care (Y40-Y84Y88),50,0.3,7011
+Widowed,2021 **,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,7014
+Widowed,Total,Complications of medical and surgical care (Y40-Y84Y88),50,0.2,7017
+Divorced,2020 **,Complications of medical and surgical care (Y40-Y84Y88),34,0.2,7020
+Divorced,2021 **,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,7023
+Divorced,Total,Complications of medical and surgical care (Y40-Y84Y88),34,0.1,7026
+Never Married,2020 **,Complications of medical and surgical care (Y40-Y84Y88),41,0.3,7029
+Never Married,2021 **,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,7032
+Never Married,Total,Complications of medical and surgical care (Y40-Y84Y88),41,0.2,7035
+Unknown,2020 **,Complications of medical and surgical care (Y40-Y84Y88),3,N/A,7038
+Unknown,2021 **,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,7041
+Unknown,Total,Complications of medical and surgical care (Y40-Y84Y88),3,N/A,7044
+Total,2020 **,Complications of medical and surgical care (Y40-Y84Y88),224,1.5,7047
+Total,2021 **,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,7050
+Total,Total,Complications of medical and surgical care (Y40-Y84Y88),224,0.8,7053
+Married,2020 **,Total,46913,309.5,7056
+Married,2021 **,Total,556,3.7,7059
+Married,Total,Total,47469,156.6,7062
+Married but Separated,2020 **,Total,561,4.1,7065
+Married but Separated,2021 **,Total,1,N/A,7068
+Married but Separated,Total,Total,562,2.1,7071
+Widowed,2020 **,Total,45613,290.5,7074
+Widowed,2021 **,Total,555,3.5,7077
+Widowed,Total,Total,46168,147.0,7080
+Divorced,2020 **,Total,24624,161.9,7083
+Divorced,2021 **,Total,233,1.5,7086
+Divorced,Total,Total,24857,81.7,7089
+Never Married,2020 **,Total,19857,153.8,7092
+Never Married,2021 **,Total,184,1.4,7095
+Never Married,Total,Total,20041,77.6,7098
+Unknown,2020 **,Total,610,4.0,7101
+Unknown,2021 **,Total,3,N/A,7104
+Unknown,Total,Total,613,2.0,7107
+Total,2020 **,Total,138178,923.9,7110
+Total,2021 **,Total,1532,10.1,7113
+Total,Total,Total,139710,467.0,7116
