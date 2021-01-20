@@ -1,0 +1,453 @@
+DeathEthnicityEthnicityDesc,DeathCOD113ICDCode113Desc,Deaths,DeathAgeAdjustedRate11,SORT
+Hispanic,Salmonella infections (A01-A02),0,N/A,0
+Non-Hispanic,Salmonella infections (A01-A02),0,N/A,3
+Unknown,Salmonella infections (A01-A02),0,N/A,6
+Total,Salmonella infections (A01-A02),0,N/A,9
+Hispanic,Shigellosis and amebiasis (A03A06),0,N/A,12
+Non-Hispanic,Shigellosis and amebiasis (A03A06),0,N/A,15
+Unknown,Shigellosis and amebiasis (A03A06),0,N/A,18
+Total,Shigellosis and amebiasis (A03A06),0,N/A,21
+Hispanic,Certain other intestinal infections (A04A07-A09),0,N/A,24
+Non-Hispanic,Certain other intestinal infections (A04A07-A09),0,N/A,27
+Unknown,Certain other intestinal infections (A04A07-A09),0,N/A,30
+Total,Certain other intestinal infections (A04A07-A09),0,N/A,33
+Hispanic,Respiratory tuberculosis (A16),0,N/A,36
+Non-Hispanic,Respiratory tuberculosis (A16),0,N/A,39
+Unknown,Respiratory tuberculosis (A16),0,N/A,42
+Total,Respiratory tuberculosis (A16),0,N/A,45
+Hispanic,Other tuberculosis (A17-A19),0,N/A,48
+Non-Hispanic,Other tuberculosis (A17-A19),0,N/A,51
+Unknown,Other tuberculosis (A17-A19),0,N/A,54
+Total,Other tuberculosis (A17-A19),0,N/A,57
+Hispanic,Whooping cough (A37),0,N/A,60
+Non-Hispanic,Whooping cough (A37),0,N/A,63
+Unknown,Whooping cough (A37),0,N/A,66
+Total,Whooping cough (A37),0,N/A,69
+Hispanic,Scarlet fever and erysipelas (A38A46),0,N/A,72
+Non-Hispanic,Scarlet fever and erysipelas (A38A46),0,N/A,75
+Unknown,Scarlet fever and erysipelas (A38A46),0,N/A,78
+Total,Scarlet fever and erysipelas (A38A46),0,N/A,81
+Hispanic,Meningococcal infection (A39),0,N/A,84
+Non-Hispanic,Meningococcal infection (A39),0,N/A,87
+Unknown,Meningococcal infection (A39),0,N/A,90
+Total,Meningococcal infection (A39),0,N/A,93
+Hispanic,Septicemia (A40-A41),0,N/A,96
+Non-Hispanic,Septicemia (A40-A41),8,N/A,99
+Unknown,Septicemia (A40-A41),0,N/A,102
+Total,Septicemia (A40-A41),8,N/A,105
+Hispanic,Syphilis ((A50-A53),0,N/A,108
+Non-Hispanic,Syphilis ((A50-A53),0,N/A,111
+Unknown,Syphilis ((A50-A53),0,N/A,114
+Total,Syphilis ((A50-A53),0,N/A,117
+Hispanic,Acute poliomyelitis (A80),0,N/A,120
+Non-Hispanic,Acute poliomyelitis (A80),0,N/A,123
+Unknown,Acute poliomyelitis (A80),0,N/A,126
+Total,Acute poliomyelitis (A80),0,N/A,129
+Hispanic,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,132
+Non-Hispanic,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,135
+Unknown,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,138
+Total,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,141
+Hispanic,Viral hepatitis (B15-B19),0,N/A,144
+Non-Hispanic,Viral hepatitis (B15-B19),0,N/A,147
+Unknown,Viral hepatitis (B15-B19),0,N/A,150
+Total,Viral hepatitis (B15-B19),0,N/A,153
+Hispanic,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,156
+Non-Hispanic,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,159
+Unknown,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,162
+Total,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,165
+Hispanic,Malaria (B50-B54),0,N/A,168
+Non-Hispanic,Malaria (B50-B54),0,N/A,171
+Unknown,Malaria (B50-B54),0,N/A,174
+Total,Malaria (B50-B54),0,N/A,177
+Hispanic,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,180
+Non-Hispanic,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,183
+Unknown,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,186
+Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),0,N/A,189
+Hispanic,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,192
+Non-Hispanic,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),2,N/A,195
+Unknown,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,198
+Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),2,N/A,201
+Hispanic,Malignant neoplasm of esophagus (C15),0,N/A,204
+Non-Hispanic,Malignant neoplasm of esophagus (C15),3,N/A,207
+Unknown,Malignant neoplasm of esophagus (C15),0,N/A,210
+Total,Malignant neoplasm of esophagus (C15),3,N/A,213
+Hispanic,Malignant neoplasm of stomach (C16),0,N/A,216
+Non-Hispanic,Malignant neoplasm of stomach (C16),2,N/A,219
+Unknown,Malignant neoplasm of stomach (C16),0,N/A,222
+Total,Malignant neoplasm of stomach (C16),2,N/A,225
+Hispanic,Malignant neoplasms of colon rectum and anus (C18-C21),0,N/A,228
+Non-Hispanic,Malignant neoplasms of colon rectum and anus (C18-C21),19,0,231
+Unknown,Malignant neoplasms of colon rectum and anus (C18-C21),0,N/A,234
+Total,Malignant neoplasms of colon rectum and anus (C18-C21),19,0,237
+Hispanic,Malignant neoplasms of liver and intrahepatic bile ducts (C22),0,N/A,240
+Non-Hispanic,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1,N/A,243
+Unknown,Malignant neoplasms of liver and intrahepatic bile ducts (C22),0,N/A,246
+Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1,N/A,249
+Hispanic,Malignant neoplasm of pancreas (C25),0,N/A,252
+Non-Hispanic,Malignant neoplasm of pancreas (C25),9,N/A,255
+Unknown,Malignant neoplasm of pancreas (C25),0,N/A,258
+Total,Malignant neoplasm of pancreas (C25),9,N/A,261
+Hispanic,Malignant neoplasm of larynx (C32),0,N/A,264
+Non-Hispanic,Malignant neoplasm of larynx (C32),1,N/A,267
+Unknown,Malignant neoplasm of larynx (C32),0,N/A,270
+Total,Malignant neoplasm of larynx (C32),1,N/A,273
+Hispanic,Malignant neoplasms of trachea bronchus and lung (C33-C34),0,N/A,276
+Non-Hispanic,Malignant neoplasms of trachea bronchus and lung (C33-C34),27,0,279
+Unknown,Malignant neoplasms of trachea bronchus and lung (C33-C34),0,N/A,282
+Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),27,0,285
+Hispanic,Malignant melanoma of skin (C43),0,N/A,288
+Non-Hispanic,Malignant melanoma of skin (C43),4,N/A,291
+Unknown,Malignant melanoma of skin (C43),0,N/A,294
+Total,Malignant melanoma of skin (C43),4,N/A,297
+Hispanic,Malignant neoplasm of breast (C50),0,N/A,300
+Non-Hispanic,Malignant neoplasm of breast (C50),11,0,303
+Unknown,Malignant neoplasm of breast (C50),0,N/A,306
+Total,Malignant neoplasm of breast (C50),11,0,309
+Hispanic,Malignant neoplasm of cervix uteri (C53),0,N/A,312
+Non-Hispanic,Malignant neoplasm of cervix uteri (C53),1,N/A,315
+Unknown,Malignant neoplasm of cervix uteri (C53),0,N/A,318
+Total,Malignant neoplasm of cervix uteri (C53),1,N/A,321
+Hispanic,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,324
+Non-Hispanic,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),3,N/A,327
+Unknown,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,330
+Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),3,N/A,333
+Hispanic,Malignant neoplasm of ovary (C56),0,N/A,336
+Non-Hispanic,Malignant neoplasm of ovary (C56),3,N/A,339
+Unknown,Malignant neoplasm of ovary (C56),0,N/A,342
+Total,Malignant neoplasm of ovary (C56),3,N/A,345
+Hispanic,Malignant neoplasm of prostate (C61),0,N/A,348
+Non-Hispanic,Malignant neoplasm of prostate (C61),6,N/A,351
+Unknown,Malignant neoplasm of prostate (C61),0,N/A,354
+Total,Malignant neoplasm of prostate (C61),6,N/A,357
+Hispanic,Malignant neoplasms of kidney and renal pelvis (C64-C65),0,N/A,360
+Non-Hispanic,Malignant neoplasms of kidney and renal pelvis (C64-C65),4,N/A,363
+Unknown,Malignant neoplasms of kidney and renal pelvis (C64-C65),0,N/A,366
+Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),4,N/A,369
+Hispanic,Malignant neoplasm of bladder (C67),0,N/A,372
+Non-Hispanic,Malignant neoplasm of bladder (C67),0,N/A,375
+Unknown,Malignant neoplasm of bladder (C67),0,N/A,378
+Total,Malignant neoplasm of bladder (C67),0,N/A,381
+Hispanic,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),0,N/A,384
+Non-Hispanic,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),5,N/A,387
+Unknown,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),0,N/A,390
+Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),5,N/A,393
+Hispanic,Hodgkin's disease (C81),0,N/A,396
+Non-Hispanic,Hodgkin's disease (C81),0,N/A,399
+Unknown,Hodgkin's disease (C81),0,N/A,402
+Total,Hodgkin's disease (C81),0,N/A,405
+Hispanic,Non-Hodgkin's lymphoma (C82-C85),0,N/A,408
+Non-Hispanic,Non-Hodgkin's lymphoma (C82-C85),4,N/A,411
+Unknown,Non-Hodgkin's lymphoma (C82-C85),0,N/A,414
+Total,Non-Hodgkin's lymphoma (C82-C85),4,N/A,417
+Hispanic,Leukemia (C91-C95),0,N/A,420
+Non-Hispanic,Leukemia (C91-C95),4,N/A,423
+Unknown,Leukemia (C91-C95),0,N/A,426
+Total,Leukemia (C91-C95),4,N/A,429
+Hispanic,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,432
+Non-Hispanic,Multiple myeloma and immunoproliferative neoplasms (C88C90),4,N/A,435
+Unknown,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,438
+Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),4,N/A,441
+Hispanic,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,444
+Non-Hispanic,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,447
+Unknown,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,450
+Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,453
+Hispanic,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),0,N/A,456
+Non-Hispanic,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),13,0,459
+Unknown,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),0,N/A,462
+Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),13,0,465
+Hispanic,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),0,N/A,468
+Non-Hispanic,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),4,N/A,471
+Unknown,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),0,N/A,474
+Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),4,N/A,477
+Hispanic,Anemias (D50-D64),0,N/A,480
+Non-Hispanic,Anemias (D50-D64),1,N/A,483
+Unknown,Anemias (D50-D64),0,N/A,486
+Total,Anemias (D50-D64),1,N/A,489
+Hispanic,Diabetes mellitus (E10-E14),1,N/A,492
+Non-Hispanic,Diabetes mellitus (E10-E14),7,N/A,495
+Unknown,Diabetes mellitus (E10-E14),0,N/A,498
+Total,Diabetes mellitus (E10-E14),8,N/A,501
+Hispanic,Malnutrition (E40-E46),0,N/A,504
+Non-Hispanic,Malnutrition (E40-E46),2,N/A,507
+Unknown,Malnutrition (E40-E46),0,N/A,510
+Total,Malnutrition (E40-E46),2,N/A,513
+Hispanic,Other nutritional deficiencies (E50-E64),0,N/A,516
+Non-Hispanic,Other nutritional deficiencies (E50-E64),0,N/A,519
+Unknown,Other nutritional deficiencies (E50-E64),0,N/A,522
+Total,Other nutritional deficiencies (E50-E64),0,N/A,525
+Hispanic,Meningitis (G00G03),0,N/A,528
+Non-Hispanic,Meningitis (G00G03),0,N/A,531
+Unknown,Meningitis (G00G03),0,N/A,534
+Total,Meningitis (G00G03),0,N/A,537
+Hispanic,Parkinson's disease (G20-G21),0,N/A,540
+Non-Hispanic,Parkinson's disease (G20-G21),14,0,543
+Unknown,Parkinson's disease (G20-G21),0,N/A,546
+Total,Parkinson's disease (G20-G21),14,0,549
+Hispanic,Alzheimer's disease (G30),0,N/A,552
+Non-Hispanic,Alzheimer's disease (G30),28,0,555
+Unknown,Alzheimer's disease (G30),0,N/A,558
+Total,Alzheimer's disease (G30),28,0,561
+Hispanic,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,564
+Non-Hispanic,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,567
+Unknown,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,570
+Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,573
+Hispanic,Hypertensive heart disease (I11),0,N/A,576
+Non-Hispanic,Hypertensive heart disease (I11),9,N/A,579
+Unknown,Hypertensive heart disease (I11),0,N/A,582
+Total,Hypertensive heart disease (I11),9,N/A,585
+Hispanic,Hypertensive heart and renal disease (I13),0,N/A,588
+Non-Hispanic,Hypertensive heart and renal disease (I13),3,N/A,591
+Unknown,Hypertensive heart and renal disease (I13),0,N/A,594
+Total,Hypertensive heart and renal disease (I13),3,N/A,597
+Hispanic,Acute myocardial infarction (I21-I22),0,N/A,600
+Non-Hispanic,Acute myocardial infarction (I21-I22),14,0,603
+Unknown,Acute myocardial infarction (I21-I22),0,N/A,606
+Total,Acute myocardial infarction (I21-I22),14,0,609
+Hispanic,Other acute ischemic heart diseases (I24),0,N/A,612
+Non-Hispanic,Other acute ischemic heart diseases (I24),1,N/A,615
+Unknown,Other acute ischemic heart diseases (I24),0,N/A,618
+Total,Other acute ischemic heart diseases (I24),1,N/A,621
+Hispanic,Atherosclerotic cardiovascular disease so described (I25.0),0,N/A,624
+Non-Hispanic,Atherosclerotic cardiovascular disease so described (I25.0),9,N/A,627
+Unknown,Atherosclerotic cardiovascular disease so described (I25.0),0,N/A,630
+Total,Atherosclerotic cardiovascular disease so described (I25.0),9,N/A,633
+Hispanic,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),0,N/A,636
+Non-Hispanic,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),27,0,639
+Unknown,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),0,N/A,642
+Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),27,0,645
+Hispanic,Acute and subacute endocarditis (I33),0,N/A,648
+Non-Hispanic,Acute and subacute endocarditis (I33),0,N/A,651
+Unknown,Acute and subacute endocarditis (I33),0,N/A,654
+Total,Acute and subacute endocarditis (I33),0,N/A,657
+Hispanic,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,660
+Non-Hispanic,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,663
+Unknown,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,666
+Total,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,669
+Hispanic,Heart failure (I50),0,N/A,672
+Non-Hispanic,Heart failure (I50),18,0,675
+Unknown,Heart failure (I50),0,N/A,678
+Total,Heart failure (I50),18,0,681
+Hispanic,All other forms of heart disease (I26-I28I34-I38I42-I49I51),0,N/A,684
+Non-Hispanic,All other forms of heart disease (I26-I28I34-I38I42-I49I51),17,0,687
+Unknown,All other forms of heart disease (I26-I28I34-I38I42-I49I51),0,N/A,690
+Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),17,0,693
+Hispanic,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),0,N/A,696
+Non-Hispanic,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),5,N/A,699
+Unknown,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),0,N/A,702
+Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),5,N/A,705
+Hispanic,Cerebrovascular diseases (I60-I69),0,N/A,708
+Non-Hispanic,Cerebrovascular diseases (I60-I69),32,0,711
+Unknown,Cerebrovascular diseases (I60-I69),0,N/A,714
+Total,Cerebrovascular diseases (I60-I69),32,0,717
+Hispanic,Atherosclerosis (I70),0,N/A,720
+Non-Hispanic,Atherosclerosis (I70),0,N/A,723
+Unknown,Atherosclerosis (I70),0,N/A,726
+Total,Atherosclerosis (I70),0,N/A,729
+Hispanic,Aortic aneurysm and dissection (I71),0,N/A,732
+Non-Hispanic,Aortic aneurysm and dissection (I71),2,N/A,735
+Unknown,Aortic aneurysm and dissection (I71),0,N/A,738
+Total,Aortic aneurysm and dissection (I71),2,N/A,741
+Hispanic,Other diseases of arteries arterioles and capillaries (I72-I78),0,N/A,744
+Non-Hispanic,Other diseases of arteries arterioles and capillaries (I72-I78),3,N/A,747
+Unknown,Other diseases of arteries arterioles and capillaries (I72-I78),0,N/A,750
+Total,Other diseases of arteries arterioles and capillaries (I72-I78),3,N/A,753
+Hispanic,Other disorders of circulatory system (I80-I99),0,N/A,756
+Non-Hispanic,Other disorders of circulatory system (I80-I99),0,N/A,759
+Unknown,Other disorders of circulatory system (I80-I99),0,N/A,762
+Total,Other disorders of circulatory system (I80-I99),0,N/A,765
+Hispanic,Influenza (J09-J11),0,N/A,768
+Non-Hispanic,Influenza (J09-J11),0,N/A,771
+Unknown,Influenza (J09-J11),0,N/A,774
+Total,Influenza (J09-J11),0,N/A,777
+Hispanic,Pneumonia (J12-J18),0,N/A,780
+Non-Hispanic,Pneumonia (J12-J18),6,N/A,783
+Unknown,Pneumonia (J12-J18),0,N/A,786
+Total,Pneumonia (J12-J18),6,N/A,789
+Hispanic,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,792
+Non-Hispanic,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,795
+Unknown,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,798
+Total,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,801
+Hispanic,Unspecified acute lower respiratory infection (J22U049U071),1,N/A,804
+Non-Hispanic,Unspecified acute lower respiratory infection (J22U049U071),102,0,807
+Unknown,Unspecified acute lower respiratory infection (J22U049U071),0,N/A,810
+Total,Unspecified acute lower respiratory infection (J22U049U071),103,0,813
+Hispanic,Bronchitis chronic and unspecified (J40-J42),0,N/A,816
+Non-Hispanic,Bronchitis chronic and unspecified (J40-J42),0,N/A,819
+Unknown,Bronchitis chronic and unspecified (J40-J42),0,N/A,822
+Total,Bronchitis chronic and unspecified (J40-J42),0,N/A,825
+Hispanic,Emphysema (J43),0,N/A,828
+Non-Hispanic,Emphysema (J43),1,N/A,831
+Unknown,Emphysema (J43),0,N/A,834
+Total,Emphysema (J43),1,N/A,837
+Hispanic,Asthma (J45-J46),0,N/A,840
+Non-Hispanic,Asthma (J45-J46),0,N/A,843
+Unknown,Asthma (J45-J46),0,N/A,846
+Total,Asthma (J45-J46),0,N/A,849
+Hispanic,Other chronic lower respiratory diseases (J44J47),0,N/A,852
+Non-Hispanic,Other chronic lower respiratory diseases (J44J47),16,0,855
+Unknown,Other chronic lower respiratory diseases (J44J47),0,N/A,858
+Total,Other chronic lower respiratory diseases (J44J47),16,0,861
+Hispanic,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,864
+Non-Hispanic,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,867
+Unknown,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,870
+Total,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,873
+Hispanic,Pneumonitis due to solids and liquids (J69),0,N/A,876
+Non-Hispanic,Pneumonitis due to solids and liquids (J69),3,N/A,879
+Unknown,Pneumonitis due to solids and liquids (J69),0,N/A,882
+Total,Pneumonitis due to solids and liquids (J69),3,N/A,885
+Hispanic,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),0,N/A,888
+Non-Hispanic,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),4,N/A,891
+Unknown,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),0,N/A,894
+Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),4,N/A,897
+Hispanic,Peptic ulcer (K25-K28),0,N/A,900
+Non-Hispanic,Peptic ulcer (K25-K28),0,N/A,903
+Unknown,Peptic ulcer (K25-K28),0,N/A,906
+Total,Peptic ulcer (K25-K28),0,N/A,909
+Hispanic,Diseases of appendix (K35-K38),0,N/A,912
+Non-Hispanic,Diseases of appendix (K35-K38),0,N/A,915
+Unknown,Diseases of appendix (K35-K38),0,N/A,918
+Total,Diseases of appendix (K35-K38),0,N/A,921
+Hispanic,Hernia (K40-K46),0,N/A,924
+Non-Hispanic,Hernia (K40-K46),1,N/A,927
+Unknown,Hernia (K40-K46),0,N/A,930
+Total,Hernia (K40-K46),1,N/A,933
+Hispanic,Alcoholic liver disease (K70),0,N/A,936
+Non-Hispanic,Alcoholic liver disease (K70),3,N/A,939
+Unknown,Alcoholic liver disease (K70),0,N/A,942
+Total,Alcoholic liver disease (K70),3,N/A,945
+Hispanic,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,948
+Non-Hispanic,Other chronic liver disease and cirrhosis (K73-K74),1,N/A,951
+Unknown,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,954
+Total,Other chronic liver disease and cirrhosis (K73-K74),1,N/A,957
+Hispanic,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,960
+Non-Hispanic,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,963
+Unknown,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,966
+Total,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,969
+Hispanic,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,972
+Non-Hispanic,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,975
+Unknown,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,978
+Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,981
+Hispanic,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,984
+Non-Hispanic,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,987
+Unknown,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,990
+Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,993
+Hispanic,Renal failure (N17-N19),0,N/A,996
+Non-Hispanic,Renal failure (N17-N19),8,N/A,999
+Unknown,Renal failure (N17-N19),0,N/A,1002
+Total,Renal failure (N17-N19),8,N/A,1005
+Hispanic,Other disorders of kidney (N25N27),0,N/A,1008
+Non-Hispanic,Other disorders of kidney (N25N27),0,N/A,1011
+Unknown,Other disorders of kidney (N25N27),0,N/A,1014
+Total,Other disorders of kidney (N25N27),0,N/A,1017
+Hispanic,Infections of kidney (N10-N12N13.6N15.1),0,N/A,1020
+Non-Hispanic,Infections of kidney (N10-N12N13.6N15.1),0,N/A,1023
+Unknown,Infections of kidney (N10-N12N13.6N15.1),0,N/A,1026
+Total,Infections of kidney (N10-N12N13.6N15.1),0,N/A,1029
+Hispanic,Hyperplasia of prostate (N40),0,N/A,1032
+Non-Hispanic,Hyperplasia of prostate (N40),0,N/A,1035
+Unknown,Hyperplasia of prostate (N40),0,N/A,1038
+Total,Hyperplasia of prostate (N40),0,N/A,1041
+Hispanic,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,1044
+Non-Hispanic,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,1047
+Unknown,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,1050
+Total,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,1053
+Hispanic,Pregnancy with abortive outcome (O00-O07),0,N/A,1056
+Non-Hispanic,Pregnancy with abortive outcome (O00-O07),0,N/A,1059
+Unknown,Pregnancy with abortive outcome (O00-O07),0,N/A,1062
+Total,Pregnancy with abortive outcome (O00-O07),0,N/A,1065
+Hispanic,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,1068
+Non-Hispanic,Other complications of pregnancy childbirth and the puerperium (O10-O99),1,N/A,1071
+Unknown,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,1074
+Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),1,N/A,1077
+Hispanic,Certain conditions originating in the perinatal period (P00-P96),0,N/A,1080
+Non-Hispanic,Certain conditions originating in the perinatal period (P00-P96),0,N/A,1083
+Unknown,Certain conditions originating in the perinatal period (P00-P96),0,N/A,1086
+Total,Certain conditions originating in the perinatal period (P00-P96),0,N/A,1089
+Hispanic,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,1092
+Non-Hispanic,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,1095
+Unknown,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,1098
+Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),0,N/A,1101
+Hispanic,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),38,0,1104
+Non-Hispanic,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),3902,0,1107
+Unknown,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),1,N/A,1110
+Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),3941,0,1113
+Hispanic,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),1,N/A,1116
+Non-Hispanic,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),70,0,1119
+Unknown,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),0,N/A,1122
+Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),71,0,1125
+Hispanic,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),0,N/A,1128
+Non-Hispanic,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),4,N/A,1131
+Unknown,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),0,N/A,1134
+Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),4,N/A,1137
+Hispanic,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,1140
+Non-Hispanic,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,1143
+Unknown,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,1146
+Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,1149
+Hispanic,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,1152
+Non-Hispanic,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,1155
+Unknown,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,1158
+Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,1161
+Hispanic,Falls (W00-W19),0,N/A,1164
+Non-Hispanic,Falls (W00-W19),3,N/A,1167
+Unknown,Falls (W00-W19),0,N/A,1170
+Total,Falls (W00-W19),3,N/A,1173
+Hispanic,Accidental discharge of firearms (W32-W34),0,N/A,1176
+Non-Hispanic,Accidental discharge of firearms (W32-W34),1,N/A,1179
+Unknown,Accidental discharge of firearms (W32-W34),0,N/A,1182
+Total,Accidental discharge of firearms (W32-W34),1,N/A,1185
+Hispanic,Accidental drowning and submersion (W65-W74),0,N/A,1188
+Non-Hispanic,Accidental drowning and submersion (W65-W74),0,N/A,1191
+Unknown,Accidental drowning and submersion (W65-W74),0,N/A,1194
+Total,Accidental drowning and submersion (W65-W74),0,N/A,1197
+Hispanic,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,1200
+Non-Hispanic,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,1203
+Unknown,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,1206
+Total,Accidental exposure to smoke fire and flames (X00-X09),0,N/A,1209
+Hispanic,Accidental poisoning and exposure to noxious substances (X40-X49),0,N/A,1212
+Non-Hispanic,Accidental poisoning and exposure to noxious substances (X40-X49),2,N/A,1215
+Unknown,Accidental poisoning and exposure to noxious substances (X40-X49),0,N/A,1218
+Total,Accidental poisoning and exposure to noxious substances (X40-X49),2,N/A,1221
+Hispanic,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),0,N/A,1224
+Non-Hispanic,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),3,N/A,1227
+Unknown,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),0,N/A,1230
+Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),3,N/A,1233
+Hispanic,Intentional self-harm (suicide) by discharge of firearms (X72-X74),1,N/A,1236
+Non-Hispanic,Intentional self-harm (suicide) by discharge of firearms (X72-X74),5,N/A,1239
+Unknown,Intentional self-harm (suicide) by discharge of firearms (X72-X74),0,N/A,1242
+Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),6,N/A,1245
+Hispanic,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,1248
+Non-Hispanic,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),1,N/A,1251
+Unknown,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,1254
+Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),1,N/A,1257
+Hispanic,Assault (homicide) by discharge of firearms (*U01.4X93-X95),0,N/A,1260
+Non-Hispanic,Assault (homicide) by discharge of firearms (*U01.4X93-X95),1,N/A,1263
+Unknown,Assault (homicide) by discharge of firearms (*U01.4X93-X95),0,N/A,1266
+Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),1,N/A,1269
+Hispanic,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,1272
+Non-Hispanic,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,1275
+Unknown,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,1278
+Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),0,N/A,1281
+Hispanic,Legal intervention (Y35Y89.0),0,N/A,1284
+Non-Hispanic,Legal intervention (Y35Y89.0),0,N/A,1287
+Unknown,Legal intervention (Y35Y89.0),0,N/A,1290
+Total,Legal intervention (Y35Y89.0),0,N/A,1293
+Hispanic,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,1296
+Non-Hispanic,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,1299
+Unknown,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,1302
+Total,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,1305
+Hispanic,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,1308
+Non-Hispanic,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,1311
+Unknown,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,1314
+Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),0,N/A,1317
+Hispanic,Operations of war and their sequelae (Y36Y89.1),0,N/A,1320
+Non-Hispanic,Operations of war and their sequelae (Y36Y89.1),0,N/A,1323
+Unknown,Operations of war and their sequelae (Y36Y89.1),0,N/A,1326
+Total,Operations of war and their sequelae (Y36Y89.1),0,N/A,1329
+Hispanic,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,1332
+Non-Hispanic,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,1335
+Unknown,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,1338
+Total,Complications of medical and surgical care (Y40-Y84Y88),0,N/A,1341
+Hispanic,Total,42,0,1344
+Non-Hispanic,Total,4468,0,1347
+Unknown,Total,1,N/A,1350
+Total,Total,4511,0,1353
