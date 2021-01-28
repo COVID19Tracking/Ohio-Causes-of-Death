@@ -1,0 +1,2374 @@
+DeathAgeGroupNCIAgeNCI,DeathCOD113ICDCode113Desc,Deaths,DeathAgeAdjustedRate11,SORT
+Less than 1,Salmonella infections (A01-A02),0,N/A,0
+1 to 4,Salmonella infections (A01-A02),0,N/A,3
+5 to 9,Salmonella infections (A01-A02),0,N/A,6
+10 to 14,Salmonella infections (A01-A02),0,N/A,9
+15 to 19,Salmonella infections (A01-A02),0,N/A,12
+20 to 24,Salmonella infections (A01-A02),0,N/A,15
+25 to 29,Salmonella infections (A01-A02),0,N/A,18
+30 to 34,Salmonella infections (A01-A02),0,N/A,21
+35 to 39,Salmonella infections (A01-A02),0,N/A,24
+40 to 44,Salmonella infections (A01-A02),1,N/A,27
+45 to 49,Salmonella infections (A01-A02),0,N/A,30
+50 to 54,Salmonella infections (A01-A02),2,N/A,33
+55 to 59,Salmonella infections (A01-A02),2,N/A,36
+60 to 64,Salmonella infections (A01-A02),0,N/A,39
+65 to 69,Salmonella infections (A01-A02),3,N/A,42
+70 to 74,Salmonella infections (A01-A02),5,N/A,45
+75 to 79,Salmonella infections (A01-A02),3,N/A,48
+80 to 84,Salmonella infections (A01-A02),5,N/A,51
+85 and older,Salmonella infections (A01-A02),0,N/A,54
+Unknown,Salmonella infections (A01-A02),0,N/A,57
+Total,Salmonella infections (A01-A02),21,0.0,60
+Less than 1,Shigellosis and amebiasis (A03A06),0,N/A,63
+1 to 4,Shigellosis and amebiasis (A03A06),0,N/A,66
+5 to 9,Shigellosis and amebiasis (A03A06),0,N/A,69
+10 to 14,Shigellosis and amebiasis (A03A06),0,N/A,72
+15 to 19,Shigellosis and amebiasis (A03A06),0,N/A,75
+20 to 24,Shigellosis and amebiasis (A03A06),0,N/A,78
+25 to 29,Shigellosis and amebiasis (A03A06),0,N/A,81
+30 to 34,Shigellosis and amebiasis (A03A06),0,N/A,84
+35 to 39,Shigellosis and amebiasis (A03A06),0,N/A,87
+40 to 44,Shigellosis and amebiasis (A03A06),0,N/A,90
+45 to 49,Shigellosis and amebiasis (A03A06),0,N/A,93
+50 to 54,Shigellosis and amebiasis (A03A06),0,N/A,96
+55 to 59,Shigellosis and amebiasis (A03A06),0,N/A,99
+60 to 64,Shigellosis and amebiasis (A03A06),1,N/A,102
+65 to 69,Shigellosis and amebiasis (A03A06),1,N/A,105
+70 to 74,Shigellosis and amebiasis (A03A06),0,N/A,108
+75 to 79,Shigellosis and amebiasis (A03A06),0,N/A,111
+80 to 84,Shigellosis and amebiasis (A03A06),0,N/A,114
+85 and older,Shigellosis and amebiasis (A03A06),1,N/A,117
+Unknown,Shigellosis and amebiasis (A03A06),0,N/A,120
+Total,Shigellosis and amebiasis (A03A06),3,N/A,123
+Less than 1,Certain other intestinal infections (A04A07-A09),90,0.1,126
+1 to 4,Certain other intestinal infections (A04A07-A09),9,N/A,129
+5 to 9,Certain other intestinal infections (A04A07-A09),4,N/A,132
+10 to 14,Certain other intestinal infections (A04A07-A09),0,N/A,135
+15 to 19,Certain other intestinal infections (A04A07-A09),2,N/A,138
+20 to 24,Certain other intestinal infections (A04A07-A09),6,N/A,141
+25 to 29,Certain other intestinal infections (A04A07-A09),8,N/A,144
+30 to 34,Certain other intestinal infections (A04A07-A09),6,N/A,147
+35 to 39,Certain other intestinal infections (A04A07-A09),17,0.0,150
+40 to 44,Certain other intestinal infections (A04A07-A09),32,0.0,153
+45 to 49,Certain other intestinal infections (A04A07-A09),53,0.1,156
+50 to 54,Certain other intestinal infections (A04A07-A09),95,0.1,159
+55 to 59,Certain other intestinal infections (A04A07-A09),190,0.1,162
+60 to 64,Certain other intestinal infections (A04A07-A09),283,0.2,165
+65 to 69,Certain other intestinal infections (A04A07-A09),427,0.3,168
+70 to 74,Certain other intestinal infections (A04A07-A09),533,0.5,171
+75 to 79,Certain other intestinal infections (A04A07-A09),817,0.8,174
+80 to 84,Certain other intestinal infections (A04A07-A09),1119,1.4,177
+85 and older,Certain other intestinal infections (A04A07-A09),2525,1.1,180
+Unknown,Certain other intestinal infections (A04A07-A09),3,N/A,183
+Total,Certain other intestinal infections (A04A07-A09),6219,2.9,186
+Less than 1,Respiratory tuberculosis (A16),0,N/A,189
+1 to 4,Respiratory tuberculosis (A16),0,N/A,192
+5 to 9,Respiratory tuberculosis (A16),0,N/A,195
+10 to 14,Respiratory tuberculosis (A16),0,N/A,198
+15 to 19,Respiratory tuberculosis (A16),0,N/A,201
+20 to 24,Respiratory tuberculosis (A16),0,N/A,204
+25 to 29,Respiratory tuberculosis (A16),0,N/A,207
+30 to 34,Respiratory tuberculosis (A16),1,N/A,210
+35 to 39,Respiratory tuberculosis (A16),0,N/A,213
+40 to 44,Respiratory tuberculosis (A16),3,N/A,216
+45 to 49,Respiratory tuberculosis (A16),6,N/A,219
+50 to 54,Respiratory tuberculosis (A16),4,N/A,222
+55 to 59,Respiratory tuberculosis (A16),5,N/A,225
+60 to 64,Respiratory tuberculosis (A16),9,N/A,228
+65 to 69,Respiratory tuberculosis (A16),12,0.0,231
+70 to 74,Respiratory tuberculosis (A16),12,0.0,234
+75 to 79,Respiratory tuberculosis (A16),13,0.0,237
+80 to 84,Respiratory tuberculosis (A16),22,0.0,240
+85 and older,Respiratory tuberculosis (A16),30,0.0,243
+Unknown,Respiratory tuberculosis (A16),0,N/A,246
+Total,Respiratory tuberculosis (A16),117,0.1,249
+Less than 1,Other tuberculosis (A17-A19),0,N/A,252
+1 to 4,Other tuberculosis (A17-A19),0,N/A,255
+5 to 9,Other tuberculosis (A17-A19),0,N/A,258
+10 to 14,Other tuberculosis (A17-A19),0,N/A,261
+15 to 19,Other tuberculosis (A17-A19),1,N/A,264
+20 to 24,Other tuberculosis (A17-A19),2,N/A,267
+25 to 29,Other tuberculosis (A17-A19),0,N/A,270
+30 to 34,Other tuberculosis (A17-A19),0,N/A,273
+35 to 39,Other tuberculosis (A17-A19),1,N/A,276
+40 to 44,Other tuberculosis (A17-A19),1,N/A,279
+45 to 49,Other tuberculosis (A17-A19),4,N/A,282
+50 to 54,Other tuberculosis (A17-A19),5,N/A,285
+55 to 59,Other tuberculosis (A17-A19),6,N/A,288
+60 to 64,Other tuberculosis (A17-A19),10,0.0,291
+65 to 69,Other tuberculosis (A17-A19),9,N/A,294
+70 to 74,Other tuberculosis (A17-A19),9,N/A,297
+75 to 79,Other tuberculosis (A17-A19),11,0.0,300
+80 to 84,Other tuberculosis (A17-A19),11,0.0,303
+85 and older,Other tuberculosis (A17-A19),9,N/A,306
+Unknown,Other tuberculosis (A17-A19),0,N/A,309
+Total,Other tuberculosis (A17-A19),79,0.0,312
+Less than 1,Whooping cough (A37),5,N/A,315
+1 to 4,Whooping cough (A37),0,N/A,318
+5 to 9,Whooping cough (A37),0,N/A,321
+10 to 14,Whooping cough (A37),0,N/A,324
+15 to 19,Whooping cough (A37),0,N/A,327
+20 to 24,Whooping cough (A37),0,N/A,330
+25 to 29,Whooping cough (A37),0,N/A,333
+30 to 34,Whooping cough (A37),0,N/A,336
+35 to 39,Whooping cough (A37),0,N/A,339
+40 to 44,Whooping cough (A37),0,N/A,342
+45 to 49,Whooping cough (A37),0,N/A,345
+50 to 54,Whooping cough (A37),0,N/A,348
+55 to 59,Whooping cough (A37),0,N/A,351
+60 to 64,Whooping cough (A37),0,N/A,354
+65 to 69,Whooping cough (A37),1,N/A,357
+70 to 74,Whooping cough (A37),0,N/A,360
+75 to 79,Whooping cough (A37),0,N/A,363
+80 to 84,Whooping cough (A37),0,N/A,366
+85 and older,Whooping cough (A37),0,N/A,369
+Unknown,Whooping cough (A37),0,N/A,372
+Total,Whooping cough (A37),6,N/A,375
+Less than 1,Scarlet fever and erysipelas (A38A46),0,N/A,378
+1 to 4,Scarlet fever and erysipelas (A38A46),0,N/A,381
+5 to 9,Scarlet fever and erysipelas (A38A46),0,N/A,384
+10 to 14,Scarlet fever and erysipelas (A38A46),0,N/A,387
+15 to 19,Scarlet fever and erysipelas (A38A46),0,N/A,390
+20 to 24,Scarlet fever and erysipelas (A38A46),0,N/A,393
+25 to 29,Scarlet fever and erysipelas (A38A46),0,N/A,396
+30 to 34,Scarlet fever and erysipelas (A38A46),0,N/A,399
+35 to 39,Scarlet fever and erysipelas (A38A46),0,N/A,402
+40 to 44,Scarlet fever and erysipelas (A38A46),0,N/A,405
+45 to 49,Scarlet fever and erysipelas (A38A46),0,N/A,408
+50 to 54,Scarlet fever and erysipelas (A38A46),0,N/A,411
+55 to 59,Scarlet fever and erysipelas (A38A46),1,N/A,414
+60 to 64,Scarlet fever and erysipelas (A38A46),0,N/A,417
+65 to 69,Scarlet fever and erysipelas (A38A46),0,N/A,420
+70 to 74,Scarlet fever and erysipelas (A38A46),0,N/A,423
+75 to 79,Scarlet fever and erysipelas (A38A46),0,N/A,426
+80 to 84,Scarlet fever and erysipelas (A38A46),0,N/A,429
+85 and older,Scarlet fever and erysipelas (A38A46),0,N/A,432
+Unknown,Scarlet fever and erysipelas (A38A46),0,N/A,435
+Total,Scarlet fever and erysipelas (A38A46),1,N/A,438
+Less than 1,Meningococcal infection (A39),3,N/A,441
+1 to 4,Meningococcal infection (A39),5,N/A,444
+5 to 9,Meningococcal infection (A39),1,N/A,447
+10 to 14,Meningococcal infection (A39),0,N/A,450
+15 to 19,Meningococcal infection (A39),0,N/A,453
+20 to 24,Meningococcal infection (A39),1,N/A,456
+25 to 29,Meningococcal infection (A39),0,N/A,459
+30 to 34,Meningococcal infection (A39),0,N/A,462
+35 to 39,Meningococcal infection (A39),1,N/A,465
+40 to 44,Meningococcal infection (A39),1,N/A,468
+45 to 49,Meningococcal infection (A39),0,N/A,471
+50 to 54,Meningococcal infection (A39),0,N/A,474
+55 to 59,Meningococcal infection (A39),2,N/A,477
+60 to 64,Meningococcal infection (A39),1,N/A,480
+65 to 69,Meningococcal infection (A39),0,N/A,483
+70 to 74,Meningococcal infection (A39),0,N/A,486
+75 to 79,Meningococcal infection (A39),2,N/A,489
+80 to 84,Meningococcal infection (A39),1,N/A,492
+85 and older,Meningococcal infection (A39),1,N/A,495
+Unknown,Meningococcal infection (A39),0,N/A,498
+Total,Meningococcal infection (A39),19,0.0,501
+Less than 1,Septicemia (A40-A41),104,0.1,504
+1 to 4,Septicemia (A40-A41),40,0.0,507
+5 to 9,Septicemia (A40-A41),20,0.0,510
+10 to 14,Septicemia (A40-A41),15,0.0,513
+15 to 19,Septicemia (A40-A41),28,0.0,516
+20 to 24,Septicemia (A40-A41),45,0.1,519
+25 to 29,Septicemia (A40-A41),81,0.1,522
+30 to 34,Septicemia (A40-A41),139,0.2,525
+35 to 39,Septicemia (A40-A41),214,0.3,528
+40 to 44,Septicemia (A40-A41),312,0.5,531
+45 to 49,Septicemia (A40-A41),579,0.7,534
+50 to 54,Septicemia (A40-A41),1011,1.1,537
+55 to 59,Septicemia (A40-A41),1518,1.1,540
+60 to 64,Septicemia (A40-A41),2030,1.6,543
+65 to 69,Septicemia (A40-A41),2420,1.9,546
+70 to 74,Septicemia (A40-A41),2706,2.8,549
+75 to 79,Septicemia (A40-A41),3195,3.0,552
+80 to 84,Septicemia (A40-A41),3598,4.5,555
+85 and older,Septicemia (A40-A41),6244,2.6,558
+Unknown,Septicemia (A40-A41),50,N/A,561
+Total,Septicemia (A40-A41),24349,11.5,564
+Less than 1,Syphilis ((A50-A53),0,N/A,567
+1 to 4,Syphilis ((A50-A53),0,N/A,570
+5 to 9,Syphilis ((A50-A53),0,N/A,573
+10 to 14,Syphilis ((A50-A53),0,N/A,576
+15 to 19,Syphilis ((A50-A53),0,N/A,579
+20 to 24,Syphilis ((A50-A53),0,N/A,582
+25 to 29,Syphilis ((A50-A53),0,N/A,585
+30 to 34,Syphilis ((A50-A53),0,N/A,588
+35 to 39,Syphilis ((A50-A53),0,N/A,591
+40 to 44,Syphilis ((A50-A53),1,N/A,594
+45 to 49,Syphilis ((A50-A53),1,N/A,597
+50 to 54,Syphilis ((A50-A53),0,N/A,600
+55 to 59,Syphilis ((A50-A53),0,N/A,603
+60 to 64,Syphilis ((A50-A53),1,N/A,606
+65 to 69,Syphilis ((A50-A53),0,N/A,609
+70 to 74,Syphilis ((A50-A53),0,N/A,612
+75 to 79,Syphilis ((A50-A53),0,N/A,615
+80 to 84,Syphilis ((A50-A53),2,N/A,618
+85 and older,Syphilis ((A50-A53),9,N/A,621
+Unknown,Syphilis ((A50-A53),0,N/A,624
+Total,Syphilis ((A50-A53),14,0.0,627
+Less than 1,Acute poliomyelitis (A80),0,N/A,630
+1 to 4,Acute poliomyelitis (A80),0,N/A,633
+5 to 9,Acute poliomyelitis (A80),0,N/A,636
+10 to 14,Acute poliomyelitis (A80),0,N/A,639
+15 to 19,Acute poliomyelitis (A80),0,N/A,642
+20 to 24,Acute poliomyelitis (A80),0,N/A,645
+25 to 29,Acute poliomyelitis (A80),0,N/A,648
+30 to 34,Acute poliomyelitis (A80),0,N/A,651
+35 to 39,Acute poliomyelitis (A80),0,N/A,654
+40 to 44,Acute poliomyelitis (A80),0,N/A,657
+45 to 49,Acute poliomyelitis (A80),0,N/A,660
+50 to 54,Acute poliomyelitis (A80),0,N/A,663
+55 to 59,Acute poliomyelitis (A80),0,N/A,666
+60 to 64,Acute poliomyelitis (A80),0,N/A,669
+65 to 69,Acute poliomyelitis (A80),0,N/A,672
+70 to 74,Acute poliomyelitis (A80),0,N/A,675
+75 to 79,Acute poliomyelitis (A80),0,N/A,678
+80 to 84,Acute poliomyelitis (A80),0,N/A,681
+85 and older,Acute poliomyelitis (A80),1,N/A,684
+Unknown,Acute poliomyelitis (A80),0,N/A,687
+Total,Acute poliomyelitis (A80),1,N/A,690
+Less than 1,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,693
+1 to 4,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,696
+5 to 9,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,699
+10 to 14,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,702
+15 to 19,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,705
+20 to 24,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,708
+25 to 29,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,711
+30 to 34,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,714
+35 to 39,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,717
+40 to 44,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,720
+45 to 49,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,723
+50 to 54,Arthropod-borne viral encephalitis (A83-A84A85.2),1,N/A,726
+55 to 59,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,729
+60 to 64,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,732
+65 to 69,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,735
+70 to 74,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,738
+75 to 79,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,741
+80 to 84,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,744
+85 and older,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,747
+Unknown,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,750
+Total,Arthropod-borne viral encephalitis (A83-A84A85.2),1,N/A,753
+Less than 1,Viral hepatitis (B15-B19),1,N/A,756
+1 to 4,Viral hepatitis (B15-B19),0,N/A,759
+5 to 9,Viral hepatitis (B15-B19),0,N/A,762
+10 to 14,Viral hepatitis (B15-B19),0,N/A,765
+15 to 19,Viral hepatitis (B15-B19),0,N/A,768
+20 to 24,Viral hepatitis (B15-B19),0,N/A,771
+25 to 29,Viral hepatitis (B15-B19),6,N/A,774
+30 to 34,Viral hepatitis (B15-B19),22,0.0,777
+35 to 39,Viral hepatitis (B15-B19),32,0.0,780
+40 to 44,Viral hepatitis (B15-B19),82,0.1,783
+45 to 49,Viral hepatitis (B15-B19),197,0.2,786
+50 to 54,Viral hepatitis (B15-B19),482,0.5,789
+55 to 59,Viral hepatitis (B15-B19),625,0.4,792
+60 to 64,Viral hepatitis (B15-B19),488,0.4,795
+65 to 69,Viral hepatitis (B15-B19),232,0.2,798
+70 to 74,Viral hepatitis (B15-B19),149,0.2,801
+75 to 79,Viral hepatitis (B15-B19),108,0.1,804
+80 to 84,Viral hepatitis (B15-B19),79,0.1,807
+85 and older,Viral hepatitis (B15-B19),59,0.0,810
+Unknown,Viral hepatitis (B15-B19),9,N/A,813
+Total,Viral hepatitis (B15-B19),2571,1.2,816
+Less than 1,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,819
+1 to 4,Human immunodeficiency virus (HIV) disease (B20-B24),1,N/A,822
+5 to 9,Human immunodeficiency virus (HIV) disease (B20-B24),0,N/A,825
+10 to 14,Human immunodeficiency virus (HIV) disease (B20-B24),1,N/A,828
+15 to 19,Human immunodeficiency virus (HIV) disease (B20-B24),2,N/A,831
+20 to 24,Human immunodeficiency virus (HIV) disease (B20-B24),36,0.0,834
+25 to 29,Human immunodeficiency virus (HIV) disease (B20-B24),74,0.1,837
+30 to 34,Human immunodeficiency virus (HIV) disease (B20-B24),122,0.2,840
+35 to 39,Human immunodeficiency virus (HIV) disease (B20-B24),168,0.3,843
+40 to 44,Human immunodeficiency virus (HIV) disease (B20-B24),266,0.4,846
+45 to 49,Human immunodeficiency virus (HIV) disease (B20-B24),326,0.4,849
+50 to 54,Human immunodeficiency virus (HIV) disease (B20-B24),372,0.4,852
+55 to 59,Human immunodeficiency virus (HIV) disease (B20-B24),245,0.2,855
+60 to 64,Human immunodeficiency virus (HIV) disease (B20-B24),186,0.2,858
+65 to 69,Human immunodeficiency virus (HIV) disease (B20-B24),94,0.1,861
+70 to 74,Human immunodeficiency virus (HIV) disease (B20-B24),49,0.1,864
+75 to 79,Human immunodeficiency virus (HIV) disease (B20-B24),21,0.0,867
+80 to 84,Human immunodeficiency virus (HIV) disease (B20-B24),3,N/A,870
+85 and older,Human immunodeficiency virus (HIV) disease (B20-B24),7,N/A,873
+Unknown,Human immunodeficiency virus (HIV) disease (B20-B24),1,N/A,876
+Total,Human immunodeficiency virus (HIV) disease (B20-B24),1974,1.1,879
+Less than 1,Malaria (B50-B54),0,N/A,882
+1 to 4,Malaria (B50-B54),0,N/A,885
+5 to 9,Malaria (B50-B54),0,N/A,888
+10 to 14,Malaria (B50-B54),0,N/A,891
+15 to 19,Malaria (B50-B54),0,N/A,894
+20 to 24,Malaria (B50-B54),0,N/A,897
+25 to 29,Malaria (B50-B54),0,N/A,900
+30 to 34,Malaria (B50-B54),0,N/A,903
+35 to 39,Malaria (B50-B54),1,N/A,906
+40 to 44,Malaria (B50-B54),0,N/A,909
+45 to 49,Malaria (B50-B54),0,N/A,912
+50 to 54,Malaria (B50-B54),0,N/A,915
+55 to 59,Malaria (B50-B54),0,N/A,918
+60 to 64,Malaria (B50-B54),0,N/A,921
+65 to 69,Malaria (B50-B54),0,N/A,924
+70 to 74,Malaria (B50-B54),0,N/A,927
+75 to 79,Malaria (B50-B54),0,N/A,930
+80 to 84,Malaria (B50-B54),0,N/A,933
+85 and older,Malaria (B50-B54),0,N/A,936
+Unknown,Malaria (B50-B54),0,N/A,939
+Total,Malaria (B50-B54),1,N/A,942
+Less than 1,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),87,0.1,945
+1 to 4,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),39,0.0,948
+5 to 9,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),24,0.0,951
+10 to 14,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),14,0.0,954
+15 to 19,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),27,0.0,957
+20 to 24,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),22,0.0,960
+25 to 29,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),30,0.0,963
+30 to 34,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),51,0.1,966
+35 to 39,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),43,0.1,969
+40 to 44,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),58,0.1,972
+45 to 49,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),105,0.1,975
+50 to 54,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),163,0.2,978
+55 to 59,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),268,0.2,981
+60 to 64,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),350,0.3,984
+65 to 69,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),431,0.3,987
+70 to 74,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),433,0.4,990
+75 to 79,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),444,0.4,993
+80 to 84,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),444,0.6,996
+85 and older,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),739,0.3,999
+Unknown,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),2,N/A,1002
+Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),3774,1.8,1005
+Less than 1,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1008
+1 to 4,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1011
+5 to 9,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1014
+10 to 14,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1017
+15 to 19,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1020
+20 to 24,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),5,N/A,1023
+25 to 29,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),7,N/A,1026
+30 to 34,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),17,0.0,1029
+35 to 39,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),42,0.1,1032
+40 to 44,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),84,0.1,1035
+45 to 49,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),200,0.2,1038
+50 to 54,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),470,0.5,1041
+55 to 59,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),703,0.5,1044
+60 to 64,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),814,0.7,1047
+65 to 69,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),745,0.6,1050
+70 to 74,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),642,0.7,1053
+75 to 79,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),554,0.5,1056
+80 to 84,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),523,0.7,1059
+85 and older,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),632,0.3,1062
+Unknown,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),0,N/A,1065
+Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),5438,2.5,1068
+Less than 1,Malignant neoplasm of esophagus (C15),0,N/A,1071
+1 to 4,Malignant neoplasm of esophagus (C15),0,N/A,1074
+5 to 9,Malignant neoplasm of esophagus (C15),0,N/A,1077
+10 to 14,Malignant neoplasm of esophagus (C15),0,N/A,1080
+15 to 19,Malignant neoplasm of esophagus (C15),0,N/A,1083
+20 to 24,Malignant neoplasm of esophagus (C15),1,N/A,1086
+25 to 29,Malignant neoplasm of esophagus (C15),7,N/A,1089
+30 to 34,Malignant neoplasm of esophagus (C15),20,0.0,1092
+35 to 39,Malignant neoplasm of esophagus (C15),45,0.1,1095
+40 to 44,Malignant neoplasm of esophagus (C15),136,0.2,1098
+45 to 49,Malignant neoplasm of esophagus (C15),297,0.3,1101
+50 to 54,Malignant neoplasm of esophagus (C15),631,0.7,1104
+55 to 59,Malignant neoplasm of esophagus (C15),1067,0.8,1107
+60 to 64,Malignant neoplasm of esophagus (C15),1426,1.2,1110
+65 to 69,Malignant neoplasm of esophagus (C15),1434,1.1,1113
+70 to 74,Malignant neoplasm of esophagus (C15),1420,1.5,1116
+75 to 79,Malignant neoplasm of esophagus (C15),1304,1.2,1119
+80 to 84,Malignant neoplasm of esophagus (C15),1078,1.3,1122
+85 and older,Malignant neoplasm of esophagus (C15),1116,0.5,1125
+Unknown,Malignant neoplasm of esophagus (C15),7,N/A,1128
+Total,Malignant neoplasm of esophagus (C15),9989,4.6,1131
+Less than 1,Malignant neoplasm of stomach (C16),0,N/A,1134
+1 to 4,Malignant neoplasm of stomach (C16),0,N/A,1137
+5 to 9,Malignant neoplasm of stomach (C16),0,N/A,1140
+10 to 14,Malignant neoplasm of stomach (C16),0,N/A,1143
+15 to 19,Malignant neoplasm of stomach (C16),2,N/A,1146
+20 to 24,Malignant neoplasm of stomach (C16),6,N/A,1149
+25 to 29,Malignant neoplasm of stomach (C16),14,0.0,1152
+30 to 34,Malignant neoplasm of stomach (C16),37,0.0,1155
+35 to 39,Malignant neoplasm of stomach (C16),54,0.1,1158
+40 to 44,Malignant neoplasm of stomach (C16),96,0.1,1161
+45 to 49,Malignant neoplasm of stomach (C16),174,0.2,1164
+50 to 54,Malignant neoplasm of stomach (C16),292,0.3,1167
+55 to 59,Malignant neoplasm of stomach (C16),400,0.3,1170
+60 to 64,Malignant neoplasm of stomach (C16),511,0.4,1173
+65 to 69,Malignant neoplasm of stomach (C16),590,0.5,1176
+70 to 74,Malignant neoplasm of stomach (C16),694,0.7,1179
+75 to 79,Malignant neoplasm of stomach (C16),703,0.7,1182
+80 to 84,Malignant neoplasm of stomach (C16),743,0.9,1185
+85 and older,Malignant neoplasm of stomach (C16),952,0.4,1188
+Unknown,Malignant neoplasm of stomach (C16),6,N/A,1191
+Total,Malignant neoplasm of stomach (C16),5274,2.5,1194
+Less than 1,Malignant neoplasms of colon rectum and anus (C18-C21),0,N/A,1197
+1 to 4,Malignant neoplasms of colon rectum and anus (C18-C21),0,N/A,1200
+5 to 9,Malignant neoplasms of colon rectum and anus (C18-C21),0,N/A,1203
+10 to 14,Malignant neoplasms of colon rectum and anus (C18-C21),0,N/A,1206
+15 to 19,Malignant neoplasms of colon rectum and anus (C18-C21),8,N/A,1209
+20 to 24,Malignant neoplasms of colon rectum and anus (C18-C21),18,0.0,1212
+25 to 29,Malignant neoplasms of colon rectum and anus (C18-C21),47,0.1,1215
+30 to 34,Malignant neoplasms of colon rectum and anus (C18-C21),118,0.1,1218
+35 to 39,Malignant neoplasms of colon rectum and anus (C18-C21),243,0.4,1221
+40 to 44,Malignant neoplasms of colon rectum and anus (C18-C21),466,0.7,1224
+45 to 49,Malignant neoplasms of colon rectum and anus (C18-C21),1020,1.2,1227
+50 to 54,Malignant neoplasms of colon rectum and anus (C18-C21),1807,2.0,1230
+55 to 59,Malignant neoplasms of colon rectum and anus (C18-C21),2518,1.8,1233
+60 to 64,Malignant neoplasms of colon rectum and anus (C18-C21),3134,2.5,1236
+65 to 69,Malignant neoplasms of colon rectum and anus (C18-C21),3565,2.7,1239
+70 to 74,Malignant neoplasms of colon rectum and anus (C18-C21),3849,3.9,1242
+75 to 79,Malignant neoplasms of colon rectum and anus (C18-C21),4078,3.8,1245
+80 to 84,Malignant neoplasms of colon rectum and anus (C18-C21),4263,5.3,1248
+85 and older,Malignant neoplasms of colon rectum and anus (C18-C21),6651,2.8,1251
+Unknown,Malignant neoplasms of colon rectum and anus (C18-C21),15,N/A,1254
+Total,Malignant neoplasms of colon rectum and anus (C18-C21),31800,14.9,1257
+Less than 1,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1,N/A,1260
+1 to 4,Malignant neoplasms of liver and intrahepatic bile ducts (C22),6,N/A,1263
+5 to 9,Malignant neoplasms of liver and intrahepatic bile ducts (C22),5,N/A,1266
+10 to 14,Malignant neoplasms of liver and intrahepatic bile ducts (C22),5,N/A,1269
+15 to 19,Malignant neoplasms of liver and intrahepatic bile ducts (C22),8,N/A,1272
+20 to 24,Malignant neoplasms of liver and intrahepatic bile ducts (C22),6,N/A,1275
+25 to 29,Malignant neoplasms of liver and intrahepatic bile ducts (C22),12,0.0,1278
+30 to 34,Malignant neoplasms of liver and intrahepatic bile ducts (C22),22,0.0,1281
+35 to 39,Malignant neoplasms of liver and intrahepatic bile ducts (C22),57,0.1,1284
+40 to 44,Malignant neoplasms of liver and intrahepatic bile ducts (C22),96,0.1,1287
+45 to 49,Malignant neoplasms of liver and intrahepatic bile ducts (C22),270,0.3,1290
+50 to 54,Malignant neoplasms of liver and intrahepatic bile ducts (C22),773,0.8,1293
+55 to 59,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1489,1.1,1296
+60 to 64,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1868,1.5,1299
+65 to 69,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1722,1.3,1302
+70 to 74,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1457,1.5,1305
+75 to 79,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1425,1.3,1308
+80 to 84,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1210,1.5,1311
+85 and older,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1267,0.5,1314
+Unknown,Malignant neoplasms of liver and intrahepatic bile ducts (C22),12,N/A,1317
+Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),11711,5.4,1320
+Less than 1,Malignant neoplasm of pancreas (C25),0,N/A,1323
+1 to 4,Malignant neoplasm of pancreas (C25),0,N/A,1326
+5 to 9,Malignant neoplasm of pancreas (C25),2,N/A,1329
+10 to 14,Malignant neoplasm of pancreas (C25),0,N/A,1332
+15 to 19,Malignant neoplasm of pancreas (C25),1,N/A,1335
+20 to 24,Malignant neoplasm of pancreas (C25),2,N/A,1338
+25 to 29,Malignant neoplasm of pancreas (C25),8,N/A,1341
+30 to 34,Malignant neoplasm of pancreas (C25),31,0.0,1344
+35 to 39,Malignant neoplasm of pancreas (C25),84,0.1,1347
+40 to 44,Malignant neoplasm of pancreas (C25),196,0.3,1350
+45 to 49,Malignant neoplasm of pancreas (C25),526,0.6,1353
+50 to 54,Malignant neoplasm of pancreas (C25),1107,1.2,1356
+55 to 59,Malignant neoplasm of pancreas (C25),1918,1.4,1359
+60 to 64,Malignant neoplasm of pancreas (C25),2786,2.3,1362
+65 to 69,Malignant neoplasm of pancreas (C25),3334,2.6,1365
+70 to 74,Malignant neoplasm of pancreas (C25),3438,3.5,1368
+75 to 79,Malignant neoplasm of pancreas (C25),3423,3.2,1371
+80 to 84,Malignant neoplasm of pancreas (C25),3137,3.9,1374
+85 and older,Malignant neoplasm of pancreas (C25),3566,1.5,1377
+Unknown,Malignant neoplasm of pancreas (C25),20,N/A,1380
+Total,Malignant neoplasm of pancreas (C25),23579,10.9,1383
+Less than 1,Malignant neoplasm of larynx (C32),0,N/A,1386
+1 to 4,Malignant neoplasm of larynx (C32),0,N/A,1389
+5 to 9,Malignant neoplasm of larynx (C32),0,N/A,1392
+10 to 14,Malignant neoplasm of larynx (C32),0,N/A,1395
+15 to 19,Malignant neoplasm of larynx (C32),0,N/A,1398
+20 to 24,Malignant neoplasm of larynx (C32),0,N/A,1401
+25 to 29,Malignant neoplasm of larynx (C32),0,N/A,1404
+30 to 34,Malignant neoplasm of larynx (C32),3,N/A,1407
+35 to 39,Malignant neoplasm of larynx (C32),1,N/A,1410
+40 to 44,Malignant neoplasm of larynx (C32),23,0.0,1413
+45 to 49,Malignant neoplasm of larynx (C32),66,0.1,1416
+50 to 54,Malignant neoplasm of larynx (C32),244,0.3,1419
+55 to 59,Malignant neoplasm of larynx (C32),333,0.2,1422
+60 to 64,Malignant neoplasm of larynx (C32),368,0.3,1425
+65 to 69,Malignant neoplasm of larynx (C32),431,0.3,1428
+70 to 74,Malignant neoplasm of larynx (C32),367,0.4,1431
+75 to 79,Malignant neoplasm of larynx (C32),291,0.3,1434
+80 to 84,Malignant neoplasm of larynx (C32),205,0.3,1437
+85 and older,Malignant neoplasm of larynx (C32),213,0.1,1440
+Unknown,Malignant neoplasm of larynx (C32),2,N/A,1443
+Total,Malignant neoplasm of larynx (C32),2547,1.2,1446
+Less than 1,Malignant neoplasms of trachea bronchus and lung (C33-C34),0,N/A,1449
+1 to 4,Malignant neoplasms of trachea bronchus and lung (C33-C34),1,N/A,1452
+5 to 9,Malignant neoplasms of trachea bronchus and lung (C33-C34),1,N/A,1455
+10 to 14,Malignant neoplasms of trachea bronchus and lung (C33-C34),0,N/A,1458
+15 to 19,Malignant neoplasms of trachea bronchus and lung (C33-C34),2,N/A,1461
+20 to 24,Malignant neoplasms of trachea bronchus and lung (C33-C34),7,N/A,1464
+25 to 29,Malignant neoplasms of trachea bronchus and lung (C33-C34),17,0.0,1467
+30 to 34,Malignant neoplasms of trachea bronchus and lung (C33-C34),67,0.1,1470
+35 to 39,Malignant neoplasms of trachea bronchus and lung (C33-C34),187,0.3,1473
+40 to 44,Malignant neoplasms of trachea bronchus and lung (C33-C34),678,1.0,1476
+45 to 49,Malignant neoplasms of trachea bronchus and lung (C33-C34),2158,2.5,1479
+50 to 54,Malignant neoplasms of trachea bronchus and lung (C33-C34),5028,5.5,1482
+55 to 59,Malignant neoplasms of trachea bronchus and lung (C33-C34),8849,6.3,1485
+60 to 64,Malignant neoplasms of trachea bronchus and lung (C33-C34),12239,9.9,1488
+65 to 69,Malignant neoplasms of trachea bronchus and lung (C33-C34),14837,11.4,1491
+70 to 74,Malignant neoplasms of trachea bronchus and lung (C33-C34),16199,16.6,1494
+75 to 79,Malignant neoplasms of trachea bronchus and lung (C33-C34),15375,14.3,1497
+80 to 84,Malignant neoplasms of trachea bronchus and lung (C33-C34),12655,15.8,1500
+85 and older,Malignant neoplasms of trachea bronchus and lung (C33-C34),10864,4.6,1503
+Unknown,Malignant neoplasms of trachea bronchus and lung (C33-C34),78,N/A,1506
+Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),99242,46.0,1509
+Less than 1,Malignant melanoma of skin (C43),0,N/A,1512
+1 to 4,Malignant melanoma of skin (C43),1,N/A,1515
+5 to 9,Malignant melanoma of skin (C43),0,N/A,1518
+10 to 14,Malignant melanoma of skin (C43),1,N/A,1521
+15 to 19,Malignant melanoma of skin (C43),4,N/A,1524
+20 to 24,Malignant melanoma of skin (C43),12,0.0,1527
+25 to 29,Malignant melanoma of skin (C43),40,0.0,1530
+30 to 34,Malignant melanoma of skin (C43),68,0.1,1533
+35 to 39,Malignant melanoma of skin (C43),94,0.1,1536
+40 to 44,Malignant melanoma of skin (C43),168,0.3,1539
+45 to 49,Malignant melanoma of skin (C43),247,0.3,1542
+50 to 54,Malignant melanoma of skin (C43),381,0.4,1545
+55 to 59,Malignant melanoma of skin (C43),481,0.3,1548
+60 to 64,Malignant melanoma of skin (C43),556,0.4,1551
+65 to 69,Malignant melanoma of skin (C43),615,0.5,1554
+70 to 74,Malignant melanoma of skin (C43),594,0.6,1557
+75 to 79,Malignant melanoma of skin (C43),627,0.6,1560
+80 to 84,Malignant melanoma of skin (C43),624,0.8,1563
+85 and older,Malignant melanoma of skin (C43),771,0.3,1566
+Unknown,Malignant melanoma of skin (C43),3,N/A,1569
+Total,Malignant melanoma of skin (C43),5287,2.5,1572
+Less than 1,Malignant neoplasm of breast (C50),0,N/A,1575
+1 to 4,Malignant neoplasm of breast (C50),0,N/A,1578
+5 to 9,Malignant neoplasm of breast (C50),0,N/A,1581
+10 to 14,Malignant neoplasm of breast (C50),0,N/A,1584
+15 to 19,Malignant neoplasm of breast (C50),0,N/A,1587
+20 to 24,Malignant neoplasm of breast (C50),4,N/A,1590
+25 to 29,Malignant neoplasm of breast (C50),43,0.1,1593
+30 to 34,Malignant neoplasm of breast (C50),143,0.2,1596
+35 to 39,Malignant neoplasm of breast (C50),326,0.5,1599
+40 to 44,Malignant neoplasm of breast (C50),711,1.1,1602
+45 to 49,Malignant neoplasm of breast (C50),1165,1.3,1605
+50 to 54,Malignant neoplasm of breast (C50),1842,2.0,1608
+55 to 59,Malignant neoplasm of breast (C50),2333,1.7,1611
+60 to 64,Malignant neoplasm of breast (C50),2822,2.3,1614
+65 to 69,Malignant neoplasm of breast (C50),2902,2.2,1617
+70 to 74,Malignant neoplasm of breast (C50),2728,2.8,1620
+75 to 79,Malignant neoplasm of breast (C50),2633,2.5,1623
+80 to 84,Malignant neoplasm of breast (C50),2738,3.4,1626
+85 and older,Malignant neoplasm of breast (C50),4417,1.9,1629
+Unknown,Malignant neoplasm of breast (C50),16,N/A,1632
+Total,Malignant neoplasm of breast (C50),24823,11.8,1635
+Less than 1,Malignant neoplasm of cervix uteri (C53),0,N/A,1638
+1 to 4,Malignant neoplasm of cervix uteri (C53),0,N/A,1641
+5 to 9,Malignant neoplasm of cervix uteri (C53),0,N/A,1644
+10 to 14,Malignant neoplasm of cervix uteri (C53),0,N/A,1647
+15 to 19,Malignant neoplasm of cervix uteri (C53),1,N/A,1650
+20 to 24,Malignant neoplasm of cervix uteri (C53),3,N/A,1653
+25 to 29,Malignant neoplasm of cervix uteri (C53),39,0.0,1656
+30 to 34,Malignant neoplasm of cervix uteri (C53),74,0.1,1659
+35 to 39,Malignant neoplasm of cervix uteri (C53),140,0.2,1662
+40 to 44,Malignant neoplasm of cervix uteri (C53),174,0.3,1665
+45 to 49,Malignant neoplasm of cervix uteri (C53),250,0.3,1668
+50 to 54,Malignant neoplasm of cervix uteri (C53),310,0.3,1671
+55 to 59,Malignant neoplasm of cervix uteri (C53),257,0.2,1674
+60 to 64,Malignant neoplasm of cervix uteri (C53),285,0.2,1677
+65 to 69,Malignant neoplasm of cervix uteri (C53),236,0.2,1680
+70 to 74,Malignant neoplasm of cervix uteri (C53),151,0.2,1683
+75 to 79,Malignant neoplasm of cervix uteri (C53),145,0.1,1686
+80 to 84,Malignant neoplasm of cervix uteri (C53),114,0.1,1689
+85 and older,Malignant neoplasm of cervix uteri (C53),118,0.1,1692
+Unknown,Malignant neoplasm of cervix uteri (C53),2,N/A,1695
+Total,Malignant neoplasm of cervix uteri (C53),2299,1.2,1698
+Less than 1,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1701
+1 to 4,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1704
+5 to 9,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1707
+10 to 14,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1710
+15 to 19,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),0,N/A,1713
+20 to 24,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),2,N/A,1716
+25 to 29,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),3,N/A,1719
+30 to 34,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),10,0.0,1722
+35 to 39,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),27,0.0,1725
+40 to 44,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),54,0.1,1728
+45 to 49,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),119,0.1,1731
+50 to 54,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),254,0.3,1734
+55 to 59,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),479,0.3,1737
+60 to 64,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),784,0.6,1740
+65 to 69,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),896,0.7,1743
+70 to 74,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),846,0.9,1746
+75 to 79,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),734,0.7,1749
+80 to 84,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),652,0.8,1752
+85 and older,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),839,0.4,1755
+Unknown,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),1,N/A,1758
+Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),5700,2.6,1761
+Less than 1,Malignant neoplasm of ovary (C56),0,N/A,1764
+1 to 4,Malignant neoplasm of ovary (C56),1,N/A,1767
+5 to 9,Malignant neoplasm of ovary (C56),0,N/A,1770
+10 to 14,Malignant neoplasm of ovary (C56),1,N/A,1773
+15 to 19,Malignant neoplasm of ovary (C56),4,N/A,1776
+20 to 24,Malignant neoplasm of ovary (C56),7,N/A,1779
+25 to 29,Malignant neoplasm of ovary (C56),16,0.0,1782
+30 to 34,Malignant neoplasm of ovary (C56),31,0.0,1785
+35 to 39,Malignant neoplasm of ovary (C56),50,0.1,1788
+40 to 44,Malignant neoplasm of ovary (C56),120,0.2,1791
+45 to 49,Malignant neoplasm of ovary (C56),256,0.3,1794
+50 to 54,Malignant neoplasm of ovary (C56),487,0.5,1797
+55 to 59,Malignant neoplasm of ovary (C56),694,0.5,1800
+60 to 64,Malignant neoplasm of ovary (C56),990,0.8,1803
+65 to 69,Malignant neoplasm of ovary (C56),1113,0.9,1806
+70 to 74,Malignant neoplasm of ovary (C56),1011,1.0,1809
+75 to 79,Malignant neoplasm of ovary (C56),1012,0.9,1812
+80 to 84,Malignant neoplasm of ovary (C56),1006,1.3,1815
+85 and older,Malignant neoplasm of ovary (C56),1086,0.5,1818
+Unknown,Malignant neoplasm of ovary (C56),8,N/A,1821
+Total,Malignant neoplasm of ovary (C56),7893,3.7,1824
+Less than 1,Malignant neoplasm of prostate (C61),0,N/A,1827
+1 to 4,Malignant neoplasm of prostate (C61),0,N/A,1830
+5 to 9,Malignant neoplasm of prostate (C61),0,N/A,1833
+10 to 14,Malignant neoplasm of prostate (C61),0,N/A,1836
+15 to 19,Malignant neoplasm of prostate (C61),0,N/A,1839
+20 to 24,Malignant neoplasm of prostate (C61),0,N/A,1842
+25 to 29,Malignant neoplasm of prostate (C61),1,N/A,1845
+30 to 34,Malignant neoplasm of prostate (C61),0,N/A,1848
+35 to 39,Malignant neoplasm of prostate (C61),2,N/A,1851
+40 to 44,Malignant neoplasm of prostate (C61),10,0.0,1854
+45 to 49,Malignant neoplasm of prostate (C61),57,0.1,1857
+50 to 54,Malignant neoplasm of prostate (C61),188,0.2,1860
+55 to 59,Malignant neoplasm of prostate (C61),496,0.4,1863
+60 to 64,Malignant neoplasm of prostate (C61),969,0.8,1866
+65 to 69,Malignant neoplasm of prostate (C61),1598,1.2,1869
+70 to 74,Malignant neoplasm of prostate (C61),2065,2.1,1872
+75 to 79,Malignant neoplasm of prostate (C61),2607,2.4,1875
+80 to 84,Malignant neoplasm of prostate (C61),3075,3.8,1878
+85 and older,Malignant neoplasm of prostate (C61),5188,2.2,1881
+Unknown,Malignant neoplasm of prostate (C61),5,N/A,1884
+Total,Malignant neoplasm of prostate (C61),16261,7.5,1887
+Less than 1,Malignant neoplasms of kidney and renal pelvis (C64-C65),0,N/A,1890
+1 to 4,Malignant neoplasms of kidney and renal pelvis (C64-C65),3,N/A,1893
+5 to 9,Malignant neoplasms of kidney and renal pelvis (C64-C65),9,N/A,1896
+10 to 14,Malignant neoplasms of kidney and renal pelvis (C64-C65),7,N/A,1899
+15 to 19,Malignant neoplasms of kidney and renal pelvis (C64-C65),6,N/A,1902
+20 to 24,Malignant neoplasms of kidney and renal pelvis (C64-C65),8,N/A,1905
+25 to 29,Malignant neoplasms of kidney and renal pelvis (C64-C65),9,N/A,1908
+30 to 34,Malignant neoplasms of kidney and renal pelvis (C64-C65),22,0.0,1911
+35 to 39,Malignant neoplasms of kidney and renal pelvis (C64-C65),34,0.1,1914
+40 to 44,Malignant neoplasms of kidney and renal pelvis (C64-C65),82,0.1,1917
+45 to 49,Malignant neoplasms of kidney and renal pelvis (C64-C65),254,0.3,1920
+50 to 54,Malignant neoplasms of kidney and renal pelvis (C64-C65),437,0.5,1923
+55 to 59,Malignant neoplasms of kidney and renal pelvis (C64-C65),679,0.5,1926
+60 to 64,Malignant neoplasms of kidney and renal pelvis (C64-C65),976,0.8,1929
+65 to 69,Malignant neoplasms of kidney and renal pelvis (C64-C65),1096,0.8,1932
+70 to 74,Malignant neoplasms of kidney and renal pelvis (C64-C65),1099,1.1,1935
+75 to 79,Malignant neoplasms of kidney and renal pelvis (C64-C65),1066,1.0,1938
+80 to 84,Malignant neoplasms of kidney and renal pelvis (C64-C65),1041,1.3,1941
+85 and older,Malignant neoplasms of kidney and renal pelvis (C64-C65),1261,0.5,1944
+Unknown,Malignant neoplasms of kidney and renal pelvis (C64-C65),4,N/A,1947
+Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),8093,3.8,1950
+Less than 1,Malignant neoplasm of bladder (C67),0,N/A,1953
+1 to 4,Malignant neoplasm of bladder (C67),0,N/A,1956
+5 to 9,Malignant neoplasm of bladder (C67),0,N/A,1959
+10 to 14,Malignant neoplasm of bladder (C67),0,N/A,1962
+15 to 19,Malignant neoplasm of bladder (C67),0,N/A,1965
+20 to 24,Malignant neoplasm of bladder (C67),1,N/A,1968
+25 to 29,Malignant neoplasm of bladder (C67),3,N/A,1971
+30 to 34,Malignant neoplasm of bladder (C67),1,N/A,1974
+35 to 39,Malignant neoplasm of bladder (C67),15,0.0,1977
+40 to 44,Malignant neoplasm of bladder (C67),36,0.1,1980
+45 to 49,Malignant neoplasm of bladder (C67),98,0.1,1983
+50 to 54,Malignant neoplasm of bladder (C67),250,0.3,1986
+55 to 59,Malignant neoplasm of bladder (C67),434,0.3,1989
+60 to 64,Malignant neoplasm of bladder (C67),706,0.6,1992
+65 to 69,Malignant neoplasm of bladder (C67),952,0.7,1995
+70 to 74,Malignant neoplasm of bladder (C67),1239,1.3,1998
+75 to 79,Malignant neoplasm of bladder (C67),1487,1.4,2001
+80 to 84,Malignant neoplasm of bladder (C67),1851,2.3,2004
+85 and older,Malignant neoplasm of bladder (C67),2913,1.2,2007
+Unknown,Malignant neoplasm of bladder (C67),6,N/A,2010
+Total,Malignant neoplasm of bladder (C67),9992,4.6,2013
+Less than 1,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),9,N/A,2016
+1 to 4,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),48,0.0,2019
+5 to 9,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),75,0.1,2022
+10 to 14,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),79,0.1,2025
+15 to 19,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),53,0.1,2028
+20 to 24,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),61,0.1,2031
+25 to 29,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),89,0.1,2034
+30 to 34,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),125,0.2,2037
+35 to 39,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),177,0.3,2040
+40 to 44,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),279,0.4,2043
+45 to 49,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),442,0.5,2046
+50 to 54,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),697,0.8,2049
+55 to 59,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),985,0.7,2052
+60 to 64,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),1159,0.9,2055
+65 to 69,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),1118,0.9,2058
+70 to 74,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),1052,1.1,2061
+75 to 79,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),925,0.9,2064
+80 to 84,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),718,0.9,2067
+85 and older,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),614,0.3,2070
+Unknown,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),3,N/A,2073
+Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),8708,4.2,2076
+Less than 1,Hodgkin's disease (C81),0,N/A,2079
+1 to 4,Hodgkin's disease (C81),0,N/A,2082
+5 to 9,Hodgkin's disease (C81),0,N/A,2085
+10 to 14,Hodgkin's disease (C81),0,N/A,2088
+15 to 19,Hodgkin's disease (C81),0,N/A,2091
+20 to 24,Hodgkin's disease (C81),18,0.0,2094
+25 to 29,Hodgkin's disease (C81),17,0.0,2097
+30 to 34,Hodgkin's disease (C81),29,0.0,2100
+35 to 39,Hodgkin's disease (C81),26,0.0,2103
+40 to 44,Hodgkin's disease (C81),30,0.0,2106
+45 to 49,Hodgkin's disease (C81),29,0.0,2109
+50 to 54,Hodgkin's disease (C81),34,0.0,2112
+55 to 59,Hodgkin's disease (C81),51,0.0,2115
+60 to 64,Hodgkin's disease (C81),56,0.0,2118
+65 to 69,Hodgkin's disease (C81),71,0.1,2121
+70 to 74,Hodgkin's disease (C81),51,0.1,2124
+75 to 79,Hodgkin's disease (C81),64,0.1,2127
+80 to 84,Hodgkin's disease (C81),74,0.1,2130
+85 and older,Hodgkin's disease (C81),73,0.0,2133
+Unknown,Hodgkin's disease (C81),1,N/A,2136
+Total,Hodgkin's disease (C81),624,0.3,2139
+Less than 1,Non-Hodgkin's lymphoma (C82-C85),1,N/A,2142
+1 to 4,Non-Hodgkin's lymphoma (C82-C85),4,N/A,2145
+5 to 9,Non-Hodgkin's lymphoma (C82-C85),12,0.0,2148
+10 to 14,Non-Hodgkin's lymphoma (C82-C85),7,N/A,2151
+15 to 19,Non-Hodgkin's lymphoma (C82-C85),10,0.0,2154
+20 to 24,Non-Hodgkin's lymphoma (C82-C85),32,0.0,2157
+25 to 29,Non-Hodgkin's lymphoma (C82-C85),29,0.0,2160
+30 to 34,Non-Hodgkin's lymphoma (C82-C85),50,0.1,2163
+35 to 39,Non-Hodgkin's lymphoma (C82-C85),75,0.1,2166
+40 to 44,Non-Hodgkin's lymphoma (C82-C85),111,0.2,2169
+45 to 49,Non-Hodgkin's lymphoma (C82-C85),213,0.2,2172
+50 to 54,Non-Hodgkin's lymphoma (C82-C85),419,0.5,2175
+55 to 59,Non-Hodgkin's lymphoma (C82-C85),675,0.5,2178
+60 to 64,Non-Hodgkin's lymphoma (C82-C85),990,0.8,2181
+65 to 69,Non-Hodgkin's lymphoma (C82-C85),1352,1.0,2184
+70 to 74,Non-Hodgkin's lymphoma (C82-C85),1647,1.7,2187
+75 to 79,Non-Hodgkin's lymphoma (C82-C85),1889,1.8,2190
+80 to 84,Non-Hodgkin's lymphoma (C82-C85),2123,2.7,2193
+85 and older,Non-Hodgkin's lymphoma (C82-C85),2708,1.1,2196
+Unknown,Non-Hodgkin's lymphoma (C82-C85),13,N/A,2199
+Total,Non-Hodgkin's lymphoma (C82-C85),12360,5.8,2202
+Less than 1,Leukemia (C91-C95),10,0.0,2205
+1 to 4,Leukemia (C91-C95),43,0.0,2208
+5 to 9,Leukemia (C91-C95),35,0.0,2211
+10 to 14,Leukemia (C91-C95),42,0.1,2214
+15 to 19,Leukemia (C91-C95),64,0.1,2217
+20 to 24,Leukemia (C91-C95),89,0.1,2220
+25 to 29,Leukemia (C91-C95),94,0.1,2223
+30 to 34,Leukemia (C91-C95),126,0.2,2226
+35 to 39,Leukemia (C91-C95),123,0.2,2229
+40 to 44,Leukemia (C91-C95),161,0.2,2232
+45 to 49,Leukemia (C91-C95),271,0.3,2235
+50 to 54,Leukemia (C91-C95),429,0.5,2238
+55 to 59,Leukemia (C91-C95),664,0.5,2241
+60 to 64,Leukemia (C91-C95),1000,0.8,2244
+65 to 69,Leukemia (C91-C95),1372,1.1,2247
+70 to 74,Leukemia (C91-C95),1741,1.8,2250
+75 to 79,Leukemia (C91-C95),1984,1.8,2253
+80 to 84,Leukemia (C91-C95),2166,2.7,2256
+85 and older,Leukemia (C91-C95),2981,1.3,2259
+Unknown,Leukemia (C91-C95),21,N/A,2262
+Total,Leukemia (C91-C95),13416,6.4,2265
+Less than 1,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2268
+1 to 4,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2271
+5 to 9,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2274
+10 to 14,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2277
+15 to 19,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2280
+20 to 24,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2283
+25 to 29,Multiple myeloma and immunoproliferative neoplasms (C88C90),0,N/A,2286
+30 to 34,Multiple myeloma and immunoproliferative neoplasms (C88C90),3,N/A,2289
+35 to 39,Multiple myeloma and immunoproliferative neoplasms (C88C90),8,N/A,2292
+40 to 44,Multiple myeloma and immunoproliferative neoplasms (C88C90),44,0.1,2295
+45 to 49,Multiple myeloma and immunoproliferative neoplasms (C88C90),102,0.1,2298
+50 to 54,Multiple myeloma and immunoproliferative neoplasms (C88C90),296,0.3,2301
+55 to 59,Multiple myeloma and immunoproliferative neoplasms (C88C90),433,0.3,2304
+60 to 64,Multiple myeloma and immunoproliferative neoplasms (C88C90),663,0.5,2307
+65 to 69,Multiple myeloma and immunoproliferative neoplasms (C88C90),887,0.7,2310
+70 to 74,Multiple myeloma and immunoproliferative neoplasms (C88C90),1043,1.1,2313
+75 to 79,Multiple myeloma and immunoproliferative neoplasms (C88C90),1155,1.1,2316
+80 to 84,Multiple myeloma and immunoproliferative neoplasms (C88C90),1212,1.5,2319
+85 and older,Multiple myeloma and immunoproliferative neoplasms (C88C90),1389,0.6,2322
+Unknown,Multiple myeloma and immunoproliferative neoplasms (C88C90),3,N/A,2325
+Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),7238,3.4,2328
+Less than 1,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2331
+1 to 4,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2334
+5 to 9,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2337
+10 to 14,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2340
+15 to 19,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2343
+20 to 24,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2346
+25 to 29,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2349
+30 to 34,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2352
+35 to 39,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),1,N/A,2355
+40 to 44,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2358
+45 to 49,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2361
+50 to 54,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2364
+55 to 59,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),2,N/A,2367
+60 to 64,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),3,N/A,2370
+65 to 69,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),2,N/A,2373
+70 to 74,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),3,N/A,2376
+75 to 79,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),5,N/A,2379
+80 to 84,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2382
+85 and older,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),10,0.0,2385
+Unknown,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,2388
+Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),26,0.0,2391
+Less than 1,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),10,0.0,2394
+1 to 4,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),51,0.0,2397
+5 to 9,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),52,0.1,2400
+10 to 14,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),68,0.1,2403
+15 to 19,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),84,0.1,2406
+20 to 24,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),157,0.2,2409
+25 to 29,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),183,0.2,2412
+30 to 34,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),201,0.3,2415
+35 to 39,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),308,0.5,2418
+40 to 44,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),516,0.8,2421
+45 to 49,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),998,1.1,2424
+50 to 54,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),1900,2.1,2427
+55 to 59,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),2957,2.1,2430
+60 to 64,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),4049,3.3,2433
+65 to 69,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),4593,3.5,2436
+70 to 74,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),5050,5.2,2439
+75 to 79,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),5211,4.9,2442
+80 to 84,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),5519,6.9,2445
+85 and older,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),7771,3.3,2448
+Unknown,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),35,N/A,2451
+Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),39713,18.7,2454
+Less than 1,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),25,0.0,2457
+1 to 4,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),26,0.0,2460
+5 to 9,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),21,0.0,2463
+10 to 14,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),32,0.0,2466
+15 to 19,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),22,0.0,2469
+20 to 24,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),41,0.0,2472
+25 to 29,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),37,0.0,2475
+30 to 34,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),38,0.0,2478
+35 to 39,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),70,0.1,2481
+40 to 44,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),89,0.1,2484
+45 to 49,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),148,0.2,2487
+50 to 54,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),222,0.2,2490
+55 to 59,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),379,0.3,2493
+60 to 64,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),551,0.4,2496
+65 to 69,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),721,0.6,2499
+70 to 74,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),1060,1.1,2502
+75 to 79,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),1308,1.2,2505
+80 to 84,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),1630,2.0,2508
+85 and older,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),3178,1.3,2511
+Unknown,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),6,N/A,2514
+Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),9604,4.5,2517
+Less than 1,Anemias (D50-D64),6,N/A,2520
+1 to 4,Anemias (D50-D64),9,N/A,2523
+5 to 9,Anemias (D50-D64),9,N/A,2526
+10 to 14,Anemias (D50-D64),6,N/A,2529
+15 to 19,Anemias (D50-D64),14,0.0,2532
+20 to 24,Anemias (D50-D64),26,0.0,2535
+25 to 29,Anemias (D50-D64),31,0.0,2538
+30 to 34,Anemias (D50-D64),46,0.1,2541
+35 to 39,Anemias (D50-D64),44,0.1,2544
+40 to 44,Anemias (D50-D64),47,0.1,2547
+45 to 49,Anemias (D50-D64),46,0.1,2550
+50 to 54,Anemias (D50-D64),80,0.1,2553
+55 to 59,Anemias (D50-D64),79,0.1,2556
+60 to 64,Anemias (D50-D64),134,0.1,2559
+65 to 69,Anemias (D50-D64),203,0.2,2562
+70 to 74,Anemias (D50-D64),246,0.3,2565
+75 to 79,Anemias (D50-D64),311,0.3,2568
+80 to 84,Anemias (D50-D64),448,0.6,2571
+85 and older,Anemias (D50-D64),1371,0.6,2574
+Unknown,Anemias (D50-D64),2,N/A,2577
+Total,Anemias (D50-D64),3158,1.5,2580
+Less than 1,Diabetes mellitus (E10-E14),2,N/A,2583
+1 to 4,Diabetes mellitus (E10-E14),1,N/A,2586
+5 to 9,Diabetes mellitus (E10-E14),5,N/A,2589
+10 to 14,Diabetes mellitus (E10-E14),19,0.0,2592
+15 to 19,Diabetes mellitus (E10-E14),39,0.0,2595
+20 to 24,Diabetes mellitus (E10-E14),95,0.1,2598
+25 to 29,Diabetes mellitus (E10-E14),149,0.2,2601
+30 to 34,Diabetes mellitus (E10-E14),263,0.3,2604
+35 to 39,Diabetes mellitus (E10-E14),439,0.7,2607
+40 to 44,Diabetes mellitus (E10-E14),749,1.1,2610
+45 to 49,Diabetes mellitus (E10-E14),1446,1.7,2613
+50 to 54,Diabetes mellitus (E10-E14),2434,2.7,2616
+55 to 59,Diabetes mellitus (E10-E14),3731,2.7,2619
+60 to 64,Diabetes mellitus (E10-E14),5167,4.2,2622
+65 to 69,Diabetes mellitus (E10-E14),5960,4.6,2625
+70 to 74,Diabetes mellitus (E10-E14),6487,6.6,2628
+75 to 79,Diabetes mellitus (E10-E14),6652,6.2,2631
+80 to 84,Diabetes mellitus (E10-E14),6921,8.7,2634
+85 and older,Diabetes mellitus (E10-E14),10894,4.6,2637
+Unknown,Diabetes mellitus (E10-E14),36,N/A,2640
+Total,Diabetes mellitus (E10-E14),51489,24.1,2643
+Less than 1,Malnutrition (E40-E46),5,N/A,2646
+1 to 4,Malnutrition (E40-E46),1,N/A,2649
+5 to 9,Malnutrition (E40-E46),0,N/A,2652
+10 to 14,Malnutrition (E40-E46),0,N/A,2655
+15 to 19,Malnutrition (E40-E46),2,N/A,2658
+20 to 24,Malnutrition (E40-E46),3,N/A,2661
+25 to 29,Malnutrition (E40-E46),1,N/A,2664
+30 to 34,Malnutrition (E40-E46),8,N/A,2667
+35 to 39,Malnutrition (E40-E46),10,0.0,2670
+40 to 44,Malnutrition (E40-E46),19,0.0,2673
+45 to 49,Malnutrition (E40-E46),39,0.0,2676
+50 to 54,Malnutrition (E40-E46),64,0.1,2679
+55 to 59,Malnutrition (E40-E46),94,0.1,2682
+60 to 64,Malnutrition (E40-E46),136,0.1,2685
+65 to 69,Malnutrition (E40-E46),176,0.1,2688
+70 to 74,Malnutrition (E40-E46),263,0.3,2691
+75 to 79,Malnutrition (E40-E46),399,0.4,2694
+80 to 84,Malnutrition (E40-E46),570,0.7,2697
+85 and older,Malnutrition (E40-E46),1974,0.8,2700
+Unknown,Malnutrition (E40-E46),3,N/A,2703
+Total,Malnutrition (E40-E46),3767,1.7,2706
+Less than 1,Other nutritional deficiencies (E50-E64),1,N/A,2709
+1 to 4,Other nutritional deficiencies (E50-E64),1,N/A,2712
+5 to 9,Other nutritional deficiencies (E50-E64),0,N/A,2715
+10 to 14,Other nutritional deficiencies (E50-E64),0,N/A,2718
+15 to 19,Other nutritional deficiencies (E50-E64),0,N/A,2721
+20 to 24,Other nutritional deficiencies (E50-E64),0,N/A,2724
+25 to 29,Other nutritional deficiencies (E50-E64),0,N/A,2727
+30 to 34,Other nutritional deficiencies (E50-E64),1,N/A,2730
+35 to 39,Other nutritional deficiencies (E50-E64),0,N/A,2733
+40 to 44,Other nutritional deficiencies (E50-E64),0,N/A,2736
+45 to 49,Other nutritional deficiencies (E50-E64),2,N/A,2739
+50 to 54,Other nutritional deficiencies (E50-E64),4,N/A,2742
+55 to 59,Other nutritional deficiencies (E50-E64),5,N/A,2745
+60 to 64,Other nutritional deficiencies (E50-E64),4,N/A,2748
+65 to 69,Other nutritional deficiencies (E50-E64),13,0.0,2751
+70 to 74,Other nutritional deficiencies (E50-E64),4,N/A,2754
+75 to 79,Other nutritional deficiencies (E50-E64),17,0.0,2757
+80 to 84,Other nutritional deficiencies (E50-E64),12,0.0,2760
+85 and older,Other nutritional deficiencies (E50-E64),45,0.0,2763
+Unknown,Other nutritional deficiencies (E50-E64),1,N/A,2766
+Total,Other nutritional deficiencies (E50-E64),110,0.1,2769
+Less than 1,Meningitis (G00G03),32,0.0,2772
+1 to 4,Meningitis (G00G03),4,N/A,2775
+5 to 9,Meningitis (G00G03),2,N/A,2778
+10 to 14,Meningitis (G00G03),3,N/A,2781
+15 to 19,Meningitis (G00G03),3,N/A,2784
+20 to 24,Meningitis (G00G03),3,N/A,2787
+25 to 29,Meningitis (G00G03),7,N/A,2790
+30 to 34,Meningitis (G00G03),6,N/A,2793
+35 to 39,Meningitis (G00G03),13,0.0,2796
+40 to 44,Meningitis (G00G03),16,0.0,2799
+45 to 49,Meningitis (G00G03),25,0.0,2802
+50 to 54,Meningitis (G00G03),20,0.0,2805
+55 to 59,Meningitis (G00G03),28,0.0,2808
+60 to 64,Meningitis (G00G03),38,0.0,2811
+65 to 69,Meningitis (G00G03),24,0.0,2814
+70 to 74,Meningitis (G00G03),15,0.0,2817
+75 to 79,Meningitis (G00G03),20,0.0,2820
+80 to 84,Meningitis (G00G03),14,0.0,2823
+85 and older,Meningitis (G00G03),19,0.0,2826
+Unknown,Meningitis (G00G03),0,N/A,2829
+Total,Meningitis (G00G03),292,0.2,2832
+Less than 1,Parkinson's disease (G20-G21),0,N/A,2835
+1 to 4,Parkinson's disease (G20-G21),0,N/A,2838
+5 to 9,Parkinson's disease (G20-G21),0,N/A,2841
+10 to 14,Parkinson's disease (G20-G21),0,N/A,2844
+15 to 19,Parkinson's disease (G20-G21),0,N/A,2847
+20 to 24,Parkinson's disease (G20-G21),2,N/A,2850
+25 to 29,Parkinson's disease (G20-G21),0,N/A,2853
+30 to 34,Parkinson's disease (G20-G21),1,N/A,2856
+35 to 39,Parkinson's disease (G20-G21),0,N/A,2859
+40 to 44,Parkinson's disease (G20-G21),4,N/A,2862
+45 to 49,Parkinson's disease (G20-G21),13,0.0,2865
+50 to 54,Parkinson's disease (G20-G21),20,0.0,2868
+55 to 59,Parkinson's disease (G20-G21),88,0.1,2871
+60 to 64,Parkinson's disease (G20-G21),273,0.2,2874
+65 to 69,Parkinson's disease (G20-G21),671,0.5,2877
+70 to 74,Parkinson's disease (G20-G21),1452,1.5,2880
+75 to 79,Parkinson's disease (G20-G21),2866,2.7,2883
+80 to 84,Parkinson's disease (G20-G21),4134,5.2,2886
+85 and older,Parkinson's disease (G20-G21),6426,2.7,2889
+Unknown,Parkinson's disease (G20-G21),6,N/A,2892
+Total,Parkinson's disease (G20-G21),15956,7.6,2895
+Less than 1,Alzheimer's disease (G30),0,N/A,2898
+1 to 4,Alzheimer's disease (G30),0,N/A,2901
+5 to 9,Alzheimer's disease (G30),0,N/A,2904
+10 to 14,Alzheimer's disease (G30),0,N/A,2907
+15 to 19,Alzheimer's disease (G30),0,N/A,2910
+20 to 24,Alzheimer's disease (G30),0,N/A,2913
+25 to 29,Alzheimer's disease (G30),0,N/A,2916
+30 to 34,Alzheimer's disease (G30),0,N/A,2919
+35 to 39,Alzheimer's disease (G30),0,N/A,2922
+40 to 44,Alzheimer's disease (G30),2,N/A,2925
+45 to 49,Alzheimer's disease (G30),13,0.0,2928
+50 to 54,Alzheimer's disease (G30),56,0.1,2931
+55 to 59,Alzheimer's disease (G30),166,0.1,2934
+60 to 64,Alzheimer's disease (G30),423,0.3,2937
+65 to 69,Alzheimer's disease (G30),943,0.7,2940
+70 to 74,Alzheimer's disease (G30),2554,2.6,2943
+75 to 79,Alzheimer's disease (G30),6046,5.6,2946
+80 to 84,Alzheimer's disease (G30),11809,14.8,2949
+85 and older,Alzheimer's disease (G30),40930,17.3,2952
+Unknown,Alzheimer's disease (G30),25,N/A,2955
+Total,Alzheimer's disease (G30),62967,28.7,2958
+Less than 1,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),1,N/A,2961
+1 to 4,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),1,N/A,2964
+5 to 9,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),1,N/A,2967
+10 to 14,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),0,N/A,2970
+15 to 19,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),4,N/A,2973
+20 to 24,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),3,N/A,2976
+25 to 29,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),17,0.0,2979
+30 to 34,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),19,0.0,2982
+35 to 39,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),28,0.0,2985
+40 to 44,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),22,0.0,2988
+45 to 49,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),27,0.0,2991
+50 to 54,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),59,0.1,2994
+55 to 59,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),97,0.1,2997
+60 to 64,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),123,0.1,3000
+65 to 69,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),158,0.1,3003
+70 to 74,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),194,0.2,3006
+75 to 79,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),239,0.2,3009
+80 to 84,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),315,0.4,3012
+85 and older,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),661,0.3,3015
+Unknown,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),4,N/A,3018
+Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),1973,0.9,3021
+Less than 1,Hypertensive heart disease (I11),0,N/A,3024
+1 to 4,Hypertensive heart disease (I11),1,N/A,3027
+5 to 9,Hypertensive heart disease (I11),0,N/A,3030
+10 to 14,Hypertensive heart disease (I11),0,N/A,3033
+15 to 19,Hypertensive heart disease (I11),4,N/A,3036
+20 to 24,Hypertensive heart disease (I11),31,0.0,3039
+25 to 29,Hypertensive heart disease (I11),82,0.1,3042
+30 to 34,Hypertensive heart disease (I11),170,0.2,3045
+35 to 39,Hypertensive heart disease (I11),344,0.5,3048
+40 to 44,Hypertensive heart disease (I11),608,0.9,3051
+45 to 49,Hypertensive heart disease (I11),1036,1.2,3054
+50 to 54,Hypertensive heart disease (I11),1681,1.8,3057
+55 to 59,Hypertensive heart disease (I11),2125,1.5,3060
+60 to 64,Hypertensive heart disease (I11),2276,1.8,3063
+65 to 69,Hypertensive heart disease (I11),1907,1.5,3066
+70 to 74,Hypertensive heart disease (I11),1756,1.8,3069
+75 to 79,Hypertensive heart disease (I11),1813,1.7,3072
+80 to 84,Hypertensive heart disease (I11),2520,3.2,3075
+85 and older,Hypertensive heart disease (I11),8882,3.8,3078
+Unknown,Hypertensive heart disease (I11),29,N/A,3081
+Total,Hypertensive heart disease (I11),25265,11.8,3084
+Less than 1,Hypertensive heart and renal disease (I13),0,N/A,3087
+1 to 4,Hypertensive heart and renal disease (I13),0,N/A,3090
+5 to 9,Hypertensive heart and renal disease (I13),0,N/A,3093
+10 to 14,Hypertensive heart and renal disease (I13),0,N/A,3096
+15 to 19,Hypertensive heart and renal disease (I13),1,N/A,3099
+20 to 24,Hypertensive heart and renal disease (I13),1,N/A,3102
+25 to 29,Hypertensive heart and renal disease (I13),5,N/A,3105
+30 to 34,Hypertensive heart and renal disease (I13),13,0.0,3108
+35 to 39,Hypertensive heart and renal disease (I13),22,0.0,3111
+40 to 44,Hypertensive heart and renal disease (I13),33,0.0,3114
+45 to 49,Hypertensive heart and renal disease (I13),53,0.1,3117
+50 to 54,Hypertensive heart and renal disease (I13),92,0.1,3120
+55 to 59,Hypertensive heart and renal disease (I13),115,0.1,3123
+60 to 64,Hypertensive heart and renal disease (I13),159,0.1,3126
+65 to 69,Hypertensive heart and renal disease (I13),203,0.2,3129
+70 to 74,Hypertensive heart and renal disease (I13),246,0.3,3132
+75 to 79,Hypertensive heart and renal disease (I13),327,0.3,3135
+80 to 84,Hypertensive heart and renal disease (I13),451,0.6,3138
+85 and older,Hypertensive heart and renal disease (I13),1586,0.7,3141
+Unknown,Hypertensive heart and renal disease (I13),3,N/A,3144
+Total,Hypertensive heart and renal disease (I13),3310,1.5,3147
+Less than 1,Acute myocardial infarction (I21-I22),2,N/A,3150
+1 to 4,Acute myocardial infarction (I21-I22),1,N/A,3153
+5 to 9,Acute myocardial infarction (I21-I22),0,N/A,3156
+10 to 14,Acute myocardial infarction (I21-I22),1,N/A,3159
+15 to 19,Acute myocardial infarction (I21-I22),7,N/A,3162
+20 to 24,Acute myocardial infarction (I21-I22),20,0.0,3165
+25 to 29,Acute myocardial infarction (I21-I22),45,0.1,3168
+30 to 34,Acute myocardial infarction (I21-I22),168,0.2,3171
+35 to 39,Acute myocardial infarction (I21-I22),356,0.5,3174
+40 to 44,Acute myocardial infarction (I21-I22),839,1.3,3177
+45 to 49,Acute myocardial infarction (I21-I22),1653,1.9,3180
+50 to 54,Acute myocardial infarction (I21-I22),3152,3.5,3183
+55 to 59,Acute myocardial infarction (I21-I22),4684,3.4,3186
+60 to 64,Acute myocardial infarction (I21-I22),6023,4.9,3189
+65 to 69,Acute myocardial infarction (I21-I22),6697,5.2,3192
+70 to 74,Acute myocardial infarction (I21-I22),7292,7.5,3195
+75 to 79,Acute myocardial infarction (I21-I22),8219,7.7,3198
+80 to 84,Acute myocardial infarction (I21-I22),9821,12.3,3201
+85 and older,Acute myocardial infarction (I21-I22),21173,9.0,3204
+Unknown,Acute myocardial infarction (I21-I22),95,N/A,3207
+Total,Acute myocardial infarction (I21-I22),70248,32.6,3210
+Less than 1,Other acute ischemic heart diseases (I24),3,N/A,3213
+1 to 4,Other acute ischemic heart diseases (I24),0,N/A,3216
+5 to 9,Other acute ischemic heart diseases (I24),0,N/A,3219
+10 to 14,Other acute ischemic heart diseases (I24),0,N/A,3222
+15 to 19,Other acute ischemic heart diseases (I24),1,N/A,3225
+20 to 24,Other acute ischemic heart diseases (I24),1,N/A,3228
+25 to 29,Other acute ischemic heart diseases (I24),2,N/A,3231
+30 to 34,Other acute ischemic heart diseases (I24),11,0.0,3234
+35 to 39,Other acute ischemic heart diseases (I24),17,0.0,3237
+40 to 44,Other acute ischemic heart diseases (I24),43,0.1,3240
+45 to 49,Other acute ischemic heart diseases (I24),89,0.1,3243
+50 to 54,Other acute ischemic heart diseases (I24),140,0.2,3246
+55 to 59,Other acute ischemic heart diseases (I24),209,0.1,3249
+60 to 64,Other acute ischemic heart diseases (I24),247,0.2,3252
+65 to 69,Other acute ischemic heart diseases (I24),332,0.3,3255
+70 to 74,Other acute ischemic heart diseases (I24),301,0.3,3258
+75 to 79,Other acute ischemic heart diseases (I24),346,0.3,3261
+80 to 84,Other acute ischemic heart diseases (I24),375,0.5,3264
+85 and older,Other acute ischemic heart diseases (I24),777,0.3,3267
+Unknown,Other acute ischemic heart diseases (I24),3,N/A,3270
+Total,Other acute ischemic heart diseases (I24),2897,1.4,3273
+Less than 1,Atherosclerotic cardiovascular disease so described (I25.0),0,N/A,3276
+1 to 4,Atherosclerotic cardiovascular disease so described (I25.0),0,N/A,3279
+5 to 9,Atherosclerotic cardiovascular disease so described (I25.0),1,N/A,3282
+10 to 14,Atherosclerotic cardiovascular disease so described (I25.0),0,N/A,3285
+15 to 19,Atherosclerotic cardiovascular disease so described (I25.0),2,N/A,3288
+20 to 24,Atherosclerotic cardiovascular disease so described (I25.0),15,0.0,3291
+25 to 29,Atherosclerotic cardiovascular disease so described (I25.0),65,0.1,3294
+30 to 34,Atherosclerotic cardiovascular disease so described (I25.0),147,0.2,3297
+35 to 39,Atherosclerotic cardiovascular disease so described (I25.0),330,0.5,3300
+40 to 44,Atherosclerotic cardiovascular disease so described (I25.0),648,1.0,3303
+45 to 49,Atherosclerotic cardiovascular disease so described (I25.0),1317,1.5,3306
+50 to 54,Atherosclerotic cardiovascular disease so described (I25.0),2347,2.6,3309
+55 to 59,Atherosclerotic cardiovascular disease so described (I25.0),3216,2.3,3312
+60 to 64,Atherosclerotic cardiovascular disease so described (I25.0),3640,2.9,3315
+65 to 69,Atherosclerotic cardiovascular disease so described (I25.0),3263,2.5,3318
+70 to 74,Atherosclerotic cardiovascular disease so described (I25.0),2724,2.8,3321
+75 to 79,Atherosclerotic cardiovascular disease so described (I25.0),2691,2.5,3324
+80 to 84,Atherosclerotic cardiovascular disease so described (I25.0),3083,3.9,3327
+85 and older,Atherosclerotic cardiovascular disease so described (I25.0),7417,3.1,3330
+Unknown,Atherosclerotic cardiovascular disease so described (I25.0),68,N/A,3333
+Total,Atherosclerotic cardiovascular disease so described (I25.0),30974,14.4,3336
+Less than 1,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),0,N/A,3339
+1 to 4,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),5,N/A,3342
+5 to 9,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),2,N/A,3345
+10 to 14,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),4,N/A,3348
+15 to 19,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),7,N/A,3351
+20 to 24,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),17,0.0,3354
+25 to 29,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),39,0.0,3357
+30 to 34,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),140,0.2,3360
+35 to 39,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),309,0.5,3363
+40 to 44,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),672,1.0,3366
+45 to 49,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),1497,1.7,3369
+50 to 54,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),2845,3.1,3372
+55 to 59,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),4692,3.4,3375
+60 to 64,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),6733,5.4,3378
+65 to 69,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),8707,6.7,3381
+70 to 74,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),11166,11.4,3384
+75 to 79,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),14696,13.7,3387
+80 to 84,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),20237,25.3,3390
+85 and older,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),53527,22.7,3393
+Unknown,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),105,N/A,3396
+Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),125400,57.7,3399
+Less than 1,Acute and subacute endocarditis (I33),0,N/A,3402
+1 to 4,Acute and subacute endocarditis (I33),0,N/A,3405
+5 to 9,Acute and subacute endocarditis (I33),0,N/A,3408
+10 to 14,Acute and subacute endocarditis (I33),0,N/A,3411
+15 to 19,Acute and subacute endocarditis (I33),0,N/A,3414
+20 to 24,Acute and subacute endocarditis (I33),12,0.0,3417
+25 to 29,Acute and subacute endocarditis (I33),31,0.0,3420
+30 to 34,Acute and subacute endocarditis (I33),47,0.1,3423
+35 to 39,Acute and subacute endocarditis (I33),42,0.1,3426
+40 to 44,Acute and subacute endocarditis (I33),35,0.1,3429
+45 to 49,Acute and subacute endocarditis (I33),59,0.1,3432
+50 to 54,Acute and subacute endocarditis (I33),62,0.1,3435
+55 to 59,Acute and subacute endocarditis (I33),95,0.1,3438
+60 to 64,Acute and subacute endocarditis (I33),113,0.1,3441
+65 to 69,Acute and subacute endocarditis (I33),104,0.1,3444
+70 to 74,Acute and subacute endocarditis (I33),90,0.1,3447
+75 to 79,Acute and subacute endocarditis (I33),106,0.1,3450
+80 to 84,Acute and subacute endocarditis (I33),84,0.1,3453
+85 and older,Acute and subacute endocarditis (I33),91,0.0,3456
+Unknown,Acute and subacute endocarditis (I33),1,N/A,3459
+Total,Acute and subacute endocarditis (I33),972,0.5,3462
+Less than 1,Diseases of pericardium and acute myocarditis (I30-I31I40),6,N/A,3465
+1 to 4,Diseases of pericardium and acute myocarditis (I30-I31I40),10,0.0,3468
+5 to 9,Diseases of pericardium and acute myocarditis (I30-I31I40),3,N/A,3471
+10 to 14,Diseases of pericardium and acute myocarditis (I30-I31I40),1,N/A,3474
+15 to 19,Diseases of pericardium and acute myocarditis (I30-I31I40),9,N/A,3477
+20 to 24,Diseases of pericardium and acute myocarditis (I30-I31I40),8,N/A,3480
+25 to 29,Diseases of pericardium and acute myocarditis (I30-I31I40),16,0.0,3483
+30 to 34,Diseases of pericardium and acute myocarditis (I30-I31I40),7,N/A,3486
+35 to 39,Diseases of pericardium and acute myocarditis (I30-I31I40),8,N/A,3489
+40 to 44,Diseases of pericardium and acute myocarditis (I30-I31I40),17,0.0,3492
+45 to 49,Diseases of pericardium and acute myocarditis (I30-I31I40),22,0.0,3495
+50 to 54,Diseases of pericardium and acute myocarditis (I30-I31I40),29,0.0,3498
+55 to 59,Diseases of pericardium and acute myocarditis (I30-I31I40),50,0.0,3501
+60 to 64,Diseases of pericardium and acute myocarditis (I30-I31I40),41,0.0,3504
+65 to 69,Diseases of pericardium and acute myocarditis (I30-I31I40),46,0.0,3507
+70 to 74,Diseases of pericardium and acute myocarditis (I30-I31I40),58,0.1,3510
+75 to 79,Diseases of pericardium and acute myocarditis (I30-I31I40),48,0.0,3513
+80 to 84,Diseases of pericardium and acute myocarditis (I30-I31I40),67,0.1,3516
+85 and older,Diseases of pericardium and acute myocarditis (I30-I31I40),78,0.0,3519
+Unknown,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,3522
+Total,Diseases of pericardium and acute myocarditis (I30-I31I40),524,0.3,3525
+Less than 1,Heart failure (I50),9,N/A,3528
+1 to 4,Heart failure (I50),4,N/A,3531
+5 to 9,Heart failure (I50),2,N/A,3534
+10 to 14,Heart failure (I50),2,N/A,3537
+15 to 19,Heart failure (I50),6,N/A,3540
+20 to 24,Heart failure (I50),9,N/A,3543
+25 to 29,Heart failure (I50),24,0.0,3546
+30 to 34,Heart failure (I50),42,0.1,3549
+35 to 39,Heart failure (I50),48,0.1,3552
+40 to 44,Heart failure (I50),112,0.2,3555
+45 to 49,Heart failure (I50),205,0.2,3558
+50 to 54,Heart failure (I50),440,0.5,3561
+55 to 59,Heart failure (I50),760,0.5,3564
+60 to 64,Heart failure (I50),1299,1.0,3567
+65 to 69,Heart failure (I50),1864,1.4,3570
+70 to 74,Heart failure (I50),2660,2.7,3573
+75 to 79,Heart failure (I50),4011,3.7,3576
+80 to 84,Heart failure (I50),6186,7.7,3579
+85 and older,Heart failure (I50),21955,9.3,3582
+Unknown,Heart failure (I50),29,N/A,3585
+Total,Heart failure (I50),39667,18.1,3588
+Less than 1,All other forms of heart disease (I26-I28I34-I38I42-I49I51),150,0.1,3591
+1 to 4,All other forms of heart disease (I26-I28I34-I38I42-I49I51),66,0.0,3594
+5 to 9,All other forms of heart disease (I26-I28I34-I38I42-I49I51),37,0.0,3597
+10 to 14,All other forms of heart disease (I26-I28I34-I38I42-I49I51),41,0.1,3600
+15 to 19,All other forms of heart disease (I26-I28I34-I38I42-I49I51),119,0.1,3603
+20 to 24,All other forms of heart disease (I26-I28I34-I38I42-I49I51),257,0.3,3606
+25 to 29,All other forms of heart disease (I26-I28I34-I38I42-I49I51),349,0.4,3609
+30 to 34,All other forms of heart disease (I26-I28I34-I38I42-I49I51),543,0.7,3612
+35 to 39,All other forms of heart disease (I26-I28I34-I38I42-I49I51),795,1.2,3615
+40 to 44,All other forms of heart disease (I26-I28I34-I38I42-I49I51),1173,1.8,3618
+45 to 49,All other forms of heart disease (I26-I28I34-I38I42-I49I51),1747,2.0,3621
+50 to 54,All other forms of heart disease (I26-I28I34-I38I42-I49I51),2707,3.0,3624
+55 to 59,All other forms of heart disease (I26-I28I34-I38I42-I49I51),3916,2.8,3627
+60 to 64,All other forms of heart disease (I26-I28I34-I38I42-I49I51),5131,4.1,3630
+65 to 69,All other forms of heart disease (I26-I28I34-I38I42-I49I51),6023,4.6,3633
+70 to 74,All other forms of heart disease (I26-I28I34-I38I42-I49I51),6975,7.1,3636
+75 to 79,All other forms of heart disease (I26-I28I34-I38I42-I49I51),8594,8.0,3639
+80 to 84,All other forms of heart disease (I26-I28I34-I38I42-I49I51),11599,14.5,3642
+85 and older,All other forms of heart disease (I26-I28I34-I38I42-I49I51),32325,13.7,3645
+Unknown,All other forms of heart disease (I26-I28I34-I38I42-I49I51),83,N/A,3648
+Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),82630,38.6,3651
+Less than 1,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),0,N/A,3654
+1 to 4,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),1,N/A,3657
+5 to 9,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),0,N/A,3660
+10 to 14,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),0,N/A,3663
+15 to 19,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),2,N/A,3666
+20 to 24,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),6,N/A,3669
+25 to 29,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),15,0.0,3672
+30 to 34,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),32,0.0,3675
+35 to 39,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),81,0.1,3678
+40 to 44,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),141,0.2,3681
+45 to 49,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),290,0.3,3684
+50 to 54,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),498,0.5,3687
+55 to 59,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),819,0.6,3690
+60 to 64,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),1059,0.9,3693
+65 to 69,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),1263,1.0,3696
+70 to 74,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),1383,1.4,3699
+75 to 79,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),1867,1.7,3702
+80 to 84,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),2785,3.5,3705
+85 and older,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),8395,3.6,3708
+Unknown,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),8,N/A,3711
+Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),18645,8.6,3714
+Less than 1,Cerebrovascular diseases (I60-I69),71,0.0,3717
+1 to 4,Cerebrovascular diseases (I60-I69),40,0.0,3720
+5 to 9,Cerebrovascular diseases (I60-I69),28,0.0,3723
+10 to 14,Cerebrovascular diseases (I60-I69),28,0.0,3726
+15 to 19,Cerebrovascular diseases (I60-I69),38,0.0,3729
+20 to 24,Cerebrovascular diseases (I60-I69),61,0.1,3732
+25 to 29,Cerebrovascular diseases (I60-I69),103,0.1,3735
+30 to 34,Cerebrovascular diseases (I60-I69),177,0.2,3738
+35 to 39,Cerebrovascular diseases (I60-I69),350,0.5,3741
+40 to 44,Cerebrovascular diseases (I60-I69),615,0.9,3744
+45 to 49,Cerebrovascular diseases (I60-I69),1124,1.3,3747
+50 to 54,Cerebrovascular diseases (I60-I69),1810,2.0,3750
+55 to 59,Cerebrovascular diseases (I60-I69),2767,2.0,3753
+60 to 64,Cerebrovascular diseases (I60-I69),3916,3.2,3756
+65 to 69,Cerebrovascular diseases (I60-I69),5186,4.0,3759
+70 to 74,Cerebrovascular diseases (I60-I69),7015,7.2,3762
+75 to 79,Cerebrovascular diseases (I60-I69),10058,9.4,3765
+80 to 84,Cerebrovascular diseases (I60-I69),14126,17.7,3768
+85 and older,Cerebrovascular diseases (I60-I69),36284,15.4,3771
+Unknown,Cerebrovascular diseases (I60-I69),90,N/A,3774
+Total,Cerebrovascular diseases (I60-I69),83887,38.9,3777
+Less than 1,Atherosclerosis (I70),1,N/A,3780
+1 to 4,Atherosclerosis (I70),0,N/A,3783
+5 to 9,Atherosclerosis (I70),0,N/A,3786
+10 to 14,Atherosclerosis (I70),1,N/A,3789
+15 to 19,Atherosclerosis (I70),1,N/A,3792
+20 to 24,Atherosclerosis (I70),0,N/A,3795
+25 to 29,Atherosclerosis (I70),1,N/A,3798
+30 to 34,Atherosclerosis (I70),2,N/A,3801
+35 to 39,Atherosclerosis (I70),4,N/A,3804
+40 to 44,Atherosclerosis (I70),6,N/A,3807
+45 to 49,Atherosclerosis (I70),22,0.0,3810
+50 to 54,Atherosclerosis (I70),46,0.1,3813
+55 to 59,Atherosclerosis (I70),98,0.1,3816
+60 to 64,Atherosclerosis (I70),143,0.1,3819
+65 to 69,Atherosclerosis (I70),202,0.2,3822
+70 to 74,Atherosclerosis (I70),273,0.3,3825
+75 to 79,Atherosclerosis (I70),382,0.4,3828
+80 to 84,Atherosclerosis (I70),646,0.8,3831
+85 and older,Atherosclerosis (I70),2204,0.9,3834
+Unknown,Atherosclerosis (I70),1,N/A,3837
+Total,Atherosclerosis (I70),4033,1.8,3840
+Less than 1,Aortic aneurysm and dissection (I71),0,N/A,3843
+1 to 4,Aortic aneurysm and dissection (I71),0,N/A,3846
+5 to 9,Aortic aneurysm and dissection (I71),2,N/A,3849
+10 to 14,Aortic aneurysm and dissection (I71),2,N/A,3852
+15 to 19,Aortic aneurysm and dissection (I71),3,N/A,3855
+20 to 24,Aortic aneurysm and dissection (I71),9,N/A,3858
+25 to 29,Aortic aneurysm and dissection (I71),29,0.0,3861
+30 to 34,Aortic aneurysm and dissection (I71),47,0.1,3864
+35 to 39,Aortic aneurysm and dissection (I71),65,0.1,3867
+40 to 44,Aortic aneurysm and dissection (I71),139,0.2,3870
+45 to 49,Aortic aneurysm and dissection (I71),161,0.2,3873
+50 to 54,Aortic aneurysm and dissection (I71),216,0.2,3876
+55 to 59,Aortic aneurysm and dissection (I71),315,0.2,3879
+60 to 64,Aortic aneurysm and dissection (I71),509,0.4,3882
+65 to 69,Aortic aneurysm and dissection (I71),616,0.5,3885
+70 to 74,Aortic aneurysm and dissection (I71),779,0.8,3888
+75 to 79,Aortic aneurysm and dissection (I71),858,0.8,3891
+80 to 84,Aortic aneurysm and dissection (I71),1020,1.3,3894
+85 and older,Aortic aneurysm and dissection (I71),1777,0.8,3897
+Unknown,Aortic aneurysm and dissection (I71),14,N/A,3900
+Total,Aortic aneurysm and dissection (I71),6561,3.1,3903
+Less than 1,Other diseases of arteries arterioles and capillaries (I72-I78),4,N/A,3906
+1 to 4,Other diseases of arteries arterioles and capillaries (I72-I78),1,N/A,3909
+5 to 9,Other diseases of arteries arterioles and capillaries (I72-I78),3,N/A,3912
+10 to 14,Other diseases of arteries arterioles and capillaries (I72-I78),0,N/A,3915
+15 to 19,Other diseases of arteries arterioles and capillaries (I72-I78),4,N/A,3918
+20 to 24,Other diseases of arteries arterioles and capillaries (I72-I78),4,N/A,3921
+25 to 29,Other diseases of arteries arterioles and capillaries (I72-I78),11,0.0,3924
+30 to 34,Other diseases of arteries arterioles and capillaries (I72-I78),15,0.0,3927
+35 to 39,Other diseases of arteries arterioles and capillaries (I72-I78),31,0.0,3930
+40 to 44,Other diseases of arteries arterioles and capillaries (I72-I78),40,0.1,3933
+45 to 49,Other diseases of arteries arterioles and capillaries (I72-I78),89,0.1,3936
+50 to 54,Other diseases of arteries arterioles and capillaries (I72-I78),141,0.2,3939
+55 to 59,Other diseases of arteries arterioles and capillaries (I72-I78),263,0.2,3942
+60 to 64,Other diseases of arteries arterioles and capillaries (I72-I78),387,0.3,3945
+65 to 69,Other diseases of arteries arterioles and capillaries (I72-I78),518,0.4,3948
+70 to 74,Other diseases of arteries arterioles and capillaries (I72-I78),671,0.7,3951
+75 to 79,Other diseases of arteries arterioles and capillaries (I72-I78),752,0.7,3954
+80 to 84,Other diseases of arteries arterioles and capillaries (I72-I78),860,1.1,3957
+85 and older,Other diseases of arteries arterioles and capillaries (I72-I78),2239,0.9,3960
+Unknown,Other diseases of arteries arterioles and capillaries (I72-I78),6,N/A,3963
+Total,Other diseases of arteries arterioles and capillaries (I72-I78),6039,2.8,3966
+Less than 1,Other disorders of circulatory system (I80-I99),11,0.0,3969
+1 to 4,Other disorders of circulatory system (I80-I99),2,N/A,3972
+5 to 9,Other disorders of circulatory system (I80-I99),1,N/A,3975
+10 to 14,Other disorders of circulatory system (I80-I99),2,N/A,3978
+15 to 19,Other disorders of circulatory system (I80-I99),11,0.0,3981
+20 to 24,Other disorders of circulatory system (I80-I99),15,0.0,3984
+25 to 29,Other disorders of circulatory system (I80-I99),21,0.0,3987
+30 to 34,Other disorders of circulatory system (I80-I99),55,0.1,3990
+35 to 39,Other disorders of circulatory system (I80-I99),80,0.1,3993
+40 to 44,Other disorders of circulatory system (I80-I99),122,0.2,3996
+45 to 49,Other disorders of circulatory system (I80-I99),177,0.2,3999
+50 to 54,Other disorders of circulatory system (I80-I99),169,0.2,4002
+55 to 59,Other disorders of circulatory system (I80-I99),188,0.1,4005
+60 to 64,Other disorders of circulatory system (I80-I99),204,0.2,4008
+65 to 69,Other disorders of circulatory system (I80-I99),225,0.2,4011
+70 to 74,Other disorders of circulatory system (I80-I99),227,0.2,4014
+75 to 79,Other disorders of circulatory system (I80-I99),206,0.2,4017
+80 to 84,Other disorders of circulatory system (I80-I99),229,0.3,4020
+85 and older,Other disorders of circulatory system (I80-I99),536,0.2,4023
+Unknown,Other disorders of circulatory system (I80-I99),9,N/A,4026
+Total,Other disorders of circulatory system (I80-I99),2490,1.2,4029
+Less than 1,Influenza (J09-J11),4,N/A,4032
+1 to 4,Influenza (J09-J11),16,0.0,4035
+5 to 9,Influenza (J09-J11),10,0.0,4038
+10 to 14,Influenza (J09-J11),11,0.0,4041
+15 to 19,Influenza (J09-J11),13,0.0,4044
+20 to 24,Influenza (J09-J11),16,0.0,4047
+25 to 29,Influenza (J09-J11),25,0.0,4050
+30 to 34,Influenza (J09-J11),31,0.0,4053
+35 to 39,Influenza (J09-J11),33,0.1,4056
+40 to 44,Influenza (J09-J11),39,0.1,4059
+45 to 49,Influenza (J09-J11),80,0.1,4062
+50 to 54,Influenza (J09-J11),96,0.1,4065
+55 to 59,Influenza (J09-J11),161,0.1,4068
+60 to 64,Influenza (J09-J11),161,0.1,4071
+65 to 69,Influenza (J09-J11),145,0.1,4074
+70 to 74,Influenza (J09-J11),164,0.2,4077
+75 to 79,Influenza (J09-J11),165,0.2,4080
+80 to 84,Influenza (J09-J11),246,0.3,4083
+85 and older,Influenza (J09-J11),710,0.3,4086
+Unknown,Influenza (J09-J11),3,N/A,4089
+Total,Influenza (J09-J11),2129,1.0,4092
+Less than 1,Pneumonia (J12-J18),98,0.1,4095
+1 to 4,Pneumonia (J12-J18),39,0.0,4098
+5 to 9,Pneumonia (J12-J18),10,0.0,4101
+10 to 14,Pneumonia (J12-J18),25,0.0,4104
+15 to 19,Pneumonia (J12-J18),19,0.0,4107
+20 to 24,Pneumonia (J12-J18),45,0.1,4110
+25 to 29,Pneumonia (J12-J18),73,0.1,4113
+30 to 34,Pneumonia (J12-J18),111,0.1,4116
+35 to 39,Pneumonia (J12-J18),154,0.2,4119
+40 to 44,Pneumonia (J12-J18),263,0.4,4122
+45 to 49,Pneumonia (J12-J18),415,0.5,4125
+50 to 54,Pneumonia (J12-J18),698,0.8,4128
+55 to 59,Pneumonia (J12-J18),1040,0.7,4131
+60 to 64,Pneumonia (J12-J18),1412,1.1,4134
+65 to 69,Pneumonia (J12-J18),1782,1.4,4137
+70 to 74,Pneumonia (J12-J18),2259,2.3,4140
+75 to 79,Pneumonia (J12-J18),3048,2.8,4143
+80 to 84,Pneumonia (J12-J18),4373,5.5,4146
+85 and older,Pneumonia (J12-J18),12302,5.2,4149
+Unknown,Pneumonia (J12-J18),25,N/A,4152
+Total,Pneumonia (J12-J18),28191,13.1,4155
+Less than 1,Acute bronchitis and bronchiolitis (J20-J21),20,0.0,4158
+1 to 4,Acute bronchitis and bronchiolitis (J20-J21),12,0.0,4161
+5 to 9,Acute bronchitis and bronchiolitis (J20-J21),3,N/A,4164
+10 to 14,Acute bronchitis and bronchiolitis (J20-J21),1,N/A,4167
+15 to 19,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4170
+20 to 24,Acute bronchitis and bronchiolitis (J20-J21),1,N/A,4173
+25 to 29,Acute bronchitis and bronchiolitis (J20-J21),3,N/A,4176
+30 to 34,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4179
+35 to 39,Acute bronchitis and bronchiolitis (J20-J21),5,N/A,4182
+40 to 44,Acute bronchitis and bronchiolitis (J20-J21),3,N/A,4185
+45 to 49,Acute bronchitis and bronchiolitis (J20-J21),4,N/A,4188
+50 to 54,Acute bronchitis and bronchiolitis (J20-J21),7,N/A,4191
+55 to 59,Acute bronchitis and bronchiolitis (J20-J21),6,N/A,4194
+60 to 64,Acute bronchitis and bronchiolitis (J20-J21),7,N/A,4197
+65 to 69,Acute bronchitis and bronchiolitis (J20-J21),6,N/A,4200
+70 to 74,Acute bronchitis and bronchiolitis (J20-J21),6,N/A,4203
+75 to 79,Acute bronchitis and bronchiolitis (J20-J21),5,N/A,4206
+80 to 84,Acute bronchitis and bronchiolitis (J20-J21),13,0.0,4209
+85 and older,Acute bronchitis and bronchiolitis (J20-J21),66,0.0,4212
+Unknown,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,4215
+Total,Acute bronchitis and bronchiolitis (J20-J21),168,0.1,4218
+Less than 1,Unspecified acute lower respiratory infection (J22U049U071),1,N/A,4221
+1 to 4,Unspecified acute lower respiratory infection (J22U049U071),0,N/A,4224
+5 to 9,Unspecified acute lower respiratory infection (J22U049U071),1,N/A,4227
+10 to 14,Unspecified acute lower respiratory infection (J22U049U071),0,N/A,4230
+15 to 19,Unspecified acute lower respiratory infection (J22U049U071),1,N/A,4233
+20 to 24,Unspecified acute lower respiratory infection (J22U049U071),3,N/A,4236
+25 to 29,Unspecified acute lower respiratory infection (J22U049U071),9,N/A,4239
+30 to 34,Unspecified acute lower respiratory infection (J22U049U071),26,0.0,4242
+35 to 39,Unspecified acute lower respiratory infection (J22U049U071),37,0.1,4245
+40 to 44,Unspecified acute lower respiratory infection (J22U049U071),61,0.1,4248
+45 to 49,Unspecified acute lower respiratory infection (J22U049U071),88,0.1,4251
+50 to 54,Unspecified acute lower respiratory infection (J22U049U071),180,0.2,4254
+55 to 59,Unspecified acute lower respiratory infection (J22U049U071),359,0.3,4257
+60 to 64,Unspecified acute lower respiratory infection (J22U049U071),584,0.5,4260
+65 to 69,Unspecified acute lower respiratory infection (J22U049U071),891,0.7,4263
+70 to 74,Unspecified acute lower respiratory infection (J22U049U071),1327,1.4,4266
+75 to 79,Unspecified acute lower respiratory infection (J22U049U071),1575,1.5,4269
+80 to 84,Unspecified acute lower respiratory infection (J22U049U071),1828,2.3,4272
+85 and older,Unspecified acute lower respiratory infection (J22U049U071),4172,1.8,4275
+Unknown,Unspecified acute lower respiratory infection (J22U049U071),0,N/A,4278
+Total,Unspecified acute lower respiratory infection (J22U049U071),11143,5.2,4281
+Less than 1,Bronchitis chronic and unspecified (J40-J42),21,0.0,4284
+1 to 4,Bronchitis chronic and unspecified (J40-J42),7,N/A,4287
+5 to 9,Bronchitis chronic and unspecified (J40-J42),2,N/A,4290
+10 to 14,Bronchitis chronic and unspecified (J40-J42),2,N/A,4293
+15 to 19,Bronchitis chronic and unspecified (J40-J42),0,N/A,4296
+20 to 24,Bronchitis chronic and unspecified (J40-J42),2,N/A,4299
+25 to 29,Bronchitis chronic and unspecified (J40-J42),5,N/A,4302
+30 to 34,Bronchitis chronic and unspecified (J40-J42),0,N/A,4305
+35 to 39,Bronchitis chronic and unspecified (J40-J42),1,N/A,4308
+40 to 44,Bronchitis chronic and unspecified (J40-J42),9,N/A,4311
+45 to 49,Bronchitis chronic and unspecified (J40-J42),4,N/A,4314
+50 to 54,Bronchitis chronic and unspecified (J40-J42),16,0.0,4317
+55 to 59,Bronchitis chronic and unspecified (J40-J42),27,0.0,4320
+60 to 64,Bronchitis chronic and unspecified (J40-J42),26,0.0,4323
+65 to 69,Bronchitis chronic and unspecified (J40-J42),26,0.0,4326
+70 to 74,Bronchitis chronic and unspecified (J40-J42),49,0.1,4329
+75 to 79,Bronchitis chronic and unspecified (J40-J42),52,0.0,4332
+80 to 84,Bronchitis chronic and unspecified (J40-J42),44,0.1,4335
+85 and older,Bronchitis chronic and unspecified (J40-J42),168,0.1,4338
+Unknown,Bronchitis chronic and unspecified (J40-J42),0,N/A,4341
+Total,Bronchitis chronic and unspecified (J40-J42),461,0.2,4344
+Less than 1,Emphysema (J43),0,N/A,4347
+1 to 4,Emphysema (J43),0,N/A,4350
+5 to 9,Emphysema (J43),0,N/A,4353
+10 to 14,Emphysema (J43),1,N/A,4356
+15 to 19,Emphysema (J43),0,N/A,4359
+20 to 24,Emphysema (J43),0,N/A,4362
+25 to 29,Emphysema (J43),3,N/A,4365
+30 to 34,Emphysema (J43),2,N/A,4368
+35 to 39,Emphysema (J43),6,N/A,4371
+40 to 44,Emphysema (J43),25,0.0,4374
+45 to 49,Emphysema (J43),67,0.1,4377
+50 to 54,Emphysema (J43),185,0.2,4380
+55 to 59,Emphysema (J43),358,0.3,4383
+60 to 64,Emphysema (J43),551,0.4,4386
+65 to 69,Emphysema (J43),823,0.6,4389
+70 to 74,Emphysema (J43),1001,1.0,4392
+75 to 79,Emphysema (J43),1222,1.1,4395
+80 to 84,Emphysema (J43),1136,1.4,4398
+85 and older,Emphysema (J43),1358,0.6,4401
+Unknown,Emphysema (J43),7,N/A,4404
+Total,Emphysema (J43),6745,3.1,4407
+Less than 1,Asthma (J45-J46),2,N/A,4410
+1 to 4,Asthma (J45-J46),16,0.0,4413
+5 to 9,Asthma (J45-J46),29,0.0,4416
+10 to 14,Asthma (J45-J46),37,0.0,4419
+15 to 19,Asthma (J45-J46),37,0.0,4422
+20 to 24,Asthma (J45-J46),40,0.0,4425
+25 to 29,Asthma (J45-J46),67,0.1,4428
+30 to 34,Asthma (J45-J46),75,0.1,4431
+35 to 39,Asthma (J45-J46),67,0.1,4434
+40 to 44,Asthma (J45-J46),90,0.1,4437
+45 to 49,Asthma (J45-J46),141,0.2,4440
+50 to 54,Asthma (J45-J46),155,0.2,4443
+55 to 59,Asthma (J45-J46),160,0.1,4446
+60 to 64,Asthma (J45-J46),120,0.1,4449
+65 to 69,Asthma (J45-J46),120,0.1,4452
+70 to 74,Asthma (J45-J46),114,0.1,4455
+75 to 79,Asthma (J45-J46),120,0.1,4458
+80 to 84,Asthma (J45-J46),132,0.2,4461
+85 and older,Asthma (J45-J46),341,0.1,4464
+Unknown,Asthma (J45-J46),0,N/A,4467
+Total,Asthma (J45-J46),1863,1.0,4470
+Less than 1,Other chronic lower respiratory diseases (J44J47),1,N/A,4473
+1 to 4,Other chronic lower respiratory diseases (J44J47),3,N/A,4476
+5 to 9,Other chronic lower respiratory diseases (J44J47),0,N/A,4479
+10 to 14,Other chronic lower respiratory diseases (J44J47),2,N/A,4482
+15 to 19,Other chronic lower respiratory diseases (J44J47),2,N/A,4485
+20 to 24,Other chronic lower respiratory diseases (J44J47),4,N/A,4488
+25 to 29,Other chronic lower respiratory diseases (J44J47),5,N/A,4491
+30 to 34,Other chronic lower respiratory diseases (J44J47),24,0.0,4494
+35 to 39,Other chronic lower respiratory diseases (J44J47),70,0.1,4497
+40 to 44,Other chronic lower respiratory diseases (J44J47),224,0.3,4500
+45 to 49,Other chronic lower respiratory diseases (J44J47),679,0.8,4503
+50 to 54,Other chronic lower respiratory diseases (J44J47),1932,2.1,4506
+55 to 59,Other chronic lower respiratory diseases (J44J47),4122,3.0,4509
+60 to 64,Other chronic lower respiratory diseases (J44J47),6556,5.3,4512
+65 to 69,Other chronic lower respiratory diseases (J44J47),9551,7.4,4515
+70 to 74,Other chronic lower respiratory diseases (J44J47),12375,12.7,4518
+75 to 79,Other chronic lower respiratory diseases (J44J47),14656,13.6,4521
+80 to 84,Other chronic lower respiratory diseases (J44J47),15435,19.3,4524
+85 and older,Other chronic lower respiratory diseases (J44J47),22789,9.7,4527
+Unknown,Other chronic lower respiratory diseases (J44J47),52,N/A,4530
+Total,Other chronic lower respiratory diseases (J44J47),88482,41.1,4533
+Less than 1,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4536
+1 to 4,Pneumoconioses and chemical effects (J60-J66J68),1,N/A,4539
+5 to 9,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4542
+10 to 14,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4545
+15 to 19,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4548
+20 to 24,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4551
+25 to 29,Pneumoconioses and chemical effects (J60-J66J68),1,N/A,4554
+30 to 34,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4557
+35 to 39,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4560
+40 to 44,Pneumoconioses and chemical effects (J60-J66J68),1,N/A,4563
+45 to 49,Pneumoconioses and chemical effects (J60-J66J68),3,N/A,4566
+50 to 54,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,4569
+55 to 59,Pneumoconioses and chemical effects (J60-J66J68),10,0.0,4572
+60 to 64,Pneumoconioses and chemical effects (J60-J66J68),15,0.0,4575
+65 to 69,Pneumoconioses and chemical effects (J60-J66J68),21,0.0,4578
+70 to 74,Pneumoconioses and chemical effects (J60-J66J68),66,0.1,4581
+75 to 79,Pneumoconioses and chemical effects (J60-J66J68),80,0.1,4584
+80 to 84,Pneumoconioses and chemical effects (J60-J66J68),89,0.1,4587
+85 and older,Pneumoconioses and chemical effects (J60-J66J68),139,0.1,4590
+Unknown,Pneumoconioses and chemical effects (J60-J66J68),1,N/A,4593
+Total,Pneumoconioses and chemical effects (J60-J66J68),427,0.2,4596
+Less than 1,Pneumonitis due to solids and liquids (J69),4,N/A,4599
+1 to 4,Pneumonitis due to solids and liquids (J69),5,N/A,4602
+5 to 9,Pneumonitis due to solids and liquids (J69),1,N/A,4605
+10 to 14,Pneumonitis due to solids and liquids (J69),2,N/A,4608
+15 to 19,Pneumonitis due to solids and liquids (J69),8,N/A,4611
+20 to 24,Pneumonitis due to solids and liquids (J69),13,0.0,4614
+25 to 29,Pneumonitis due to solids and liquids (J69),30,0.0,4617
+30 to 34,Pneumonitis due to solids and liquids (J69),26,0.0,4620
+35 to 39,Pneumonitis due to solids and liquids (J69),30,0.0,4623
+40 to 44,Pneumonitis due to solids and liquids (J69),71,0.1,4626
+45 to 49,Pneumonitis due to solids and liquids (J69),118,0.1,4629
+50 to 54,Pneumonitis due to solids and liquids (J69),212,0.2,4632
+55 to 59,Pneumonitis due to solids and liquids (J69),323,0.2,4635
+60 to 64,Pneumonitis due to solids and liquids (J69),537,0.4,4638
+65 to 69,Pneumonitis due to solids and liquids (J69),637,0.5,4641
+70 to 74,Pneumonitis due to solids and liquids (J69),829,0.8,4644
+75 to 79,Pneumonitis due to solids and liquids (J69),1238,1.2,4647
+80 to 84,Pneumonitis due to solids and liquids (J69),1963,2.5,4650
+85 and older,Pneumonitis due to solids and liquids (J69),5922,2.5,4653
+Unknown,Pneumonitis due to solids and liquids (J69),10,N/A,4656
+Total,Pneumonitis due to solids and liquids (J69),11979,5.5,4659
+Less than 1,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),152,0.1,4662
+1 to 4,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),53,0.0,4665
+5 to 9,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),13,0.0,4668
+10 to 14,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),14,0.0,4671
+15 to 19,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),25,0.0,4674
+20 to 24,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),43,0.1,4677
+25 to 29,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),51,0.1,4680
+30 to 34,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),86,0.1,4683
+35 to 39,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),136,0.2,4686
+40 to 44,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),163,0.2,4689
+45 to 49,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),348,0.4,4692
+50 to 54,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),647,0.7,4695
+55 to 59,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),1070,0.8,4698
+60 to 64,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),1574,1.3,4701
+65 to 69,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),2160,1.7,4704
+70 to 74,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),2769,2.8,4707
+75 to 79,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),3319,3.1,4710
+80 to 84,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),3818,4.8,4713
+85 and older,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),6542,2.8,4716
+Unknown,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),35,N/A,4719
+Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),23018,10.8,4722
+Less than 1,Peptic ulcer (K25-K28),0,N/A,4725
+1 to 4,Peptic ulcer (K25-K28),0,N/A,4728
+5 to 9,Peptic ulcer (K25-K28),0,N/A,4731
+10 to 14,Peptic ulcer (K25-K28),0,N/A,4734
+15 to 19,Peptic ulcer (K25-K28),2,N/A,4737
+20 to 24,Peptic ulcer (K25-K28),4,N/A,4740
+25 to 29,Peptic ulcer (K25-K28),9,N/A,4743
+30 to 34,Peptic ulcer (K25-K28),7,N/A,4746
+35 to 39,Peptic ulcer (K25-K28),19,0.0,4749
+40 to 44,Peptic ulcer (K25-K28),23,0.0,4752
+45 to 49,Peptic ulcer (K25-K28),59,0.1,4755
+50 to 54,Peptic ulcer (K25-K28),87,0.1,4758
+55 to 59,Peptic ulcer (K25-K28),129,0.1,4761
+60 to 64,Peptic ulcer (K25-K28),157,0.1,4764
+65 to 69,Peptic ulcer (K25-K28),151,0.1,4767
+70 to 74,Peptic ulcer (K25-K28),190,0.2,4770
+75 to 79,Peptic ulcer (K25-K28),230,0.2,4773
+80 to 84,Peptic ulcer (K25-K28),269,0.3,4776
+85 and older,Peptic ulcer (K25-K28),576,0.2,4779
+Unknown,Peptic ulcer (K25-K28),0,N/A,4782
+Total,Peptic ulcer (K25-K28),1912,0.9,4785
+Less than 1,Diseases of appendix (K35-K38),0,N/A,4788
+1 to 4,Diseases of appendix (K35-K38),1,N/A,4791
+5 to 9,Diseases of appendix (K35-K38),1,N/A,4794
+10 to 14,Diseases of appendix (K35-K38),2,N/A,4797
+15 to 19,Diseases of appendix (K35-K38),1,N/A,4800
+20 to 24,Diseases of appendix (K35-K38),2,N/A,4803
+25 to 29,Diseases of appendix (K35-K38),0,N/A,4806
+30 to 34,Diseases of appendix (K35-K38),3,N/A,4809
+35 to 39,Diseases of appendix (K35-K38),6,N/A,4812
+40 to 44,Diseases of appendix (K35-K38),5,N/A,4815
+45 to 49,Diseases of appendix (K35-K38),6,N/A,4818
+50 to 54,Diseases of appendix (K35-K38),8,N/A,4821
+55 to 59,Diseases of appendix (K35-K38),9,N/A,4824
+60 to 64,Diseases of appendix (K35-K38),13,0.0,4827
+65 to 69,Diseases of appendix (K35-K38),17,0.0,4830
+70 to 74,Diseases of appendix (K35-K38),33,0.0,4833
+75 to 79,Diseases of appendix (K35-K38),18,0.0,4836
+80 to 84,Diseases of appendix (K35-K38),20,0.0,4839
+85 and older,Diseases of appendix (K35-K38),53,0.0,4842
+Unknown,Diseases of appendix (K35-K38),0,N/A,4845
+Total,Diseases of appendix (K35-K38),198,0.1,4848
+Less than 1,Hernia (K40-K46),12,0.0,4851
+1 to 4,Hernia (K40-K46),1,N/A,4854
+5 to 9,Hernia (K40-K46),1,N/A,4857
+10 to 14,Hernia (K40-K46),0,N/A,4860
+15 to 19,Hernia (K40-K46),0,N/A,4863
+20 to 24,Hernia (K40-K46),0,N/A,4866
+25 to 29,Hernia (K40-K46),1,N/A,4869
+30 to 34,Hernia (K40-K46),0,N/A,4872
+35 to 39,Hernia (K40-K46),7,N/A,4875
+40 to 44,Hernia (K40-K46),10,0.0,4878
+45 to 49,Hernia (K40-K46),21,0.0,4881
+50 to 54,Hernia (K40-K46),20,0.0,4884
+55 to 59,Hernia (K40-K46),42,0.0,4887
+60 to 64,Hernia (K40-K46),73,0.1,4890
+65 to 69,Hernia (K40-K46),71,0.1,4893
+70 to 74,Hernia (K40-K46),91,0.1,4896
+75 to 79,Hernia (K40-K46),123,0.1,4899
+80 to 84,Hernia (K40-K46),158,0.2,4902
+85 and older,Hernia (K40-K46),470,0.2,4905
+Unknown,Hernia (K40-K46),0,N/A,4908
+Total,Hernia (K40-K46),1101,0.5,4911
+Less than 1,Alcoholic liver disease (K70),0,N/A,4914
+1 to 4,Alcoholic liver disease (K70),0,N/A,4917
+5 to 9,Alcoholic liver disease (K70),0,N/A,4920
+10 to 14,Alcoholic liver disease (K70),0,N/A,4923
+15 to 19,Alcoholic liver disease (K70),0,N/A,4926
+20 to 24,Alcoholic liver disease (K70),5,N/A,4929
+25 to 29,Alcoholic liver disease (K70),56,0.1,4932
+30 to 34,Alcoholic liver disease (K70),161,0.2,4935
+35 to 39,Alcoholic liver disease (K70),300,0.5,4938
+40 to 44,Alcoholic liver disease (K70),625,0.9,4941
+45 to 49,Alcoholic liver disease (K70),1060,1.2,4944
+50 to 54,Alcoholic liver disease (K70),1613,1.8,4947
+55 to 59,Alcoholic liver disease (K70),1766,1.3,4950
+60 to 64,Alcoholic liver disease (K70),1455,1.2,4953
+65 to 69,Alcoholic liver disease (K70),825,0.6,4956
+70 to 74,Alcoholic liver disease (K70),484,0.5,4959
+75 to 79,Alcoholic liver disease (K70),249,0.2,4962
+80 to 84,Alcoholic liver disease (K70),125,0.2,4965
+85 and older,Alcoholic liver disease (K70),59,0.0,4968
+Unknown,Alcoholic liver disease (K70),12,N/A,4971
+Total,Alcoholic liver disease (K70),8795,4.4,4974
+Less than 1,Other chronic liver disease and cirrhosis (K73-K74),2,N/A,4977
+1 to 4,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,4980
+5 to 9,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,4983
+10 to 14,Other chronic liver disease and cirrhosis (K73-K74),0,N/A,4986
+15 to 19,Other chronic liver disease and cirrhosis (K73-K74),1,N/A,4989
+20 to 24,Other chronic liver disease and cirrhosis (K73-K74),4,N/A,4992
+25 to 29,Other chronic liver disease and cirrhosis (K73-K74),12,0.0,4995
+30 to 34,Other chronic liver disease and cirrhosis (K73-K74),51,0.1,4998
+35 to 39,Other chronic liver disease and cirrhosis (K73-K74),132,0.2,5001
+40 to 44,Other chronic liver disease and cirrhosis (K73-K74),264,0.4,5004
+45 to 49,Other chronic liver disease and cirrhosis (K73-K74),598,0.7,5007
+50 to 54,Other chronic liver disease and cirrhosis (K73-K74),1078,1.2,5010
+55 to 59,Other chronic liver disease and cirrhosis (K73-K74),1502,1.1,5013
+60 to 64,Other chronic liver disease and cirrhosis (K73-K74),1593,1.3,5016
+65 to 69,Other chronic liver disease and cirrhosis (K73-K74),1497,1.2,5019
+70 to 74,Other chronic liver disease and cirrhosis (K73-K74),1317,1.3,5022
+75 to 79,Other chronic liver disease and cirrhosis (K73-K74),1203,1.1,5025
+80 to 84,Other chronic liver disease and cirrhosis (K73-K74),939,1.2,5028
+85 and older,Other chronic liver disease and cirrhosis (K73-K74),757,0.3,5031
+Unknown,Other chronic liver disease and cirrhosis (K73-K74),7,N/A,5034
+Total,Other chronic liver disease and cirrhosis (K73-K74),10957,5.2,5037
+Less than 1,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5040
+1 to 4,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5043
+5 to 9,Cholelithiasis and other disorders of gallbladder (K80-K82),0,N/A,5046
+10 to 14,Cholelithiasis and other disorders of gallbladder (K80-K82),1,N/A,5049
+15 to 19,Cholelithiasis and other disorders of gallbladder (K80-K82),3,N/A,5052
+20 to 24,Cholelithiasis and other disorders of gallbladder (K80-K82),1,N/A,5055
+25 to 29,Cholelithiasis and other disorders of gallbladder (K80-K82),1,N/A,5058
+30 to 34,Cholelithiasis and other disorders of gallbladder (K80-K82),7,N/A,5061
+35 to 39,Cholelithiasis and other disorders of gallbladder (K80-K82),8,N/A,5064
+40 to 44,Cholelithiasis and other disorders of gallbladder (K80-K82),11,0.0,5067
+45 to 49,Cholelithiasis and other disorders of gallbladder (K80-K82),18,0.0,5070
+50 to 54,Cholelithiasis and other disorders of gallbladder (K80-K82),46,0.1,5073
+55 to 59,Cholelithiasis and other disorders of gallbladder (K80-K82),65,0.0,5076
+60 to 64,Cholelithiasis and other disorders of gallbladder (K80-K82),92,0.1,5079
+65 to 69,Cholelithiasis and other disorders of gallbladder (K80-K82),146,0.1,5082
+70 to 74,Cholelithiasis and other disorders of gallbladder (K80-K82),176,0.2,5085
+75 to 79,Cholelithiasis and other disorders of gallbladder (K80-K82),251,0.2,5088
+80 to 84,Cholelithiasis and other disorders of gallbladder (K80-K82),321,0.4,5091
+85 and older,Cholelithiasis and other disorders of gallbladder (K80-K82),814,0.3,5094
+Unknown,Cholelithiasis and other disorders of gallbladder (K80-K82),4,N/A,5097
+Total,Cholelithiasis and other disorders of gallbladder (K80-K82),1965,0.9,5100
+Less than 1,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),5,N/A,5103
+1 to 4,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5106
+5 to 9,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5109
+10 to 14,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5112
+15 to 19,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5115
+20 to 24,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),2,N/A,5118
+25 to 29,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5121
+30 to 34,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),1,N/A,5124
+35 to 39,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),1,N/A,5127
+40 to 44,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),1,N/A,5130
+45 to 49,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),1,N/A,5133
+50 to 54,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),5,N/A,5136
+55 to 59,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),9,N/A,5139
+60 to 64,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),13,0.0,5142
+65 to 69,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),32,0.0,5145
+70 to 74,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),20,0.0,5148
+75 to 79,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),25,0.0,5151
+80 to 84,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),40,0.1,5154
+85 and older,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),86,0.0,5157
+Unknown,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,5160
+Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),241,0.1,5163
+Less than 1,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),1,N/A,5166
+1 to 4,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5169
+5 to 9,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5172
+10 to 14,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),1,N/A,5175
+15 to 19,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),1,N/A,5178
+20 to 24,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),2,N/A,5181
+25 to 29,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),2,N/A,5184
+30 to 34,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),4,N/A,5187
+35 to 39,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),5,N/A,5190
+40 to 44,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),7,N/A,5193
+45 to 49,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),18,0.0,5196
+50 to 54,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),18,0.0,5199
+55 to 59,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),35,0.0,5202
+60 to 64,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),41,0.0,5205
+65 to 69,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),32,0.0,5208
+70 to 74,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),66,0.1,5211
+75 to 79,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),97,0.1,5214
+80 to 84,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),180,0.2,5217
+85 and older,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),424,0.2,5220
+Unknown,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),0,N/A,5223
+Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),934,0.4,5226
+Less than 1,Renal failure (N17-N19),57,0.0,5229
+1 to 4,Renal failure (N17-N19),5,N/A,5232
+5 to 9,Renal failure (N17-N19),5,N/A,5235
+10 to 14,Renal failure (N17-N19),3,N/A,5238
+15 to 19,Renal failure (N17-N19),7,N/A,5241
+20 to 24,Renal failure (N17-N19),23,0.0,5244
+25 to 29,Renal failure (N17-N19),56,0.1,5247
+30 to 34,Renal failure (N17-N19),63,0.1,5250
+35 to 39,Renal failure (N17-N19),120,0.2,5253
+40 to 44,Renal failure (N17-N19),222,0.3,5256
+45 to 49,Renal failure (N17-N19),441,0.5,5259
+50 to 54,Renal failure (N17-N19),710,0.8,5262
+55 to 59,Renal failure (N17-N19),1133,0.8,5265
+60 to 64,Renal failure (N17-N19),1731,1.4,5268
+65 to 69,Renal failure (N17-N19),2283,1.8,5271
+70 to 74,Renal failure (N17-N19),3037,3.1,5274
+75 to 79,Renal failure (N17-N19),3711,3.5,5277
+80 to 84,Renal failure (N17-N19),4581,5.7,5280
+85 and older,Renal failure (N17-N19),9217,3.9,5283
+Unknown,Renal failure (N17-N19),45,N/A,5286
+Total,Renal failure (N17-N19),27450,12.8,5289
+Less than 1,Other disorders of kidney (N25N27),0,N/A,5292
+1 to 4,Other disorders of kidney (N25N27),0,N/A,5295
+5 to 9,Other disorders of kidney (N25N27),0,N/A,5298
+10 to 14,Other disorders of kidney (N25N27),0,N/A,5301
+15 to 19,Other disorders of kidney (N25N27),0,N/A,5304
+20 to 24,Other disorders of kidney (N25N27),0,N/A,5307
+25 to 29,Other disorders of kidney (N25N27),0,N/A,5310
+30 to 34,Other disorders of kidney (N25N27),0,N/A,5313
+35 to 39,Other disorders of kidney (N25N27),0,N/A,5316
+40 to 44,Other disorders of kidney (N25N27),3,N/A,5319
+45 to 49,Other disorders of kidney (N25N27),0,N/A,5322
+50 to 54,Other disorders of kidney (N25N27),1,N/A,5325
+55 to 59,Other disorders of kidney (N25N27),0,N/A,5328
+60 to 64,Other disorders of kidney (N25N27),2,N/A,5331
+65 to 69,Other disorders of kidney (N25N27),2,N/A,5334
+70 to 74,Other disorders of kidney (N25N27),0,N/A,5337
+75 to 79,Other disorders of kidney (N25N27),2,N/A,5340
+80 to 84,Other disorders of kidney (N25N27),1,N/A,5343
+85 and older,Other disorders of kidney (N25N27),3,N/A,5346
+Unknown,Other disorders of kidney (N25N27),0,N/A,5349
+Total,Other disorders of kidney (N25N27),14,0.0,5352
+Less than 1,Infections of kidney (N10-N12N13.6N15.1),2,N/A,5355
+1 to 4,Infections of kidney (N10-N12N13.6N15.1),1,N/A,5358
+5 to 9,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5361
+10 to 14,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5364
+15 to 19,Infections of kidney (N10-N12N13.6N15.1),0,N/A,5367
+20 to 24,Infections of kidney (N10-N12N13.6N15.1),2,N/A,5370
+25 to 29,Infections of kidney (N10-N12N13.6N15.1),2,N/A,5373
+30 to 34,Infections of kidney (N10-N12N13.6N15.1),6,N/A,5376
+35 to 39,Infections of kidney (N10-N12N13.6N15.1),4,N/A,5379
+40 to 44,Infections of kidney (N10-N12N13.6N15.1),9,N/A,5382
+45 to 49,Infections of kidney (N10-N12N13.6N15.1),19,0.0,5385
+50 to 54,Infections of kidney (N10-N12N13.6N15.1),28,0.0,5388
+55 to 59,Infections of kidney (N10-N12N13.6N15.1),25,0.0,5391
+60 to 64,Infections of kidney (N10-N12N13.6N15.1),30,0.0,5394
+65 to 69,Infections of kidney (N10-N12N13.6N15.1),29,0.0,5397
+70 to 74,Infections of kidney (N10-N12N13.6N15.1),36,0.0,5400
+75 to 79,Infections of kidney (N10-N12N13.6N15.1),34,0.0,5403
+80 to 84,Infections of kidney (N10-N12N13.6N15.1),58,0.1,5406
+85 and older,Infections of kidney (N10-N12N13.6N15.1),87,0.0,5409
+Unknown,Infections of kidney (N10-N12N13.6N15.1),1,N/A,5412
+Total,Infections of kidney (N10-N12N13.6N15.1),373,0.2,5415
+Less than 1,Hyperplasia of prostate (N40),0,N/A,5418
+1 to 4,Hyperplasia of prostate (N40),0,N/A,5421
+5 to 9,Hyperplasia of prostate (N40),0,N/A,5424
+10 to 14,Hyperplasia of prostate (N40),0,N/A,5427
+15 to 19,Hyperplasia of prostate (N40),0,N/A,5430
+20 to 24,Hyperplasia of prostate (N40),0,N/A,5433
+25 to 29,Hyperplasia of prostate (N40),0,N/A,5436
+30 to 34,Hyperplasia of prostate (N40),0,N/A,5439
+35 to 39,Hyperplasia of prostate (N40),0,N/A,5442
+40 to 44,Hyperplasia of prostate (N40),0,N/A,5445
+45 to 49,Hyperplasia of prostate (N40),0,N/A,5448
+50 to 54,Hyperplasia of prostate (N40),1,N/A,5451
+55 to 59,Hyperplasia of prostate (N40),2,N/A,5454
+60 to 64,Hyperplasia of prostate (N40),7,N/A,5457
+65 to 69,Hyperplasia of prostate (N40),13,0.0,5460
+70 to 74,Hyperplasia of prostate (N40),29,0.0,5463
+75 to 79,Hyperplasia of prostate (N40),34,0.0,5466
+80 to 84,Hyperplasia of prostate (N40),62,0.1,5469
+85 and older,Hyperplasia of prostate (N40),190,0.1,5472
+Unknown,Hyperplasia of prostate (N40),0,N/A,5475
+Total,Hyperplasia of prostate (N40),338,0.2,5478
+Less than 1,Inflammatory diseases of female pelvic organs (N70-N76),1,N/A,5481
+1 to 4,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5484
+5 to 9,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5487
+10 to 14,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5490
+15 to 19,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5493
+20 to 24,Inflammatory diseases of female pelvic organs (N70-N76),1,N/A,5496
+25 to 29,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5499
+30 to 34,Inflammatory diseases of female pelvic organs (N70-N76),1,N/A,5502
+35 to 39,Inflammatory diseases of female pelvic organs (N70-N76),3,N/A,5505
+40 to 44,Inflammatory diseases of female pelvic organs (N70-N76),3,N/A,5508
+45 to 49,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5511
+50 to 54,Inflammatory diseases of female pelvic organs (N70-N76),2,N/A,5514
+55 to 59,Inflammatory diseases of female pelvic organs (N70-N76),2,N/A,5517
+60 to 64,Inflammatory diseases of female pelvic organs (N70-N76),2,N/A,5520
+65 to 69,Inflammatory diseases of female pelvic organs (N70-N76),6,N/A,5523
+70 to 74,Inflammatory diseases of female pelvic organs (N70-N76),10,0.0,5526
+75 to 79,Inflammatory diseases of female pelvic organs (N70-N76),7,N/A,5529
+80 to 84,Inflammatory diseases of female pelvic organs (N70-N76),14,0.0,5532
+85 and older,Inflammatory diseases of female pelvic organs (N70-N76),19,0.0,5535
+Unknown,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,5538
+Total,Inflammatory diseases of female pelvic organs (N70-N76),71,0.0,5541
+Less than 1,Pregnancy with abortive outcome (O00-O07),0,N/A,5544
+1 to 4,Pregnancy with abortive outcome (O00-O07),0,N/A,5547
+5 to 9,Pregnancy with abortive outcome (O00-O07),0,N/A,5550
+10 to 14,Pregnancy with abortive outcome (O00-O07),0,N/A,5553
+15 to 19,Pregnancy with abortive outcome (O00-O07),0,N/A,5556
+20 to 24,Pregnancy with abortive outcome (O00-O07),2,N/A,5559
+25 to 29,Pregnancy with abortive outcome (O00-O07),1,N/A,5562
+30 to 34,Pregnancy with abortive outcome (O00-O07),3,N/A,5565
+35 to 39,Pregnancy with abortive outcome (O00-O07),1,N/A,5568
+40 to 44,Pregnancy with abortive outcome (O00-O07),0,N/A,5571
+45 to 49,Pregnancy with abortive outcome (O00-O07),0,N/A,5574
+50 to 54,Pregnancy with abortive outcome (O00-O07),0,N/A,5577
+55 to 59,Pregnancy with abortive outcome (O00-O07),0,N/A,5580
+60 to 64,Pregnancy with abortive outcome (O00-O07),0,N/A,5583
+65 to 69,Pregnancy with abortive outcome (O00-O07),0,N/A,5586
+70 to 74,Pregnancy with abortive outcome (O00-O07),0,N/A,5589
+75 to 79,Pregnancy with abortive outcome (O00-O07),0,N/A,5592
+80 to 84,Pregnancy with abortive outcome (O00-O07),0,N/A,5595
+85 and older,Pregnancy with abortive outcome (O00-O07),0,N/A,5598
+Unknown,Pregnancy with abortive outcome (O00-O07),0,N/A,5601
+Total,Pregnancy with abortive outcome (O00-O07),7,N/A,5604
+Less than 1,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5607
+1 to 4,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5610
+5 to 9,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5613
+10 to 14,Other complications of pregnancy childbirth and the puerperium (O10-O99),2,N/A,5616
+15 to 19,Other complications of pregnancy childbirth and the puerperium (O10-O99),24,0.0,5619
+20 to 24,Other complications of pregnancy childbirth and the puerperium (O10-O99),79,0.1,5622
+25 to 29,Other complications of pregnancy childbirth and the puerperium (O10-O99),91,0.1,5625
+30 to 34,Other complications of pregnancy childbirth and the puerperium (O10-O99),116,0.1,5628
+35 to 39,Other complications of pregnancy childbirth and the puerperium (O10-O99),71,0.1,5631
+40 to 44,Other complications of pregnancy childbirth and the puerperium (O10-O99),41,0.1,5634
+45 to 49,Other complications of pregnancy childbirth and the puerperium (O10-O99),26,0.0,5637
+50 to 54,Other complications of pregnancy childbirth and the puerperium (O10-O99),23,0.0,5640
+55 to 59,Other complications of pregnancy childbirth and the puerperium (O10-O99),3,N/A,5643
+60 to 64,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5646
+65 to 69,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5649
+70 to 74,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5652
+75 to 79,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5655
+80 to 84,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5658
+85 and older,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5661
+Unknown,Other complications of pregnancy childbirth and the puerperium (O10-O99),0,N/A,5664
+Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),476,0.3,5667
+Less than 1,Certain conditions originating in the perinatal period (P00-P96),7233,4.8,5670
+1 to 4,Certain conditions originating in the perinatal period (P00-P96),29,0.0,5673
+5 to 9,Certain conditions originating in the perinatal period (P00-P96),9,N/A,5676
+10 to 14,Certain conditions originating in the perinatal period (P00-P96),9,N/A,5679
+15 to 19,Certain conditions originating in the perinatal period (P00-P96),3,N/A,5682
+20 to 24,Certain conditions originating in the perinatal period (P00-P96),2,N/A,5685
+25 to 29,Certain conditions originating in the perinatal period (P00-P96),3,N/A,5688
+30 to 34,Certain conditions originating in the perinatal period (P00-P96),2,N/A,5691
+35 to 39,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5694
+40 to 44,Certain conditions originating in the perinatal period (P00-P96),1,N/A,5697
+45 to 49,Certain conditions originating in the perinatal period (P00-P96),1,N/A,5700
+50 to 54,Certain conditions originating in the perinatal period (P00-P96),2,N/A,5703
+55 to 59,Certain conditions originating in the perinatal period (P00-P96),1,N/A,5706
+60 to 64,Certain conditions originating in the perinatal period (P00-P96),1,N/A,5709
+65 to 69,Certain conditions originating in the perinatal period (P00-P96),1,N/A,5712
+70 to 74,Certain conditions originating in the perinatal period (P00-P96),1,N/A,5715
+75 to 79,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5718
+80 to 84,Certain conditions originating in the perinatal period (P00-P96),1,N/A,5721
+85 and older,Certain conditions originating in the perinatal period (P00-P96),0,N/A,5724
+Unknown,Certain conditions originating in the perinatal period (P00-P96),2,N/A,5727
+Total,Certain conditions originating in the perinatal period (P00-P96),7301,4.9,5730
+Less than 1,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),2785,1.9,5733
+1 to 4,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),253,0.2,5736
+5 to 9,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),90,0.1,5739
+10 to 14,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),95,0.1,5742
+15 to 19,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),120,0.1,5745
+20 to 24,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),117,0.1,5748
+25 to 29,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),128,0.2,5751
+30 to 34,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),127,0.2,5754
+35 to 39,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),152,0.2,5757
+40 to 44,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),151,0.2,5760
+45 to 49,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),179,0.2,5763
+50 to 54,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),226,0.2,5766
+55 to 59,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),342,0.2,5769
+60 to 64,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),273,0.2,5772
+65 to 69,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),166,0.1,5775
+70 to 74,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),117,0.1,5778
+75 to 79,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),124,0.1,5781
+80 to 84,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),99,0.1,5784
+85 and older,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),175,0.1,5787
+Unknown,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),5,N/A,5790
+Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),5724,3.4,5793
+Less than 1,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),1697,1.1,5796
+1 to 4,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),132,0.1,5799
+5 to 9,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),36,0.0,5802
+10 to 14,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),52,0.1,5805
+15 to 19,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),119,0.1,5808
+20 to 24,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),274,0.3,5811
+25 to 29,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),447,0.5,5814
+30 to 34,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),519,0.7,5817
+35 to 39,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),558,0.8,5820
+40 to 44,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),632,0.9,5823
+45 to 49,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),845,1.0,5826
+50 to 54,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),1174,1.3,5829
+55 to 59,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),1488,1.1,5832
+60 to 64,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),1967,1.6,5835
+65 to 69,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),2190,1.7,5838
+70 to 74,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),2634,2.7,5841
+75 to 79,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),3086,2.9,5844
+80 to 84,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),3779,4.7,5847
+85 and older,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),12958,5.5,5850
+Unknown,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),28,N/A,5853
+Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),34615,16.7,5856
+Less than 1,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),409,0.3,5859
+1 to 4,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),253,0.2,5862
+5 to 9,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),160,0.2,5865
+10 to 14,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),206,0.3,5868
+15 to 19,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),374,0.4,5871
+20 to 24,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),664,0.8,5874
+25 to 29,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),922,1.1,5877
+30 to 34,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),1258,1.6,5880
+35 to 39,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),1681,2.6,5883
+40 to 44,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),2400,3.6,5886
+45 to 49,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),3868,4.4,5889
+50 to 54,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),6176,6.8,5892
+55 to 59,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),8625,6.2,5895
+60 to 64,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),10585,8.6,5898
+65 to 69,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),12373,9.5,5901
+70 to 74,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),14557,14.9,5904
+75 to 79,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),19489,18.2,5907
+80 to 84,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),28060,35.1,5910
+85 and older,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),83036,35.2,5913
+Unknown,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),162,N/A,5916
+Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),195258,91.1,5919
+Less than 1,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),40,0.0,5922
+1 to 4,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),173,0.1,5925
+5 to 9,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),158,0.2,5928
+10 to 14,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),200,0.3,5931
+15 to 19,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1380,1.6,5934
+20 to 24,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1742,2.1,5937
+25 to 29,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1507,1.8,5940
+30 to 34,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1202,1.5,5943
+35 to 39,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1222,1.9,5946
+40 to 44,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1187,1.8,5949
+45 to 49,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1269,1.5,5952
+50 to 54,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1264,1.4,5955
+55 to 59,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1253,0.9,5958
+60 to 64,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1079,0.9,5961
+65 to 69,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),835,0.6,5964
+70 to 74,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),734,0.8,5967
+75 to 79,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),674,0.6,5970
+80 to 84,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),608,0.8,5973
+85 and older,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),643,0.3,5976
+Unknown,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),81,N/A,5979
+Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),17251,9.7,5982
+Less than 1,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),0,N/A,5985
+1 to 4,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),8,N/A,5988
+5 to 9,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),6,N/A,5991
+10 to 14,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),11,0.0,5994
+15 to 19,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),26,0.0,5997
+20 to 24,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),28,0.0,6000
+25 to 29,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),33,0.0,6003
+30 to 34,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),28,0.0,6006
+35 to 39,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),28,0.0,6009
+40 to 44,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),30,0.0,6012
+45 to 49,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),30,0.0,6015
+50 to 54,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),39,0.0,6018
+55 to 59,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),37,0.0,6021
+60 to 64,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),28,0.0,6024
+65 to 69,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),15,0.0,6027
+70 to 74,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),16,0.0,6030
+75 to 79,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),11,0.0,6033
+80 to 84,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),13,0.0,6036
+85 and older,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),17,0.0,6039
+Unknown,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),1,N/A,6042
+Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),405,0.2,6045
+Less than 1,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),0,N/A,6048
+1 to 4,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),4,N/A,6051
+5 to 9,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),5,N/A,6054
+10 to 14,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),3,N/A,6057
+15 to 19,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),12,0.0,6060
+20 to 24,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),34,0.0,6063
+25 to 29,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),35,0.0,6066
+30 to 34,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),41,0.1,6069
+35 to 39,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),30,0.0,6072
+40 to 44,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),57,0.1,6075
+45 to 49,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),77,0.1,6078
+50 to 54,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),98,0.1,6081
+55 to 59,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),81,0.1,6084
+60 to 64,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),72,0.1,6087
+65 to 69,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),37,0.0,6090
+70 to 74,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),38,0.0,6093
+75 to 79,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),22,0.0,6096
+80 to 84,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),9,N/A,6099
+85 and older,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),10,0.0,6102
+Unknown,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),4,N/A,6105
+Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),669,0.4,6108
+Less than 1,Falls (W00-W19),4,N/A,6111
+1 to 4,Falls (W00-W19),20,0.0,6114
+5 to 9,Falls (W00-W19),5,N/A,6117
+10 to 14,Falls (W00-W19),9,N/A,6120
+15 to 19,Falls (W00-W19),26,0.0,6123
+20 to 24,Falls (W00-W19),50,0.1,6126
+25 to 29,Falls (W00-W19),50,0.1,6129
+30 to 34,Falls (W00-W19),79,0.1,6132
+35 to 39,Falls (W00-W19),97,0.1,6135
+40 to 44,Falls (W00-W19),157,0.2,6138
+45 to 49,Falls (W00-W19),335,0.4,6141
+50 to 54,Falls (W00-W19),453,0.5,6144
+55 to 59,Falls (W00-W19),617,0.4,6147
+60 to 64,Falls (W00-W19),795,0.6,6150
+65 to 69,Falls (W00-W19),1004,0.8,6153
+70 to 74,Falls (W00-W19),1357,1.4,6156
+75 to 79,Falls (W00-W19),2088,1.9,6159
+80 to 84,Falls (W00-W19),3107,3.9,6162
+85 and older,Falls (W00-W19),8076,3.4,6165
+Unknown,Falls (W00-W19),32,N/A,6168
+Total,Falls (W00-W19),18361,8.6,6171
+Less than 1,Accidental discharge of firearms (W32-W34),0,N/A,6174
+1 to 4,Accidental discharge of firearms (W32-W34),14,0.0,6177
+5 to 9,Accidental discharge of firearms (W32-W34),5,N/A,6180
+10 to 14,Accidental discharge of firearms (W32-W34),6,N/A,6183
+15 to 19,Accidental discharge of firearms (W32-W34),25,0.0,6186
+20 to 24,Accidental discharge of firearms (W32-W34),28,0.0,6189
+25 to 29,Accidental discharge of firearms (W32-W34),17,0.0,6192
+30 to 34,Accidental discharge of firearms (W32-W34),12,0.0,6195
+35 to 39,Accidental discharge of firearms (W32-W34),12,0.0,6198
+40 to 44,Accidental discharge of firearms (W32-W34),11,0.0,6201
+45 to 49,Accidental discharge of firearms (W32-W34),15,0.0,6204
+50 to 54,Accidental discharge of firearms (W32-W34),19,0.0,6207
+55 to 59,Accidental discharge of firearms (W32-W34),10,0.0,6210
+60 to 64,Accidental discharge of firearms (W32-W34),11,0.0,6213
+65 to 69,Accidental discharge of firearms (W32-W34),6,N/A,6216
+70 to 74,Accidental discharge of firearms (W32-W34),5,N/A,6219
+75 to 79,Accidental discharge of firearms (W32-W34),6,N/A,6222
+80 to 84,Accidental discharge of firearms (W32-W34),1,N/A,6225
+85 and older,Accidental discharge of firearms (W32-W34),1,N/A,6228
+Unknown,Accidental discharge of firearms (W32-W34),0,N/A,6231
+Total,Accidental discharge of firearms (W32-W34),204,0.1,6234
+Less than 1,Accidental drowning and submersion (W65-W74),19,0.0,6237
+1 to 4,Accidental drowning and submersion (W65-W74),200,0.1,6240
+5 to 9,Accidental drowning and submersion (W65-W74),54,0.1,6243
+10 to 14,Accidental drowning and submersion (W65-W74),52,0.1,6246
+15 to 19,Accidental drowning and submersion (W65-W74),125,0.1,6249
+20 to 24,Accidental drowning and submersion (W65-W74),107,0.1,6252
+25 to 29,Accidental drowning and submersion (W65-W74),83,0.1,6255
+30 to 34,Accidental drowning and submersion (W65-W74),80,0.1,6258
+35 to 39,Accidental drowning and submersion (W65-W74),73,0.1,6261
+40 to 44,Accidental drowning and submersion (W65-W74),74,0.1,6264
+45 to 49,Accidental drowning and submersion (W65-W74),82,0.1,6267
+50 to 54,Accidental drowning and submersion (W65-W74),77,0.1,6270
+55 to 59,Accidental drowning and submersion (W65-W74),77,0.1,6273
+60 to 64,Accidental drowning and submersion (W65-W74),79,0.1,6276
+65 to 69,Accidental drowning and submersion (W65-W74),62,0.0,6279
+70 to 74,Accidental drowning and submersion (W65-W74),47,0.0,6282
+75 to 79,Accidental drowning and submersion (W65-W74),52,0.0,6285
+80 to 84,Accidental drowning and submersion (W65-W74),33,0.0,6288
+85 and older,Accidental drowning and submersion (W65-W74),35,0.0,6291
+Unknown,Accidental drowning and submersion (W65-W74),5,N/A,6294
+Total,Accidental drowning and submersion (W65-W74),1416,0.8,6297
+Less than 1,Accidental exposure to smoke fire and flames (X00-X09),15,0.0,6300
+1 to 4,Accidental exposure to smoke fire and flames (X00-X09),93,0.1,6303
+5 to 9,Accidental exposure to smoke fire and flames (X00-X09),60,0.1,6306
+10 to 14,Accidental exposure to smoke fire and flames (X00-X09),26,0.0,6309
+15 to 19,Accidental exposure to smoke fire and flames (X00-X09),35,0.0,6312
+20 to 24,Accidental exposure to smoke fire and flames (X00-X09),48,0.1,6315
+25 to 29,Accidental exposure to smoke fire and flames (X00-X09),50,0.1,6318
+30 to 34,Accidental exposure to smoke fire and flames (X00-X09),41,0.1,6321
+35 to 39,Accidental exposure to smoke fire and flames (X00-X09),67,0.1,6324
+40 to 44,Accidental exposure to smoke fire and flames (X00-X09),69,0.1,6327
+45 to 49,Accidental exposure to smoke fire and flames (X00-X09),95,0.1,6330
+50 to 54,Accidental exposure to smoke fire and flames (X00-X09),111,0.1,6333
+55 to 59,Accidental exposure to smoke fire and flames (X00-X09),148,0.1,6336
+60 to 64,Accidental exposure to smoke fire and flames (X00-X09),144,0.1,6339
+65 to 69,Accidental exposure to smoke fire and flames (X00-X09),136,0.1,6342
+70 to 74,Accidental exposure to smoke fire and flames (X00-X09),124,0.1,6345
+75 to 79,Accidental exposure to smoke fire and flames (X00-X09),120,0.1,6348
+80 to 84,Accidental exposure to smoke fire and flames (X00-X09),113,0.1,6351
+85 and older,Accidental exposure to smoke fire and flames (X00-X09),117,0.0,6354
+Unknown,Accidental exposure to smoke fire and flames (X00-X09),2,N/A,6357
+Total,Accidental exposure to smoke fire and flames (X00-X09),1614,0.8,6360
+Less than 1,Accidental poisoning and exposure to noxious substances (X40-X49),8,N/A,6363
+1 to 4,Accidental poisoning and exposure to noxious substances (X40-X49),29,0.0,6366
+5 to 9,Accidental poisoning and exposure to noxious substances (X40-X49),8,N/A,6369
+10 to 14,Accidental poisoning and exposure to noxious substances (X40-X49),21,0.0,6372
+15 to 19,Accidental poisoning and exposure to noxious substances (X40-X49),408,0.5,6375
+20 to 24,Accidental poisoning and exposure to noxious substances (X40-X49),2496,3.0,6378
+25 to 29,Accidental poisoning and exposure to noxious substances (X40-X49),4545,5.4,6381
+30 to 34,Accidental poisoning and exposure to noxious substances (X40-X49),5444,6.9,6384
+35 to 39,Accidental poisoning and exposure to noxious substances (X40-X49),5280,8.0,6387
+40 to 44,Accidental poisoning and exposure to noxious substances (X40-X49),4907,7.3,6390
+45 to 49,Accidental poisoning and exposure to noxious substances (X40-X49),4892,5.6,6393
+50 to 54,Accidental poisoning and exposure to noxious substances (X40-X49),4671,5.1,6396
+55 to 59,Accidental poisoning and exposure to noxious substances (X40-X49),3689,2.6,6399
+60 to 64,Accidental poisoning and exposure to noxious substances (X40-X49),1814,1.5,6402
+65 to 69,Accidental poisoning and exposure to noxious substances (X40-X49),730,0.6,6405
+70 to 74,Accidental poisoning and exposure to noxious substances (X40-X49),229,0.2,6408
+75 to 79,Accidental poisoning and exposure to noxious substances (X40-X49),131,0.1,6411
+80 to 84,Accidental poisoning and exposure to noxious substances (X40-X49),88,0.1,6414
+85 and older,Accidental poisoning and exposure to noxious substances (X40-X49),118,0.1,6417
+Unknown,Accidental poisoning and exposure to noxious substances (X40-X49),49,N/A,6420
+Total,Accidental poisoning and exposure to noxious substances (X40-X49),39557,23.6,6423
+Less than 1,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),835,0.6,6426
+1 to 4,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),125,0.1,6429
+5 to 9,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),39,0.1,6432
+10 to 14,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),46,0.1,6435
+15 to 19,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),81,0.1,6438
+20 to 24,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),120,0.1,6441
+25 to 29,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),142,0.2,6444
+30 to 34,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),186,0.2,6447
+35 to 39,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),247,0.4,6450
+40 to 44,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),268,0.4,6453
+45 to 49,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),408,0.5,6456
+50 to 54,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),481,0.5,6459
+55 to 59,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),627,0.4,6462
+60 to 64,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),644,0.5,6465
+65 to 69,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),682,0.5,6468
+70 to 74,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),741,0.8,6471
+75 to 79,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),845,0.8,6474
+80 to 84,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),1095,1.4,6477
+85 and older,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),2899,1.2,6480
+Unknown,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),19,N/A,6483
+Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),10530,5.3,6486
+Less than 1,Intentional self-harm (suicide) by discharge of firearms (X72-X74),0,N/A,6489
+1 to 4,Intentional self-harm (suicide) by discharge of firearms (X72-X74),0,N/A,6492
+5 to 9,Intentional self-harm (suicide) by discharge of firearms (X72-X74),0,N/A,6495
+10 to 14,Intentional self-harm (suicide) by discharge of firearms (X72-X74),75,0.1,6498
+15 to 19,Intentional self-harm (suicide) by discharge of firearms (X72-X74),444,0.5,6501
+20 to 24,Intentional self-harm (suicide) by discharge of firearms (X72-X74),884,1.1,6504
+25 to 29,Intentional self-harm (suicide) by discharge of firearms (X72-X74),837,1.0,6507
+30 to 34,Intentional self-harm (suicide) by discharge of firearms (X72-X74),713,0.9,6510
+35 to 39,Intentional self-harm (suicide) by discharge of firearms (X72-X74),747,1.1,6513
+40 to 44,Intentional self-harm (suicide) by discharge of firearms (X72-X74),862,1.3,6516
+45 to 49,Intentional self-harm (suicide) by discharge of firearms (X72-X74),948,1.1,6519
+50 to 54,Intentional self-harm (suicide) by discharge of firearms (X72-X74),1044,1.1,6522
+55 to 59,Intentional self-harm (suicide) by discharge of firearms (X72-X74),1127,0.8,6525
+60 to 64,Intentional self-harm (suicide) by discharge of firearms (X72-X74),864,0.7,6528
+65 to 69,Intentional self-harm (suicide) by discharge of firearms (X72-X74),719,0.6,6531
+70 to 74,Intentional self-harm (suicide) by discharge of firearms (X72-X74),588,0.6,6534
+75 to 79,Intentional self-harm (suicide) by discharge of firearms (X72-X74),557,0.5,6537
+80 to 84,Intentional self-harm (suicide) by discharge of firearms (X72-X74),445,0.6,6540
+85 and older,Intentional self-harm (suicide) by discharge of firearms (X72-X74),418,0.2,6543
+Unknown,Intentional self-harm (suicide) by discharge of firearms (X72-X74),21,N/A,6546
+Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),11293,6.2,6549
+Less than 1,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,6552
+1 to 4,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),0,N/A,6555
+5 to 9,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),5,N/A,6558
+10 to 14,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),173,0.2,6561
+15 to 19,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),594,0.7,6564
+20 to 24,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),815,1.0,6567
+25 to 29,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),961,1.1,6570
+30 to 34,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),1012,1.3,6573
+35 to 39,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),993,1.5,6576
+40 to 44,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),1095,1.6,6579
+45 to 49,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),1166,1.3,6582
+50 to 54,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),1150,1.3,6585
+55 to 59,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),930,0.7,6588
+60 to 64,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),614,0.5,6591
+65 to 69,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),339,0.3,6594
+70 to 74,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),217,0.2,6597
+75 to 79,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),135,0.1,6600
+80 to 84,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),101,0.1,6603
+85 and older,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),123,0.1,6606
+Unknown,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),21,N/A,6609
+Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),10444,6.0,6612
+Less than 1,Assault (homicide) by discharge of firearms (*U01.4X93-X95),4,N/A,6615
+1 to 4,Assault (homicide) by discharge of firearms (*U01.4X93-X95),39,0.0,6618
+5 to 9,Assault (homicide) by discharge of firearms (*U01.4X93-X95),43,0.1,6621
+10 to 14,Assault (homicide) by discharge of firearms (*U01.4X93-X95),78,0.1,6624
+15 to 19,Assault (homicide) by discharge of firearms (*U01.4X93-X95),845,1.0,6627
+20 to 24,Assault (homicide) by discharge of firearms (*U01.4X93-X95),1401,1.7,6630
+25 to 29,Assault (homicide) by discharge of firearms (*U01.4X93-X95),1277,1.5,6633
+30 to 34,Assault (homicide) by discharge of firearms (*U01.4X93-X95),932,1.2,6636
+35 to 39,Assault (homicide) by discharge of firearms (*U01.4X93-X95),636,1.0,6639
+40 to 44,Assault (homicide) by discharge of firearms (*U01.4X93-X95),463,0.7,6642
+45 to 49,Assault (homicide) by discharge of firearms (*U01.4X93-X95),384,0.4,6645
+50 to 54,Assault (homicide) by discharge of firearms (*U01.4X93-X95),268,0.3,6648
+55 to 59,Assault (homicide) by discharge of firearms (*U01.4X93-X95),205,0.1,6651
+60 to 64,Assault (homicide) by discharge of firearms (*U01.4X93-X95),130,0.1,6654
+65 to 69,Assault (homicide) by discharge of firearms (*U01.4X93-X95),68,0.1,6657
+70 to 74,Assault (homicide) by discharge of firearms (*U01.4X93-X95),52,0.1,6660
+75 to 79,Assault (homicide) by discharge of firearms (*U01.4X93-X95),30,0.0,6663
+80 to 84,Assault (homicide) by discharge of firearms (*U01.4X93-X95),25,0.0,6666
+85 and older,Assault (homicide) by discharge of firearms (*U01.4X93-X95),16,0.0,6669
+Unknown,Assault (homicide) by discharge of firearms (*U01.4X93-X95),6,N/A,6672
+Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),6902,4.2,6675
+Less than 1,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),178,0.1,6678
+1 to 4,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),222,0.1,6681
+5 to 9,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),45,0.1,6684
+10 to 14,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),34,0.0,6687
+15 to 19,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),69,0.1,6690
+20 to 24,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),179,0.2,6693
+25 to 29,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),216,0.3,6696
+30 to 34,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),206,0.3,6699
+35 to 39,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),184,0.3,6702
+40 to 44,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),205,0.3,6705
+45 to 49,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),199,0.2,6708
+50 to 54,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),223,0.2,6711
+55 to 59,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),186,0.1,6714
+60 to 64,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),129,0.1,6717
+65 to 69,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),108,0.1,6720
+70 to 74,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),65,0.1,6723
+75 to 79,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),40,0.0,6726
+80 to 84,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),45,0.1,6729
+85 and older,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),46,0.0,6732
+Unknown,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),7,N/A,6735
+Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),2586,1.5,6738
+Less than 1,Legal intervention (Y35Y89.0),1,N/A,6741
+1 to 4,Legal intervention (Y35Y89.0),0,N/A,6744
+5 to 9,Legal intervention (Y35Y89.0),0,N/A,6747
+10 to 14,Legal intervention (Y35Y89.0),1,N/A,6750
+15 to 19,Legal intervention (Y35Y89.0),6,N/A,6753
+20 to 24,Legal intervention (Y35Y89.0),32,0.0,6756
+25 to 29,Legal intervention (Y35Y89.0),31,0.0,6759
+30 to 34,Legal intervention (Y35Y89.0),27,0.0,6762
+35 to 39,Legal intervention (Y35Y89.0),29,0.0,6765
+40 to 44,Legal intervention (Y35Y89.0),25,0.0,6768
+45 to 49,Legal intervention (Y35Y89.0),23,0.0,6771
+50 to 54,Legal intervention (Y35Y89.0),15,0.0,6774
+55 to 59,Legal intervention (Y35Y89.0),12,0.0,6777
+60 to 64,Legal intervention (Y35Y89.0),13,0.0,6780
+65 to 69,Legal intervention (Y35Y89.0),2,N/A,6783
+70 to 74,Legal intervention (Y35Y89.0),3,N/A,6786
+75 to 79,Legal intervention (Y35Y89.0),2,N/A,6789
+80 to 84,Legal intervention (Y35Y89.0),0,N/A,6792
+85 and older,Legal intervention (Y35Y89.0),0,N/A,6795
+Unknown,Legal intervention (Y35Y89.0),1,N/A,6798
+Total,Legal intervention (Y35Y89.0),223,0.1,6801
+Less than 1,Discharge of firearms undetermined intent (Y22-Y24),0,N/A,6804
+1 to 4,Discharge of firearms undetermined intent (Y22-Y24),3,N/A,6807
+5 to 9,Discharge of firearms undetermined intent (Y22-Y24),1,N/A,6810
+10 to 14,Discharge of firearms undetermined intent (Y22-Y24),3,N/A,6813
+15 to 19,Discharge of firearms undetermined intent (Y22-Y24),23,0.0,6816
+20 to 24,Discharge of firearms undetermined intent (Y22-Y24),26,0.0,6819
+25 to 29,Discharge of firearms undetermined intent (Y22-Y24),17,0.0,6822
+30 to 34,Discharge of firearms undetermined intent (Y22-Y24),12,0.0,6825
+35 to 39,Discharge of firearms undetermined intent (Y22-Y24),7,N/A,6828
+40 to 44,Discharge of firearms undetermined intent (Y22-Y24),8,N/A,6831
+45 to 49,Discharge of firearms undetermined intent (Y22-Y24),14,0.0,6834
+50 to 54,Discharge of firearms undetermined intent (Y22-Y24),9,N/A,6837
+55 to 59,Discharge of firearms undetermined intent (Y22-Y24),8,N/A,6840
+60 to 64,Discharge of firearms undetermined intent (Y22-Y24),8,N/A,6843
+65 to 69,Discharge of firearms undetermined intent (Y22-Y24),7,N/A,6846
+70 to 74,Discharge of firearms undetermined intent (Y22-Y24),6,N/A,6849
+75 to 79,Discharge of firearms undetermined intent (Y22-Y24),5,N/A,6852
+80 to 84,Discharge of firearms undetermined intent (Y22-Y24),5,N/A,6855
+85 and older,Discharge of firearms undetermined intent (Y22-Y24),2,N/A,6858
+Unknown,Discharge of firearms undetermined intent (Y22-Y24),1,N/A,6861
+Total,Discharge of firearms undetermined intent (Y22-Y24),165,0.1,6864
+Less than 1,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),68,0.0,6867
+1 to 4,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),37,0.0,6870
+5 to 9,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),16,0.0,6873
+10 to 14,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),25,0.0,6876
+15 to 19,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),47,0.1,6879
+20 to 24,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),66,0.1,6882
+25 to 29,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),102,0.1,6885
+30 to 34,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),132,0.2,6888
+35 to 39,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),111,0.2,6891
+40 to 44,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),171,0.3,6894
+45 to 49,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),185,0.2,6897
+50 to 54,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),163,0.2,6900
+55 to 59,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),155,0.1,6903
+60 to 64,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),83,0.1,6906
+65 to 69,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),49,0.0,6909
+70 to 74,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),16,0.0,6912
+75 to 79,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),24,0.0,6915
+80 to 84,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),28,0.0,6918
+85 and older,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),37,0.0,6921
+Unknown,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),5,N/A,6924
+Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),1520,0.9,6927
+Less than 1,Operations of war and their sequelae (Y36Y89.1),0,N/A,6930
+1 to 4,Operations of war and their sequelae (Y36Y89.1),0,N/A,6933
+5 to 9,Operations of war and their sequelae (Y36Y89.1),0,N/A,6936
+10 to 14,Operations of war and their sequelae (Y36Y89.1),0,N/A,6939
+15 to 19,Operations of war and their sequelae (Y36Y89.1),0,N/A,6942
+20 to 24,Operations of war and their sequelae (Y36Y89.1),1,N/A,6945
+25 to 29,Operations of war and their sequelae (Y36Y89.1),0,N/A,6948
+30 to 34,Operations of war and their sequelae (Y36Y89.1),0,N/A,6951
+35 to 39,Operations of war and their sequelae (Y36Y89.1),1,N/A,6954
+40 to 44,Operations of war and their sequelae (Y36Y89.1),0,N/A,6957
+45 to 49,Operations of war and their sequelae (Y36Y89.1),0,N/A,6960
+50 to 54,Operations of war and their sequelae (Y36Y89.1),0,N/A,6963
+55 to 59,Operations of war and their sequelae (Y36Y89.1),0,N/A,6966
+60 to 64,Operations of war and their sequelae (Y36Y89.1),0,N/A,6969
+65 to 69,Operations of war and their sequelae (Y36Y89.1),1,N/A,6972
+70 to 74,Operations of war and their sequelae (Y36Y89.1),1,N/A,6975
+75 to 79,Operations of war and their sequelae (Y36Y89.1),0,N/A,6978
+80 to 84,Operations of war and their sequelae (Y36Y89.1),0,N/A,6981
+85 and older,Operations of war and their sequelae (Y36Y89.1),1,N/A,6984
+Unknown,Operations of war and their sequelae (Y36Y89.1),0,N/A,6987
+Total,Operations of war and their sequelae (Y36Y89.1),5,N/A,6990
+Less than 1,Complications of medical and surgical care (Y40-Y84Y88),12,0.0,6993
+1 to 4,Complications of medical and surgical care (Y40-Y84Y88),15,0.0,6996
+5 to 9,Complications of medical and surgical care (Y40-Y84Y88),6,N/A,6999
+10 to 14,Complications of medical and surgical care (Y40-Y84Y88),12,0.0,7002
+15 to 19,Complications of medical and surgical care (Y40-Y84Y88),4,N/A,7005
+20 to 24,Complications of medical and surgical care (Y40-Y84Y88),16,0.0,7008
+25 to 29,Complications of medical and surgical care (Y40-Y84Y88),12,0.0,7011
+30 to 34,Complications of medical and surgical care (Y40-Y84Y88),24,0.0,7014
+35 to 39,Complications of medical and surgical care (Y40-Y84Y88),50,0.1,7017
+40 to 44,Complications of medical and surgical care (Y40-Y84Y88),43,0.1,7020
+45 to 49,Complications of medical and surgical care (Y40-Y84Y88),71,0.1,7023
+50 to 54,Complications of medical and surgical care (Y40-Y84Y88),115,0.1,7026
+55 to 59,Complications of medical and surgical care (Y40-Y84Y88),162,0.1,7029
+60 to 64,Complications of medical and surgical care (Y40-Y84Y88),198,0.2,7032
+65 to 69,Complications of medical and surgical care (Y40-Y84Y88),233,0.2,7035
+70 to 74,Complications of medical and surgical care (Y40-Y84Y88),252,0.3,7038
+75 to 79,Complications of medical and surgical care (Y40-Y84Y88),254,0.2,7041
+80 to 84,Complications of medical and surgical care (Y40-Y84Y88),218,0.3,7044
+85 and older,Complications of medical and surgical care (Y40-Y84Y88),340,0.1,7047
+Unknown,Complications of medical and surgical care (Y40-Y84Y88),6,N/A,7050
+Total,Complications of medical and surgical care (Y40-Y84Y88),2043,1.0,7053
+Less than 1,Total,14341,9.6,7056
+1 to 4,Total,2235,1.5,7059
+5 to 9,Total,1184,1.6,7062
+10 to 14,Total,1623,2.1,7065
+15 to 19,Total,5516,6.5,7068
+20 to 24,Total,10614,12.7,7071
+25 to 29,Total,13875,16.5,7074
+30 to 34,Total,16418,20.7,7077
+35 to 39,Total,19503,29.7,7080
+40 to 44,Total,26208,39.2,7083
+45 to 49,Total,41083,47.1,7086
+50 to 54,Total,65291,71.5,7089
+55 to 59,Total,92876,66.6,7092
+60 to 64,Total,117525,95.0,7095
+65 to 69,Total,136145,104.9,7098
+70 to 74,Total,156421,160.0,7101
+75 to 79,Total,185302,172.6,7104
+80 to 84,Total,225671,282.4,7107
+85 and older,Total,508101,215.4,7110
+Unknown,Total,1613,N/A,7113
+Total,Total,1641545,778.4,7116

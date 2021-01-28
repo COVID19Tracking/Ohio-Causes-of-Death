@@ -1,0 +1,792 @@
+DeathMaritalStatusMaritalStatusDesc,DeathCOD113ICDCode113Desc,Deaths,DeathAgeAdjustedRate11,SORT
+Married,Salmonella infections (A01-A02),6,N/A,0
+Married but Separated,Salmonella infections (A01-A02),0,N/A,3
+Widowed,Salmonella infections (A01-A02),8,N/A,6
+Divorced,Salmonella infections (A01-A02),5,N/A,9
+Never Married,Salmonella infections (A01-A02),2,N/A,12
+Unknown,Salmonella infections (A01-A02),0,N/A,15
+Total,Salmonella infections (A01-A02),21,0.0,18
+Married,Shigellosis and amebiasis (A03A06),1,N/A,21
+Married but Separated,Shigellosis and amebiasis (A03A06),0,N/A,24
+Widowed,Shigellosis and amebiasis (A03A06),1,N/A,27
+Divorced,Shigellosis and amebiasis (A03A06),0,N/A,30
+Never Married,Shigellosis and amebiasis (A03A06),1,N/A,33
+Unknown,Shigellosis and amebiasis (A03A06),0,N/A,36
+Total,Shigellosis and amebiasis (A03A06),3,N/A,39
+Married,Certain other intestinal infections (A04A07-A09),1906,0.9,42
+Married but Separated,Certain other intestinal infections (A04A07-A09),8,N/A,45
+Widowed,Certain other intestinal infections (A04A07-A09),2870,1.3,48
+Divorced,Certain other intestinal infections (A04A07-A09),784,0.4,51
+Never Married,Certain other intestinal infections (A04A07-A09),601,0.3,54
+Unknown,Certain other intestinal infections (A04A07-A09),50,0.0,57
+Total,Certain other intestinal infections (A04A07-A09),6219,2.9,60
+Married,Respiratory tuberculosis (A16),42,0.0,63
+Married but Separated,Respiratory tuberculosis (A16),0,N/A,66
+Widowed,Respiratory tuberculosis (A16),32,0.0,69
+Divorced,Respiratory tuberculosis (A16),20,0.0,72
+Never Married,Respiratory tuberculosis (A16),22,0.0,75
+Unknown,Respiratory tuberculosis (A16),1,N/A,78
+Total,Respiratory tuberculosis (A16),117,0.1,81
+Married,Other tuberculosis (A17-A19),36,0.0,84
+Married but Separated,Other tuberculosis (A17-A19),0,N/A,87
+Widowed,Other tuberculosis (A17-A19),16,0.0,90
+Divorced,Other tuberculosis (A17-A19),12,0.0,93
+Never Married,Other tuberculosis (A17-A19),15,0.0,96
+Unknown,Other tuberculosis (A17-A19),0,N/A,99
+Total,Other tuberculosis (A17-A19),79,0.0,102
+Married,Whooping cough (A37),0,N/A,105
+Married but Separated,Whooping cough (A37),0,N/A,108
+Widowed,Whooping cough (A37),0,N/A,111
+Divorced,Whooping cough (A37),1,N/A,114
+Never Married,Whooping cough (A37),5,N/A,117
+Unknown,Whooping cough (A37),0,N/A,120
+Total,Whooping cough (A37),6,N/A,123
+Married,Scarlet fever and erysipelas (A38A46),1,N/A,126
+Married but Separated,Scarlet fever and erysipelas (A38A46),0,N/A,129
+Widowed,Scarlet fever and erysipelas (A38A46),0,N/A,132
+Divorced,Scarlet fever and erysipelas (A38A46),0,N/A,135
+Never Married,Scarlet fever and erysipelas (A38A46),0,N/A,138
+Unknown,Scarlet fever and erysipelas (A38A46),0,N/A,141
+Total,Scarlet fever and erysipelas (A38A46),1,N/A,144
+Married,Meningococcal infection (A39),4,N/A,147
+Married but Separated,Meningococcal infection (A39),0,N/A,150
+Widowed,Meningococcal infection (A39),3,N/A,153
+Divorced,Meningococcal infection (A39),2,N/A,156
+Never Married,Meningococcal infection (A39),10,0.0,159
+Unknown,Meningococcal infection (A39),0,N/A,162
+Total,Meningococcal infection (A39),19,0.0,165
+Married,Septicemia (A40-A41),8529,4.0,168
+Married but Separated,Septicemia (A40-A41),97,0.0,171
+Widowed,Septicemia (A40-A41),8235,3.8,174
+Divorced,Septicemia (A40-A41),3976,1.9,177
+Never Married,Septicemia (A40-A41),3223,1.6,180
+Unknown,Septicemia (A40-A41),289,0.1,183
+Total,Septicemia (A40-A41),24349,11.5,186
+Married,Syphilis ((A50-A53),3,N/A,189
+Married but Separated,Syphilis ((A50-A53),0,N/A,192
+Widowed,Syphilis ((A50-A53),6,N/A,195
+Divorced,Syphilis ((A50-A53),2,N/A,198
+Never Married,Syphilis ((A50-A53),3,N/A,201
+Unknown,Syphilis ((A50-A53),0,N/A,204
+Total,Syphilis ((A50-A53),14,0.0,207
+Married,Acute poliomyelitis (A80),0,N/A,210
+Married but Separated,Acute poliomyelitis (A80),0,N/A,213
+Widowed,Acute poliomyelitis (A80),1,N/A,216
+Divorced,Acute poliomyelitis (A80),0,N/A,219
+Never Married,Acute poliomyelitis (A80),0,N/A,222
+Unknown,Acute poliomyelitis (A80),0,N/A,225
+Total,Acute poliomyelitis (A80),1,N/A,228
+Married,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,231
+Married but Separated,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,234
+Widowed,Arthropod-borne viral encephalitis (A83-A84A85.2),1,N/A,237
+Divorced,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,240
+Never Married,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,243
+Unknown,Arthropod-borne viral encephalitis (A83-A84A85.2),0,N/A,246
+Total,Arthropod-borne viral encephalitis (A83-A84A85.2),1,N/A,249
+Married,Viral hepatitis (B15-B19),861,0.4,252
+Married but Separated,Viral hepatitis (B15-B19),30,0.0,255
+Widowed,Viral hepatitis (B15-B19),303,0.1,258
+Divorced,Viral hepatitis (B15-B19),829,0.4,261
+Never Married,Viral hepatitis (B15-B19),482,0.2,264
+Unknown,Viral hepatitis (B15-B19),66,0.0,267
+Total,Viral hepatitis (B15-B19),2571,1.2,270
+Married,Human immunodeficiency virus (HIV) disease (B20-B24),236,0.1,273
+Married but Separated,Human immunodeficiency virus (HIV) disease (B20-B24),22,0.0,276
+Widowed,Human immunodeficiency virus (HIV) disease (B20-B24),81,0.0,279
+Divorced,Human immunodeficiency virus (HIV) disease (B20-B24),376,0.2,282
+Never Married,Human immunodeficiency virus (HIV) disease (B20-B24),1210,0.7,285
+Unknown,Human immunodeficiency virus (HIV) disease (B20-B24),49,0.0,288
+Total,Human immunodeficiency virus (HIV) disease (B20-B24),1974,1.1,291
+Married,Malaria (B50-B54),1,N/A,294
+Married but Separated,Malaria (B50-B54),0,N/A,297
+Widowed,Malaria (B50-B54),0,N/A,300
+Divorced,Malaria (B50-B54),0,N/A,303
+Never Married,Malaria (B50-B54),0,N/A,306
+Unknown,Malaria (B50-B54),0,N/A,309
+Total,Malaria (B50-B54),1,N/A,312
+Married,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),1511,0.7,315
+Married but Separated,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),14,0.0,318
+Widowed,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),973,0.4,321
+Divorced,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),583,0.3,324
+Never Married,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),665,0.4,327
+Unknown,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),28,0.0,330
+Total,Other and unspecified infectious and parasitic diseases and their sequelae (A00A05A20-A36A42-A44A48-A49A54-A79A81-A82A85.0-A85.1A85.8A86-B04B06-B09B25-B49B55-B99),3774,1.8,333
+Married,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),2396,1.1,336
+Married but Separated,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),22,0.0,339
+Widowed,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),1044,0.5,342
+Divorced,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),1300,0.6,345
+Never Married,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),639,0.3,348
+Unknown,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),37,0.0,351
+Total,Malignant neoplasms of lip oral cavity and pharynx (C00-C14),5438,2.5,354
+Married,Malignant neoplasm of esophagus (C15),5516,2.6,357
+Married but Separated,Malignant neoplasm of esophagus (C15),41,0.0,360
+Widowed,Malignant neoplasm of esophagus (C15),1748,0.8,363
+Divorced,Malignant neoplasm of esophagus (C15),1710,0.8,366
+Never Married,Malignant neoplasm of esophagus (C15),895,0.4,369
+Unknown,Malignant neoplasm of esophagus (C15),79,0.0,372
+Total,Malignant neoplasm of esophagus (C15),9989,4.6,375
+Married,Malignant neoplasm of stomach (C16),2600,1.2,378
+Married but Separated,Malignant neoplasm of stomach (C16),20,0.0,381
+Widowed,Malignant neoplasm of stomach (C16),1374,0.6,384
+Divorced,Malignant neoplasm of stomach (C16),787,0.4,387
+Never Married,Malignant neoplasm of stomach (C16),465,0.2,390
+Unknown,Malignant neoplasm of stomach (C16),28,0.0,393
+Total,Malignant neoplasm of stomach (C16),5274,2.5,396
+Married,Malignant neoplasms of colon rectum and anus (C18-C21),14141,6.7,399
+Married but Separated,Malignant neoplasms of colon rectum and anus (C18-C21),121,0.1,402
+Widowed,Malignant neoplasms of colon rectum and anus (C18-C21),9124,4.2,405
+Divorced,Malignant neoplasms of colon rectum and anus (C18-C21),5151,2.4,408
+Never Married,Malignant neoplasms of colon rectum and anus (C18-C21),3031,1.5,411
+Unknown,Malignant neoplasms of colon rectum and anus (C18-C21),232,0.1,414
+Total,Malignant neoplasms of colon rectum and anus (C18-C21),31800,14.9,417
+Married,Malignant neoplasms of liver and intrahepatic bile ducts (C22),5658,2.6,420
+Married but Separated,Malignant neoplasms of liver and intrahepatic bile ducts (C22),73,0.0,423
+Widowed,Malignant neoplasms of liver and intrahepatic bile ducts (C22),2202,1.0,426
+Divorced,Malignant neoplasms of liver and intrahepatic bile ducts (C22),2344,1.0,429
+Never Married,Malignant neoplasms of liver and intrahepatic bile ducts (C22),1321,0.6,432
+Unknown,Malignant neoplasms of liver and intrahepatic bile ducts (C22),112,0.0,435
+Total,Malignant neoplasms of liver and intrahepatic bile ducts (C22),11710,5.4,438
+Married,Malignant neoplasm of pancreas (C25),12144,5.6,441
+Married but Separated,Malignant neoplasm of pancreas (C25),69,0.0,444
+Widowed,Malignant neoplasm of pancreas (C25),5839,2.7,447
+Divorced,Malignant neoplasm of pancreas (C25),3701,1.7,450
+Never Married,Malignant neoplasm of pancreas (C25),1694,0.8,453
+Unknown,Malignant neoplasm of pancreas (C25),132,0.1,456
+Total,Malignant neoplasm of pancreas (C25),23579,10.9,459
+Married,Malignant neoplasm of larynx (C32),1058,0.5,462
+Married but Separated,Malignant neoplasm of larynx (C32),19,0.0,465
+Widowed,Malignant neoplasm of larynx (C32),444,0.2,468
+Divorced,Malignant neoplasm of larynx (C32),721,0.3,471
+Never Married,Malignant neoplasm of larynx (C32),278,0.1,474
+Unknown,Malignant neoplasm of larynx (C32),27,0.0,477
+Total,Malignant neoplasm of larynx (C32),2547,1.2,480
+Married,Malignant neoplasms of trachea bronchus and lung (C33-C34),46478,21.5,483
+Married but Separated,Malignant neoplasms of trachea bronchus and lung (C33-C34),418,0.2,486
+Widowed,Malignant neoplasms of trachea bronchus and lung (C33-C34),24690,11.7,489
+Divorced,Malignant neoplasms of trachea bronchus and lung (C33-C34),20133,9.1,492
+Never Married,Malignant neoplasms of trachea bronchus and lung (C33-C34),6770,3.2,495
+Unknown,Malignant neoplasms of trachea bronchus and lung (C33-C34),753,0.3,498
+Total,Malignant neoplasms of trachea bronchus and lung (C33-C34),99242,46.0,501
+Married,Malignant melanoma of skin (C43),3017,1.4,504
+Married but Separated,Malignant melanoma of skin (C43),20,0.0,507
+Widowed,Malignant melanoma of skin (C43),1021,0.5,510
+Divorced,Malignant melanoma of skin (C43),712,0.3,513
+Never Married,Malignant melanoma of skin (C43),483,0.3,516
+Unknown,Malignant melanoma of skin (C43),34,0.0,519
+Total,Malignant melanoma of skin (C43),5287,2.5,522
+Married,Malignant neoplasm of breast (C50),10029,4.8,525
+Married but Separated,Malignant neoplasm of breast (C50),88,0.0,528
+Widowed,Malignant neoplasm of breast (C50),7950,3.7,531
+Divorced,Malignant neoplasm of breast (C50),4203,2.0,534
+Never Married,Malignant neoplasm of breast (C50),2424,1.2,537
+Unknown,Malignant neoplasm of breast (C50),129,0.1,540
+Total,Malignant neoplasm of breast (C50),24823,11.8,543
+Married,Malignant neoplasm of cervix uteri (C53),838,0.4,546
+Married but Separated,Malignant neoplasm of cervix uteri (C53),20,0.0,549
+Widowed,Malignant neoplasm of cervix uteri (C53),438,0.2,552
+Divorced,Malignant neoplasm of cervix uteri (C53),575,0.3,555
+Never Married,Malignant neoplasm of cervix uteri (C53),411,0.2,558
+Unknown,Malignant neoplasm of cervix uteri (C53),17,0.0,561
+Total,Malignant neoplasm of cervix uteri (C53),2299,1.2,564
+Married,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),2197,1.0,567
+Married but Separated,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),21,0.0,570
+Widowed,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),1858,0.9,573
+Divorced,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),909,0.4,576
+Never Married,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),694,0.3,579
+Unknown,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),21,0.0,582
+Total,Malignant neoplasms of corpus uteri and uterus part unspecified (C54-C55),5700,2.6,585
+Married,Malignant neoplasm of ovary (C56),3505,1.6,588
+Married but Separated,Malignant neoplasm of ovary (C56),22,0.0,591
+Widowed,Malignant neoplasm of ovary (C56),2384,1.1,594
+Divorced,Malignant neoplasm of ovary (C56),1172,0.5,597
+Never Married,Malignant neoplasm of ovary (C56),770,0.4,600
+Unknown,Malignant neoplasm of ovary (C56),40,0.0,603
+Total,Malignant neoplasm of ovary (C56),7893,3.7,606
+Married,Malignant neoplasm of prostate (C61),9299,4.4,609
+Married but Separated,Malignant neoplasm of prostate (C61),38,0.0,612
+Widowed,Malignant neoplasm of prostate (C61),3869,1.8,615
+Divorced,Malignant neoplasm of prostate (C61),1998,0.9,618
+Never Married,Malignant neoplasm of prostate (C61),946,0.4,621
+Unknown,Malignant neoplasm of prostate (C61),111,0.0,624
+Total,Malignant neoplasm of prostate (C61),16261,7.5,627
+Married,Malignant neoplasms of kidney and renal pelvis (C64-C65),4370,2.0,630
+Married but Separated,Malignant neoplasms of kidney and renal pelvis (C64-C65),24,0.0,633
+Widowed,Malignant neoplasms of kidney and renal pelvis (C64-C65),1832,0.9,636
+Divorced,Malignant neoplasms of kidney and renal pelvis (C64-C65),1168,0.5,639
+Never Married,Malignant neoplasms of kidney and renal pelvis (C64-C65),647,0.3,642
+Unknown,Malignant neoplasms of kidney and renal pelvis (C64-C65),52,0.0,645
+Total,Malignant neoplasms of kidney and renal pelvis (C64-C65),8093,3.8,648
+Married,Malignant neoplasm of bladder (C67),4895,2.3,651
+Married but Separated,Malignant neoplasm of bladder (C67),23,0.0,654
+Widowed,Malignant neoplasm of bladder (C67),3042,1.4,657
+Divorced,Malignant neoplasm of bladder (C67),1352,0.6,660
+Never Married,Malignant neoplasm of bladder (C67),621,0.3,663
+Unknown,Malignant neoplasm of bladder (C67),59,0.0,666
+Total,Malignant neoplasm of bladder (C67),9992,4.6,669
+Married,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),5129,2.4,672
+Married but Separated,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),42,0.0,675
+Widowed,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),1263,0.6,678
+Divorced,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),1182,0.6,681
+Never Married,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),1047,0.6,684
+Unknown,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),45,0.0,687
+Total,Malignant neoplasms of meninges brain and other parts of central nervous system (C70-C72),8708,4.2,690
+Married,Hodgkin's disease (C81),301,0.2,693
+Married but Separated,Hodgkin's disease (C81),1,N/A,696
+Widowed,Hodgkin's disease (C81),135,0.1,699
+Divorced,Hodgkin's disease (C81),92,0.0,702
+Never Married,Hodgkin's disease (C81),91,0.1,705
+Unknown,Hodgkin's disease (C81),4,N/A,708
+Total,Hodgkin's disease (C81),624,0.3,711
+Married,Non-Hodgkin's lymphoma (C82-C85),6336,3.0,714
+Married but Separated,Non-Hodgkin's lymphoma (C82-C85),25,0.0,717
+Widowed,Non-Hodgkin's lymphoma (C82-C85),3531,1.6,720
+Divorced,Non-Hodgkin's lymphoma (C82-C85),1459,0.7,723
+Never Married,Non-Hodgkin's lymphoma (C82-C85),924,0.5,726
+Unknown,Non-Hodgkin's lymphoma (C82-C85),85,0.0,729
+Total,Non-Hodgkin's lymphoma (C82-C85),12360,5.8,732
+Married,Leukemia (C91-C95),6710,3.2,735
+Married but Separated,Leukemia (C91-C95),29,0.0,738
+Widowed,Leukemia (C91-C95),3748,1.7,741
+Divorced,Leukemia (C91-C95),1641,0.8,744
+Never Married,Leukemia (C91-C95),1184,0.6,747
+Unknown,Leukemia (C91-C95),104,0.0,750
+Total,Leukemia (C91-C95),13416,6.4,753
+Married,Multiple myeloma and immunoproliferative neoplasms (C88C90),3749,1.8,756
+Married but Separated,Multiple myeloma and immunoproliferative neoplasms (C88C90),12,0.0,759
+Widowed,Multiple myeloma and immunoproliferative neoplasms (C88C90),2004,0.9,762
+Divorced,Multiple myeloma and immunoproliferative neoplasms (C88C90),935,0.4,765
+Never Married,Multiple myeloma and immunoproliferative neoplasms (C88C90),497,0.2,768
+Unknown,Multiple myeloma and immunoproliferative neoplasms (C88C90),41,0.0,771
+Total,Multiple myeloma and immunoproliferative neoplasms (C88C90),7238,3.4,774
+Married,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),10,0.0,777
+Married but Separated,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,780
+Widowed,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),9,N/A,783
+Divorced,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),3,N/A,786
+Never Married,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),4,N/A,789
+Unknown,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),0,N/A,792
+Total,Other and unspecified malignant neoplasms of lymphoid hematopoietic and related tissue (C96),26,0.0,795
+Married,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),18085,8.5,798
+Married but Separated,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),128,0.1,801
+Widowed,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),10998,5.1,804
+Divorced,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),6350,2.9,807
+Never Married,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),3890,2.0,810
+Unknown,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),261,0.1,813
+Total,All other and unspecified malignant neoplasms (C17C23-C24C26-C31C37-C41C44-C49C51-C52C57-C60C62-C63C66C68-C69C73-C80C97),39712,18.7,816
+Married,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),4057,1.9,819
+Married but Separated,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),26,0.0,822
+Widowed,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),3386,1.6,825
+Divorced,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),1158,0.5,828
+Never Married,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),902,0.5,831
+Unknown,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),75,0.0,834
+Total,In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48),9604,4.5,837
+Married,Anemias (D50-D64),895,0.4,840
+Married but Separated,Anemias (D50-D64),6,N/A,843
+Widowed,Anemias (D50-D64),1420,0.6,846
+Divorced,Anemias (D50-D64),377,0.2,849
+Never Married,Anemias (D50-D64),437,0.2,852
+Unknown,Anemias (D50-D64),23,0.0,855
+Total,Anemias (D50-D64),3158,1.5,858
+Married,Diabetes mellitus (E10-E14),18926,8.9,861
+Married but Separated,Diabetes mellitus (E10-E14),202,0.1,864
+Widowed,Diabetes mellitus (E10-E14),16298,7.5,867
+Divorced,Diabetes mellitus (E10-E14),9367,4.4,870
+Never Married,Diabetes mellitus (E10-E14),6317,3.1,873
+Unknown,Diabetes mellitus (E10-E14),379,0.2,876
+Total,Diabetes mellitus (E10-E14),51489,24.1,879
+Married,Malnutrition (E40-E46),932,0.4,882
+Married but Separated,Malnutrition (E40-E46),2,N/A,885
+Widowed,Malnutrition (E40-E46),1940,0.9,888
+Divorced,Malnutrition (E40-E46),512,0.2,891
+Never Married,Malnutrition (E40-E46),357,0.2,894
+Unknown,Malnutrition (E40-E46),24,0.0,897
+Total,Malnutrition (E40-E46),3767,1.7,900
+Married,Other nutritional deficiencies (E50-E64),27,0.0,903
+Married but Separated,Other nutritional deficiencies (E50-E64),2,N/A,906
+Widowed,Other nutritional deficiencies (E50-E64),46,0.0,909
+Divorced,Other nutritional deficiencies (E50-E64),18,0.0,912
+Never Married,Other nutritional deficiencies (E50-E64),15,0.0,915
+Unknown,Other nutritional deficiencies (E50-E64),2,N/A,918
+Total,Other nutritional deficiencies (E50-E64),110,0.1,921
+Married,Meningitis (G00G03),104,0.1,924
+Married but Separated,Meningitis (G00G03),1,N/A,927
+Widowed,Meningitis (G00G03),35,0.0,930
+Divorced,Meningitis (G00G03),50,0.0,933
+Never Married,Meningitis (G00G03),99,0.1,936
+Unknown,Meningitis (G00G03),3,N/A,939
+Total,Meningitis (G00G03),292,0.2,942
+Married,Parkinson's disease (G20-G21),7737,3.7,945
+Married but Separated,Parkinson's disease (G20-G21),19,0.0,948
+Widowed,Parkinson's disease (G20-G21),5976,2.8,951
+Divorced,Parkinson's disease (G20-G21),1376,0.7,954
+Never Married,Parkinson's disease (G20-G21),801,0.4,957
+Unknown,Parkinson's disease (G20-G21),47,0.0,960
+Total,Parkinson's disease (G20-G21),15956,7.6,963
+Married,Alzheimer's disease (G30),17259,8.2,966
+Married but Separated,Alzheimer's disease (G30),45,0.0,969
+Widowed,Alzheimer's disease (G30),37545,16.8,972
+Divorced,Alzheimer's disease (G30),5181,2.4,975
+Never Married,Alzheimer's disease (G30),2754,1.3,978
+Unknown,Alzheimer's disease (G30),183,0.1,981
+Total,Alzheimer's disease (G30),62967,28.7,984
+Married,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),723,0.3,987
+Married but Separated,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),3,N/A,990
+Widowed,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),790,0.4,993
+Divorced,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),252,0.1,996
+Never Married,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),191,0.1,999
+Unknown,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),14,0.0,1002
+Total,Acute rheumatic fever and chronic rheumatic heart diseases (I00-I09),1973,0.9,1005
+Married,Hypertensive heart disease (I11),6301,3.0,1008
+Married but Separated,Hypertensive heart disease (I11),102,0.1,1011
+Widowed,Hypertensive heart disease (I11),9564,4.3,1014
+Divorced,Hypertensive heart disease (I11),5011,2.3,1017
+Never Married,Hypertensive heart disease (I11),3970,2.0,1020
+Unknown,Hypertensive heart disease (I11),317,0.1,1023
+Total,Hypertensive heart disease (I11),25265,11.8,1026
+Married,Hypertensive heart and renal disease (I13),866,0.4,1029
+Married but Separated,Hypertensive heart and renal disease (I13),12,0.0,1032
+Widowed,Hypertensive heart and renal disease (I13),1618,0.7,1035
+Divorced,Hypertensive heart and renal disease (I13),457,0.2,1038
+Never Married,Hypertensive heart and renal disease (I13),333,0.2,1041
+Unknown,Hypertensive heart and renal disease (I13),24,0.0,1044
+Total,Hypertensive heart and renal disease (I13),3310,1.5,1047
+Married,Acute myocardial infarction (I21-I22),26824,12.6,1050
+Married but Separated,Acute myocardial infarction (I21-I22),209,0.1,1053
+Widowed,Acute myocardial infarction (I21-I22),24810,11.3,1056
+Divorced,Acute myocardial infarction (I21-I22),11310,5.2,1059
+Never Married,Acute myocardial infarction (I21-I22),6302,3.1,1062
+Unknown,Acute myocardial infarction (I21-I22),793,0.3,1065
+Total,Acute myocardial infarction (I21-I22),70248,32.6,1068
+Married,Other acute ischemic heart diseases (I24),1016,0.5,1071
+Married but Separated,Other acute ischemic heart diseases (I24),10,0.0,1074
+Widowed,Other acute ischemic heart diseases (I24),989,0.5,1077
+Divorced,Other acute ischemic heart diseases (I24),549,0.3,1080
+Never Married,Other acute ischemic heart diseases (I24),307,0.1,1083
+Unknown,Other acute ischemic heart diseases (I24),26,0.0,1086
+Total,Other acute ischemic heart diseases (I24),2897,1.4,1089
+Married,Atherosclerotic cardiovascular disease so described (I25.0),8902,4.2,1092
+Married but Separated,Atherosclerotic cardiovascular disease so described (I25.0),142,0.1,1095
+Widowed,Atherosclerotic cardiovascular disease so described (I25.0),8798,4.0,1098
+Divorced,Atherosclerotic cardiovascular disease so described (I25.0),7330,3.4,1101
+Never Married,Atherosclerotic cardiovascular disease so described (I25.0),5254,2.5,1104
+Unknown,Atherosclerotic cardiovascular disease so described (I25.0),548,0.2,1107
+Total,Atherosclerotic cardiovascular disease so described (I25.0),30974,14.4,1110
+Married,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),43834,20.6,1113
+Married but Separated,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),282,0.1,1116
+Widowed,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),54604,24.7,1119
+Divorced,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),16856,7.8,1122
+Never Married,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),8860,4.2,1125
+Unknown,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),963,0.4,1128
+Total,All other forms of chronic ischemic heart disease (I20I25.1-I25.9),125399,57.7,1131
+Married,Acute and subacute endocarditis (I33),365,0.2,1134
+Married but Separated,Acute and subacute endocarditis (I33),10,0.0,1137
+Widowed,Acute and subacute endocarditis (I33),173,0.1,1140
+Divorced,Acute and subacute endocarditis (I33),182,0.1,1143
+Never Married,Acute and subacute endocarditis (I33),230,0.1,1146
+Unknown,Acute and subacute endocarditis (I33),12,0.0,1149
+Total,Acute and subacute endocarditis (I33),972,0.5,1152
+Married,Diseases of pericardium and acute myocarditis (I30-I31I40),196,0.1,1155
+Married but Separated,Diseases of pericardium and acute myocarditis (I30-I31I40),0,N/A,1158
+Widowed,Diseases of pericardium and acute myocarditis (I30-I31I40),110,0.1,1161
+Divorced,Diseases of pericardium and acute myocarditis (I30-I31I40),93,0.0,1164
+Never Married,Diseases of pericardium and acute myocarditis (I30-I31I40),117,0.1,1167
+Unknown,Diseases of pericardium and acute myocarditis (I30-I31I40),8,N/A,1170
+Total,Diseases of pericardium and acute myocarditis (I30-I31I40),524,0.3,1173
+Married,Heart failure (I50),11495,5.4,1176
+Married but Separated,Heart failure (I50),79,0.0,1179
+Widowed,Heart failure (I50),20829,9.3,1182
+Divorced,Heart failure (I50),4399,2.0,1185
+Never Married,Heart failure (I50),2632,1.2,1188
+Unknown,Heart failure (I50),233,0.1,1191
+Total,Heart failure (I50),39667,18.1,1194
+Married,All other forms of heart disease (I26-I28I34-I38I42-I49I51),27578,13.0,1197
+Married but Separated,All other forms of heart disease (I26-I28I34-I38I42-I49I51),252,0.1,1200
+Widowed,All other forms of heart disease (I26-I28I34-I38I42-I49I51),33558,15.1,1203
+Divorced,All other forms of heart disease (I26-I28I34-I38I42-I49I51),11606,5.4,1206
+Never Married,All other forms of heart disease (I26-I28I34-I38I42-I49I51),8948,4.6,1209
+Unknown,All other forms of heart disease (I26-I28I34-I38I42-I49I51),688,0.3,1212
+Total,All other forms of heart disease (I26-I28I34-I38I42-I49I51),82630,38.6,1215
+Married,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),4928,2.3,1218
+Married but Separated,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),42,0.0,1221
+Widowed,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),8964,4.0,1224
+Divorced,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),2742,1.3,1227
+Never Married,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),1841,0.9,1230
+Unknown,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),128,0.1,1233
+Total,Essential (primary) hypertension and hypertensive renal disease (I10I12I15),18645,8.6,1236
+Married,Cerebrovascular diseases (I60-I69),27586,13.1,1239
+Married but Separated,Cerebrovascular diseases (I60-I69),184,0.1,1242
+Widowed,Cerebrovascular diseases (I60-I69),37820,17.1,1245
+Divorced,Cerebrovascular diseases (I60-I69),11105,5.2,1248
+Never Married,Cerebrovascular diseases (I60-I69),6456,3.2,1251
+Unknown,Cerebrovascular diseases (I60-I69),735,0.3,1254
+Total,Cerebrovascular diseases (I60-I69),83886,38.9,1257
+Married,Atherosclerosis (I70),1055,0.5,1260
+Married but Separated,Atherosclerosis (I70),10,0.0,1263
+Widowed,Atherosclerosis (I70),2189,1.0,1266
+Divorced,Atherosclerosis (I70),473,0.2,1269
+Never Married,Atherosclerosis (I70),274,0.1,1272
+Unknown,Atherosclerosis (I70),32,0.0,1275
+Total,Atherosclerosis (I70),4033,1.8,1278
+Married,Aortic aneurysm and dissection (I71),2720,1.3,1281
+Married but Separated,Aortic aneurysm and dissection (I71),14,0.0,1284
+Widowed,Aortic aneurysm and dissection (I71),2137,1.0,1287
+Divorced,Aortic aneurysm and dissection (I71),1008,0.5,1290
+Never Married,Aortic aneurysm and dissection (I71),567,0.3,1293
+Unknown,Aortic aneurysm and dissection (I71),115,0.0,1296
+Total,Aortic aneurysm and dissection (I71),6561,3.1,1299
+Married,Other diseases of arteries arterioles and capillaries (I72-I78),1990,0.9,1302
+Married but Separated,Other diseases of arteries arterioles and capillaries (I72-I78),18,0.0,1305
+Widowed,Other diseases of arteries arterioles and capillaries (I72-I78),2549,1.2,1308
+Divorced,Other diseases of arteries arterioles and capillaries (I72-I78),935,0.4,1311
+Never Married,Other diseases of arteries arterioles and capillaries (I72-I78),492,0.2,1314
+Unknown,Other diseases of arteries arterioles and capillaries (I72-I78),55,0.0,1317
+Total,Other diseases of arteries arterioles and capillaries (I72-I78),6039,2.8,1320
+Married,Other disorders of circulatory system (I80-I99),903,0.4,1323
+Married but Separated,Other disorders of circulatory system (I80-I99),8,N/A,1326
+Widowed,Other disorders of circulatory system (I80-I99),677,0.3,1329
+Divorced,Other disorders of circulatory system (I80-I99),415,0.2,1332
+Never Married,Other disorders of circulatory system (I80-I99),453,0.3,1335
+Unknown,Other disorders of circulatory system (I80-I99),34,0.0,1338
+Total,Other disorders of circulatory system (I80-I99),2490,1.2,1341
+Married,Influenza (J09-J11),720,0.3,1344
+Married but Separated,Influenza (J09-J11),8,N/A,1347
+Widowed,Influenza (J09-J11),734,0.3,1350
+Divorced,Influenza (J09-J11),298,0.1,1353
+Never Married,Influenza (J09-J11),354,0.2,1356
+Unknown,Influenza (J09-J11),15,0.0,1359
+Total,Influenza (J09-J11),2129,1.0,1362
+Married,Pneumonia (J12-J18),8632,4.1,1365
+Married but Separated,Pneumonia (J12-J18),59,0.0,1368
+Widowed,Pneumonia (J12-J18),12440,5.6,1371
+Divorced,Pneumonia (J12-J18),3588,1.7,1374
+Never Married,Pneumonia (J12-J18),3202,1.6,1377
+Unknown,Pneumonia (J12-J18),270,0.1,1380
+Total,Pneumonia (J12-J18),28191,13.1,1383
+Married,Acute bronchitis and bronchiolitis (J20-J21),37,0.0,1386
+Married but Separated,Acute bronchitis and bronchiolitis (J20-J21),0,N/A,1389
+Widowed,Acute bronchitis and bronchiolitis (J20-J21),54,0.0,1392
+Divorced,Acute bronchitis and bronchiolitis (J20-J21),16,0.0,1395
+Never Married,Acute bronchitis and bronchiolitis (J20-J21),57,0.0,1398
+Unknown,Acute bronchitis and bronchiolitis (J20-J21),4,N/A,1401
+Total,Acute bronchitis and bronchiolitis (J20-J21),168,0.1,1404
+Married,Unspecified acute lower respiratory infection (J22U049U071),3662,1.7,1407
+Married but Separated,Unspecified acute lower respiratory infection (J22U049U071),30,0.0,1410
+Widowed,Unspecified acute lower respiratory infection (J22U049U071),4359,2.0,1413
+Divorced,Unspecified acute lower respiratory infection (J22U049U071),1878,0.9,1416
+Never Married,Unspecified acute lower respiratory infection (J22U049U071),1145,0.5,1419
+Unknown,Unspecified acute lower respiratory infection (J22U049U071),69,0.0,1422
+Total,Unspecified acute lower respiratory infection (J22U049U071),11143,5.2,1425
+Married,Bronchitis chronic and unspecified (J40-J42),112,0.1,1428
+Married but Separated,Bronchitis chronic and unspecified (J40-J42),0,N/A,1431
+Widowed,Bronchitis chronic and unspecified (J40-J42),191,0.1,1434
+Divorced,Bronchitis chronic and unspecified (J40-J42),67,0.0,1437
+Never Married,Bronchitis chronic and unspecified (J40-J42),88,0.0,1440
+Unknown,Bronchitis chronic and unspecified (J40-J42),3,N/A,1443
+Total,Bronchitis chronic and unspecified (J40-J42),461,0.2,1446
+Married,Emphysema (J43),2477,1.2,1449
+Married but Separated,Emphysema (J43),29,0.0,1452
+Widowed,Emphysema (J43),2411,1.1,1455
+Divorced,Emphysema (J43),1364,0.6,1458
+Never Married,Emphysema (J43),409,0.2,1461
+Unknown,Emphysema (J43),55,0.0,1464
+Total,Emphysema (J43),6745,3.1,1467
+Married,Asthma (J45-J46),513,0.3,1470
+Married but Separated,Asthma (J45-J46),6,N/A,1473
+Widowed,Asthma (J45-J46),445,0.2,1476
+Divorced,Asthma (J45-J46),317,0.2,1479
+Never Married,Asthma (J45-J46),572,0.3,1482
+Unknown,Asthma (J45-J46),10,0.0,1485
+Total,Asthma (J45-J46),1863,1.0,1488
+Married,Other chronic lower respiratory diseases (J44J47),29175,13.7,1491
+Married but Separated,Other chronic lower respiratory diseases (J44J47),246,0.1,1494
+Widowed,Other chronic lower respiratory diseases (J44J47),35077,16.3,1497
+Divorced,Other chronic lower respiratory diseases (J44J47),17655,8.1,1500
+Never Married,Other chronic lower respiratory diseases (J44J47),5656,2.6,1503
+Unknown,Other chronic lower respiratory diseases (J44J47),673,0.3,1506
+Total,Other chronic lower respiratory diseases (J44J47),88482,41.1,1509
+Married,Pneumoconioses and chemical effects (J60-J66J68),270,0.1,1512
+Married but Separated,Pneumoconioses and chemical effects (J60-J66J68),0,N/A,1515
+Widowed,Pneumoconioses and chemical effects (J60-J66J68),105,0.0,1518
+Divorced,Pneumoconioses and chemical effects (J60-J66J68),31,0.0,1521
+Never Married,Pneumoconioses and chemical effects (J60-J66J68),16,0.0,1524
+Unknown,Pneumoconioses and chemical effects (J60-J66J68),5,N/A,1527
+Total,Pneumoconioses and chemical effects (J60-J66J68),427,0.2,1530
+Married,Pneumonitis due to solids and liquids (J69),3773,1.8,1533
+Married but Separated,Pneumonitis due to solids and liquids (J69),15,0.0,1536
+Widowed,Pneumonitis due to solids and liquids (J69),5217,2.3,1539
+Divorced,Pneumonitis due to solids and liquids (J69),1367,0.6,1542
+Never Married,Pneumonitis due to solids and liquids (J69),1547,0.7,1545
+Unknown,Pneumonitis due to solids and liquids (J69),60,0.0,1548
+Total,Pneumonitis due to solids and liquids (J69),11979,5.5,1551
+Married,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),9423,4.4,1554
+Married but Separated,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),66,0.0,1557
+Widowed,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),7817,3.6,1560
+Divorced,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),3306,1.5,1563
+Never Married,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),2182,1.1,1566
+Unknown,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),224,0.1,1569
+Total,Other diseases of respiratory system (J00-J06J30-J39J67J70-J98),23018,10.8,1572
+Married,Peptic ulcer (K25-K28),651,0.3,1575
+Married but Separated,Peptic ulcer (K25-K28),5,N/A,1578
+Widowed,Peptic ulcer (K25-K28),664,0.3,1581
+Divorced,Peptic ulcer (K25-K28),346,0.2,1584
+Never Married,Peptic ulcer (K25-K28),226,0.1,1587
+Unknown,Peptic ulcer (K25-K28),20,0.0,1590
+Total,Peptic ulcer (K25-K28),1912,0.9,1593
+Married,Diseases of appendix (K35-K38),78,0.0,1596
+Married but Separated,Diseases of appendix (K35-K38),0,N/A,1599
+Widowed,Diseases of appendix (K35-K38),51,0.0,1602
+Divorced,Diseases of appendix (K35-K38),33,0.0,1605
+Never Married,Diseases of appendix (K35-K38),36,0.0,1608
+Unknown,Diseases of appendix (K35-K38),0,N/A,1611
+Total,Diseases of appendix (K35-K38),198,0.1,1614
+Married,Hernia (K40-K46),341,0.2,1617
+Married but Separated,Hernia (K40-K46),0,N/A,1620
+Widowed,Hernia (K40-K46),505,0.2,1623
+Divorced,Hernia (K40-K46),123,0.1,1626
+Never Married,Hernia (K40-K46),117,0.1,1629
+Unknown,Hernia (K40-K46),15,0.0,1632
+Total,Hernia (K40-K46),1101,0.5,1635
+Married,Alcoholic liver disease (K70),2765,1.3,1638
+Married but Separated,Alcoholic liver disease (K70),78,0.0,1641
+Widowed,Alcoholic liver disease (K70),680,0.3,1644
+Divorced,Alcoholic liver disease (K70),3301,1.6,1647
+Never Married,Alcoholic liver disease (K70),1869,1.0,1650
+Unknown,Alcoholic liver disease (K70),102,0.0,1653
+Total,Alcoholic liver disease (K70),8795,4.4,1656
+Married,Other chronic liver disease and cirrhosis (K73-K74),4536,2.1,1659
+Married but Separated,Other chronic liver disease and cirrhosis (K73-K74),63,0.0,1662
+Widowed,Other chronic liver disease and cirrhosis (K73-K74),2036,1.0,1665
+Divorced,Other chronic liver disease and cirrhosis (K73-K74),2744,1.3,1668
+Never Married,Other chronic liver disease and cirrhosis (K73-K74),1468,0.7,1671
+Unknown,Other chronic liver disease and cirrhosis (K73-K74),110,0.0,1674
+Total,Other chronic liver disease and cirrhosis (K73-K74),10957,5.2,1677
+Married,Cholelithiasis and other disorders of gallbladder (K80-K82),723,0.3,1680
+Married but Separated,Cholelithiasis and other disorders of gallbladder (K80-K82),1,N/A,1683
+Widowed,Cholelithiasis and other disorders of gallbladder (K80-K82),836,0.4,1686
+Divorced,Cholelithiasis and other disorders of gallbladder (K80-K82),233,0.1,1689
+Never Married,Cholelithiasis and other disorders of gallbladder (K80-K82),156,0.1,1692
+Unknown,Cholelithiasis and other disorders of gallbladder (K80-K82),16,0.0,1695
+Total,Cholelithiasis and other disorders of gallbladder (K80-K82),1965,0.9,1698
+Married,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),92,0.0,1701
+Married but Separated,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),1,N/A,1704
+Widowed,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),86,0.0,1707
+Divorced,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),35,0.0,1710
+Never Married,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),27,0.0,1713
+Unknown,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),0,N/A,1716
+Total,Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01N04),241,0.1,1719
+Married,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),291,0.1,1722
+Married but Separated,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),2,N/A,1725
+Widowed,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),448,0.2,1728
+Divorced,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),91,0.0,1731
+Never Married,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),93,0.0,1734
+Unknown,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),9,N/A,1737
+Total,Chronic glomerulonephritis nephritis and nephritis not specified as acute or chronicand renal sclerosis unspecified (N02-N03N05-N07N26),934,0.4,1740
+Married,Renal failure (N17-N19),9477,4.5,1743
+Married but Separated,Renal failure (N17-N19),88,0.0,1746
+Widowed,Renal failure (N17-N19),10933,5.0,1749
+Divorced,Renal failure (N17-N19),4023,1.9,1752
+Never Married,Renal failure (N17-N19),2645,1.3,1755
+Unknown,Renal failure (N17-N19),284,0.1,1758
+Total,Renal failure (N17-N19),27450,12.8,1761
+Married,Other disorders of kidney (N25N27),4,N/A,1764
+Married but Separated,Other disorders of kidney (N25N27),0,N/A,1767
+Widowed,Other disorders of kidney (N25N27),5,N/A,1770
+Divorced,Other disorders of kidney (N25N27),2,N/A,1773
+Never Married,Other disorders of kidney (N25N27),3,N/A,1776
+Unknown,Other disorders of kidney (N25N27),0,N/A,1779
+Total,Other disorders of kidney (N25N27),14,0.0,1782
+Married,Infections of kidney (N10-N12N13.6N15.1),112,0.1,1785
+Married but Separated,Infections of kidney (N10-N12N13.6N15.1),3,N/A,1788
+Widowed,Infections of kidney (N10-N12N13.6N15.1),116,0.1,1791
+Divorced,Infections of kidney (N10-N12N13.6N15.1),69,0.0,1794
+Never Married,Infections of kidney (N10-N12N13.6N15.1),71,0.0,1797
+Unknown,Infections of kidney (N10-N12N13.6N15.1),2,N/A,1800
+Total,Infections of kidney (N10-N12N13.6N15.1),373,0.2,1803
+Married,Hyperplasia of prostate (N40),137,0.1,1806
+Married but Separated,Hyperplasia of prostate (N40),1,N/A,1809
+Widowed,Hyperplasia of prostate (N40),122,0.1,1812
+Divorced,Hyperplasia of prostate (N40),44,0.0,1815
+Never Married,Hyperplasia of prostate (N40),30,0.0,1818
+Unknown,Hyperplasia of prostate (N40),4,N/A,1821
+Total,Hyperplasia of prostate (N40),338,0.2,1824
+Married,Inflammatory diseases of female pelvic organs (N70-N76),17,0.0,1827
+Married but Separated,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,1830
+Widowed,Inflammatory diseases of female pelvic organs (N70-N76),36,0.0,1833
+Divorced,Inflammatory diseases of female pelvic organs (N70-N76),10,0.0,1836
+Never Married,Inflammatory diseases of female pelvic organs (N70-N76),8,N/A,1839
+Unknown,Inflammatory diseases of female pelvic organs (N70-N76),0,N/A,1842
+Total,Inflammatory diseases of female pelvic organs (N70-N76),71,0.0,1845
+Married,Pregnancy with abortive outcome (O00-O07),1,N/A,1848
+Married but Separated,Pregnancy with abortive outcome (O00-O07),0,N/A,1851
+Widowed,Pregnancy with abortive outcome (O00-O07),0,N/A,1854
+Divorced,Pregnancy with abortive outcome (O00-O07),1,N/A,1857
+Never Married,Pregnancy with abortive outcome (O00-O07),5,N/A,1860
+Unknown,Pregnancy with abortive outcome (O00-O07),0,N/A,1863
+Total,Pregnancy with abortive outcome (O00-O07),7,N/A,1866
+Married,Other complications of pregnancy childbirth and the puerperium (O10-O99),194,0.1,1869
+Married but Separated,Other complications of pregnancy childbirth and the puerperium (O10-O99),4,N/A,1872
+Widowed,Other complications of pregnancy childbirth and the puerperium (O10-O99),7,N/A,1875
+Divorced,Other complications of pregnancy childbirth and the puerperium (O10-O99),49,0.0,1878
+Never Married,Other complications of pregnancy childbirth and the puerperium (O10-O99),218,0.1,1881
+Unknown,Other complications of pregnancy childbirth and the puerperium (O10-O99),4,N/A,1884
+Total,Other complications of pregnancy childbirth and the puerperium (O10-O99),476,0.3,1887
+Married,Certain conditions originating in the perinatal period (P00-P96),0,N/A,1890
+Married but Separated,Certain conditions originating in the perinatal period (P00-P96),0,N/A,1893
+Widowed,Certain conditions originating in the perinatal period (P00-P96),1,N/A,1896
+Divorced,Certain conditions originating in the perinatal period (P00-P96),0,N/A,1899
+Never Married,Certain conditions originating in the perinatal period (P00-P96),7247,4.8,1902
+Unknown,Certain conditions originating in the perinatal period (P00-P96),53,0.0,1905
+Total,Certain conditions originating in the perinatal period (P00-P96),7301,4.9,1908
+Married,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),552,0.3,1911
+Married but Separated,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),12,0.0,1914
+Widowed,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),265,0.1,1917
+Divorced,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),234,0.1,1920
+Never Married,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),4615,2.9,1923
+Unknown,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),46,0.0,1926
+Total,Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),5724,3.4,1929
+Married,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),8820,4.2,1932
+Married but Separated,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),116,0.1,1935
+Widowed,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),12883,5.8,1938
+Divorced,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),5142,2.4,1941
+Never Married,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),6697,3.8,1944
+Unknown,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),956,0.5,1947
+Total,Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (R00-R99),34614,16.7,1950
+Married,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),59631,28.1,1953
+Married but Separated,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),518,0.3,1956
+Widowed,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),84617,38.1,1959
+Divorced,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),26888,12.6,1962
+Never Married,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),22189,11.4,1965
+Unknown,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),1414,0.6,1968
+Total,All other diseases (Residual) (D65-E07E15-E34E65-F99G04-G12G23-G25G31-H93K00-K22K29-K31K50-K66K71-K72K75-K76K83-M99N13.0-N13.5N13.7-N13.9N14N15.0N15.8-N15.9N20-N23N28-N39N41-N64N80-N98),195257,91.1,1971
+Married,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),5327,2.9,1974
+Married but Separated,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),107,0.1,1977
+Widowed,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1407,0.7,1980
+Divorced,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),2898,1.6,1983
+Never Married,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),7092,4.3,1986
+Unknown,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),419,0.2,1989
+Total,Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),17250,9.7,1992
+Married,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),110,0.1,1995
+Married but Separated,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),3,N/A,1998
+Widowed,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),18,0.0,2001
+Divorced,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),67,0.0,2004
+Never Married,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),193,0.1,2007
+Unknown,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),14,0.0,2010
+Total,Other land transport accidents (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9),405,0.2,2013
+Married,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),207,0.1,2016
+Married but Separated,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),4,N/A,2019
+Widowed,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),36,0.0,2022
+Divorced,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),140,0.1,2025
+Never Married,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),256,0.2,2028
+Unknown,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),25,0.0,2031
+Total,Water air and space and other and unspecified transport accidents and their sequelae (V90-V99Y85),668,0.4,2034
+Married,Falls (W00-W19),6557,3.1,2037
+Married but Separated,Falls (W00-W19),38,0.0,2040
+Widowed,Falls (W00-W19),7826,3.5,2043
+Divorced,Falls (W00-W19),2286,1.1,2046
+Never Married,Falls (W00-W19),1455,0.7,2049
+Unknown,Falls (W00-W19),198,0.1,2052
+Total,Falls (W00-W19),18360,8.6,2055
+Married,Accidental discharge of firearms (W32-W34),68,0.0,2058
+Married but Separated,Accidental discharge of firearms (W32-W34),0,N/A,2061
+Widowed,Accidental discharge of firearms (W32-W34),5,N/A,2064
+Divorced,Accidental discharge of firearms (W32-W34),17,0.0,2067
+Never Married,Accidental discharge of firearms (W32-W34),107,0.1,2070
+Unknown,Accidental discharge of firearms (W32-W34),7,N/A,2073
+Total,Accidental discharge of firearms (W32-W34),204,0.1,2076
+Married,Accidental drowning and submersion (W65-W74),325,0.2,2079
+Married but Separated,Accidental drowning and submersion (W65-W74),8,N/A,2082
+Widowed,Accidental drowning and submersion (W65-W74),71,0.0,2085
+Divorced,Accidental drowning and submersion (W65-W74),196,0.1,2088
+Never Married,Accidental drowning and submersion (W65-W74),772,0.5,2091
+Unknown,Accidental drowning and submersion (W65-W74),44,0.0,2094
+Total,Accidental drowning and submersion (W65-W74),1416,0.8,2097
+Married,Accidental exposure to smoke fire and flames (X00-X09),351,0.2,2100
+Married but Separated,Accidental exposure to smoke fire and flames (X00-X09),10,0.0,2103
+Widowed,Accidental exposure to smoke fire and flames (X00-X09),288,0.1,2106
+Divorced,Accidental exposure to smoke fire and flames (X00-X09),375,0.2,2109
+Never Married,Accidental exposure to smoke fire and flames (X00-X09),573,0.3,2112
+Unknown,Accidental exposure to smoke fire and flames (X00-X09),17,0.0,2115
+Total,Accidental exposure to smoke fire and flames (X00-X09),1614,0.8,2118
+Married,Accidental poisoning and exposure to noxious substances (X40-X49),7690,4.6,2121
+Married but Separated,Accidental poisoning and exposure to noxious substances (X40-X49),536,0.3,2124
+Widowed,Accidental poisoning and exposure to noxious substances (X40-X49),1461,0.7,2127
+Divorced,Accidental poisoning and exposure to noxious substances (X40-X49),10333,5.9,2130
+Never Married,Accidental poisoning and exposure to noxious substances (X40-X49),18986,11.8,2133
+Unknown,Accidental poisoning and exposure to noxious substances (X40-X49),551,0.3,2136
+Total,Accidental poisoning and exposure to noxious substances (X40-X49),39557,23.6,2139
+Married,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),3157,1.5,2142
+Married but Separated,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),34,0.0,2145
+Widowed,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),3065,1.4,2148
+Divorced,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),1463,0.7,2151
+Never Married,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),2692,1.6,2154
+Unknown,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),119,0.1,2157
+Total,Other and unspecified nontransport accidents and their sequelae (W20-W31W35-W64W75-W99X10-X39X50-X59Y86),10530,5.3,2160
+Married,Intentional self-harm (suicide) by discharge of firearms (X72-X74),4248,2.2,2163
+Married but Separated,Intentional self-harm (suicide) by discharge of firearms (X72-X74),76,0.0,2166
+Widowed,Intentional self-harm (suicide) by discharge of firearms (X72-X74),920,0.4,2169
+Divorced,Intentional self-harm (suicide) by discharge of firearms (X72-X74),2350,1.2,2172
+Never Married,Intentional self-harm (suicide) by discharge of firearms (X72-X74),3602,2.2,2175
+Unknown,Intentional self-harm (suicide) by discharge of firearms (X72-X74),97,0.0,2178
+Total,Intentional self-harm (suicide) by discharge of firearms (X72-X74),11293,6.2,2181
+Married,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),3063,1.7,2184
+Married but Separated,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),110,0.1,2187
+Widowed,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),472,0.2,2190
+Divorced,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),2346,1.3,2193
+Never Married,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),4329,2.6,2196
+Unknown,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),124,0.1,2199
+Total,Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03X60-X71X75-X84Y87.0),10444,6.0,2202
+Married,Assault (homicide) by discharge of firearms (*U01.4X93-X95),948,0.6,2205
+Married but Separated,Assault (homicide) by discharge of firearms (*U01.4X93-X95),58,0.0,2208
+Widowed,Assault (homicide) by discharge of firearms (*U01.4X93-X95),93,0.0,2211
+Divorced,Assault (homicide) by discharge of firearms (*U01.4X93-X95),567,0.3,2214
+Never Married,Assault (homicide) by discharge of firearms (*U01.4X93-X95),5182,3.2,2217
+Unknown,Assault (homicide) by discharge of firearms (*U01.4X93-X95),54,0.0,2220
+Total,Assault (homicide) by discharge of firearms (*U01.4X93-X95),6902,4.2,2223
+Married,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),393,0.2,2226
+Married but Separated,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),16,0.0,2229
+Widowed,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),144,0.1,2232
+Divorced,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),496,0.3,2235
+Never Married,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),1502,0.9,2238
+Unknown,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),35,0.0,2241
+Total,Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3*U01.5-*U01.9*U02X85-X92X96-Y09Y87.1),2586,1.5,2244
+Married,Legal intervention (Y35Y89.0),29,0.0,2247
+Married but Separated,Legal intervention (Y35Y89.0),0,N/A,2250
+Widowed,Legal intervention (Y35Y89.0),4,N/A,2253
+Divorced,Legal intervention (Y35Y89.0),42,0.0,2256
+Never Married,Legal intervention (Y35Y89.0),144,0.1,2259
+Unknown,Legal intervention (Y35Y89.0),4,N/A,2262
+Total,Legal intervention (Y35Y89.0),223,0.1,2265
+Married,Discharge of firearms undetermined intent (Y22-Y24),53,0.0,2268
+Married but Separated,Discharge of firearms undetermined intent (Y22-Y24),2,N/A,2271
+Widowed,Discharge of firearms undetermined intent (Y22-Y24),4,N/A,2274
+Divorced,Discharge of firearms undetermined intent (Y22-Y24),20,0.0,2277
+Never Married,Discharge of firearms undetermined intent (Y22-Y24),84,0.1,2280
+Unknown,Discharge of firearms undetermined intent (Y22-Y24),2,N/A,2283
+Total,Discharge of firearms undetermined intent (Y22-Y24),165,0.1,2286
+Married,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),346,0.2,2289
+Married but Separated,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),17,0.0,2292
+Widowed,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),118,0.1,2295
+Divorced,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),359,0.2,2298
+Never Married,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),642,0.4,2301
+Unknown,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),38,0.0,2304
+Total,Other and unspecified events of undetermined intent and their sequelae (Y10-Y21Y25-Y34Y87.2Y89.9),1520,0.9,2307
+Married,Operations of war and their sequelae (Y36Y89.1),0,N/A,2310
+Married but Separated,Operations of war and their sequelae (Y36Y89.1),0,N/A,2313
+Widowed,Operations of war and their sequelae (Y36Y89.1),2,N/A,2316
+Divorced,Operations of war and their sequelae (Y36Y89.1),0,N/A,2319
+Never Married,Operations of war and their sequelae (Y36Y89.1),2,N/A,2322
+Unknown,Operations of war and their sequelae (Y36Y89.1),1,N/A,2325
+Total,Operations of war and their sequelae (Y36Y89.1),5,N/A,2328
+Married,Complications of medical and surgical care (Y40-Y84Y88),900,0.4,2331
+Married but Separated,Complications of medical and surgical care (Y40-Y84Y88),7,N/A,2334
+Widowed,Complications of medical and surgical care (Y40-Y84Y88),500,0.2,2337
+Divorced,Complications of medical and surgical care (Y40-Y84Y88),317,0.2,2340
+Never Married,Complications of medical and surgical care (Y40-Y84Y88),290,0.2,2343
+Unknown,Complications of medical and surgical care (Y40-Y84Y88),29,0.0,2346
+Total,Complications of medical and surgical care (Y40-Y84Y88),2043,1.0,2349
+Married,Total,579805,274.9,2352
+Married but Separated,Total,5504,2.8,2355
+Widowed,Total,579477,264.0,2358
+Divorced,Total,256477,120.8,2361
+Never Married,Total,205725,109.6,2364
+Unknown,Total,14548,6.2,2367
+Total,Total,1641536,778.4,2370
